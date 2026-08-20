@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "中国绿电与算力项目情报 · 2026.08.07—08.14",
-  description: "集中式新能源、绿电直连、零碳园区、算电协同与 AIDC 政策市场周报。",
+  title: "光储智·晶汇｜JA Green × News",
+  description: "追踪国内外新能源、绿电直连、零碳园区、AIDC 政策及市场信息，掌握同行最新动态。",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
