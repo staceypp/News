@@ -4,15 +4,18 @@ import { FileBlob, SpreadsheetFile } from "@oai/artifact-tool";
 const source = "/Volumes/ORICO/100 - Work - 工作/111 - GTD - 项目及日常工作/111.1.3 - HMonth - 周报半月看/周报/2026 Market View.xlsx";
 const workbook = await SpreadsheetFile.importXlsx(await FileBlob.load(source));
 
-const asia = new Set(["日本","韩国","泰国","越南","印尼","印度尼西亚","马来西亚","菲律宾","新加坡","孟加拉国","土耳其","香港","柬埔寨","老挝","缅甸","印度","巴基斯坦","哈萨克斯坦","乌兹别克斯坦","阿联酋","沙特","沙特阿拉伯"]);
+const china = new Set(["中国","香港","台湾","新疆"]);
+const asia = new Set(["日本","韩国","泰国","越南","印尼","印度尼西亚","马来西亚","菲律宾","新加坡","孟加拉国","孟加拉","土耳其","柬埔寨","老挝","缅甸","印度","巴基斯坦","哈萨克斯坦","乌兹别克斯坦","阿联酋","阿布扎比","沙特","沙特阿拉伯","阿曼","约旦","东南亚"]);
 const europe = new Set(["意大利","德国","英国","西班牙","法国","荷兰","波兰","葡萄牙","希腊","瑞典","挪威","丹麦","芬兰","比利时","奥地利","瑞士","欧洲"]);
-const africa = new Set(["非洲","南非","肯尼亚","坦桑尼亚","埃及","塞拉利昂","马达加斯加","尼日利亚","摩洛哥","纳米比亚","刚果（金）","阿尔及利亚"]);
+const africa = new Set(["非洲","南非","肯尼亚","坦桑尼亚","埃及","塞拉利昂","马达加斯加","尼日利亚","摩洛哥","纳米比亚","刚果（金）","阿尔及利亚","乌干达","塞内加尔","赞比亚","埃塞俄比亚","厄立特里亚"]);
 const americas = new Set(["美国","加拿大","巴西","墨西哥","智利","秘鲁","阿根廷","哥伦比亚"]);
 const oceania = new Set(["澳大利亚","新西兰"]);
-function geo(country="") { const c=String(country).trim(); if(c==="中国"||c==="香港") return c==="中国"?"中国":"亚洲"; if(asia.has(c))return"亚洲";if(europe.has(c))return"欧洲";if(africa.has(c))return"非洲";if(americas.has(c))return"美洲";if(oceania.has(c))return"大洋洲";return"全球"; }
+function geo(country="") { const c=String(country).trim(); if(china.has(c))return"中国"; if(asia.has(c))return"亚洲";if(europe.has(c))return"欧洲";if(africa.has(c))return"非洲";if(americas.has(c))return"美洲";if(oceania.has(c))return"大洋洲";return"全球"; }
 function isoDate(v){if(!v)return"";if(typeof v==="number"){const d=new Date(Date.UTC(1899,11,30)+v*86400000);return d.toISOString().slice(0,10)}const s=String(v).trim().replace(/[./]/g,"-");const m=s.match(/^(20\d{2})-(\d{1,2})-(\d{1,2})/);return m?`${m[1]}-${m[2].padStart(2,"0")}-${m[3].padStart(2,"0")}`:""}
 function clean(v,max=700){return String(v??"").replace(/\s+/g," ").trim().slice(0,max)}
-function oneSentence(v,fallback){const s=clean(v||fallback,500);const first=(s.match(/^.*?[。！？.!?](?:\s|$)/)||[])[0]||s;return first.trim().replace(/[。！？.!?]+$/,'').slice(0,110)}
+// CJK sentence enders (。！？) don't need trailing whitespace like Latin ones do; matching
+// only Latin `.!?` followed by space/EOL avoids splitting on decimals such as "1.17亿千瓦".
+function oneSentence(v,fallback){const s=clean(v||fallback,600);const m=s.match(/^[\s\S]*?(?:[。！？]|[.!?](?=\s|$))/);const first=m?m[0]:s.slice(0,140);return first.trim().replace(/[。！？.!?]+$/,'')}
 function firstUrl(v){const m=String(v??"").match(/https?:\/\/[^\s]+/);return m?m[0].replace(/[),，。]+$/g,""):""}
 const records=[];
 function add(r){if(!r.title||!r.date||!r.sourceUrl)return;records.push({...r,id:`${r.sourceSheet}|${r.date}|${r.country}|${r.title}`})}
