@@ -5,6 +5,14 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>JA Green × News</title>
   <meta name="description" content="追踪国内外新能源、绿电直连、零碳园区、AIDC 政策及市场信息，掌握同行最新动态。" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="icon-192.png" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <meta name="theme-color" content="#003364" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="晶汇光储智" />
   <style>
     :root{--ink:#003364;--muted:#687884;--paper:#f4f7f8;--panel:#ffffff;--line:#cad9df;--green:#005dac;--mint:#1e7fbb;--orange:#0b9fc4;--navy:#003364;--mountain:#3da8ab;--aurora:linear-gradient(110deg,#003364 0%,#005dac 38%,#1e7fbb 68%,#3da8ab 100%)}
     *{box-sizing:border-box} body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,"PingFang SC","Microsoft YaHei",sans-serif;border-top:5px solid #003364;border-image:var(--aurora) 1} a{color:inherit}
@@ -87,6 +95,7 @@
     geoButtons.forEach(b=>b.addEventListener('click',()=>{geoButtons.forEach(x=>x.classList.remove('active'));b.classList.add('active');activeGeo=b.dataset.geo;renderCountries();renderCalendar();update()}));
     prevMonth.addEventListener('click',()=>{calendarCursor=new Date(calendarCursor.getFullYear(),calendarCursor.getMonth()-1,1);renderCalendar()});nextMonth.addEventListener('click',()=>{calendarCursor=new Date(calendarCursor.getFullYear(),calendarCursor.getMonth()+1,1);renderCalendar()});
     renderCountries();renderCalendar();update();
+    if('serviceWorker' in navigator){window.addEventListener('load',()=>{navigator.serviceWorker.register('sw.js').catch(()=>{})})}
   </script>
 </body>
 </html>

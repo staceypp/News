@@ -1,5 +1,12 @@
 # 版本记录
 
+## 0.2.0 — 2026-08-21
+
+- 页面支持“添加到主屏幕”，可作为 PWA 安装：新增 manifest.json（应用名、图标、standalone 显示模式、主题色）。
+- 新增按品牌极光渐变绘制的应用图标（icon-192.png / icon-512.png / apple-touch-icon.png），替换掉与本项目无关的脚手架默认图标。
+- 新增 sw.js（Service Worker），缓存页面外壳与数据文件，支持离线打开；网络优先，联网时自动更新缓存。
+- report.html 头部新增 manifest 链接、theme-color、苹果 web-app 相关 meta 标签。
+
 ## 0.1.9 — 2026-08-21
 
 - 新增 GitHub Actions 工作流（.github/workflows/pages.yml），推送到 main 分支时自动将 public/ 目录部署到 GitHub Pages。
