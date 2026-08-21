@@ -22,7 +22,11 @@ function add(r){if(!r.title||!r.date||!r.sourceUrl)return;records.push({...r,id:
 
 for(const [sheetName,category] of [["同行动态Competitor","同行动态"],["市场信息Information","市场信息"]]){
   const rows=workbook.worksheets.getItem(sheetName).getUsedRange().values.slice(2);
-  for(const row of rows)add({date:isoDate(row[1]),country:clean(row[3],60)||"全球",geo:geo(row[3]),category,eventType:clean(row[4],40)||category,company:clean(row[2],80),title:oneSentence(row[6],row[5]),summary:clean(row[5]||row[6]),sourceUrl:firstUrl(row[7]),sourceSheet:category});
+  // 核心及观点 (row[6]) is always a hand-written Chinese synopsis; 主要内容 (row[5]) is the raw
+  // pasted source article and for overseas stories is frequently English-only. Prefer row[6] for
+  // the summary too (not just the title) so every card reads in Chinese; fall back to row[5] only
+  // when row[6] is empty.
+  for(const row of rows)add({date:isoDate(row[1]),country:clean(row[3],60)||"全球",geo:geo(row[3]),category,eventType:clean(row[4],40)||category,company:clean(row[2],80),title:oneSentence(row[6],row[5]),summary:clean(row[6]||row[5],600),sourceUrl:firstUrl(row[7]),sourceSheet:category});
 }
 
 const unique=[...new Map(records.map(r=>[r.id,r])).values()].sort((a,b)=>(b.date||"").localeCompare(a.date||""));
