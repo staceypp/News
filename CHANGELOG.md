@@ -1,5 +1,10 @@
 # 版本记录
 
+## 0.1.9 — 2026-08-21
+
+- 新增 GitHub Actions 工作流（.github/workflows/pages.yml），推送到 main 分支时自动将 public/ 目录部署到 GitHub Pages。
+- 新增 public/index.html，访问站点根网址自动跳转到 report.html。
+
 ## 0.1.8 — 2026-08-21
 
 - 页面大标题及网站标题由“光储智·晶汇”调整为“晶汇·光储智”。
