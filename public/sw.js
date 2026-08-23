@@ -1,4 +1,4 @@
-const CACHE = "jh-gcz-v1";
+const CACHE = "jh-gcz-v2";
 const SHELL = [
   "./report.html",
   "./manifest.json",
