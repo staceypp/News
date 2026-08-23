@@ -26,7 +26,23 @@ function isoDate(v){if(!v)return"";if(typeof v==="number"){const d=new Date(Date
 function clean(v,max=700){return String(v??"").replace(/\s+/g," ").trim().slice(0,max)}
 // CJK sentence enders (。！？) don't need trailing whitespace like Latin ones do; matching
 // only Latin `.!?` followed by space/EOL avoids splitting on decimals such as "1.17亿千瓦".
-function oneSentence(v,fallback){const s=clean(v||fallback,600);const m=s.match(/^[\s\S]*?(?:[。！？]|[.!?](?=\s|$))/);const first=m?m[0]:s.slice(0,140);return first.trim().replace(/[。！？.!?]+$/,'')}
+// A grammatical "first sentence" isn't automatically a good headline: some source rows write
+// their 核心及观点 as one long run-on clause (e.g. an exhaustive regulatory exemption list) that
+// can run 100+ characters before hitting a period. When that happens, shorten further to the
+// last clause break (，、；) at or before TARGET chars, so the title reads as a real one-line
+// headline rather than a transcribed enumeration. Never cut mid-clause with no break to land on.
+function oneSentence(v,fallback){
+  const s=clean(v||fallback,600);
+  const m=s.match(/^[\s\S]*?(?:[。！？]|[.!?](?=\s|$))/);
+  let sentence=(m?m[0]:s.slice(0,140)).trim().replace(/[。！？.!?]+$/,'');
+  const TARGET=60,MIN=12;
+  if(sentence.length>TARGET){
+    const breaks=[...sentence.matchAll(/[，、；,;]/g)].map(x=>x.index);
+    const cut=breaks.filter(i=>i>=MIN&&i<=TARGET).pop();
+    if(cut!==undefined)sentence=sentence.slice(0,cut);
+  }
+  return sentence;
+}
 function firstUrl(v){const m=String(v??"").match(/https?:\/\/[^\s]+/);return m?m[0].replace(/[),，。]+$/g,""):""}
 const records=[];
 function add(r){if(!r.title||!r.date||!r.sourceUrl)return;records.push({...r,id:`${r.sourceSheet}|${r.date}|${r.country}|${r.title}`})}
