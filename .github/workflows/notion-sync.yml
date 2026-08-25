@@ -1,0 +1,93 @@
+name: Sync approved Notion news
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0,10,17 * * *"
+      timezone: "Asia/Shanghai"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  sync-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Read approved Notion rows
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION }}
+          NOTION_SYNC_REPORT: ${{ runner.temp }}/notion-sync-report.json
+        run: npm run news:sync-notion
+
+      - name: Validate and build site data
+        run: |
+          npm run news:validate
+          npm run news:build
+          npm run news:verify-generated
+          npm test
+
+      - name: Summarize sync
+        env:
+          REPORT: ${{ runner.temp }}/notion-sync-report.json
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from "node:fs";
+          const report = JSON.parse(fs.readFileSync(process.env.REPORT, "utf8"));
+          const lines = [
+            "## Notion → Website 同步结果",
+            "",
+            `- 国内批准：${report.approved.china ?? 0} 条`,
+            `- 海外批准：${report.approved.global ?? 0} 条`,
+            `- 新增：${report.added} 条`,
+            `- 更新：${report.updated} 条`,
+            `- 跳过：${report.skipped.length} 条`,
+            `- 网站主数据：${report.total} 条`,
+          ];
+          if (report.skipped.length) {
+            lines.push("", "### 跳过明细");
+            for (const item of report.skipped) lines.push(`- ${item.source} · ${item.pageId}: ${item.reason}`);
+          }
+          fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, `${lines.join("\n")}\n`);
+          NODE
+
+      - name: Commit synchronized data
+        id: commit
+        run: |
+          if git diff --quiet -- data/news.json public/daily-news-data.js; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json public/daily-news-data.js
+          stamp="$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M')"
+          git commit -m "chore(news): sync approved Notion records ${stamp}"
+          tag="intel-$(TZ=Asia/Shanghai date '+%Y-%m-%d-%H%M')"
+          git tag "$tag"
+          git push origin HEAD:main --follow-tags
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v4

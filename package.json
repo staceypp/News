@@ -9,11 +9,12 @@
     "dev": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext dev",
     "build": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext build",
     "start": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext start",
-    "test": "node --test tests/rendered-html.test.mjs",
+    "test": "node --test tests/*.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate",
     "news:validate": "node scripts/validate-news.mjs data/news.json",
     "news:build": "node scripts/build-news.mjs data/news.json public/daily-news-data.js",
+    "news:sync-notion": "node scripts/sync-notion.mjs",
     "news:check": "npm run news:validate && npm run news:build",
     "news:verify-generated": "npm run news:check && git diff --exit-code -- public/daily-news-data.js"
   },

@@ -94,6 +94,17 @@ actions tied to the current ChatGPT user. Leave public content anonymous.
 - `npm test`: build the starter and verify its rendered loading skeleton
 - `npm run db:generate`: generate Drizzle migrations after schema changes
 
+## Notion → GitHub Pages daily sync
+
+Approved rows in the domestic and overseas Notion databases are synchronized by
+`.github/workflows/notion-sync.yml` at 00:00, 10:00, and 17:00 Beijing time.
+The workflow reads the repository secret named `NOTION`, validates the canonical
+news data, rebuilds the browser data, commits changed data, and deploys `public/`.
+
+Only rows whose review value is `批准发布` are eligible. Required publication
+fields are title, date, summary, country/region, at least one business tag, and
+an HTTPS source URL. Skipped rows are listed in the GitHub Actions run summary.
+
 ## Learn More
 
 - [vinext Documentation](https://github.com/cloudflare/vinext)
