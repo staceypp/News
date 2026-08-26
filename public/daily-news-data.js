@@ -1,5 +1,27 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-08-24",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "股权出售",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 家庭储能 VPP",
+    "company": "Shell / sonnen / TIVEN",
+    "title": "壳牌将德国家庭储能与VPP企业sonnen出售给TIVEN",
+    "summary": "壳牌（Shell）宣布完成将德国住宅储能与虚拟电厂服务商sonnen集团出售给国际资产管理机构TIVEN（由AURELIUS联合创始人Gert Purkert设立的家族办公室），交易由AURELIUS WaterRise提供运营顾问服务，具体金额未披露。壳牌自2019年起累计投入近10亿欧元收购并增资sonnen，市场消息称此次出售将带来数亿欧元亏损。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/shell-offloads-residential-battery-storage-vpp-provider-sonnen/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|壳牌-sonnen-TIVEN|sonnen出售|家庭储能VPP|股权出售",
+    "id": "daily|2026-08-24|德国|壳牌出售sonnen给TIVEN",
+    "collectedAt": "2026-08-26T00:45:55Z"
+  },
+  {
     "date": "2026-08-22",
     "country": "中国",
     "geo": "中国",
@@ -43,6 +65,28 @@ window.DAILY_NEWS_DATA=[
     "sourceSheet": "每日更新",
     "fingerprint": "中国|国家能源局|全国用电量|61399亿千瓦时|市场数据",
     "id": "daily|2026-08-21|中国|国家能源局前7月用电数据"
+  },
+  {
+    "date": "2026-08-21",
+    "country": "挪威",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "破产资产收购",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 LFP电池 破产重整",
+    "company": "Lyten / Morrow Batteries",
+    "title": "美国Lyten与挪威Morrow Batteries破产管理人达成收购协议",
+    "summary": "Morrow Batteries ASA及其两家子公司的破产管理人于8月21日与美国电池企业Lyten、挪威国家机构Innovation Norway达成协议，Lyten将以持续经营方式收购Morrow位于阿伦达尔（Arendal）的LFP电池超级工厂等核心资产。Morrow于5月申请破产，此举意在保住该公司长期就业岗位，也是Lyten继收购北欧电池厂商Northvolt资产后在欧洲的又一动作。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/us-firm-lyten-sets-sights-on-norways-morrow-batteries-following-northvolt-acquisition/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "挪威|Lyten-MorrowBatteries|阿伦达尔LFP工厂|破产资产收购|8月21日",
+    "id": "daily|2026-08-21|挪威|Lyten收购MorrowBatteries",
+    "collectedAt": "2026-08-26T00:45:55Z"
   },
   {
     "date": "2026-08-21",
@@ -255,6 +299,121 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "美国|PowerBank Corporation|Gainesville-Highway 28|13.9MW-3250万美元|收购",
     "id": "daily|2026-08-18|美国|PowerBank纽约光伏回购",
     "collectedAt": "2026-08-24T22:42:45Z"
+  },
+  {
+    "date": "2026-08-17",
+    "country": "埃及",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "投资建厂",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 苏伊士经济区 海外制造",
+    "company": "阳光电源",
+    "title": "阳光电源埃及苏伊士储能工厂奠基，规划年产能10GWh",
+    "summary": "当地时间8月17日，阳光电源在埃及苏伊士运河经济区泰达产业园的储能系统组装制造项目正式奠基，为中东和非洲地区首个专业储能系统制造工厂。项目总投资约5000万美元（约合人民币3.37亿元），规划占地约5万平方米，预计2027年4月投产，建成后年产能最高达10GWh。",
+    "sourceName": "北极星电力新闻网",
+    "sourceUrl": "https://m.bjx.com.cn/mnews/20260818/1508891.shtml",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "埃及|阳光电源|苏伊士储能工厂奠基|10GWh-5000万美元|投资建厂",
+    "id": "daily|2026-08-17|埃及|阳光电源苏伊士储能工厂奠基",
+    "collectedAt": "2026-08-26T00:45:55Z"
+  },
+  {
+    "date": "2026-08-17",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "战略合作",
+    "businessTags": [
+      "储能",
+      "算电协同",
+      "AIDC"
+    ],
+    "tags": "储能 算电协同 AIDC 分布式资源聚合 虚拟电厂",
+    "company": "Sunrun / Voltus",
+    "title": "Sunrun与Voltus合作，为AI超大规模数据中心提供储能容量",
+    "summary": "美国住宅光储企业Sunrun宣布与分布式能源资源平台Voltus达成协议，支持其面向AI超大规模数据中心的\"自带容量\"（Bring Your Own Capacity）项目。Sunrun将从其PJM、MISO电网区域内数千套住宅光伏+储能系统中调配部分容量，通过聚合家庭电池等分布式资源，为数据中心并网提供灵活可靠的电力支持，缓解电网扩容压力。",
+    "sourceName": "GlobeNewswire（Sunrun官方新闻稿）",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/08/17/3346026/0/en/sunrun-to-supply-voltus-with-energy-capacity-for-ai-hyperscaler-agreements.html",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Sunrun-Voltus|BYOC AI超大规模数据中心|住宅光储聚合|战略合作",
+    "id": "daily|2026-08-17|美国|Sunrun-Voltus AI数据中心容量合作",
+    "collectedAt": "2026-08-26T00:45:55Z"
+  },
+  {
+    "date": "2026-08-13",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "战略合作",
+    "businessTags": [
+      "算电协同",
+      "AIDC",
+      "分布式"
+    ],
+    "tags": "算电协同 AIDC 分布式 联营体 token工厂",
+    "company": "天合光能/天合富家、道客网络",
+    "title": "天合富家与道客网络签署战略合作协议，共建算电协同平台",
+    "summary": "天合光能子公司天合富家能源与云原生及AI操作系统企业道客网络（DaoCloud）签署战略合作协议，双方计划成立合资公司，共同打造算力-电力协同平台及区域级\"token工厂\"，探索绿电与AI算力融合的\"绿电+算力\"一体化能力。合作聚焦分布式光伏开发运营与AI基础设施用电结合场景。",
+    "sourceName": "中华网",
+    "sourceUrl": "https://hea.china.com/articles/20260813/202608131939581.html",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|天合光能-道客网络|算电协同合资平台|2026-08-13|战略合作",
+    "id": "daily|2026-08-13|中国|天合富家道客网络算电协同",
+    "collectedAt": "2026-08-26T00:45:55Z"
+  },
+  {
+    "date": "2026-08-13",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "并购收购",
+    "businessTags": [
+      "分布式",
+      "集中式",
+      "交易"
+    ],
+    "tags": "分布式 集中式 交易 光伏电站收购 跨界",
+    "company": "海宁皮城",
+    "title": "海宁皮城2.26亿元收购38家光伏电站公司股权",
+    "summary": "海宁皮城（002344）公告称，全资子公司海宁皮城新能源开发有限公司拟以约2.26亿元收购浙江晟茂新能源科技有限公司及其子公司持有的38家光伏项目公司100%股权，股权转让协议已于8月11日在浙江海宁签署。标的公司分布于浙江、江苏、安徽、湖北等地，项目已并网运行、平均剩余运营周期约20年，此举是这家传统皮革企业跨界布局新能源资产的又一动作。",
+    "sourceName": "巨潮资讯网（公司公告）",
+    "sourceUrl": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225470958.PDF",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|海宁皮城-晟茂新能源|收购38家光伏项目公司|2.26亿元|并购收购",
+    "id": "daily|2026-08-13|中国|海宁皮城收购38家光伏公司",
+    "collectedAt": "2026-08-26T09:18:28Z"
+  },
+  {
+    "date": "2026-08-12",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "融资定增",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "融资",
+      "交易"
+    ],
+    "tags": "分布式 储能 融资 交易 定增 美的集团 虚拟电厂",
+    "company": "合康新能",
+    "title": "合康新能定增募资16.52亿元加码光储，美的集团全额认购",
+    "summary": "合康新能（300048）披露2026年度向特定对象发行A股股票预案（修订稿），拟募资不超过16.52亿元，由控股股东美的集团全额认购。募集资金将用于高压变频器、光伏并网逆变器、户用储能系统等研发与产业化，并投建旗舰级分布式光伏电站项目，配套AI智慧能源运营系统，推动公司从\"光伏电站建设商\"向\"智慧能源运营商\"转型，拓展虚拟电厂、电力交易等新盈利模式。",
+    "sourceName": "每日经济新闻",
+    "sourceUrl": "https://www.nbd.com.cn/articles/2026-08-11/4538643.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|合康新能-美的集团|定增16.52亿元光储转型|2026-08-12|融资定增",
+    "id": "daily|2026-08-12|中国|合康新能定增美的集团认购",
+    "collectedAt": "2026-08-26T09:18:28Z"
   },
   {
     "date": "2026-07-28",

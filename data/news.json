@@ -380,8 +380,14 @@
     "geo": "中国",
     "category": "市场信息",
     "eventType": "市场数据",
-    "businessTags": ["算电协同", "AIDC", "绿电"],
-    "tags": ["用电量"],
+    "businessTags": [
+      "算电协同",
+      "AIDC",
+      "绿电"
+    ],
+    "tags": [
+      "用电量"
+    ],
     "company": "国家能源局",
     "title": "国家能源局：前 7 月全社会用电量增长 4.7%，互联网数据服务用电增长 43.3%",
     "summary": "国家能源局公布，2026年1—7月全社会用电量累计61,399亿千瓦时，同比增长4.7%；其中互联网数据服务用电量593亿千瓦时，同比增长43.3%，7月单月增速达40.1%。数据中心负荷继续显著快于全社会用电增长，为算电协同、绿电直连和新增电源项目提供需求侧依据。",
@@ -398,8 +404,14 @@
     "geo": "美洲",
     "category": "市场信息",
     "eventType": "收购",
-    "businessTags": ["集中式", "绿电"],
-    "tags": ["PPA", "出售"],
+    "businessTags": [
+      "集中式",
+      "绿电"
+    ],
+    "tags": [
+      "PPA",
+      "出售"
+    ],
     "company": "Sol Systems / DESRI",
     "title": "Sol Systems 收购美国得州 200MW Lumberton 光伏项目，资产已签长期 PPA",
     "summary": "Sol Systems 从 DESRI 收购位于得州 Hardin County 的 200MWac Lumberton Solar Project。项目已由长期购电协议锁定收入，是 Sol Systems 2026 年第二笔项目收购，显示具备长期承购合同的成熟集中式光伏资产仍受 IPP 平台青睐。",
@@ -416,8 +428,14 @@
     "geo": "大洋洲",
     "category": "市场信息",
     "eventType": "投资",
-    "businessTags": ["集中式", "储能"],
-    "tags": ["光储", "PPA"],
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "光储",
+      "PPA"
+    ],
     "company": "APA Group",
     "title": "APA 作出光储项目最终投资决定，以 2.59 亿澳元建设 Sybella Creek 项目",
     "summary": "APA Group 决定在昆士兰 Mount Isa 投资2.59亿澳元，建设72MW光伏电站及52MW/104MWh储能系统。项目由与 Evolution Mining 子公司签署、期限至2046年的能源供应协议支撑，计划2026年底开工、2028年中完工。",
@@ -434,8 +452,13 @@
     "geo": "欧洲",
     "category": "市场信息",
     "eventType": "政策",
-    "businessTags": ["储能", "绿电"],
-    "tags": ["超长时储能"],
+    "businessTags": [
+      "储能",
+      "绿电"
+    ],
+    "tags": [
+      "超长时储能"
+    ],
     "company": "英国政府 / UKRI",
     "title": "英国启动 2,800 万英镑超长时储能计划，支持连续供电 100 小时以上技术",
     "summary": "英国政府与 UKRI 启动 Ultra-Long Duration Energy Storage Challenge，投入2,800万英镑支持先进电池、地下储氢等可连续供电100小时以上的技术。其中首批竞赛包括300万英镑电化学储能项目开发研究资金，政策目标是提高可再生能源消纳与能源安全。",
@@ -452,8 +475,13 @@
     "geo": "美洲",
     "category": "市场信息",
     "eventType": "融资",
-    "businessTags": ["集中式", "储能"],
-    "tags": ["企业信贷"],
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "企业信贷"
+    ],
     "company": "Swift Current Energy",
     "title": "Swift Current Energy 获得 7.5 亿美元企业信贷额度，可扩至 10 亿美元",
     "summary": "Swift Current Energy 完成7.5亿美元企业信贷安排，并设置2.5亿美元扩容选项，最高可达10亿美元。资金将用于推进美国清洁能源项目组合并满足快速增长的电力需求，多家国际银行参与银团，反映大型开发平台融资能力继续向企业级额度集中。",
@@ -470,8 +498,14 @@
     "geo": "美洲",
     "category": "市场信息",
     "eventType": "开发",
-    "businessTags": ["集中式", "储能"],
-    "tags": ["PPA", "工业园区"],
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "PPA",
+      "工业园区"
+    ],
     "company": "ATOME",
     "title": "ATOME 获多边机构支持研究巴拉圭 300MW 光伏项目，推进仍取决于 PPA",
     "summary": "ATOME 获得多边开发银行美元基金的财务与技术支持，拟对 Villeta 绿肥项目附近的300MW光伏电站开展可行性研究，并探索以光伏和储能为核心的工业园区。项目下一阶段取决于 ATOME Paraguay 推进购电协议，属于早期开发机会。",
@@ -488,8 +522,14 @@
     "geo": "亚洲",
     "category": "市场信息",
     "eventType": "PPA",
-    "businessTags": ["绿电", "算电协同", "AIDC"],
-    "tags": ["屋顶光伏"],
+    "businessTags": [
+      "绿电",
+      "算电协同",
+      "AIDC"
+    ],
+    "tags": [
+      "屋顶光伏"
+    ],
     "company": "Equinix / Flo Energy",
     "title": "Equinix 与 Flo Energy 签署新加坡第四份绿电 PPA，初始规模 11.5MWp",
     "summary": "Equinix 与 Flo Energy Singapore 签署新的屋顶光伏购电协议，初始可再生能源容量不少于11.5MWp，并可选择扩展至50MWp。Equinix 在新加坡的本地可再生能源组合由此达到215MWp，为 AI 和数据中心负荷提供更长期的绿电覆盖。",
@@ -506,8 +546,13 @@
     "geo": "欧洲",
     "category": "市场信息",
     "eventType": "收购",
-    "businessTags": ["储能"],
-    "tags": ["出售", "长时储能"],
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "出售",
+      "长时储能"
+    ],
     "company": "Capital Dynamics",
     "title": "Capital Dynamics 收购爱尔兰 170MW 四小时储能项目，首次进入该国市场",
     "summary": "Capital Dynamics 收购位于爱尔兰 County Kerry、已具备开工条件的 Knockanure 储能项目。项目取得170MW电网接入容量，按四小时配置，属于 EirGrid 口径下的长时储能，是该机构在爱尔兰的首笔投资。",
@@ -524,8 +569,15 @@
     "geo": "中国",
     "category": "市场信息",
     "eventType": "签约",
-    "businessTags": ["算电协同", "AIDC", "绿电"],
-    "tags": ["数据中心", "内蒙古"],
+    "businessTags": [
+      "算电协同",
+      "AIDC",
+      "绿电"
+    ],
+    "tags": [
+      "数据中心",
+      "内蒙古"
+    ],
     "company": "内蒙古自治区政府 / 火山引擎 / 协鑫能科",
     "title": "内蒙古绿色算力大会集中签约13个项目，投资1361亿元",
     "summary": "2026绿色算力（人工智能）大会8月22日在内蒙古呼和浩特举行，现场集中签约13个项目，总投资额约1361亿元，约为2025年同期的6.8倍。项目分布在呼和浩特（8个）和乌兰察布（5个），涵盖火山引擎GW级算力园区、寒武纪芯片实验室、协鑫能科算电协同一体化项目、中国电信数据中心等，覆盖算力基础设施、芯片研发及算电协同领域。",
@@ -543,8 +595,14 @@
     "geo": "亚洲",
     "category": "同行动态",
     "eventType": "投运",
-    "businessTags": ["分布式", "储能"],
-    "tags": ["度假村", "光储一体化"],
+    "businessTags": [
+      "分布式",
+      "储能"
+    ],
+    "tags": [
+      "度假村",
+      "光储一体化"
+    ],
     "company": "Trinasolar / Nam Viet Green Energy",
     "title": "天合光能为越南富国岛供应3MWp光伏+10MWh储能系统",
     "summary": "天合光能宣布为越南富国岛（Phu Quoc）Corona Resort度假村项目供应3MWp Vertex N 725W光伏组件及10MWh Trina Storage Elementa 2电池储能系统。项目由越南可再生能源企业Nam Viet Green Energy开发，是天合光能在越南推进光储一体化解决方案的最新案例。",
@@ -562,8 +620,14 @@
     "geo": "美洲",
     "category": "市场信息",
     "eventType": "收购",
-    "businessTags": ["分布式", "交易"],
-    "tags": ["社区光伏", "回购"],
+    "businessTags": [
+      "分布式",
+      "交易"
+    ],
+    "tags": [
+      "社区光伏",
+      "回购"
+    ],
     "company": "PowerBank Corporation",
     "title": "PowerBank回购纽约州13.9MW社区光伏项目",
     "summary": "PowerBank Corporation通过美国子公司Abundant Solar Power执行回购协议，重新取得纽约州Gainesville（7MW）和Highway 28（6.9MW）两个社区光伏项目，合计13.9MW，建设价值约3250万美元，预计可获得约1300万美元联邦税收抵免。两个项目此前于2025年出售给投资方，如今由公司购回并推进建设，Highway 28预计2026年三季度具备开工条件。",
@@ -574,5 +638,186 @@
     "fingerprint": "美国|PowerBank Corporation|Gainesville-Highway 28|13.9MW-3250万美元|收购",
     "id": "daily|2026-08-18|美国|PowerBank纽约光伏回购",
     "collectedAt": "2026-08-24T22:42:45Z"
+  },
+  {
+    "date": "2026-08-13",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "战略合作",
+    "businessTags": [
+      "算电协同",
+      "AIDC",
+      "分布式"
+    ],
+    "tags": [
+      "联营体",
+      "token工厂"
+    ],
+    "company": "天合光能/天合富家、道客网络",
+    "title": "天合富家与道客网络签署战略合作协议，共建算电协同平台",
+    "summary": "天合光能子公司天合富家能源与云原生及AI操作系统企业道客网络（DaoCloud）签署战略合作协议，双方计划成立合资公司，共同打造算力-电力协同平台及区域级\"token工厂\"，探索绿电与AI算力融合的\"绿电+算力\"一体化能力。合作聚焦分布式光伏开发运营与AI基础设施用电结合场景。",
+    "sourceName": "中华网",
+    "sourceUrl": "https://hea.china.com/articles/20260813/202608131939581.html",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|天合光能-道客网络|算电协同合资平台|2026-08-13|战略合作",
+    "id": "daily|2026-08-13|中国|天合富家道客网络算电协同",
+    "collectedAt": "2026-08-26T00:45:55Z"
+  },
+  {
+    "date": "2026-08-17",
+    "country": "埃及",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "投资建厂",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "苏伊士经济区",
+      "海外制造"
+    ],
+    "company": "阳光电源",
+    "title": "阳光电源埃及苏伊士储能工厂奠基，规划年产能10GWh",
+    "summary": "当地时间8月17日，阳光电源在埃及苏伊士运河经济区泰达产业园的储能系统组装制造项目正式奠基，为中东和非洲地区首个专业储能系统制造工厂。项目总投资约5000万美元（约合人民币3.37亿元），规划占地约5万平方米，预计2027年4月投产，建成后年产能最高达10GWh。",
+    "sourceName": "北极星电力新闻网",
+    "sourceUrl": "https://m.bjx.com.cn/mnews/20260818/1508891.shtml",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "埃及|阳光电源|苏伊士储能工厂奠基|10GWh-5000万美元|投资建厂",
+    "id": "daily|2026-08-17|埃及|阳光电源苏伊士储能工厂奠基",
+    "collectedAt": "2026-08-26T00:45:55Z"
+  },
+  {
+    "date": "2026-08-24",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "股权出售",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "家庭储能",
+      "VPP"
+    ],
+    "company": "Shell / sonnen / TIVEN",
+    "title": "壳牌将德国家庭储能与VPP企业sonnen出售给TIVEN",
+    "summary": "壳牌（Shell）宣布完成将德国住宅储能与虚拟电厂服务商sonnen集团出售给国际资产管理机构TIVEN（由AURELIUS联合创始人Gert Purkert设立的家族办公室），交易由AURELIUS WaterRise提供运营顾问服务，具体金额未披露。壳牌自2019年起累计投入近10亿欧元收购并增资sonnen，市场消息称此次出售将带来数亿欧元亏损。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/shell-offloads-residential-battery-storage-vpp-provider-sonnen/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|壳牌-sonnen-TIVEN|sonnen出售|家庭储能VPP|股权出售",
+    "id": "daily|2026-08-24|德国|壳牌出售sonnen给TIVEN",
+    "collectedAt": "2026-08-26T00:45:55Z"
+  },
+  {
+    "date": "2026-08-21",
+    "country": "挪威",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "破产资产收购",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "LFP电池",
+      "破产重整"
+    ],
+    "company": "Lyten / Morrow Batteries",
+    "title": "美国Lyten与挪威Morrow Batteries破产管理人达成收购协议",
+    "summary": "Morrow Batteries ASA及其两家子公司的破产管理人于8月21日与美国电池企业Lyten、挪威国家机构Innovation Norway达成协议，Lyten将以持续经营方式收购Morrow位于阿伦达尔（Arendal）的LFP电池超级工厂等核心资产。Morrow于5月申请破产，此举意在保住该公司长期就业岗位，也是Lyten继收购北欧电池厂商Northvolt资产后在欧洲的又一动作。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/us-firm-lyten-sets-sights-on-norways-morrow-batteries-following-northvolt-acquisition/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "挪威|Lyten-MorrowBatteries|阿伦达尔LFP工厂|破产资产收购|8月21日",
+    "id": "daily|2026-08-21|挪威|Lyten收购MorrowBatteries",
+    "collectedAt": "2026-08-26T00:45:55Z"
+  },
+  {
+    "date": "2026-08-17",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "战略合作",
+    "businessTags": [
+      "储能",
+      "算电协同",
+      "AIDC"
+    ],
+    "tags": [
+      "分布式资源聚合",
+      "虚拟电厂"
+    ],
+    "company": "Sunrun / Voltus",
+    "title": "Sunrun与Voltus合作，为AI超大规模数据中心提供储能容量",
+    "summary": "美国住宅光储企业Sunrun宣布与分布式能源资源平台Voltus达成协议，支持其面向AI超大规模数据中心的\"自带容量\"（Bring Your Own Capacity）项目。Sunrun将从其PJM、MISO电网区域内数千套住宅光伏+储能系统中调配部分容量，通过聚合家庭电池等分布式资源，为数据中心并网提供灵活可靠的电力支持，缓解电网扩容压力。",
+    "sourceName": "GlobeNewswire（Sunrun官方新闻稿）",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/08/17/3346026/0/en/sunrun-to-supply-voltus-with-energy-capacity-for-ai-hyperscaler-agreements.html",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Sunrun-Voltus|BYOC AI超大规模数据中心|住宅光储聚合|战略合作",
+    "id": "daily|2026-08-17|美国|Sunrun-Voltus AI数据中心容量合作",
+    "collectedAt": "2026-08-26T00:45:55Z"
+  },
+  {
+    "date": "2026-08-12",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "融资定增",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "融资",
+      "交易"
+    ],
+    "tags": [
+      "定增",
+      "美的集团",
+      "虚拟电厂"
+    ],
+    "company": "合康新能",
+    "title": "合康新能定增募资16.52亿元加码光储，美的集团全额认购",
+    "summary": "合康新能（300048）披露2026年度向特定对象发行A股股票预案（修订稿），拟募资不超过16.52亿元，由控股股东美的集团全额认购。募集资金将用于高压变频器、光伏并网逆变器、户用储能系统等研发与产业化，并投建旗舰级分布式光伏电站项目，配套AI智慧能源运营系统，推动公司从\"光伏电站建设商\"向\"智慧能源运营商\"转型，拓展虚拟电厂、电力交易等新盈利模式。",
+    "sourceName": "每日经济新闻",
+    "sourceUrl": "https://www.nbd.com.cn/articles/2026-08-11/4538643.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|合康新能-美的集团|定增16.52亿元光储转型|2026-08-12|融资定增",
+    "id": "daily|2026-08-12|中国|合康新能定增美的集团认购",
+    "collectedAt": "2026-08-26T09:18:28Z"
+  },
+  {
+    "date": "2026-08-13",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "并购收购",
+    "businessTags": [
+      "分布式",
+      "集中式",
+      "交易"
+    ],
+    "tags": [
+      "光伏电站收购",
+      "跨界"
+    ],
+    "company": "海宁皮城",
+    "title": "海宁皮城2.26亿元收购38家光伏电站公司股权",
+    "summary": "海宁皮城（002344）公告称，全资子公司海宁皮城新能源开发有限公司拟以约2.26亿元收购浙江晟茂新能源科技有限公司及其子公司持有的38家光伏项目公司100%股权，股权转让协议已于8月11日在浙江海宁签署。标的公司分布于浙江、江苏、安徽、湖北等地，项目已并网运行、平均剩余运营周期约20年，此举是这家传统皮革企业跨界布局新能源资产的又一动作。",
+    "sourceName": "巨潮资讯网（公司公告）",
+    "sourceUrl": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225470958.PDF",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|海宁皮城-晟茂新能源|收购38家光伏项目公司|2.26亿元|并购收购",
+    "id": "daily|2026-08-13|中国|海宁皮城收购38家光伏公司",
+    "collectedAt": "2026-08-26T09:18:28Z"
   }
 ]
