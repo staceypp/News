@@ -1,5 +1,188 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-08-26",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 并网 交付效率",
+    "company": "阳光电源",
+    "title": "阳光电源200MW/400MWh储能项目并网投运，17天完成从交付到并网",
+    "summary": "阳光电源宣布一座200MW/400MWh储能项目正式并网投运，采用PowerTitan 3.0及600+Ah叠片电芯，并通过数字化交付平台实现17天并网；公司称调试流程由10天以上压缩至约1小时，系统高温运行能耗降低约10%。项目已并网运行，产品与交付效率数据由阳光电源披露，储能竞争正从设备参数扩展到交付效率、智能运维和交易软件，17天交付口径、10%能耗下降等指标仍待第三方验证。",
+    "sourceName": "PR Newswire UK",
+    "sourceUrl": "https://www.prnewswire.co.uk/news-releases/200-mw400-mwh-energy-storage-project-accelerates-delivery-with-sungrows-full-chain-intelligent-delivery-302860275.html",
+    "sourceType": "company-release",
+    "id": "notion|2026-08-26|中国|阳光电源200MW储能并网",
+    "fingerprint": "中国|阳光电源|200MW-400MWh储能项目|17天交付|投运",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2026-08-25",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "产品",
+    "businessTags": [
+      "储能",
+      "AIDC",
+      "微电网"
+    ],
+    "tags": "储能 AIDC 微电网 PCS EMS",
+    "company": "天合光能（Trina Storage）",
+    "title": "天合储能发布AIDC全栈储能架构，覆盖电芯、PCS、EMS、配电与冷却",
+    "summary": "Trina Storage于8月25日发布AIDC储能解决方案进展，方案覆盖电芯、DC集装箱、构网型PCS、AI赋能EMS、配电与冷却，面向AI数据中心高功率密度、负荷快速波动和高可靠供电需求。头部光伏企业正把竞争边界延伸至数据中心电力基础设施，后续可能与园区微电网、绿电PPA和24/7清洁能源方案结合，已签AIDC客户、项目容量及实际SLA仍待核实。",
+    "sourceName": "Trina Solar Newsroom",
+    "sourceUrl": "https://www.trinasolar.com/en-apac/newsroom202608251455/",
+    "sourceType": "company-release",
+    "id": "notion|2026-08-25|中国|天合AIDC全栈储能",
+    "fingerprint": "中国|天合光能|AIDC全栈储能架构|电芯-PCS-EMS|产品",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2026-08-25",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "分布式光伏",
+      "算电协同",
+      "交易"
+    ],
+    "tags": "分布式光伏 算电协同 交易 虚拟电厂 绿电交易",
+    "company": "天合光能 / 南方电网",
+    "title": "天合富家与南网虚拟电厂平台完成调通，160万户分布式资产进入聚合交易场景",
+    "summary": "天合光能分布式业务平台天合富家与南方电网旗下虚拟电厂运营平台完成系统打通，将依托超过160万户分布式光伏资产开展低中压分布式资源聚合、储能与负荷协同及绿电交易。双方平台集成已完成，天合正把户用光伏从单纯资产持有转向可交易的分布式能源资源池；实际可调容量、首批接入区域、收益分配机制和交易规模仍待核实。",
+    "sourceName": "太阳能新闻（TaiyangNews）",
+    "sourceUrl": "https://taiyangnews.info/markets/china-solar-pv-news-snippets-august-25-2026",
+    "sourceType": "industry",
+    "id": "notion|2026-08-25|中国|天合富家南网VPP打通",
+    "fingerprint": "中国|天合光能-南方电网|天合富家VPP平台打通|160万户|合作",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2026-08-25",
+    "country": "印尼",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式光伏",
+      "储能",
+      "系统销售"
+    ],
+    "tags": "集中式光伏 储能 系统销售 100GWp计划 招标",
+    "company": "印尼能源矿产资源部",
+    "title": "印尼启动首批14个光伏项目，合计5.3GWp，其中4.55GWp已进入待招标项目池",
+    "summary": "印尼总统Prabowo于8月25日启动100GWp光伏计划的首批14个项目，合计5.3GWp。官方披露其中6个项目已准备招标，合计4,548.92MWp，包括Jatiluhur 1,688MWp、Cirata 1,250MWp、Jatigede 636MWp、Madura 605MWp光储项目、Bali 300MWp及Purwakarta 69MWp；另有项目处于groundbreaking、建设和投运阶段，总投资估算约Rp135万亿（约76亿美元）。4.55GWp「ready-to-tender」比泛化装机目标更接近真实设备订单池，后续重点应跟踪PLN正式招标文件、BESS配置、PPA/电价、TKDN本地化及融资安排。",
+    "sourceName": "Antara News",
+    "sourceUrl": "https://www.antaranews.com/berita/5710505/menteri-bahlil-kapasitas-total-dari-14-proyek-plts-capai-53-gw",
+    "sourceType": "official",
+    "id": "notion|2026-08-25|印尼|100GWp首批14项目5.3GWp",
+    "fingerprint": "印尼|印尼能源矿产资源部|100GWp计划首批14项目|5.3GWp-4.55GWp待招标|开发",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2026-08-25",
+    "country": "印尼",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式光伏",
+      "储能",
+      "离网光伏",
+      "系统销售"
+    ],
+    "tags": "集中式光伏 储能 离网光伏 系统销售 100GWp计划 浮式光伏",
+    "company": "印尼能源矿产资源部",
+    "title": "印尼正式启动100GWp光伏计划首批项目，覆盖水库、偏远岛屿及多种应用场景",
+    "summary": "印尼能源矿产资源部8月25日披露，政府正式启动100GWp光伏计划，并在Gilimanuk启动/联动多个项目，包括Gajah Mungkur浮式光伏、Sembur村光伏及Rengit岛项目，强调从水库到偏远岛屿的多场景太阳能应用。100GWp计划已从政策目标进入首批项目启动阶段，对集中式、浮式、离网及PV+BESS系统均形成潜在订单池，但仍需以具体招标、PLN PPA、TKDN和融资落地情况为准。",
+    "sourceName": "PublicNow",
+    "sourceUrl": "https://ebs.publicnow.com/view/EDD37AE56A5AFB1CCF7B3DC3BB4113322A315D4F",
+    "sourceType": "wire",
+    "id": "notion|2026-08-25|印尼|100GWp首批项目正式启动",
+    "fingerprint": "印尼|印尼能源矿产资源部|100GWp计划正式启动|水库-偏远岛屿|开发",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2026-08-24",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "户用光伏",
+      "系统销售",
+      "交易"
+    ],
+    "tags": "户用光伏 系统销售 交易 阶梯电价 MEA",
+    "company": "泰国MEA / ERC",
+    "title": "泰国9月起调整居民阶梯电价，低用电量电价下调或削弱部分户用光伏节省空间",
+    "summary": "MEA宣布自2026年9月账单周期起执行新的居民阶梯电价结构。前200kWh电量的分段电价较低，401kWh以上为4.3583泰铢/kWh，另加服务费、Ft及VAT；调整依据ERC 8月5日决议。低用电量用户的屋顶光伏节省价值可能被压缩，而高用电量家庭仍有较强自发自用价值，需用完整账单结构和未来净计量机制重算IRR。",
+    "sourceName": "The Nation Thailand",
+    "sourceUrl": "https://www.nationthailand.com/news/general/40070183",
+    "sourceType": "wire",
+    "id": "notion|2026-08-24|泰国|MEA阶梯电价调整",
+    "fingerprint": "泰国|MEA-ERC|居民阶梯电价调整|2026年9月起|政策",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2026-08-24",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式光伏",
+      "储能",
+      "系统销售"
+    ],
+    "tags": "分布式光伏 储能 系统销售 标签合规 征求意见",
+    "company": "泰国消费者保护委员会办公室",
+    "title": "泰国拟对光伏组件、逆变器和太阳能储能电池实施新的标签合规要求",
+    "summary": "泰国消费者保护委员会办公室相关草案正就光伏组件、光伏逆变器及太阳能储能电池的标签要求征求意见，咨询期为2026年8月13日至27日。若正式生效，将影响制造商、进口商、分销商、经销商、安装商及屋顶光伏/储能系统供应商的产品标识和合规流程。目前处于公开征求意见阶段，尚不是最终生效规则，最终公告文本、生效日期、泰文标签要求及过渡期仍待核实。",
+    "sourceName": "The Legal (Thailand)",
+    "sourceUrl": "https://thelegal.co.th/2026/08/24/consumer-protection-proposed-labeling-rules-for-solar-panels-inverters-and-energy-storage-batteries/",
+    "sourceType": "wire",
+    "id": "notion|2026-08-24|泰国|光伏储能标签合规草案",
+    "fingerprint": "泰国|泰国消费者保护委员会办公室|光伏组件逆变器储能标签草案|征求意见|政策",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2026-08-23",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式光伏",
+      "工商业光伏",
+      "系统销售"
+    ],
+    "tags": "分布式光伏 工商业光伏 系统销售 工业许可 屋顶光伏",
+    "company": "泰国工业部",
+    "title": "泰国拟取消工厂安装屋顶光伏的额外工业许可门槛",
+    "summary": "泰国正推进简化工厂屋顶光伏审批。此前1MW以上工厂屋顶光伏涉及额外工业许可要求；若调整落地，将降低大型制造业屋顶项目的行政门槛，利好1MW+制造业C&I光伏、PPA/EMC及后续PV+BESS项目开发，但需等待官方法规文本和生效日期。",
+    "sourceName": "Thai Times",
+    "sourceUrl": "https://thaitimes.com/factories-in-thailand-will-no-longer-need-permission-to-install-solar-rooftops",
+    "sourceType": "wire",
+    "id": "notion|2026-08-23|泰国|工厂屋顶光伏许可拟取消",
+    "fingerprint": "泰国|泰国工业部|工厂屋顶光伏工业许可拟取消|1MW以上|政策",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
     "date": "2026-08-22",
     "country": "中国",
     "geo": "中国",
@@ -21,6 +204,27 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "中国|内蒙古-绿色算力大会|13个项目集中签约|1361亿元|签约",
     "id": "daily|2026-08-22|中国|绿色算力大会13项目签约",
     "collectedAt": "2026-08-24T22:42:45Z"
+  },
+  {
+    "date": "2026-08-22",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式光伏"
+    ],
+    "tags": "集中式光伏 海上光伏 环评公示",
+    "company": "国华能源投资 / 江苏省生态环境厅",
+    "title": "国华东台竹根沙Z1风光同场海上光伏试点项目生态环境影响报告书拟审批公示",
+    "summary": "江苏省生态环境厅关于国华东台竹根沙Z1风光同场海上光伏试点项目生态环境影响报告书拟进行审批的公示。项目建设地点位于江苏省管竹根沙海域，国华竹根沙H1#海上风电场区域场址内，计划分期建设134万千瓦风光同场海上光伏项目。本次评价为工程一期，主要建设内容包括1座500MW海上光伏电站，含装机容量直流侧646.86MWp光伏场区、2回220kV送出海缆、3回35kV联络海缆和1座220kV海上升压站，同时在光伏场区南区西南侧建设海上光伏实证测试平台（含2.198MWp漂浮式及固定式），光伏场区用海面积525.4896公顷，海缆用海面积161.4827公顷。",
+    "sourceName": "江苏省生态环境厅",
+    "sourceUrl": "https://sthjt.jiangsu.gov.cn/art/2026/8/22/art_83568_11819462.html",
+    "sourceType": "official",
+    "id": "notion|2026-08-22|中国|竹根沙Z1海上光伏EIA公示",
+    "fingerprint": "中国|国华能源投资|竹根沙Z1海上光伏一期|500MW-646.86MWp|开发",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
   },
   {
     "date": "2026-08-21",
@@ -64,6 +268,52 @@ window.DAILY_NEWS_DATA=[
     "sourceSheet": "每日更新",
     "fingerprint": "美国|Sol Systems-DESRI|Lumberton-Hardin County|200MWac|收购",
     "id": "daily|2026-08-21|美国|Lumberton Solar收购"
+  },
+  {
+    "date": "2026-08-21",
+    "country": "印尼",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式光伏",
+      "储能",
+      "系统销售"
+    ],
+    "tags": "集中式光伏 储能 系统销售 30GW计划 土地资源",
+    "company": "印尼政府 / PLN",
+    "title": "印尼首批30GW光伏开发计划进入土地资源与招标准备阶段",
+    "summary": "印尼政府已识别政府土地及水库资源推进30GW太阳能开发计划，并与PLN讨论项目实施及2026年首批招标安排，同时逐步淘汰13吉瓦的柴油发电厂（PLTD）。30GW可能形成印尼未来重要组件、逆变器、储能及系统集成订单池，但当前仍处资源配置和招标准备阶段，后续需观察PLN正式招标文件、BESS比例、TKDN要求和融资担保机制。",
+    "sourceName": "Antara News",
+    "sourceUrl": "https://en.antaranews.com/amp/news/427781/govt-secures-land-reservoirs-for-30-gw-solar-power-development",
+    "sourceType": "official",
+    "id": "notion|2026-08-21|印尼|30GW计划土地招标准备",
+    "fingerprint": "印尼|印尼政府-PLN|30GW开发计划|土地资源招标准备|开发",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2026-08-21",
+    "country": "马来西亚",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式光伏",
+      "交易",
+      "系统销售"
+    ],
+    "tags": "集中式光伏 交易 系统销售 CGPP EPCC",
+    "company": "Founder Group",
+    "title": "马来西亚CGPP下29.99MWac企业绿电光伏项目进入EPCC执行",
+    "summary": "马来西亚Corporate Green Power Programme（CGPP）下，Kedah州29.99MWac光伏项目进入采购、机电安装和调试执行阶段，通过电网向企业用户提供绿电。体现东南亚企业绿电采购由屋顶自发自用扩展至远端solar farm+grid wheeling+corporate offtaker模式，与越南DPPA和泰国Direct PPA方向具有可比性，本次披露的分包合同金额并非项目总投资。",
+    "sourceName": "Electric Energy Online",
+    "sourceUrl": "https://electricenergyonline.com/article/energy/category/solar/162/1214667/founder-group-secures-us-1-5-million-epcc-subcontract-under-malaysia-s-corporate-green-power-programme-for-29-99mwac-large-scale-solar-facility-in-kedah.html",
+    "sourceType": "industry",
+    "id": "notion|2026-08-21|马来西亚|CGPP-Kedah-29.99MWac",
+    "fingerprint": "马来西亚|Founder Group|CGPP Kedah 29.99MWac项目|EPCC执行|开发",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
   },
   {
     "date": "2026-08-20",
@@ -214,6 +464,52 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-08-24T22:42:45Z"
   },
   {
+    "date": "2026-08-19",
+    "country": "印尼",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "离网光伏",
+      "系统销售",
+      "微电网"
+    ],
+    "tags": "离网光伏 系统销售 微电网 冷库 农业用能",
+    "company": "IPB University",
+    "title": "印尼17.8kWp太阳能冷库验证农业生产性离网用能场景",
+    "summary": "印尼IPB University启用Tri-Chamber Solar PV Cold Storage，配置44块405Wp组件、约17.8kWp光伏，用于农业产品冷链，德国发展合作机构及相关企业参与。项目容量虽小，但验证了cold storage、irrigation、agri-processing等productive-use solar场景，这类客户有明确生产收益和柴油替代价值，商业支付能力通常优于纯户用SHS，储能配置、回收期和规模化复制能力仍待验证。",
+    "sourceName": "Surya Energi",
+    "sourceUrl": "https://suryaenergi.co.id/tri-chamber-solar-pv-cold-storage-diresmikan-dorong-pemanfaatan-energi-surya-untuk-sektor-pertanian/",
+    "sourceType": "industry",
+    "id": "notion|2026-08-19|印尼|IPB冷库17.8kWp",
+    "fingerprint": "印尼|IPB University|Tri-Chamber太阳能冷库|17.8kWp|投运",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2026-08-19",
+    "country": "马来西亚",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式光伏",
+      "户用光伏",
+      "系统销售"
+    ],
+    "tags": "分布式光伏 户用光伏 系统销售 NEM Rakyat 净计量",
+    "company": "马来西亚能源委员会（Suruhanjaya Tenaga）",
+    "title": "马来西亚更新住宅屋顶光伏净计量规则，明确NEM Rakyat系统容量与并网要求",
+    "summary": "马来西亚能源委员会（Suruhanjaya Tenaga）于2026年8月19日发布《Guidelines For Solar Photovoltaic Installation Under The Programme Of NEM Rakyat And NEM GoMEn In Peninsular Malaysia》Rev.1 2026，明确NEM Rakyat与NEM GoMEn的申请、容量和并网技术要求。住宅NEM Rakyat单相系统上限为5kWac、三相为12.5kWac。规则进一步标准化住宅屋顶光伏准入和并网边界，对安装商、组件/逆变器渠道和户用系统销售具有直接意义，配额余额、结算机制和TNB实际并网审批速度仍待核对。",
+    "sourceName": "Suruhanjaya Tenaga",
+    "sourceUrl": "https://www.st.gov.my/resources/guidelines-solar-photovoltaic-installation-under-programme-nem-rakyat-and-nem-gomen",
+    "sourceType": "official",
+    "id": "notion|2026-08-19|马来西亚|NEM-Rakyat净计量指引",
+    "fingerprint": "马来西亚|马来西亚能源委员会|NEM Rakyat-GoMEn指引Rev.1|住宅并网要求|政策",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
     "date": "2026-08-18",
     "country": "中国",
     "geo": "中国",
@@ -255,6 +551,48 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "美国|PowerBank Corporation|Gainesville-Highway 28|13.9MW-3250万美元|收购",
     "id": "daily|2026-08-18|美国|PowerBank纽约光伏回购",
     "collectedAt": "2026-08-24T22:42:45Z"
+  },
+  {
+    "date": "2026-08-16",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式光伏"
+    ],
+    "tags": "分布式光伏 江苏 装机目标",
+    "company": "江苏省发展改革委",
+    "title": "江苏发布分布式光伏发展实施方案",
+    "summary": "江苏发布《江苏省分布式光伏发展实施方案（2026—2030年）》，明确到2030年全省分布式光伏累计装机规模较2025年翻一番，达到1.2亿千瓦；展望2035年进一步提升至1.6亿千瓦。方案聚焦工业园区、整村户用、公共建筑、交通能源融合四大场景，推动屋顶等资源「能装尽装」；同时提出简化备案流程，取消前置审批，并要求加强配电网升级，支持分布式光伏通过集中汇流参与多用户绿电直连，鼓励配套储能、打造光储一体化和小型微电网。江苏由此把分布式光伏从单点开发推向场景化、规模化和配网协同发展。",
+    "sourceName": "江苏新闻",
+    "sourceUrl": "https://jsnews.jschina.com.cn/jsyw/202608/t20260816_s6a8188cee4b0eede679365a8.shtml",
+    "sourceType": "official",
+    "id": "notion|2026-08-16|中国|江苏分布式光伏实施方案",
+    "fingerprint": "中国|江苏省发展改革委|分布式光伏发展实施方案2026-2030|装机翻番|政策",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2026-08-07",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "市场数据",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 装机数据 同比增长",
+    "company": "国家能源局",
+    "title": "国家能源局称新型储能按下加速键",
+    "summary": "国家能源局发布信息称，2026年以来我国新型储能延续良好发展态势。截至2026年6月底，全国已建成投运新型储能装机规模达1.53亿千瓦/3.96亿千瓦时，同比增长61%。国家能源局同步强调，新型储能正在赋能新型电力系统建设，在促进新能源消纳、提升系统调节能力、保障电力安全稳定供应等方面作用持续增强。行业已从示范应用进入规模化建设阶段，后续关注点将从装机扩张转向利用小时、调度调用和现货/辅助服务收益。",
+    "sourceName": "国家能源局",
+    "sourceUrl": "https://www.nea.gov.cn/20260807/6faf6245347147c5875171c3b973b46d/c.html",
+    "sourceType": "official",
+    "id": "notion|2026-08-07|中国|新型储能1.53亿千瓦",
+    "fingerprint": "中国|国家能源局|新型储能装机1.53亿千瓦|同比增长61%|市场数据",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
   },
   {
     "date": "2026-07-28",
@@ -564,5 +902,152 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "全球|JA Solar|Wood Mackenzie组件制造商排名|91.7分-第一|市场数据",
     "id": "backfill|2026-01-07|全球|Wood Mackenzie排名第一",
     "collectedAt": "2026-08-23T22:31:02+08:00"
+  },
+  {
+    "date": "2025-11-21",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "收购",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 精控能源 并购",
+    "company": "隆基绿能",
+    "title": "隆基绿能通过精控能源切入储能赛道",
+    "summary": "隆基绿能拟通过收购股权、增资入股及表决权委托等方式取得苏州精控能源约61.9998%表决权，正式切入储能系统业务。精控能源成立于2015年，总部位于苏州，主营锂离子电池储能系统，具备大型储能和工商业储能系统能力；2025年以来在芬兰、意大利、美国取得多个储能订单，合计规模约3.28GWh。隆基选择并购成熟储能系统企业而非自建电芯能力，体现光伏龙头从组件销售向「光伏+储能系统解决方案」延伸，精控能源的海外订单基础有利于隆基拓展海外光储及工商业储能市场。",
+    "sourceName": "新浪财经",
+    "sourceUrl": "https://finance.sina.com.cn/tech/roll/2025-11-21/doc-infyeesh7046132.shtml",
+    "sourceType": "wire",
+    "id": "notion|2025-11-21|中国|隆基收购精控能源",
+    "fingerprint": "中国|隆基绿能-精控能源|收购约61.9998%表决权|储能系统业务|收购",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2025-08-18",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 吉林 项目入库",
+    "company": "吉林省能源局",
+    "title": "吉林加强新型储能项目入库和清退管理",
+    "summary": "吉林省能源局印发《关于全面加强我省新型储能项目管理工作的通知》，对象暂主要为电网侧新型储能项目。文件要求规范项目入库流程，申报时需说明盈利模式、接入方案意见、可研报告和推进计划；强化入库后管理，原则上入库后12个月内实质性开工、18个月内建成投产；建立清退机制，对未按期开工、主动放弃、重大变更或无实质进展的项目移出项目库，并同步清理部分「僵尸项目」。政策体现地方储能管理从「鼓励建设」转向「质量和进度约束」。",
+    "sourceName": "光伏们",
+    "sourceUrl": "https://www.pvmeng.com/2025/09/02/44892/",
+    "sourceType": "industry",
+    "id": "notion|2025-08-18|中国|吉林储能项目入库清退",
+    "fingerprint": "中国|吉林省能源局|新型储能项目入库清退管理|12/18个月节点|政策",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2025-08-15",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "微电网"
+    ],
+    "tags": "微电网 无锡 源网荷储",
+    "company": "无锡市人民政府",
+    "title": "无锡支持源网荷储一体化和智能微电网建设",
+    "summary": "无锡市人民政府印发《无锡市加快经济社会发展全面绿色转型若干政策举措》。其中「加快推动新型电力系统建设」提出，大力推动「源网荷储」一体化发展，加快新型储能设施、智能微电网、虚拟电厂等项目建设，推动配电网改造升级，积极争创新型电力系统应用试点园区；到2030年，新型储能和抽水蓄能装机规模达到165万千瓦左右，并对符合条件的新能源产业项目给予支持。无锡由此把储能、智能微电网、虚拟电厂和配电网升级纳入城市绿色转型政策包。",
+    "sourceName": "无锡市人民政府",
+    "sourceUrl": "https://www.wuxi.gov.cn/doc/2025/08/15/4633574.shtml",
+    "sourceType": "official",
+    "id": "notion|2025-08-15|中国|无锡源网荷储微电网政策",
+    "fingerprint": "中国|无锡市人民政府|绿色转型政策举措|源网荷储微电网165万千瓦|政策",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2025-08-15",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "交易"
+    ],
+    "tags": "交易 河北 虚拟电厂",
+    "company": "河北省发展改革委",
+    "title": "河北征求虚拟电厂建设运营实施意见",
+    "summary": "河北省发展改革委公开征求《河北省虚拟电厂建设运营实施意见》和《河北省虚拟电厂建设运营管理办法（暂行）》意见。文件提出，到2027年虚拟电厂建设运行管理机制成熟规范、参与市场机制健全完善，全省虚拟电厂调节能力达到200万千瓦；到2030年应用场景进一步拓展、以市场化方式为主常态化运营，调节能力达到300万千瓦以上。政策方向包括推动虚拟电厂优先参与需求响应，并研究分布式储能入市机制，后续分布式储能、可调负荷、充换电设施等资源聚合入市空间扩大。",
+    "sourceName": "中国储能网",
+    "sourceUrl": "https://mchuneng.in-en.com/html/chunengy-47681.shtml",
+    "sourceType": "official",
+    "id": "notion|2025-08-15|中国|河北虚拟电厂实施意见",
+    "fingerprint": "中国|河北省发展改革委|虚拟电厂建设运营实施意见|2027-2030调节能力目标|政策",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2025-08-13",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 浙江 迎峰度夏",
+    "company": "浙江省发展改革委",
+    "title": "浙江优化迎峰度夏期间电网侧储能价格机制",
+    "summary": "浙江省发展改革委、省能源局发布《关于优化迎峰度夏期间电网侧储能价格机制的通知》，明确2025年7月1日至9月15日对电网侧储能项目实施临时价格机制。电网侧储能充电价格按相应电压等级单一制一般工商业代理购电用户价格执行；若按省电力公司调度安排在非低谷时段充电，充电价格按低谷时段执行；放电价格继续按煤电基准价执行。上网电量对应充电电量不承担输配电价和政府性基金及附加，参与现货市场后不再执行该临时机制，机制旨在保障电网侧储能在高温保供期间被有效调用。",
+    "sourceName": "光伏们",
+    "sourceUrl": "https://www.pvmeng.com/2025/06/26/44261/",
+    "sourceType": "industry",
+    "id": "notion|2025-08-13|中国|浙江电网侧储能迎峰度夏价格",
+    "fingerprint": "中国|浙江省发展改革委|电网侧储能迎峰度夏临时价格机制|2025年7-9月|政策",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2025-08-07",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式光伏"
+    ],
+    "tags": "分布式光伏 内蒙古 零碳园区",
+    "company": "内蒙古自治区发展改革委",
+    "title": "内蒙古发布零碳园区培育建设方案",
+    "summary": "内蒙古自治区发展改革委、工业和信息化厅、能源局联合印发《内蒙古自治区零碳园区培育建设方案》，文件为地方规范性文件，自发布之日起实施。方案衔接国家零碳园区建设部署，提出推进自治区零碳园区培育建设，支持符合条件园区先行先试，围绕绿电供给、产业低碳化、能碳管理和园区绿色转型形成可复制经验，有利于带动园区绿电直供、风光储协同、能碳管理等场景落地。",
+    "sourceName": "中国能源网",
+    "sourceUrl": "https://newenergy.in-en.com/html/newenergy-2444002.shtml",
+    "sourceType": "official",
+    "id": "notion|2025-08-07|中国|内蒙古零碳园区方案",
+    "fingerprint": "中国|内蒙古自治区发展改革委|零碳园区培育建设方案|地方规范性文件|政策",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2025-08-07",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 安徽 调度结算",
+    "company": "安徽省能源局",
+    "title": "安徽征求新型储能调度运行结算通知",
+    "summary": "安徽省能源局就《关于做好新型储能调度运行结算工作的通知（征求意见稿）》公开征求意见，意见反馈截止至2025年9月8日。文件重点完善新型储能调度运行和结算机制，提出电力调度机构直接调用独立新型储能充、放电电量时，按调用时间节点现货市场实时电价结算；对独立新型储能在2025年7月、8月、12月上网总放电量按0.2元/千瓦时给予保供支持补贴，2026年1月、7月、8月、12月按0.1元/千瓦时给予补贴。安徽从「调用+结算+补贴」三方面补齐独立储能收益机制。",
+    "sourceName": "光伏们",
+    "sourceUrl": "https://www.pvmeng.com/2025/08/07/44026/",
+    "sourceType": "industry",
+    "id": "notion|2025-08-07|中国|安徽储能调度结算征求意见",
+    "fingerprint": "中国|安徽省能源局|新型储能调度运行结算征求意见|调用补贴机制|政策",
+    "sourceSheet": "Notion同步",
+    "collectedAt": "2026-08-26T22:13:23+08:00"
   }
 ];
