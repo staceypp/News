@@ -687,6 +687,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-08-24T22:42:45Z"
   },
   {
+    "date": "2026-08-17",
+    "country": "孟加拉国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "税收优惠",
+    "businessTags": [
+      "分布式",
+      "税务"
+    ],
+    "tags": "分布式 税务 进口关税 资本设备",
+    "company": "孟加拉国国家税务局（NBR）",
+    "title": "孟加拉国NBR澄清光伏设备进口维持1%关税优惠",
+    "summary": "孟加拉国国家税务局（NBR）8月17日发布澄清，确认工业用户进口光伏设备可继续按“资本机械”优惠享受1%进口关税，此前部分海关站误将税率提高至17%，引发行业不满。商业进口商仍需缴纳1%关税加7.5%预提税及5%预提所得税。NBR表示此前预算已为光伏设备新增优惠，并未取消原有优惠，问题源于基层海关估价人员对法规的误读。",
+    "sourceName": "The Business Standard",
+    "sourceUrl": "https://www.tbsnews.net/nbr/nbr-clarifies-1-duty-solar-equipment-imports-1517791",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "孟加拉国|孟加拉国国家税务局(NBR)|光伏设备进口关税澄清|1%关税-资本机械优惠|税收优惠",
+    "id": "daily|2026-08-17|孟加拉国|NBR光伏进口关税澄清",
+    "collectedAt": "2026-08-27T06:53:07Z"
+  },
+  {
     "date": "2026-08-16",
     "country": "中国",
     "geo": "中国",
@@ -727,6 +749,28 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "中国|国家能源局|新型储能装机1.53亿千瓦|同比增长61%|市场数据",
     "sourceSheet": "Notion同步",
     "collectedAt": "2026-08-26T22:13:23+08:00"
+  },
+  {
+    "date": "2026-08-06",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "关税",
+    "businessTags": [
+      "税务",
+      "交易"
+    ],
+    "tags": "税务 交易 关税 价格下限 232条款",
+    "company": "美国商务部 / 特朗普政府",
+    "title": "美国对多晶硅及衍生品实施15%关税并设最低进口价，12月4日生效",
+    "summary": "美国总统特朗普8月6日签署公告，基于232条款对多晶硅及其衍生品（硅锭、硅片、电池、组件）加征15%关税，并设定最低进口价：多晶硅每公斤21美元、硅锭硅片每公斤100美元、电池每瓦0.22美元、组件每瓦0.38美元。措施将于12月4日美东时间零时01分生效，美国贸易代表办公室可与贸易伙伴协商调整适用范围。",
+    "sourceName": "pv magazine USA",
+    "sourceUrl": "https://pv-magazine-usa.com/2026/08/07/us-announces-tariffs-minimum-import-price-on-polysilicon-imports/",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|美国商务部-特朗普政府|232条款多晶硅关税价格下限|15%关税-12月4日生效|关税",
+    "id": "daily|2026-08-06|美国|232条款多晶硅关税",
+    "collectedAt": "2026-08-27T06:53:07Z"
   },
   {
     "date": "2026-07-28",
