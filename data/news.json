@@ -1213,5 +1213,133 @@
     "fingerprint": "中国|鄂尔多斯市东胜区能源局|分散式风电分布式光伏优选公示|14万千瓦|政策",
     "id": "daily|2026-08-20|中国|东胜区风光优选公示",
     "collectedAt": "2026-08-26T14:27:11.552Z"
+  },
+  {
+    "date": "2026-08-26",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "市场数据",
+    "businessTags": [
+      "绿电",
+      "交易"
+    ],
+    "tags": [
+      "绿证",
+      "碳市场"
+    ],
+    "company": "国家能源局",
+    "title": "国家能源局：7月核发绿证3.06亿个，可交易占比58.56%",
+    "summary": "国家能源局数据显示，2026年7月全国核发可再生能源绿色电力证书3.06亿个，涉及发电项目122.49万个，其中可交易绿证1.79亿个，占比58.56%；当月全国交易绿证5468万个，其中绿色电力交易证书2578万个。数据由国家能源局发布，中新网等媒体转引报道。",
+    "sourceName": "中国新闻网",
+    "sourceUrl": "https://www.chinanews.com.cn/cj/2026/08-26/10684646.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|2026年7月绿证核发交易数据|3.06亿个-58.56%|市场数据",
+    "id": "daily|2026-08-26|中国|7月绿证核发交易数据",
+    "collectedAt": "2026-08-27T00:44:32Z"
+  },
+  {
+    "date": "2026-08-26",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "市场数据",
+    "businessTags": [
+      "集中式",
+      "分布式",
+      "交易"
+    ],
+    "tags": [
+      "财报",
+      "组件出货"
+    ],
+    "company": "晶科能源（JinkoSolar）",
+    "title": "晶科能源二季度组件出货15.96GW，全年出货指引下调至60-70GW",
+    "summary": "晶科能源公布2026年第二季度财报，组件出货量15,961MW，环比增长16.7%、同比下降34.4%；总营收123.6亿元人民币，环比增长0.9%、同比下降31.3%；毛利率4.2%。公司同时将2026年全年出货指引下调至60-70GW，称将优先考虑盈利能力、现金流和高价值市场而非出货规模。",
+    "sourceName": "PR Newswire / JinkoSolar",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/jinkosolar-announces-second-quarter-2026-financial-results-302860485.html",
+    "sourceType": "company-release",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|晶科能源|2026年二季度财报|15.96GW出货-下调指引60-70GW|市场数据",
+    "id": "daily|2026-08-26|中国|晶科Q2财报下调指引",
+    "collectedAt": "2026-08-27T00:44:32Z"
+  },
+  {
+    "date": "2026-08-25",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": [
+      "税收股权",
+      "ITC"
+    ],
+    "company": "Crux / Invenergy",
+    "title": "Crux完成2.15亿美元税收股权投资，支持俄亥俄州240MW光伏项目",
+    "summary": "融资平台Crux通过其管理的投资载体完成2.15亿美元税收股权投资，用于Invenergy开发并持有的俄亥俄州富兰克林县Pleasant Prairie 240MW集中式光伏项目。该项目目前在建，预计2027年投运，交易旨在变现项目联邦投资税收抵免（ITC），建设高峰期将创造约300个工作岗位。",
+    "sourceName": "Renewable Watch",
+    "sourceUrl": "https://renewablewatch.in/2026/08/25/crux-closes-financing-for-240-mw-solar-project-in-ohio/",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Crux-Invenergy|Pleasant Prairie 240MW|2.15亿美元税收股权|融资",
+    "id": "daily|2026-08-25|美国|Crux税收股权融资",
+    "collectedAt": "2026-08-27T00:44:32Z"
+  },
+  {
+    "date": "2026-08-21",
+    "country": "越南",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式",
+      "分布式",
+      "绿电"
+    ],
+    "tags": [
+      "规划目标",
+      "抽水蓄能"
+    ],
+    "company": "越南电力集团（EVN）/ 岘港市政府",
+    "title": "越南岘港市发布2026-2030可再生能源规划，目标新增逾1GW",
+    "summary": "越南国家电力集团（EVN）8月21日披露，岘港市计划在2026-2030年间新增逾1GW可再生能源装机，包括最高373MW小水电、300MW抽水蓄能、100MW集中式光伏、100MW屋顶光伏、100MW陆上及近海风电和58MW生物质发电。规划还提出推动政府机构和居民户用光伏各达到50%覆盖率，并在高负荷工业园区优先部署可再生能源和电力直接交易。",
+    "sourceName": "Argus Media",
+    "sourceUrl": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2868650-vietnam-s-da-nang-targets-1gw-renewables-in-2026-30",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "越南|EVN-岘港市|2026-2030可再生能源规划|1GW新增装机|政策",
+    "id": "daily|2026-08-21|越南|岘港1GW可再生能源规划",
+    "collectedAt": "2026-08-27T00:44:32Z"
+  },
+  {
+    "date": "2026-08-19",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "PPA",
+      "光储一体化"
+    ],
+    "company": "EDF power solutions / NV Energy",
+    "title": "EDF与NV Energy签署25年期PPA，内华达州400MW光伏+1.6GWh储能项目",
+    "summary": "EDF power solutions North America与内华达州公用事业公司NV Energy签署两份25年期购电协议，涵盖内华达州Lyon County的Winston Energy项目，包括400MWac光伏电站及400MW/1,600MWh电池储能系统。项目建设高峰期将雇佣400余名工人，预计2029年10月投运，运营期内预计为当地带来约1亿美元税收。",
+    "sourceName": "EDF power solutions North America",
+    "sourceUrl": "https://www.edf-re.com/press-release/edf-power-solutions-north-america-signs-an-agreement-with-nv-energy-for-solarstorage-project/",
+    "sourceType": "company-release",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|EDF power solutions-NV Energy|Winston Energy Project|400MW光伏-1.6GWh储能|PPA",
+    "id": "daily|2026-08-19|美国|EDF NV Energy Winston PPA",
+    "collectedAt": "2026-08-27T00:44:32Z"
   }
 ]
