@@ -1,5 +1,27 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-08-27",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "融资",
+      "储能"
+    ],
+    "tags": "融资 储能 港股IPO 阳光电源",
+    "company": "阳光电源",
+    "title": "阳光电源拟发行H股赴港上市，8月27日A股大跌11.32%",
+    "summary": "阳光电源8月25日召开董事会审议通过发行H股并在香港联交所主板上市的相关议案，募集资金拟用于全球本地化布局、研发投入及补充营运资金；8月27日公司A股股价大跌11.32%，成交额超百亿元。 解读：H股上市获董事会批准与股价当日大跌两项事实分别由多家财经媒体报道确认，但股价下跌的具体诱因（H股摊薄预期、一季度净利润腰斩等）报道中未给出官方统一解释，需以正式公告和后续港交所备案文件为准。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/sungrow-plans-hong-kong-listing-ess-revenues-overtake-pv-inverters/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|阳光电源|H股上市-赴港上市|11.32%跌幅|融资",
+    "id": "daily|2026-08-27|中国|阳光电源H股上市股价大跌",
+    "collectedAt": "2026-08-28T00:43:17Z"
+  },
+  {
     "date": "2026-08-26",
     "country": "中国",
     "geo": "中国",
@@ -689,6 +711,71 @@ window.DAILY_NEWS_DATA=[
     "sourceSheet": "每日更新",
     "fingerprint": "英国|UK Government-UKRI|Ultra-LDES Challenge|2800万英镑|政策",
     "id": "daily|2026-08-20|英国|Ultra-LDES Challenge"
+  },
+  {
+    "date": "2026-08-20",
+    "country": "黎巴嫩",
+    "geo": "中东",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 离网微电网 柴油替代 中东",
+    "company": "晶科储能",
+    "title": "晶科储能为黎巴嫩养殖企业Wilco投运SunTera G2 5MWh光储微网",
+    "summary": "晶科储能宣布为中东大型家禽饲料企业Wilco Poultry位于黎巴嫩Chekka的工厂交付SunTera G2 5MWh储能系统及2.5MVA晶科PCS，由DEIF能源管理系统统一调度，EPC由Jubaili Bros执行。系统采用光伏—柴油—储能—电网混合架构，用于优化燃油消耗并提升高负荷生产场景的供电可靠性。 解读：项目配置和交付方由晶科储能官方社媒及Energy-Storage.News各自独立报道确认，属于中东离网/弱电网工业负荷的光储替代柴油典型案例，具体节油比例和投资额未披露。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/industry-updates/jinko-ess-suntera-powers-efficient-microgrid-for-middle-east-poultry-leader-wilco/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "黎巴嫩|晶科储能-Wilco Poultry|Chekka|SunTera G2 5MWh|投运",
+    "id": "daily|2026-08-20|黎巴嫩|晶科储能Wilco微网",
+    "collectedAt": "2026-08-28T00:43:17Z"
+  },
+  {
+    "date": "2026-08-19",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 环评 EPBC法案 昆士兰",
+    "company": "Windlab / Squadron Energy",
+    "title": "Windlab与Squadron Energy将昆士兰500MW光储项目提交联邦环评审批",
+    "summary": "Windlab与Squadron Energy已将Bungaban太阳能项目（500MW光伏配套500MW电池储能）提交澳大利亚联邦政府，申请EPBC法案环境评估，项目为其昆士兰Bungaban风电枢纽的扩容部分。 解读：Energy-Storage.News、PV Tech及IndexBox均独立报道该联邦环评申报，属于项目开发早期阶段，尚未获批、未有并网时间表，后续需跟踪环评结果及最终投资决定。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/windlab-and-squadron-energy-refer-500mw-solar-plus-storage-site-for-epbc-act-approval-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Windlab-Squadron Energy|Bungaban-昆士兰|500MW光伏+500MW储能|开发",
+    "id": "daily|2026-08-19|澳大利亚|Bungaban500MW环评申报",
+    "collectedAt": "2026-08-28T00:43:17Z"
+  },
+  {
+    "date": "2026-08-19",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 PPA 内华达州",
+    "company": "EDF power solutions / NV Energy",
+    "title": "EDF与NV Energy签署25年期400MW光伏+1600MWh储能PPA",
+    "summary": "EDF power solutions North America与内华达电力公司NV Energy签署两份25年期购电协议，覆盖内华达州Lyon County在建的Winston Energy项目，配置400MW交流侧光伏及400MW/1600MWh电池储能，预计2029年10月投运，年发电量约111万兆瓦时。 解读：项目细节由EDF官方新闻稿及PV Tech、pv magazine USA、Energy-Storage.News等多家行业媒体一致报道，属已签约、在建早期阶段的大型光储PPA，具体电价未披露。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/edf-ppas-nv-energy-solar-plus-storage-project-nevada/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|EDF power solutions-NV Energy|Winston Energy Project-Lyon County|400MW+1600MWh|PPA",
+    "id": "daily|2026-08-19|美国|Winston Energy Project PPA",
+    "collectedAt": "2026-08-28T00:43:17Z"
   },
   {
     "date": "2026-08-19",
