@@ -2,7 +2,67 @@
 
 Source: https://app.notion.com/p/1559a45f20e84a85a74b81cdc16fd4b5?v=410d4f8f8fa64fe39474bf14fae78ed2&source=copy_link
 
-Records: 18
+Records: 24
+
+## 晶科Sunny365推出交通场景光储一体化方案，覆盖机场、高铁站、加油站与高速公路
+
+- 日期: 2026-08-27
+- 国别: 多国/区域
+- 大类: 同行
+- 细分: 系统销售、储能、工商业光伏、智能微电网
+- 审核状态: 批准发布
+- 来源网站: https://www.pv-magazine.com/press-releases/jinkosolar-launches-sunny365-integrated-pv-storage-solutions-for-transportation/
+
+**主要内容**：JinkoSolar发布Sunny365交通场景光储一体化方案，将Tiger Neo 3.0组件、SunTera/SunGiga储能系统、AI调度算法和Jinko Cloud平台集成到机场、高铁站、加油站和高速公路等场景。方案给出标准化配置示例：中型机场15MW光伏+30MWh储能，大型机场30MW+60MWh，国际枢纽机场60MW+120MWh。
+
+**解读**：已确认事实：晶科正把Sunny365由单一产品扩展为场景化PV+ESS+软件的一体化系统销售方案。分析：这意味着竞争重点进一步从组件价格转向方案设计、储能、EMS与运维平台；但当前主要是产品/方案发布，需继续验证真实客户、订单规模、项目IRR和标准化方案在不同国家并网及消防规范下的可复制性。
+
+---
+
+## 中国1—7月电力市场交易电量同比增长23.4%，绿电交易量达1918亿千瓦时
+
+- 日期: 2026-08-27
+- 国别: 中国
+- 大类: 市场
+- 细分: 电力交易、绿电直连
+- 审核状态: 批准发布
+- 来源网站: https://www.nea.gov.cn/20260827/86a3984d71804083b3ddabc50d74068a/c.html
+
+**主要内容**：国家能源局披露，2026年7月全国各电力交易机构完成交易电量7404亿千瓦时，同比增长18.5%；1—7月累计交易电量44252亿千瓦时，同比增长23.4%。其中1—7月绿电交易电量1918亿千瓦时，同比增长5.6%，现货交易电量4898亿千瓦时。
+
+**解读**：已确认事实：全国市场化交易规模继续快速增长，绿电交易也保持正增长。分析：对零碳园区、绿电直连和工商业用户而言，市场化购电与绿电交易的可操作空间在扩大，但绿电增速明显低于总交易增速；后续需关注省间绿电交易、价格水平、结算规则及强制消费机制变化。
+
+---
+
+## 刚果（金）233MWp光伏+526MWh储能矿区项目投运，实现30MW以上24/7可调度基荷供电
+
+- 日期: 2026-08-27
+- 国别: 多国/区域
+- 大类: 市场
+- 细分: 集中式光伏、储能、离网光伏、智能微电网
+- 审核状态: 批准发布
+- 来源网站: https://www.energy-storage.news/africas-first-24-7-solar-baseload-power-plant-enabled-by-batteries-goes-online-at-drc-copper-mine/
+
+**主要内容**：CrossBoundary Energy为Kamoa Copper矿区开发的233MWp光伏+123MVA/526MWh BESS混合项目已达到商业运行。系统可向矿区提供至少30MW可调度基荷电力，并被称为非洲首个达到这一规模的24/7光储基荷项目；项目早期运行时光伏输出曾超过150MW。
+
+**解读**：已确认事实：项目已投运，并形成大规模矿山负荷下的光储连续供能案例。分析：这类模式对东非及非洲矿业、工业园区的离网/弱网C&I项目有很强参考价值，说明PV+BESS可从“削峰填谷”升级到合同化基荷供电；需重点核实PPA电价、95%可用率口径、柴油/电网备用比例、储能循环策略和全生命周期成本。
+
+---
+
+## 阳光电源200MW/400MWh储能项目并网投运，17天完成从交付到并网
+
+- 日期: 2026-08-26
+- 国别: 中国
+- 大类: 同行
+- 细分: 储能、电力交易、系统销售
+- 审核状态: 批准发布
+- 来源网站: https://www.prnewswire.co.uk/news-releases/200-mw400-mwh-energy-storage-project-accelerates-delivery-with-sungrows-full-chain-intelligent-delivery-302860275.html
+
+**主要内容**：阳光电源宣布一座200MW/400MWh储能项目正式并网投运，采用PowerTitan 3.0及600+Ah叠片电芯，并通过数字化交付平台实现17天并网；公司称调试流程由10天以上压缩至约1小时，系统高温运行能耗降低约10%。
+
+**解读**：已确认事实：项目已并网运行，产品与交付效率数据由阳光电源披露。分析：储能竞争正从设备参数扩展到交付效率、智能运维和交易软件，项目规模化复制能力成为新壁垒；需第三方验证17天交付口径、10%能耗下降和全生命周期收益。
+
+---
 
 ## 云南首个源网荷储一体化试点获并网接入批复，化工园区配置16万千瓦光伏+10万千瓦时储能
 
@@ -79,33 +139,48 @@ Records: 18
 
 ---
 
-## 阳光电源200MW/400MWh储能项目并网投运，17天完成从交付到并网
+## 美国发布电力系统设备国家安全行政令，可能限制部分境外逆变器、BESS及关键软件进入69kV以上电力系统
 
 - 日期: 2026-08-26
-- 国别: 中国
-- 大类: 同行
-- 细分: 储能、电力交易、系统销售
+- 国别: 美国
+- 大类: 政策
+- 细分: 储能、系统销售
 - 审核状态: 批准发布
-- 来源网站: https://www.prnewswire.co.uk/news-releases/200-mw400-mwh-energy-storage-project-accelerates-delivery-with-sungrows-full-chain-intelligent-delivery-302860275.html
+- 来源网站: https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system/
 
-**主要内容**：阳光电源宣布一座200MW/400MWh储能项目正式并网投运，采用PowerTitan 3.0及600+Ah叠片电芯，并通过数字化交付平台实现17天并网；公司称调试流程由10天以上压缩至约1小时，系统高温运行能耗降低约10%。
+**主要内容**：美国总统发布行政令，宣布针对外国生产的bulk-power system electric equipment进入美国市场的国家安全紧急状态。范围明确包括69kV及以上电力系统相关设备，以及utility-scale/grid-connected inverters、BESS、UPS、保护与控制设备及相关软件、固件和远程访问能力；能源部长将在120天内制定实施规则。
 
-**解读**：已确认事实：项目已并网运行，产品与交付效率数据由阳光电源披露。分析：储能竞争正从设备参数扩展到交付效率、智能运维和交易软件，项目规模化复制能力成为新壁垒；需第三方验证17天交付口径、10%能耗下降和全生命周期收益。
+**解读**：已确认事实：行政令已生效，但最终受限国家、企业和具体设备仍需后续规则确认。分析：这对中国逆变器、储能系统及数字化运维平台的美国大型项目准入构成潜在重大风险，竞争焦点将从关税/本地化进一步延伸到网络安全和供应链审查；短期不应把它解读为对所有外国设备的全面禁令，需等待Covered Foreign Entity认定和豁免/许可规则。
 
 ---
 
-## 天合富家与南网虚拟电厂平台完成调通，160万户分布式资产进入聚合交易场景
+## 英国正式允许800W即插即用光伏进入住宅市场，预计单户每年最高节省110英镑
+
+- 日期: 2026-08-26
+- 国别: 英国
+- 大类: 政策
+- 细分: 户用光伏、系统销售、分布式光伏
+- 审核状态: 批准发布
+- 来源网站: https://www.gov.uk/government/news/households-can-save-as-plug-in-solar-panels-come-to-market
+
+**主要内容**：英国政府宣布，自2026年8月27日起，符合临时产品规范的plug-in solar可在英国合法销售和使用。单套系统最高800W，政府估算可覆盖普通家庭最高约20%的用电量，并节省最高约110英镑/年；安装后仍需在28天内通知当地配电网运营商。
+
+**解读**：已确认事实：英国已建立即插即用光伏的合法产品通道和安全规范。分析：这可能形成新的低客单价、零安装门槛户用渠道，值得关注零售商、电商和微逆产品机会；但不能把政策开放等同于大规模市场爆发，关键仍是产品认证成本、住宅阳台/庭院条件、配电网通知流程和消费者对安全性的接受度。
+
+---
+
+## 印尼启动首批14个光伏项目，合计5.3GWp，其中4.55GWp已进入待招标项目池
 
 - 日期: 2026-08-25
-- 国别: 中国
-- 大类: 同行
-- 细分: 分布式光伏、户用光伏、电力交易、算电协同
+- 国别: 印尼
+- 大类: 市场
+- 细分: 集中式光伏、储能、系统销售
 - 审核状态: 批准发布
-- 来源网站: https://taiyangnews.info/markets/china-solar-pv-news-snippets-august-25-2026
+- 来源网站: https://www.antaranews.com/berita/5710505/menteri-bahlil-kapasitas-total-dari-14-proyek-plts-capai-53-gw
 
-**主要内容**：天合光能分布式业务平台天合富家与南方电网旗下虚拟电厂运营平台完成系统打通，将依托超过160万户分布式光伏资产开展低中压分布式资源聚合、储能与负荷协同及绿电交易。
+**主要内容**：印尼总统Prabowo于8月25日启动100GWp光伏计划的首批14个项目，合计5.3GWp。官方披露其中6个项目已准备招标，合计4,548.92MWp，包括Jatiluhur 1,688MWp、Cirata 1,250MWp、Jatigede 636MWp、Madura 605MWp光储项目、Bali 300MWp及Purwakarta 69MWp；另有项目处于groundbreaking、建设和投运阶段。14个项目总投资估算约Rp135万亿（约76亿美元）。
 
-**解读**：已确认事实：双方平台集成已完成，业务方向包括VPP聚合和交易。分析：天合正把户用光伏从单纯资产持有转向可交易的分布式能源资源池，竞争维度从组件/电站延伸至平台和电力交易；需进一步核实实际可调容量、首批接入区域、收益分配机制和交易规模。
+**解读**：已确认事实：印尼此前30GW/100GW政策目标已进一步落到具体项目清单和招标阶段，4.55GWp“ready-to-tender”比泛化装机目标更接近真实设备订单池。分析：未来重点应跟踪PLN正式招标文件、BESS配置、PPA/电价、TKDN本地化、融资及项目开发主体；“5.3GW为全球最大在建太阳能项目”的说法带有官方宣传口径，且并非14个项目全部同时开工，需按项目阶段分别判断。
 
 ---
 
@@ -139,33 +214,48 @@ Records: 18
 
 ---
 
-## 印尼启动首批14个光伏项目，合计5.3GWp，其中4.55GWp已进入待招标项目池
+## 天合富家与南网虚拟电厂平台完成调通，160万户分布式资产进入聚合交易场景
 
 - 日期: 2026-08-25
-- 国别: 印尼
-- 大类: 市场
-- 细分: 集中式光伏、储能、系统销售
+- 国别: 中国
+- 大类: 同行
+- 细分: 分布式光伏、户用光伏、电力交易、算电协同
 - 审核状态: 批准发布
-- 来源网站: https://www.antaranews.com/berita/5710505/menteri-bahlil-kapasitas-total-dari-14-proyek-plts-capai-53-gw
+- 来源网站: https://taiyangnews.info/markets/china-solar-pv-news-snippets-august-25-2026
 
-**主要内容**：印尼总统Prabowo于8月25日启动100GWp光伏计划的首批14个项目，合计5.3GWp。官方披露其中6个项目已准备招标，合计4,548.92MWp，包括Jatiluhur 1,688MWp、Cirata 1,250MWp、Jatigede 636MWp、Madura 605MWp光储项目、Bali 300MWp及Purwakarta 69MWp；另有项目处于groundbreaking、建设和投运阶段。14个项目总投资估算约Rp135万亿（约76亿美元）。
+**主要内容**：天合光能分布式业务平台天合富家与南方电网旗下虚拟电厂运营平台完成系统打通，将依托超过160万户分布式光伏资产开展低中压分布式资源聚合、储能与负荷协同及绿电交易。
 
-**解读**：已确认事实：印尼此前30GW/100GW政策目标已进一步落到具体项目清单和招标阶段，4.55GWp“ready-to-tender”比泛化装机目标更接近真实设备订单池。分析：未来重点应跟踪PLN正式招标文件、BESS配置、PPA/电价、TKDN本地化、融资及项目开发主体；“5.3GW为全球最大在建太阳能项目”的说法带有官方宣传口径，且并非14个项目全部同时开工，需按项目阶段分别判断。
+**解读**：已确认事实：双方平台集成已完成，业务方向包括VPP聚合和交易。分析：天合正把户用光伏从单纯资产持有转向可交易的分布式能源资源池，竞争维度从组件/电站延伸至平台和电力交易；需进一步核实实际可调容量、首批接入区域、收益分配机制和交易规模。
 
 ---
 
-## 泰国RATCH披露100亿泰铢投资计划，并将新能源开发与数据中心PPA同步推进
+## 沙特首批独立储能项目签署15年服务协议，4个项目合计2GW/8GWh、投资超11.6亿美元
+
+- 日期: 2026-08-25
+- 国别: 沙特阿拉伯
+- 大类: 市场
+- 细分: 储能、电力交易、系统销售
+- 审核状态: 批准发布
+- 来源网站: https://www.pv-magazine.com/2026/08/25/saudi-arabia-awards-1-16-billion-for-8-gwh-of-battery-storage/
+
+**主要内容**：Saudi Power Procurement Company首批独立储能项目完成授标并签署15年storage service agreements，4个项目各500MW/2,000MWh，合计2GW/8GWh，总投资超过11.6亿美元。项目采用BOO模式，由ACWA Power联合体获得3个项目，ENGIE联合体获得1个项目。
+
+**解读**：已确认事实：沙特已将大规模储能从招标推进到长期服务合同阶段。分析：15年容量/服务型合同为BESS融资提供了较强可预测性，是中国储能系统商、PCS和EPC企业值得重点跟踪的商业模式；需进一步确认设备供应商、可用率/性能罚则、容量衰减责任、融资成本及本地化要求。
+
+---
+
+## 泰国拟对光伏组件、逆变器和太阳能储能电池实施新的标签合规要求
 
 - 日期: 2026-08-24
 - 国别: 泰国
-- 大类: 市场
-- 细分: 集中式光伏、AIDC、电力交易、零碳园区
+- 大类: 政策
+- 细分: 分布式光伏、储能、系统销售、户用光伏、工商业光伏
 - 审核状态: 批准发布
-- 来源网站: https://www.ratch.co.th/en/updates/company-news/1531/ratch-group-prepares-investment-plans-in-thailand-and-indonesia-allocates-thb-10-billion-investment-budget-two-renewable-energy-projects-scheduled-to-commence-commercial-operations-this-year
+- 来源网站: https://thelegal.co.th/2026/08/24/consumer-protection-proposed-labeling-rules-for-solar-panels-inverters-and-energy-storage-batteries/
 
-**主要内容**：RATCH Group披露2026年投资预算THB10bn，并计划参与泰国社区光伏、太阳能电站、风电等项目，同时关注印尼RUPTL投资机会。其菲律宾NPSI太阳能项目预计年内商业运行，RATCH权益容量71.05MW。上半年公司已通过子公司与泰国数据中心客户签署/达成三份供电协议：Chonburi SAHA Group Industrial Park 60MW，Nava Nakorn工业园48MW和20MW。
+**主要内容**：泰国消费者保护委员会办公室相关草案正就光伏组件、光伏逆变器及太阳能储能电池的标签要求征求意见，咨询期为2026年8月13日至27日。若正式生效，将影响制造商、进口商、分销商、经销商、安装商及屋顶光伏/储能系统供应商的产品标识和合规流程。
 
-**解读**：已确认事实：RATCH正在同时推进新能源资产和数据中心用电业务，AIDC负荷已形成约128MW合同电力需求。分析：这说明泰国工业园区/数据中心的用电服务正在成为传统发电商的新增长点，但当前披露的128MW并未证明全部由可再生能源供给，不能直接等同于“绿色PPA”；后续需核实电源结构、合同期限、电价、绿证/REC安排，以及这些数据中心PPA是否会反向拉动新增太阳能+BESS项目。
+**解读**：已确认事实：目前处于公开征求意见阶段，尚不是最终生效规则。分析：若规则落地，将增加泰国分布式光储产品进入市场时的标签、文件和渠道合规要求，尤其值得系统销售和本地进口主体提前准备。关键待核实项包括最终公告文本、生效日期、泰文标签要求、技术信息字段、过渡期及违规处罚。
 
 ---
 
@@ -184,18 +274,18 @@ Records: 18
 
 ---
 
-## 泰国拟对光伏组件、逆变器和太阳能储能电池实施新的标签合规要求
+## 泰国RATCH披露100亿泰铢投资计划，并将新能源开发与数据中心PPA同步推进
 
 - 日期: 2026-08-24
 - 国别: 泰国
-- 大类: 政策
-- 细分: 分布式光伏、储能、系统销售、户用光伏、工商业光伏
+- 大类: 市场
+- 细分: 集中式光伏、AIDC、电力交易、零碳园区
 - 审核状态: 批准发布
-- 来源网站: https://thelegal.co.th/2026/08/24/consumer-protection-proposed-labeling-rules-for-solar-panels-inverters-and-energy-storage-batteries/
+- 来源网站: https://www.ratch.co.th/en/updates/company-news/1531/ratch-group-prepares-investment-plans-in-thailand-and-indonesia-allocates-thb-10-billion-investment-budget-two-renewable-energy-projects-scheduled-to-commence-commercial-operations-this-year
 
-**主要内容**：泰国消费者保护委员会办公室相关草案正就光伏组件、光伏逆变器及太阳能储能电池的标签要求征求意见，咨询期为2026年8月13日至27日。若正式生效，将影响制造商、进口商、分销商、经销商、安装商及屋顶光伏/储能系统供应商的产品标识和合规流程。
+**主要内容**：RATCH Group披露2026年投资预算THB10bn，并计划参与泰国社区光伏、太阳能电站、风电等项目，同时关注印尼RUPTL投资机会。其菲律宾NPSI太阳能项目预计年内商业运行，RATCH权益容量71.05MW。上半年公司已通过子公司与泰国数据中心客户签署/达成三份供电协议：Chonburi SAHA Group Industrial Park 60MW，Nava Nakorn工业园48MW和20MW。
 
-**解读**：已确认事实：目前处于公开征求意见阶段，尚不是最终生效规则。分析：若规则落地，将增加泰国分布式光储产品进入市场时的标签、文件和渠道合规要求，尤其值得系统销售和本地进口主体提前准备。关键待核实项包括最终公告文本、生效日期、泰文标签要求、技术信息字段、过渡期及违规处罚。
+**解读**：已确认事实：RATCH正在同时推进新能源资产和数据中心用电业务，AIDC负荷已形成约128MW合同电力需求。分析：这说明泰国工业园区/数据中心的用电服务正在成为传统发电商的新增长点，但当前披露的128MW并未证明全部由可再生能源供给，不能直接等同于“绿色PPA”；后续需核实电源结构、合同期限、电价、绿证/REC安排，以及这些数据中心PPA是否会反向拉动新增太阳能+BESS项目。
 
 ---
 
@@ -244,21 +334,6 @@ Records: 18
 
 ---
 
-## 马来西亚更新住宅屋顶光伏净计量规则，明确NEM Rakyat系统容量与并网要求
-
-- 日期: 2026-08-19
-- 国别: 马来西亚
-- 大类: 政策
-- 细分: 分布式光伏、户用光伏、系统销售
-- 审核状态: 批准发布
-- 来源网站: https://www.st.gov.my/resources/guidelines-solar-photovoltaic-installation-under-programme-nem-rakyat-and-nem-gomen
-
-**主要内容**：马来西亚能源委员会（Suruhanjaya Tenaga）于2026年8月19日发布《Guidelines For Solar Photovoltaic Installation Under The Programme Of NEM Rakyat And NEM GoMEn In Peninsular Malaysia》Rev.1 2026，明确NEM Rakyat与NEM GoMEn的申请、容量和并网技术要求。住宅NEM Rakyat单相系统上限为5kWac、三相为12.5kWac；相关项目仍需满足技术及网络条件。
-
-**解读**：已确认事实：能源委员会官网将该指引列为2026年8月19日正式发布的太阳能法规资源。分析：规则进一步标准化住宅屋顶光伏准入和并网边界，对安装商、组件/逆变器渠道和户用系统销售具有直接意义；但仍需继续核对配额余额、结算机制、TNB实际并网审批速度及与后续户用政策的衔接。
-
----
-
 ## 印尼17.8kWp太阳能冷库验证农业生产性离网用能场景
 
 - 日期: 2026-08-19
@@ -271,5 +346,20 @@ Records: 18
 **主要内容**：印尼IPB University启用Tri-Chamber Solar PV Cold Storage，配置44块405Wp组件、约17.8kWp光伏，用于农业产品冷链，德国发展合作机构及相关企业参与。
 
 **解读**：项目容量虽小，但验证了cold storage、irrigation、agri-processing等productive-use solar场景。这类客户有明确生产收益和柴油/产品损耗替代价值，商业支付能力通常优于纯户用SHS。需继续验证储能配置、冷负荷、柴油替代比例、回收期和规模化复制能力。
+
+---
+
+## 马来西亚更新住宅屋顶光伏净计量规则，明确NEM Rakyat系统容量与并网要求
+
+- 日期: 2026-08-19
+- 国别: 马来西亚
+- 大类: 政策
+- 细分: 分布式光伏、户用光伏、系统销售
+- 审核状态: 批准发布
+- 来源网站: https://www.st.gov.my/resources/guidelines-solar-photovoltaic-installation-under-programme-nem-rakyat-and-nem-gomen
+
+**主要内容**：马来西亚能源委员会（Suruhanjaya Tenaga）于2026年8月19日发布《Guidelines For Solar Photovoltaic Installation Under The Programme Of NEM Rakyat And NEM GoMEn In Peninsular Malaysia》Rev.1 2026，明确NEM Rakyat与NEM GoMEn的申请、容量和并网技术要求。住宅NEM Rakyat单相系统上限为5kWac、三相为12.5kWac；相关项目仍需满足技术及网络条件。
+
+**解读**：已确认事实：能源委员会官网将该指引列为2026年8月19日正式发布的太阳能法规资源。分析：规则进一步标准化住宅屋顶光伏准入和并网边界，对安装商、组件/逆变器渠道和户用系统销售具有直接意义；但仍需继续核对配额余额、结算机制、TNB实际并网审批速度及与后续户用政策的衔接。
 
 ---
