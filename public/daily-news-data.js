@@ -1,6 +1,28 @@
 window.DAILY_NEWS_DATA=[
   {
     "date": "2026-08-27",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "储能",
+      "分布式"
+    ],
+    "tags": "储能 分布式 社区储能 新南威尔士",
+    "company": "Ausconnex（Endeavour Energy）",
+    "title": "Ausconnex在悉尼西部启动8座社区储能电站建设",
+    "summary": "Ausconnex（隶属Endeavour Energy集团）宣布，其在大悉尼西部规划的8座社区电池储能系统（BESS）项目已启动建设，首个动工的Penrith站点由新州气候变化与能源部长Penny Sharpe及Penrith选区议员Karen McKeown共同举行破土仪式。Penrith中压BESS将提供约5MW功率、17MWh容量，8座电池项目分布于Penrith、South Marsden Park、Seven Hills、Emu Plains、Maldon、North Leppington、Cawdor和Cranebrook，合计约40MW/136MWh，可为约4万户家庭提供最长3小时供电，项目为私人投资、总额超6500万澳元。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/ausconnex-starts-construction-on-au65-million-community-battery-programme-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Ausconnex-Endeavour Energy|悉尼西部社区储能8座|6500万澳元|开发",
+    "id": "daily|2026-08-27|澳大利亚|Ausconnex西悉尼社区储能开工",
+    "collectedAt": "2026-08-29T00:46:03Z"
+  },
+  {
+    "date": "2026-08-27",
     "country": "中国",
     "geo": "中国",
     "category": "市场信息",
@@ -114,6 +136,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-08-28T08:43:45.281Z",
     "notionPageId": "3caabced5dee81f8aaafd133a92dde6d",
     "fingerprint": "notion|cb55dba39cbec61d8439"
+  },
+  {
+    "date": "2026-08-26",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "市场数据",
+    "businessTags": [
+      "绿电",
+      "交易"
+    ],
+    "tags": "绿电 交易 绿证 国家能源局",
+    "company": "国家能源局",
+    "title": "国家能源局：7月核发绿证3.06亿个，交易5468万个",
+    "summary": "国家能源局公布数据显示，2026年7月全国核发绿证3.06亿个，涉及可再生能源发电项目122.49万个，其中可交易绿证1.79亿个，占比58.56%。当月全国交易绿证5468万个，其中绿色电力交易绿证2578万个。分电量生产年份看，2024年绿证均价0.83元/个，2025年绿证均价3.26元/个，2026年绿证均价6.1元/个，价格随电量生产年份临近呈上升趋势。",
+    "sourceName": "中国新闻网",
+    "sourceUrl": "https://www.chinanews.com.cn/cj/2026/08-26/10684646.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|7月绿证核发交易数据|3.06亿个|市场数据",
+    "id": "daily|2026-08-26|中国|7月绿证核发交易数据",
+    "collectedAt": "2026-08-29T00:46:03Z"
   },
   {
     "date": "2026-08-26",
