@@ -1,5 +1,29 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-08-29",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "户用光伏",
+      "分布式光伏",
+      "系统销售"
+    ],
+    "tags": "户用光伏 分布式光伏 系统销售 户用光伏 分布式光伏 系统销售",
+    "company": "泰国政策机构",
+    "title": "泰国拟将家庭屋顶光伏购电配额从100MW提高至500MW，并缩短审批、延长购电合同",
+    "summary": "泰国能源部拟将家庭屋顶光伏售电配额由100MW提高至500MW，推动居民由单纯用电者转为“产消者（prosumer）”。拟允许单户最高约5kW，并计划优化配额分配、缩短审批流程和延长余电购电合同。 解读：能源部长公开提出将家庭屋顶光伏购电额度扩大至500MW，并强调简化审批。将直接扩大泰国户用系统、微逆/组串逆变器及小型储能的可服务市场，也会提升标准化安装商和渠道商价值。",
+    "sourceName": "nationthailand.com",
+    "sourceUrl": "https://www.nationthailand.com/sustaination/40070423",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3ccabced5dee818e8905d0da2d7faae7",
+    "collectedAt": "2026-08-30T07:44:48.922Z",
+    "notionPageId": "3ccabced5dee818e8905d0da2d7faae7",
+    "fingerprint": "notion|97bd511ebb45a0b284fc"
+  },
+  {
     "date": "2026-08-28",
     "country": "中国",
     "geo": "中国",
@@ -185,6 +209,51 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-08-29T08:31:59.290Z",
     "notionPageId": "3cbabced5dee81ebb0d0da0fb48ee168",
     "fingerprint": "notion|93bae4bec144242670fb"
+  },
+  {
+    "date": "2026-08-28",
+    "country": "多国/区域",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 集中式光伏 储能",
+    "company": "多国/区域项目主体",
+    "title": "加拿大Red Willow 225MWac光伏+100MW储能项目签署股权出售协议，最高应收约2672.5万加元",
+    "summary": "Westbridge Renewable Energy签署Red Willow Solar Inc.全部股权出售协议。项目位于加拿大阿尔伯塔省，规划最高225MWac光伏并配100MW BESS，已获得AUC电站、储能及变电站相关审批并进入AESO并网流程。按里程碑全部实现计算，Westbridge应收总额预计约2672.5万加元，包括交割现金、担保金补偿以及光伏/BESS商业运行节点付款。 解读：项目已进入签署SPA后的资产变现阶段，交易采用“交割款+COD里程碑款”结构。该案例对新能源项目开发—降险—出售模式具有参考价值，说明已取得许可和并网位置的光储项目具有可变现价值。交易仍受交割条件和监管批准约束，且未披露买方、项目最终CAPEX、PPA及实际开发利润率；2672.5万加元是潜在应收总额而非当期现金回款。",
+    "sourceName": "westbridge.energy",
+    "sourceUrl": "https://www.westbridge.energy/westbridge-announces-definitive-agreement-for-the-sale-of-red-willow-solar-project-and-highlights-improving-market-fundamentals-in-alberta-and-growing-ai-driven-demand-across-north-america",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3ccabced5dee8166aecffe5c09991b94",
+    "collectedAt": "2026-08-30T07:44:48.922Z",
+    "notionPageId": "3ccabced5dee8166aecffe5c09991b94",
+    "fingerprint": "notion|45c5c2f38bbaa97f1deb"
+  },
+  {
+    "date": "2026-08-28",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式光伏",
+    "company": "菲律宾项目主体",
+    "title": "菲律宾ACEN与Yanara为75MW光伏项目获得23亿比索项目融资",
+    "summary": "ACEN与Yanara为菲律宾一座75MW太阳能项目获得约23亿菲律宾比索（约3690万美元）项目融资，用于推进项目建设。该融资显示菲律宾本地金融机构对在建光伏资产的融资支持仍在增强。 解读：对东南亚项目开发而言，financial close比单纯签约更接近EPC和组件等采购释放节点，也反映菲律宾光伏项目的本地债务融资可得性。当前公开信息未充分披露贷款期限、利率、DSCR、PPA/GEA电价、EPC及组件供应商，需进一步核验融资结构和项目回报。",
+    "sourceName": "renewablesnow.com",
+    "sourceUrl": "https://renewablesnow.com/projects/capacity",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3ccabced5dee81fc872bf3bb32979523",
+    "collectedAt": "2026-08-30T07:44:48.922Z",
+    "notionPageId": "3ccabced5dee81fc872bf3bb32979523",
+    "fingerprint": "notion|4fb69cfea51c3acb341e"
   },
   {
     "date": "2026-08-27",
