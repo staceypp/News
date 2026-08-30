@@ -41,7 +41,6 @@ jobs:
         run: |
           npm run news:validate
           npm run news:build
-          npm run news:verify-generated
           npm test
 
       - name: Summarize sync

@@ -52,7 +52,9 @@ const COUNTRY_GEO = new Map([
 
 const BUSINESS_TAG_MAP = new Map([
   ["集中式光伏", "集中式"],
+  ["集中式", "集中式"],
   ["分布式光伏", "分布式"],
+  ["分布式", "分布式"],
   ["工商业光伏", "分布式"],
   ["户用光伏", "户用光伏"],
   ["储能", "储能"],
@@ -162,6 +164,14 @@ function fingerprint(record) {
   return `notion|${crypto.createHash("sha256").update(raw).digest("hex").slice(0, 20)}`;
 }
 
+// Notion's API returns page IDs as dashed UUIDs (e.g. "3caabced-5dee-8145-...").
+// Historical records in data/news.json store the compact, dash-free form, so
+// normalize on read to keep re-syncs idempotent regardless of which format the
+// API happens to return.
+function normalizePageId(id) {
+  return String(id ?? "").replace(/-/g, "");
+}
+
 export function mapNotionPage(page, config, collectedAt = new Date().toISOString()) {
   const status = propertyValue(page, ["审核状态", "Select"]);
   if (status !== APPROVED) return { skipped: "审核状态不是批准发布" };
@@ -213,9 +223,9 @@ export function mapNotionPage(page, config, collectedAt = new Date().toISOString
     sourceUrl: url,
     sourceType: "notion-approved",
     sourceSheet: `Notion·${config.label}`,
-    id: `notion|${page.id}`,
+    id: `notion|${normalizePageId(page.id)}`,
     collectedAt,
-    notionPageId: page.id,
+    notionPageId: normalizePageId(page.id),
   };
   record.fingerprint = fingerprint(record);
   return { record };
