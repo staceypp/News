@@ -7,10 +7,10 @@ window.DAILY_NEWS_DATA=[
     "eventType": "政策",
     "businessTags": [
       "户用光伏",
-      "分布式光伏",
+      "分布式",
       "系统销售"
     ],
-    "tags": "户用光伏 分布式光伏 系统销售 户用光伏 分布式光伏 系统销售",
+    "tags": "户用光伏 分布式 系统销售 户用光伏 分布式光伏 系统销售",
     "company": "泰国政策机构",
     "title": "泰国拟将家庭屋顶光伏购电配额从100MW提高至500MW，并缩短审批、延长购电合同",
     "summary": "泰国能源部拟将家庭屋顶光伏售电配额由100MW提高至500MW，推动居民由单纯用电者转为“产消者（prosumer）”。拟允许单户最高约5kW，并计划优化配额分配、缩短审批流程和延长余电购电合同。 解读：能源部长公开提出将家庭屋顶光伏购电额度扩大至500MW，并强调简化审批。将直接扩大泰国户用系统、微逆/组串逆变器及小型储能的可服务市场，也会提升标准化安装商和渠道商价值。",
@@ -25,7 +25,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-28",
-    "country": "中国",
+    "country": "北京",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -43,11 +43,33 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|3cbabced5dee8101baf9f4b33c63a87e",
     "collectedAt": "2026-08-29T08:31:59.290Z",
     "notionPageId": "3cbabced5dee8101baf9f4b33c63a87e",
-    "fingerprint": "notion|d9509e407f6f6880abcc"
+    "fingerprint": "notion|892e74108da331cc5dd9"
   },
   {
     "date": "2026-08-28",
-    "country": "中国",
+    "country": "浙江",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 浙江",
+    "company": "浙江政策机构",
+    "title": "浙江发布电网侧独立储能参与电力市场通知（征求意见）",
+    "summary": "浙江电力交易中心发布电网侧独立储能参与电力市场的通知（征求意见），覆盖40个电网侧储能项目，合计2.54GW/5.1GWh。已商运的统调电网侧独立新型储能可参与现货电能量市场和调频辅助服务市场，商运但非统调项目仅可参与现货市场，未投运项目暂不能参与；通知明确了注册、准入、申报及结算等具体流程，并列出34个已投运项目及浙江恒发新能源等相关企业。 解读：征求意见稿把独立储能收益机制进一步推向现货与调频市场，但不同调度属性项目的准入范围存在差异。项目价值将更多取决于现货价差、调频调用频次、可用率及结算细则，后续需关注正式文件和实际出清结果。",
+    "sourceName": "cnesa.org",
+    "sourceUrl": "https://www.cnesa.org/policy/detail/?column_id=6&id=8516",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3cbabced5dee811ab4b7cc28cf566eeb",
+    "collectedAt": "2026-08-30T14:13:18.903Z",
+    "notionPageId": "3cbabced5dee811ab4b7cc28cf566eeb",
+    "fingerprint": "notion|963f925511608a261331"
+  },
+  {
+    "date": "2026-08-28",
+    "country": "山东",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -65,7 +87,7 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|3cbabced5dee812ea8a8f2f49a019b4c",
     "collectedAt": "2026-08-29T08:31:59.290Z",
     "notionPageId": "3cbabced5dee812ea8a8f2f49a019b4c",
-    "fingerprint": "notion|4889b42fcd7c033925c5"
+    "fingerprint": "notion|ca565a09f6370edd48dc"
   },
   {
     "date": "2026-08-28",
@@ -118,6 +140,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-28",
+    "country": "安徽",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "投资",
+    "businessTags": [
+      "零碳园区"
+    ],
+    "tags": "零碳园区 零碳园区 安徽",
+    "company": "安徽相关企业",
+    "title": "港华智慧能源携手奇瑞得壹能源、安徽枞阳县共建零碳制造标杆项目",
+    "summary": "港华智慧能源与奇瑞汽车、安徽枞阳县签约源网荷储一体化项目，为奇瑞铜陵得壹电池基地配套建设风电、光伏及储能设施，遵循“以荷定源”原则规划设计，旨在提供绿色电力、降低用电成本并满足出口碳足迹要求，打造华东地区零碳工业标杆项目。 解读：该项目以制造业稳定负荷和出口碳足迹需求为牵引，具备复制为园区级综合能源方案的潜力。实际降本效果取决于绿电直供或交易机制、源荷匹配度、储能利用率、接网条件及项目投资边界。",
+    "sourceName": "escn.com.cn",
+    "sourceUrl": "https://www.escn.com.cn/news/show-2267887.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3cbabced5dee819aab6fe3733e38d266",
+    "collectedAt": "2026-08-30T14:13:18.903Z",
+    "notionPageId": "3cbabced5dee819aab6fe3733e38d266",
+    "fingerprint": "notion|ebfe3ca8641e5bca105f"
+  },
+  {
+    "date": "2026-08-28",
     "country": "肯尼亚",
     "geo": "非洲",
     "category": "市场信息",
@@ -141,7 +185,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-28",
-    "country": "中国",
+    "country": "山东",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -159,7 +203,7 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|3cbabced5dee81c6a401fc090505aa83",
     "collectedAt": "2026-08-29T08:31:59.290Z",
     "notionPageId": "3cbabced5dee81c6a401fc090505aa83",
-    "fingerprint": "notion|f62f7c9005dc73c039f1"
+    "fingerprint": "notion|774804a389311cdf9e3b"
   },
   {
     "date": "2026-08-28",
@@ -168,10 +212,10 @@ window.DAILY_NEWS_DATA=[
     "category": "市场信息",
     "eventType": "收购",
     "businessTags": [
-      "分布式光伏",
+      "分布式",
       "系统销售"
     ],
-    "tags": "分布式光伏 系统销售 分布式光伏 工商业光伏 系统销售",
+    "tags": "分布式 系统销售 分布式光伏 工商业光伏 系统销售",
     "company": "越南项目主体",
     "title": "Skye Renewables收购Fourth Partner Energy越南C&I屋顶光伏业务，后者完成越南市场退出",
     "summary": "Skye Renewables收购Fourth Partner Energy在越南的业务，交易覆盖其为Delta Galil、Freewell、Vinsmart、Tuico和KYT等企业客户建设的全部屋顶光伏项目，并接收相关执行团队。Fourth Partner Energy由此完成对越南市场的全面退出；Skye计划继续扩大越南并拓展马来西亚、新加坡和菲律宾市场。 解读：交易涉及现有C&I屋顶光伏资产、客户和团队整体转移。东南亚C&I光伏正在出现资产组合并购与平台整合，说明市场竞争从单项目开发转向存量资产、客户关系和区域运营平台。",
@@ -183,6 +227,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-08-29T14:07:12.981Z",
     "notionPageId": "3cbabced5dee81d79e35e97b2f329c7f",
     "fingerprint": "notion|97210d0dd0e92686b362"
+  },
+  {
+    "date": "2026-08-28",
+    "country": "江苏",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 江苏",
+    "company": "江苏相关企业",
+    "title": "江苏如皋120MW渔光互补光伏项目签约落地",
+    "summary": "江苏省如皋市吴窑镇人民政府与中节能太阳能华东区正式签署120MW渔光互补光伏发电项目投资协议，采用“水上光伏发电、水下渔业养殖”复合模式，利用坑塘水面资源实现新能源开发与水产养殖协同发展，推动新能源产业与传统农业融合。 解读：签署投资协议说明项目进入前期推进阶段，项目落地仍取决于水面权属、用地用水及环保审批、接网消纳、养殖兼容性和收益分配机制。",
+    "sourceName": "news.solarbe.com",
+    "sourceUrl": "https://news.solarbe.com/202608/28/50028272.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3cbabced5dee81e0b2f8e4a98f998b4a",
+    "collectedAt": "2026-08-30T14:13:18.903Z",
+    "notionPageId": "3cbabced5dee81e0b2f8e4a98f998b4a",
+    "fingerprint": "notion|744e06bedf41c9404df7"
   },
   {
     "date": "2026-08-28",
@@ -279,7 +345,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-27",
-    "country": "中国",
+    "country": "辽宁",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "投运",
@@ -287,7 +353,7 @@ window.DAILY_NEWS_DATA=[
       "算电协同"
     ],
     "tags": "算电协同 算电协同 辽宁",
-    "company": "中国项目主体",
+    "company": "辽宁项目主体",
     "title": "阜新绿电智算中心主体封顶，计划年底前投运",
     "summary": "联通阜新绿电智算中心项目主体结构已封顶，计划于2026年底前投入运营。当地同步推进160万千瓦风电和60万千瓦储能电站等重点项目，目标是新能源装机突破1,000万千瓦，并提出建设“京津冀—阜新”算力协同通道。政府发布未披露智算中心的IT负荷、绿电直供比例、储能配置、投资额及客户上架进度。 解读：主体封顶意味着项目进入机电安装与并网投运准备阶段，但尚不能等同于形成有效算力或绿电交易。若风电、储能和智算中心的时序及接网/交易机制能够打通，项目可成为辽西承接京津冀算力外溢的算电协同案例；关键不确定性是负荷利用率和绿电保障的可核验安排。",
     "sourceName": "lyt.ln.gov.cn",
@@ -297,7 +363,7 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|3caabced5dee8138856fded2a31cadd3",
     "collectedAt": "2026-08-28T08:43:45.281Z",
     "notionPageId": "3caabced5dee8138856fded2a31cadd3",
-    "fingerprint": "notion|32e8db954286fcd586d0"
+    "fingerprint": "notion|91e5e04a109c4dbe72fc"
   },
   {
     "date": "2026-08-27",
@@ -331,10 +397,10 @@ window.DAILY_NEWS_DATA=[
     "businessTags": [
       "系统销售",
       "储能",
-      "分布式光伏",
+      "分布式",
       "微电网"
     ],
-    "tags": "系统销售 储能 分布式光伏 微电网 系统销售 储能 工商业光伏 智能微电网",
+    "tags": "系统销售 储能 分布式 微电网 系统销售 储能 工商业光伏 智能微电网",
     "company": "晶科",
     "title": "晶科Sunny365推出交通场景光储一体化方案，覆盖机场、高铁站、加油站与高速公路",
     "summary": "JinkoSolar发布Sunny365交通场景光储一体化方案，将Tiger Neo 3.0组件、SunTera/SunGiga储能系统、AI调度算法和Jinko Cloud平台集成到机场、高铁站、加油站和高速公路等场景。方案给出标准化配置示例：中型机场15MW光伏+30MWh储能，大型机场30MW+60MWh，国际枢纽机场60MW+120MWh。 解读：晶科正把Sunny365由单一产品扩展为场景化PV+ESS+软件的一体化系统销售方案。这意味着竞争重点进一步从组件价格转向方案设计、储能、EMS与运维平台；但当前主要是产品/方案发布，需继续验证真实客户、订单规模、项目IRR和标准化方案在不同国家并网及消防规范下的可复制性。",
@@ -403,12 +469,12 @@ window.DAILY_NEWS_DATA=[
     "eventType": "政策",
     "businessTags": [
       "集中式",
-      "分布式光伏",
+      "分布式",
       "储能",
       "零碳园区",
       "微电网"
     ],
-    "tags": "集中式 分布式光伏 储能 零碳园区 微电网 集中式光伏 分布式光伏 储能 零碳园区 智能微电网",
+    "tags": "集中式 分布式 储能 零碳园区 微电网 集中式光伏 分布式光伏 储能 零碳园区 智能微电网",
     "company": "国家能源局",
     "title": "云南首个源网荷储一体化试点获并网接入批复，化工园区配置16万千瓦光伏+10万千瓦时储能",
     "summary": "国家能源局云南监管办公室披露，红河州开远市化工园区源网荷储一体化项目已获并网接入批复。项目配置13万千瓦集中式光伏、3万千瓦分布式光伏、4万千瓦风电、5万千瓦/10万千瓦时储能，并配套220千伏总降变，依托50万吨合成氨负荷形成源网荷储闭环，新能源综合利用率目标不低于90%。 解读：项目已取得并网接入批复，云南首个源网荷储试点由政策阶段进入可实施阶段。化工园区高负荷+光伏+储能+专用变电设施的组合，对零碳园区、工业微电网和系统集成具有示范意义。需继续核实总投资、建设时序、储能收益机制、市场交易方式及并网批复中的技术边界。",
@@ -423,7 +489,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-26",
-    "country": "中国",
+    "country": "上海",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -441,7 +507,7 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|3c9abced5dee810cb341d31fab225b3c",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "3c9abced5dee810cb341d31fab225b3c",
-    "fingerprint": "notion|c5eaa3930d378071e4cb"
+    "fingerprint": "notion|18f433e11c31e325c44d"
   },
   {
     "date": "2026-08-26",
@@ -513,7 +579,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-26",
-    "country": "中国",
+    "country": "山西",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "投资",
@@ -521,7 +587,7 @@ window.DAILY_NEWS_DATA=[
       "微电网"
     ],
     "tags": "微电网 智能微电网 山西",
-    "company": "中国项目主体",
+    "company": "山西项目主体",
     "title": "山西襄垣50MW源网荷储项目进入全容量调试，绿电跨26公里直供园区",
     "summary": "项目一期配置50MW光伏和7MW/28MWh锂电池储能，所发绿电通过约26公里线路直供襄垣经开区企业，金烨焦化、钰鑫农业为首批用户。园区110kV公用变电站已投用，虚拟电厂算力系统和增量配电集控系统同步建成；项目目前尚处于全容量调试和试运行阶段。 解读：项目已进入调试试运行，具备绿电直供、储能与增量配电协同特征；但结算电价、自用比例、接网容量及投资额尚未披露，经济性仍待运行验证。",
     "sourceName": "changzhi.gov.cn",
@@ -531,7 +597,7 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|3c9abced5dee818b8cd6e674bc7f8bbb",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "3c9abced5dee818b8cd6e674bc7f8bbb",
-    "fingerprint": "notion|243433f846a836280547"
+    "fingerprint": "notion|7925ef53cbe0989dcc06"
   },
   {
     "date": "2026-08-26",
@@ -614,9 +680,9 @@ window.DAILY_NEWS_DATA=[
     "businessTags": [
       "户用光伏",
       "系统销售",
-      "分布式光伏"
+      "分布式"
     ],
-    "tags": "户用光伏 系统销售 分布式光伏 户用光伏 系统销售 分布式光伏",
+    "tags": "户用光伏 系统销售 分布式 户用光伏 系统销售 分布式光伏",
     "company": "英国政策机构",
     "title": "英国正式允许800W即插即用光伏进入住宅市场，预计单户每年最高节省110英镑",
     "summary": "英国政府宣布，自2026年8月27日起，符合临时产品规范的plug-in solar可在英国合法销售和使用。单套系统最高800W，政府估算可覆盖普通家庭最高约20%的用电量，并节省最高约110英镑/年；安装后仍需在28天内通知当地配电网运营商。 解读：英国已建立即插即用光伏的合法产品通道和安全规范。这可能形成新的低客单价、零安装门槛户用渠道，值得关注零售商、电商和微逆产品机会；但不能把政策开放等同于大规模市场爆发，关键仍是产品认证成本、住宅阳台/庭院条件、配电网通知流程和消费者对安全性的接受度。",
@@ -661,12 +727,12 @@ window.DAILY_NEWS_DATA=[
     "category": "同行动态",
     "eventType": "市场动态",
     "businessTags": [
-      "分布式光伏",
+      "分布式",
       "户用光伏",
       "电力交易",
       "算电协同"
     ],
-    "tags": "分布式光伏 户用光伏 电力交易 算电协同 分布式光伏 户用光伏 电力交易 算电协同",
+    "tags": "分布式 户用光伏 电力交易 算电协同 分布式光伏 户用光伏 电力交易 算电协同",
     "company": "天合光能",
     "title": "天合富家与南网虚拟电厂平台完成调通，160万户分布式资产进入聚合交易场景",
     "summary": "天合光能分布式业务平台天合富家与南方电网旗下虚拟电厂运营平台完成系统打通，将依托超过160万户分布式光伏资产开展低中压分布式资源聚合、储能与负荷协同及绿电交易。 解读：双方平台集成已完成，业务方向包括VPP聚合和交易。天合正把户用光伏从单纯资产持有转向可交易的分布式能源资源池，竞争维度从组件/电站延伸至平台和电力交易；需进一步核实实际可调容量、首批接入区域、收益分配机制和交易规模。",
@@ -783,12 +849,12 @@ window.DAILY_NEWS_DATA=[
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
-      "分布式光伏",
+      "分布式",
       "储能",
       "系统销售",
       "户用光伏"
     ],
-    "tags": "分布式光伏 储能 系统销售 户用光伏 分布式光伏 储能 系统销售 户用光伏 工商业光伏",
+    "tags": "分布式 储能 系统销售 户用光伏 分布式光伏 储能 系统销售 户用光伏 工商业光伏",
     "company": "泰国政策机构",
     "title": "泰国拟对光伏组件、逆变器和太阳能储能电池实施新的标签合规要求",
     "summary": "泰国消费者保护委员会办公室相关草案正就光伏组件、光伏逆变器及太阳能储能电池的标签要求征求意见，咨询期为2026年8月13日至27日。若正式生效，将影响制造商、进口商、分销商、经销商、安装商及屋顶光伏/储能系统供应商的产品标识和合规流程。 解读：目前处于公开征求意见阶段，尚不是最终生效规则。若规则落地，将增加泰国分布式光储产品进入市场时的标签、文件和渠道合规要求，尤其值得系统销售和本地进口主体提前准备。",
@@ -833,10 +899,10 @@ window.DAILY_NEWS_DATA=[
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
-      "分布式光伏",
+      "分布式",
       "系统销售"
     ],
-    "tags": "分布式光伏 系统销售 分布式光伏 工商业光伏 系统销售",
+    "tags": "分布式 系统销售 分布式光伏 工商业光伏 系统销售",
     "company": "MEA",
     "title": "泰国拟取消工厂安装屋顶光伏的额外工业许可门槛",
     "summary": "泰国正推进简化工厂屋顶光伏审批。英文报道显示，此前1MW以上工厂屋顶光伏涉及额外工业许可要求；若调整落地，将降低大型制造业屋顶项目的行政门槛。 解读：利好泰国1MW+制造业C&I光伏、PPA/EMC及后续PV+BESS项目开发。但需等待泰国官方法规文本和生效日期，并区分工业许可取消与PEA/MEA并网、建筑、电气安全、ERC售电许可等其他要求。",
@@ -874,7 +940,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-22",
-    "country": "中国",
+    "country": "江苏",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "开发",
@@ -889,7 +955,7 @@ window.DAILY_NEWS_DATA=[
     "sourceUrl": "https://sthjt.jiangsu.gov.cn/art/2026/8/22/art_83568_11819462.html",
     "sourceType": "notion-approved",
     "id": "notion|2026-08-22|中国|竹根沙Z1海上光伏EIA公示",
-    "fingerprint": "notion|6ecc497f39125736c5a8",
+    "fingerprint": "notion|ecccf359a341be73e7e4",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "3c7abced5dee806e9727d96f63d2fbf8"
@@ -994,7 +1060,7 @@ window.DAILY_NEWS_DATA=[
     "businessTags": [
       "集中式"
     ],
-    "tags": "集中式 风电 公示 内蒙古",
+    "tags": "集中式 集中式 内蒙古",
     "company": "内蒙古政策机构",
     "title": "鄂尔多斯市东胜区能源局2026年申报分散式风电、分布式光伏项目优选结果公示",
     "summary": "本次组织评审分散式风电项目共5项，符合条件4项，14万千瓦（鄂尔多斯市东胜区泰达新能源50MW分散式风电项目、东胜区晶澳50MW分散式风电项目、鄂尔多斯市新能源开发利用有限公司东胜区2万千瓦分散式风电项目、东胜区零碳智慧物流园20MW分散式风电项目）。内蒙古淮能西部生态科技有限公司东胜区50MW分散式风力发电项目由于土地支持性文件缺失，不具备建设条件。本次组织评审分布式光伏发电项目共22项，符合条件12项，0.86万千瓦",
@@ -1002,7 +1068,7 @@ window.DAILY_NEWS_DATA=[
     "sourceUrl": "https://www.ds.gov.cn/yw/tzgg/202608/t20260821_1915972.html",
     "sourceType": "notion-approved",
     "sourceSheet": "Notion·国内",
-    "fingerprint": "notion|18e5bb1ff32203e161a3",
+    "fingerprint": "notion|f34744c095a124051fc9",
     "id": "daily|2026-08-20|中国|东胜区风光优选公示",
     "collectedAt": "2026-08-26T14:27:11.552Z",
     "notionPageId": "3c8abced5dee8064ac9ee8480d96a2a7"
@@ -1185,11 +1251,11 @@ window.DAILY_NEWS_DATA=[
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
-      "分布式光伏",
+      "分布式",
       "户用光伏",
       "系统销售"
     ],
-    "tags": "分布式光伏 户用光伏 系统销售 分布式光伏 户用光伏 系统销售",
+    "tags": "分布式 户用光伏 系统销售 分布式光伏 户用光伏 系统销售",
     "company": "TNB",
     "title": "马来西亚更新住宅屋顶光伏净计量规则，明确NEM Rakyat系统容量与并网要求",
     "summary": "马来西亚能源委员会（Suruhanjaya Tenaga）于2026年8月19日发布《Guidelines For Solar Photovoltaic Installation Under The Programme Of NEM Rakyat And NEM GoMEn In Peninsular Malaysia》Rev.1 2026，明确NEM Rakyat与NEM GoMEn的申请、容量和并网技术要求。住宅NEM Rakyat单相系统上限为5kWac、三相为12.5kWac；相关项目仍需满足技术及网络条件。 解读：能源委员会官网将该指引列为2026年8月19日正式发布的太阳能法规资源。规则进一步标准化住宅屋顶光伏准入和并网边界，对安装商、组件/逆变器渠道和户用系统销售具有直接意义；但仍需继续核对配额余额、结算机制、TNB实际并网审批速度及与后续户用政策的衔接。",
@@ -1252,9 +1318,9 @@ window.DAILY_NEWS_DATA=[
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
-      "分布式光伏"
+      "分布式"
     ],
-    "tags": "分布式光伏 江苏 装机目标",
+    "tags": "分布式 分布式 江苏",
     "company": "江苏政策机构",
     "title": "江苏发布分布式光伏发展实施方案",
     "summary": "江苏发布《江苏省分布式光伏发展实施方案（2026—2030年）》，明确到2030年全省分布式光伏累计装机规模较2025年翻一番，达到1.2亿千瓦；展望2035年进一步提升至1.6亿千瓦。方案聚焦工业园区、整村户用、公共建筑、交通能源融合四大场景，推动屋顶等资源“能装尽装”；同时提出简化备案流程，取消前置审批，项目单位提交信息后可在3个工作日后在线打印备案证明。方案还要求加强配电网升级，支持分布式光伏通过集中汇流参与多用户绿电直连，鼓励电源和用户同步配套储能、打造光储一体化和小型微电网。 解读：江苏把分布式光伏从单点开发推向场景化、规模化和配网协同发展，明确装机翻番目标和备案提速机制。对开发商而言，园区、公共建筑、交通廊道和整村户用将成为重点场景，配套储能和绿电直连能力也会影响项目消纳与收益。",
@@ -1262,7 +1328,7 @@ window.DAILY_NEWS_DATA=[
     "sourceUrl": "https://jsnews.jschina.com.cn/jsyw/202608/t20260816_s6a8188cee4b0eede679365a8.shtml",
     "sourceType": "notion-approved",
     "id": "notion|2026-08-16|中国|江苏分布式光伏实施方案",
-    "fingerprint": "notion|6694fb805bf68c6792fa",
+    "fingerprint": "notion|8522eaa2bd3ffd6f2687",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "df181b947cbf480492cd38ef3f8dd65e"
@@ -1291,7 +1357,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-05",
-    "country": "中国",
+    "country": "江西",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "开发",
@@ -1299,7 +1365,7 @@ window.DAILY_NEWS_DATA=[
       "电力交易"
     ],
     "tags": "电力交易 电力交易 江西",
-    "company": "中国项目主体",
+    "company": "江西项目主体",
     "title": "江西首家虚拟电厂参与电能量市场交易",
     "summary": "江西综能虚拟电厂成功参加中长期月度、月内和日前现货等电能量市场交易，成为江西省内首家打通电能量市场各交易环节的虚拟电厂，标志着江西虚拟电厂进入市场化运营新阶段。该虚拟电厂通过聚合分布式发电、用户侧储能、可调负荷等资源，参与电能量市场交易，并推动电能量市场、辅助服务市场和需求响应业务衔接。 解读：江西虚拟电厂从试点建设迈入交易实操，意味着分布式资源开始获得电能量市场收益通道。后续若能叠加辅助服务和需求响应，将有助于提升用户侧储能、可调负荷和分布式新能源的商业化价值。",
     "sourceName": "jx.chinanews.com.cn",
@@ -1309,18 +1375,18 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|d19775bf90eb4d01a2179075b6d61eea",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "d19775bf90eb4d01a2179075b6d61eea",
-    "fingerprint": "notion|51a5a7164a1d337a1bcd"
+    "fingerprint": "notion|bfae209c3376d9a1571d"
   },
   {
     "date": "2026-08-03",
-    "country": "中国",
+    "country": "浙江",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
-      "分布式光伏"
+      "分布式"
     ],
-    "tags": "分布式光伏 分布式 浙江",
+    "tags": "分布式 分布式 浙江",
     "company": "国家能源局",
     "title": "浙江修订分布式光伏开发建设管理细则",
     "summary": "浙江省能源局、国家能源局浙江监管办公室联合印发《浙江省分布式光伏发电开发建设管理实施细则》（浙能源〔2026〕15号），自印发之日起施行，有效期至2030年1月16日。修订核心包括：将“年自发自用比例不作要求”的适用范围从一般工商业扩展至大型工商业分布式光伏；明确上网电量原则上全部参与电力市场；重新划定四类分布式光伏分类边界；禁止以特许经营权、排他性租赁协议等方式垄断屋顶资源；新建项目需满足“可观、可测、可调、可控”要求，35千伏及以上、10兆瓦及以上项目需配备AGC、AVC功能。 解读：浙江分布式光伏进一步放松行政比例约束、强化市场化交易和涉网技术要求。项目收益将更受现货价格、分时电价和消纳能力影响，开发重点从“抢屋顶资源”转向“市场化收益测算+可调可控能力建设”。",
@@ -1331,7 +1397,7 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|bb9313ccc0404f579294a7963a84c98b",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "bb9313ccc0404f579294a7963a84c98b",
-    "fingerprint": "notion|9d498e738903c4822048"
+    "fingerprint": "notion|9d90f81c9325a96bc8f7"
   },
   {
     "date": "2026-07-28",
@@ -1356,7 +1422,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-07-24",
-    "country": "中国",
+    "country": "山西",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -1374,11 +1440,11 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|72c08113faf64fdc8ed079f8533cc8a2",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "72c08113faf64fdc8ed079f8533cc8a2",
-    "fingerprint": "notion|811fc7d8c8dfdd2add80"
+    "fingerprint": "notion|f64e6bc814518a1103c2"
   },
   {
     "date": "2026-07-20",
-    "country": "中国",
+    "country": "安徽",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -1396,7 +1462,7 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|f6f8b344636b4fcaa0315d1cc069f96e",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "f6f8b344636b4fcaa0315d1cc069f96e",
-    "fingerprint": "notion|b0ea022a43b0a6598089"
+    "fingerprint": "notion|e13b2f6801c3d607fb20"
   },
   {
     "date": "2026-07-16",
@@ -1559,7 +1625,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-04-27",
-    "country": "中国",
+    "country": "河北",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -1577,7 +1643,7 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|1c1b0b6a716f40eaabbbeb373014fbae",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "1c1b0b6a716f40eaabbbeb373014fbae",
-    "fingerprint": "notion|4866904afafad86d3d43"
+    "fingerprint": "notion|9f2cb79b7dd072ea2466"
   },
   {
     "date": "2026-04-17",
@@ -1739,7 +1805,7 @@ window.DAILY_NEWS_DATA=[
     "businessTags": [
       "储能"
     ],
-    "tags": "储能 吉林 项目入库",
+    "tags": "储能 储能 吉林",
     "company": "吉林政策机构",
     "title": "吉林加强新型储能项目入库和清退管理",
     "summary": "吉林省能源局印发《关于全面加强我省新型储能项目管理工作的通知》（吉能储能〔2025〕159号），对象暂主要为电网侧新型储能项目。文件要求规范项目入库流程，申报时需说明盈利模式、接入方案意见、可研报告和推进计划；强化入库后管理，原则上入库后12个月内实质性开工、18个月内建成投产；建立清退机制，对未按期开工、主动放弃、重大变更或无实质进展的项目移出项目库，并同步清理部分“僵尸项目”。 解读：吉林政策体现地方储能管理从“鼓励建设”转向“质量和进度约束”，通过入库、延期、出库和僵尸项目清理释放接入资源，利好具备落地能力和并网进度确定性的项目。",
@@ -1747,14 +1813,14 @@ window.DAILY_NEWS_DATA=[
     "sourceUrl": "https://www.pvmeng.com/2025/09/02/44892",
     "sourceType": "notion-approved",
     "id": "notion|2025-08-18|中国|吉林储能项目入库清退",
-    "fingerprint": "notion|37819087299feaf9aad5",
+    "fingerprint": "notion|3275e8694cf32a44ea7b",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "bf4328ab02624a55810723a9a00dff2e"
   },
   {
     "date": "2025-08-15",
-    "country": "中国",
+    "country": "江苏",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -1769,7 +1835,7 @@ window.DAILY_NEWS_DATA=[
     "sourceUrl": "https://www.wuxi.gov.cn/doc/2025/08/15/4633574.shtml",
     "sourceType": "notion-approved",
     "id": "notion|2025-08-15|中国|无锡源网荷储微电网政策",
-    "fingerprint": "notion|0b55530dc9609159101d",
+    "fingerprint": "notion|597f27e4070a6fa2a901",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "faa7561717e74288af6e96aff6a778ff"
@@ -1783,7 +1849,7 @@ window.DAILY_NEWS_DATA=[
     "businessTags": [
       "电力交易"
     ],
-    "tags": "电力交易 河北 虚拟电厂",
+    "tags": "电力交易 电力交易 河北",
     "company": "河北省发展改革委",
     "title": "河北征求虚拟电厂建设运营实施意见",
     "summary": "河北省发展改革委公开征求《河北省虚拟电厂建设运营实施意见》和《河北省虚拟电厂建设运营管理办法（暂行）》意见。文件提出，到2027年虚拟电厂建设运行管理机制成熟规范、参与市场机制健全完善，全省虚拟电厂调节能力达到200万千瓦；到2030年应用场景进一步拓展、商业模式创新发展，以市场化方式为主常态化运营，调节能力达到300万千瓦以上。政策方向包括推动虚拟电厂优先参与需求响应，并研究分布式储能入市机制。 解读：河北将虚拟电厂纳入电力保供和新能源消纳体系，明确调节能力目标和运营管理框架，后续分布式储能、可调负荷、充换电设施等资源聚合入市空间扩大。",
@@ -1791,7 +1857,7 @@ window.DAILY_NEWS_DATA=[
     "sourceUrl": "https://mchuneng.in-en.com/html/chunengy-47681.shtml",
     "sourceType": "notion-approved",
     "id": "notion|2025-08-15|中国|河北虚拟电厂实施意见",
-    "fingerprint": "notion|874de1ac73e2f2a96952",
+    "fingerprint": "notion|85aff25a8d3576c5ab77",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "76f192b40b9b47b280fa73ce4cdfad77"
@@ -1805,7 +1871,7 @@ window.DAILY_NEWS_DATA=[
     "businessTags": [
       "储能"
     ],
-    "tags": "储能 浙江 迎峰度夏",
+    "tags": "储能 储能 浙江",
     "company": "浙江省发展改革委",
     "title": "浙江优化迎峰度夏期间电网侧储能价格机制",
     "summary": "浙江省发展改革委、省能源局发布《关于优化迎峰度夏期间电网侧储能价格机制的通知》（浙发改价格〔2025〕155号），明确2025年7月1日至9月15日对电网侧储能项目实施临时价格机制。电网侧储能充电价格按相应电压等级单一制一般工商业代理购电用户价格执行；若按省电力公司调度安排在非低谷时段充电，充电价格按低谷时段执行；放电价格继续按煤电基准价执行。上网电量对应充电电量不承担输配电价和政府性基金及附加，参与现货市场后不再执行该临时机制。 解读：浙江通过临时价差机制保障电网侧储能在高温保供期间被有效调用，降低非低谷充电成本并维持放电基准价，增强储能参与顶峰保供的收益确定性。",
@@ -1813,7 +1879,7 @@ window.DAILY_NEWS_DATA=[
     "sourceUrl": "https://www.pvmeng.com/2025/06/26/44261",
     "sourceType": "notion-approved",
     "id": "notion|2025-08-13|中国|浙江电网侧储能迎峰度夏价格",
-    "fingerprint": "notion|ffa84636beb412022ab3",
+    "fingerprint": "notion|7d73d7ffa10ec6dcdc3f",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e9c3a3068449437e879d5b0c439a0fd4"
@@ -1827,7 +1893,7 @@ window.DAILY_NEWS_DATA=[
     "businessTags": [
       "零碳园区"
     ],
-    "tags": "零碳园区 内蒙古 零碳园区",
+    "tags": "零碳园区 零碳园区 内蒙古",
     "company": "内蒙古自治区发展改革委",
     "title": "内蒙古发布零碳园区培育建设方案",
     "summary": "内蒙古自治区发展改革委、工业和信息化厅、能源局联合印发《内蒙古自治区零碳园区培育建设方案》（内发改环资字〔2025〕969号），文件为地方规范性文件，自发布之日起实施。方案衔接国家零碳园区建设部署，提出推进自治区零碳园区培育建设，支持符合条件园区先行先试，围绕绿电供给、产业低碳化、能碳管理和园区绿色转型形成可复制经验。 解读：内蒙古将零碳园区作为新能源就地消纳和产业绿色转型的重要抓手，同步推进国家级与自治区级培育建设，有利于带动园区绿电直供、风光储协同、能碳管理等场景落地。",
@@ -1835,7 +1901,7 @@ window.DAILY_NEWS_DATA=[
     "sourceUrl": "https://newenergy.in-en.com/html/newenergy-2444002.shtml",
     "sourceType": "notion-approved",
     "id": "notion|2025-08-07|中国|内蒙古零碳园区方案",
-    "fingerprint": "notion|e581d8b15723f17644fe",
+    "fingerprint": "notion|6a45296a33217fef4191",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "92b347aadd7d4ef99181afb7d46c657a"
@@ -1849,7 +1915,7 @@ window.DAILY_NEWS_DATA=[
     "businessTags": [
       "储能"
     ],
-    "tags": "储能 安徽 调度结算",
+    "tags": "储能 储能 安徽",
     "company": "安徽省能源局",
     "title": "安徽征求新型储能调度运行结算通知",
     "summary": "安徽省能源局就《关于做好新型储能调度运行结算工作的通知（征求意见稿）》公开征求意见，意见反馈截止至2025年9月8日。文件重点完善新型储能调度运行和结算机制，提出电力调度机构直接调用独立新型储能充、放电电量时，按调用时间节点现货市场实时电价结算；对独立新型储能在2025年7月、8月、12月上网总放电量按0.2元/千瓦时给予保供支持补贴，2026年1月、7月、8月、12月按0.1元/千瓦时给予补贴。 解读：安徽从“调用+结算+补贴”三方面补齐独立储能收益机制，短期有助于提升迎峰度夏、迎峰度冬期间独立储能顶峰出力积极性，也鼓励新能源配储通过技术改造转为独立新型储能。",
@@ -1857,7 +1923,7 @@ window.DAILY_NEWS_DATA=[
     "sourceUrl": "https://www.pvmeng.com/2025/08/07/44026",
     "sourceType": "notion-approved",
     "id": "notion|2025-08-07|中国|安徽储能调度结算征求意见",
-    "fingerprint": "notion|84afcded1fe7e7b57641",
+    "fingerprint": "notion|ae04e99bcd0dc1a6b575",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"

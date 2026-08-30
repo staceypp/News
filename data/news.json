@@ -7,7 +7,7 @@
     "eventType": "政策",
     "businessTags": [
       "户用光伏",
-      "分布式光伏",
+      "分布式",
       "系统销售"
     ],
     "tags": [
@@ -29,7 +29,7 @@
   },
   {
     "date": "2026-08-28",
-    "country": "中国",
+    "country": "北京",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -50,11 +50,36 @@
     "id": "notion|3cbabced5dee8101baf9f4b33c63a87e",
     "collectedAt": "2026-08-29T08:31:59.290Z",
     "notionPageId": "3cbabced5dee8101baf9f4b33c63a87e",
-    "fingerprint": "notion|d9509e407f6f6880abcc"
+    "fingerprint": "notion|892e74108da331cc5dd9"
   },
   {
     "date": "2026-08-28",
-    "country": "中国",
+    "country": "浙江",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "储能",
+      "浙江"
+    ],
+    "company": "浙江政策机构",
+    "title": "浙江发布电网侧独立储能参与电力市场通知（征求意见）",
+    "summary": "浙江电力交易中心发布电网侧独立储能参与电力市场的通知（征求意见），覆盖40个电网侧储能项目，合计2.54GW/5.1GWh。已商运的统调电网侧独立新型储能可参与现货电能量市场和调频辅助服务市场，商运但非统调项目仅可参与现货市场，未投运项目暂不能参与；通知明确了注册、准入、申报及结算等具体流程，并列出34个已投运项目及浙江恒发新能源等相关企业。 解读：征求意见稿把独立储能收益机制进一步推向现货与调频市场，但不同调度属性项目的准入范围存在差异。项目价值将更多取决于现货价差、调频调用频次、可用率及结算细则，后续需关注正式文件和实际出清结果。",
+    "sourceName": "cnesa.org",
+    "sourceUrl": "https://www.cnesa.org/policy/detail/?column_id=6&id=8516",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3cbabced5dee811ab4b7cc28cf566eeb",
+    "collectedAt": "2026-08-30T14:13:18.903Z",
+    "notionPageId": "3cbabced5dee811ab4b7cc28cf566eeb",
+    "fingerprint": "notion|963f925511608a261331"
+  },
+  {
+    "date": "2026-08-28",
+    "country": "山东",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -75,7 +100,7 @@
     "id": "notion|3cbabced5dee812ea8a8f2f49a019b4c",
     "collectedAt": "2026-08-29T08:31:59.290Z",
     "notionPageId": "3cbabced5dee812ea8a8f2f49a019b4c",
-    "fingerprint": "notion|4889b42fcd7c033925c5"
+    "fingerprint": "notion|ca565a09f6370edd48dc"
   },
   {
     "date": "2026-08-28",
@@ -137,6 +162,31 @@
   },
   {
     "date": "2026-08-28",
+    "country": "安徽",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "投资",
+    "businessTags": [
+      "零碳园区"
+    ],
+    "tags": [
+      "零碳园区",
+      "安徽"
+    ],
+    "company": "安徽相关企业",
+    "title": "港华智慧能源携手奇瑞得壹能源、安徽枞阳县共建零碳制造标杆项目",
+    "summary": "港华智慧能源与奇瑞汽车、安徽枞阳县签约源网荷储一体化项目，为奇瑞铜陵得壹电池基地配套建设风电、光伏及储能设施，遵循“以荷定源”原则规划设计，旨在提供绿色电力、降低用电成本并满足出口碳足迹要求，打造华东地区零碳工业标杆项目。 解读：该项目以制造业稳定负荷和出口碳足迹需求为牵引，具备复制为园区级综合能源方案的潜力。实际降本效果取决于绿电直供或交易机制、源荷匹配度、储能利用率、接网条件及项目投资边界。",
+    "sourceName": "escn.com.cn",
+    "sourceUrl": "https://www.escn.com.cn/news/show-2267887.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3cbabced5dee819aab6fe3733e38d266",
+    "collectedAt": "2026-08-30T14:13:18.903Z",
+    "notionPageId": "3cbabced5dee819aab6fe3733e38d266",
+    "fingerprint": "notion|ebfe3ca8641e5bca105f"
+  },
+  {
+    "date": "2026-08-28",
     "country": "肯尼亚",
     "geo": "非洲",
     "category": "市场信息",
@@ -163,7 +213,7 @@
   },
   {
     "date": "2026-08-28",
-    "country": "中国",
+    "country": "山东",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -184,7 +234,7 @@
     "id": "notion|3cbabced5dee81c6a401fc090505aa83",
     "collectedAt": "2026-08-29T08:31:59.290Z",
     "notionPageId": "3cbabced5dee81c6a401fc090505aa83",
-    "fingerprint": "notion|f62f7c9005dc73c039f1"
+    "fingerprint": "notion|774804a389311cdf9e3b"
   },
   {
     "date": "2026-08-28",
@@ -193,7 +243,7 @@
     "category": "市场信息",
     "eventType": "收购",
     "businessTags": [
-      "分布式光伏",
+      "分布式",
       "系统销售"
     ],
     "tags": [
@@ -212,6 +262,31 @@
     "collectedAt": "2026-08-29T14:07:12.981Z",
     "notionPageId": "3cbabced5dee81d79e35e97b2f329c7f",
     "fingerprint": "notion|97210d0dd0e92686b362"
+  },
+  {
+    "date": "2026-08-28",
+    "country": "江苏",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式",
+      "江苏"
+    ],
+    "company": "江苏相关企业",
+    "title": "江苏如皋120MW渔光互补光伏项目签约落地",
+    "summary": "江苏省如皋市吴窑镇人民政府与中节能太阳能华东区正式签署120MW渔光互补光伏发电项目投资协议，采用“水上光伏发电、水下渔业养殖”复合模式，利用坑塘水面资源实现新能源开发与水产养殖协同发展，推动新能源产业与传统农业融合。 解读：签署投资协议说明项目进入前期推进阶段，项目落地仍取决于水面权属、用地用水及环保审批、接网消纳、养殖兼容性和收益分配机制。",
+    "sourceName": "news.solarbe.com",
+    "sourceUrl": "https://news.solarbe.com/202608/28/50028272.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3cbabced5dee81e0b2f8e4a98f998b4a",
+    "collectedAt": "2026-08-30T14:13:18.903Z",
+    "notionPageId": "3cbabced5dee81e0b2f8e4a98f998b4a",
+    "fingerprint": "notion|744e06bedf41c9404df7"
   },
   {
     "date": "2026-08-28",
@@ -322,7 +397,7 @@
   },
   {
     "date": "2026-08-27",
-    "country": "中国",
+    "country": "辽宁",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "投运",
@@ -333,7 +408,7 @@
       "算电协同",
       "辽宁"
     ],
-    "company": "中国项目主体",
+    "company": "辽宁项目主体",
     "title": "阜新绿电智算中心主体封顶，计划年底前投运",
     "summary": "联通阜新绿电智算中心项目主体结构已封顶，计划于2026年底前投入运营。当地同步推进160万千瓦风电和60万千瓦储能电站等重点项目，目标是新能源装机突破1,000万千瓦，并提出建设“京津冀—阜新”算力协同通道。政府发布未披露智算中心的IT负荷、绿电直供比例、储能配置、投资额及客户上架进度。 解读：主体封顶意味着项目进入机电安装与并网投运准备阶段，但尚不能等同于形成有效算力或绿电交易。若风电、储能和智算中心的时序及接网/交易机制能够打通，项目可成为辽西承接京津冀算力外溢的算电协同案例；关键不确定性是负荷利用率和绿电保障的可核验安排。",
     "sourceName": "lyt.ln.gov.cn",
@@ -343,7 +418,7 @@
     "id": "notion|3caabced5dee8138856fded2a31cadd3",
     "collectedAt": "2026-08-28T08:43:45.281Z",
     "notionPageId": "3caabced5dee8138856fded2a31cadd3",
-    "fingerprint": "notion|32e8db954286fcd586d0"
+    "fingerprint": "notion|91e5e04a109c4dbe72fc"
   },
   {
     "date": "2026-08-27",
@@ -380,7 +455,7 @@
     "businessTags": [
       "系统销售",
       "储能",
-      "分布式光伏",
+      "分布式",
       "微电网"
     ],
     "tags": [
@@ -466,7 +541,7 @@
     "eventType": "政策",
     "businessTags": [
       "集中式",
-      "分布式光伏",
+      "分布式",
       "储能",
       "零碳园区",
       "微电网"
@@ -492,7 +567,7 @@
   },
   {
     "date": "2026-08-26",
-    "country": "中国",
+    "country": "上海",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -513,7 +588,7 @@
     "id": "notion|3c9abced5dee810cb341d31fab225b3c",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "3c9abced5dee810cb341d31fab225b3c",
-    "fingerprint": "notion|c5eaa3930d378071e4cb"
+    "fingerprint": "notion|18f433e11c31e325c44d"
   },
   {
     "date": "2026-08-26",
@@ -594,7 +669,7 @@
   },
   {
     "date": "2026-08-26",
-    "country": "中国",
+    "country": "山西",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "投资",
@@ -605,7 +680,7 @@
       "智能微电网",
       "山西"
     ],
-    "company": "中国项目主体",
+    "company": "山西项目主体",
     "title": "山西襄垣50MW源网荷储项目进入全容量调试，绿电跨26公里直供园区",
     "summary": "项目一期配置50MW光伏和7MW/28MWh锂电池储能，所发绿电通过约26公里线路直供襄垣经开区企业，金烨焦化、钰鑫农业为首批用户。园区110kV公用变电站已投用，虚拟电厂算力系统和增量配电集控系统同步建成；项目目前尚处于全容量调试和试运行阶段。 解读：项目已进入调试试运行，具备绿电直供、储能与增量配电协同特征；但结算电价、自用比例、接网容量及投资额尚未披露，经济性仍待运行验证。",
     "sourceName": "changzhi.gov.cn",
@@ -615,7 +690,7 @@
     "id": "notion|3c9abced5dee818b8cd6e674bc7f8bbb",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "3c9abced5dee818b8cd6e674bc7f8bbb",
-    "fingerprint": "notion|243433f846a836280547"
+    "fingerprint": "notion|7925ef53cbe0989dcc06"
   },
   {
     "date": "2026-08-26",
@@ -711,7 +786,7 @@
     "businessTags": [
       "户用光伏",
       "系统销售",
-      "分布式光伏"
+      "分布式"
     ],
     "tags": [
       "户用光伏",
@@ -767,7 +842,7 @@
     "category": "同行动态",
     "eventType": "市场动态",
     "businessTags": [
-      "分布式光伏",
+      "分布式",
       "户用光伏",
       "电力交易",
       "算电协同"
@@ -911,7 +986,7 @@
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
-      "分布式光伏",
+      "分布式",
       "储能",
       "系统销售",
       "户用光伏"
@@ -972,7 +1047,7 @@
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
-      "分布式光伏",
+      "分布式",
       "系统销售"
     ],
     "tags": [
@@ -1020,7 +1095,7 @@
   },
   {
     "date": "2026-08-22",
-    "country": "中国",
+    "country": "江苏",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "开发",
@@ -1038,7 +1113,7 @@
     "sourceUrl": "https://sthjt.jiangsu.gov.cn/art/2026/8/22/art_83568_11819462.html",
     "sourceType": "notion-approved",
     "id": "notion|2026-08-22|中国|竹根沙Z1海上光伏EIA公示",
-    "fingerprint": "notion|6ecc497f39125736c5a8",
+    "fingerprint": "notion|ecccf359a341be73e7e4",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "3c7abced5dee806e9727d96f63d2fbf8"
@@ -1157,8 +1232,7 @@
       "集中式"
     ],
     "tags": [
-      "风电",
-      "公示",
+      "集中式",
       "内蒙古"
     ],
     "company": "内蒙古政策机构",
@@ -1168,7 +1242,7 @@
     "sourceUrl": "https://www.ds.gov.cn/yw/tzgg/202608/t20260821_1915972.html",
     "sourceType": "notion-approved",
     "sourceSheet": "Notion·国内",
-    "fingerprint": "notion|18e5bb1ff32203e161a3",
+    "fingerprint": "notion|f34744c095a124051fc9",
     "id": "daily|2026-08-20|中国|东胜区风光优选公示",
     "collectedAt": "2026-08-26T14:27:11.552Z",
     "notionPageId": "3c8abced5dee8064ac9ee8480d96a2a7"
@@ -1373,7 +1447,7 @@
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
-      "分布式光伏",
+      "分布式",
       "户用光伏",
       "系统销售"
     ],
@@ -1450,11 +1524,11 @@
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
-      "分布式光伏"
+      "分布式"
     ],
     "tags": [
-      "江苏",
-      "装机目标"
+      "分布式",
+      "江苏"
     ],
     "company": "江苏政策机构",
     "title": "江苏发布分布式光伏发展实施方案",
@@ -1463,7 +1537,7 @@
     "sourceUrl": "https://jsnews.jschina.com.cn/jsyw/202608/t20260816_s6a8188cee4b0eede679365a8.shtml",
     "sourceType": "notion-approved",
     "id": "notion|2026-08-16|中国|江苏分布式光伏实施方案",
-    "fingerprint": "notion|6694fb805bf68c6792fa",
+    "fingerprint": "notion|8522eaa2bd3ffd6f2687",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "df181b947cbf480492cd38ef3f8dd65e"
@@ -1495,7 +1569,7 @@
   },
   {
     "date": "2026-08-05",
-    "country": "中国",
+    "country": "江西",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "开发",
@@ -1506,7 +1580,7 @@
       "电力交易",
       "江西"
     ],
-    "company": "中国项目主体",
+    "company": "江西项目主体",
     "title": "江西首家虚拟电厂参与电能量市场交易",
     "summary": "江西综能虚拟电厂成功参加中长期月度、月内和日前现货等电能量市场交易，成为江西省内首家打通电能量市场各交易环节的虚拟电厂，标志着江西虚拟电厂进入市场化运营新阶段。该虚拟电厂通过聚合分布式发电、用户侧储能、可调负荷等资源，参与电能量市场交易，并推动电能量市场、辅助服务市场和需求响应业务衔接。 解读：江西虚拟电厂从试点建设迈入交易实操，意味着分布式资源开始获得电能量市场收益通道。后续若能叠加辅助服务和需求响应，将有助于提升用户侧储能、可调负荷和分布式新能源的商业化价值。",
     "sourceName": "jx.chinanews.com.cn",
@@ -1516,16 +1590,16 @@
     "id": "notion|d19775bf90eb4d01a2179075b6d61eea",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "d19775bf90eb4d01a2179075b6d61eea",
-    "fingerprint": "notion|51a5a7164a1d337a1bcd"
+    "fingerprint": "notion|bfae209c3376d9a1571d"
   },
   {
     "date": "2026-08-03",
-    "country": "中国",
+    "country": "浙江",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
-      "分布式光伏"
+      "分布式"
     ],
     "tags": [
       "分布式",
@@ -1541,7 +1615,7 @@
     "id": "notion|bb9313ccc0404f579294a7963a84c98b",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "bb9313ccc0404f579294a7963a84c98b",
-    "fingerprint": "notion|9d498e738903c4822048"
+    "fingerprint": "notion|9d90f81c9325a96bc8f7"
   },
   {
     "date": "2026-07-28",
@@ -1569,7 +1643,7 @@
   },
   {
     "date": "2026-07-24",
-    "country": "中国",
+    "country": "山西",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -1590,11 +1664,11 @@
     "id": "notion|72c08113faf64fdc8ed079f8533cc8a2",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "72c08113faf64fdc8ed079f8533cc8a2",
-    "fingerprint": "notion|811fc7d8c8dfdd2add80"
+    "fingerprint": "notion|f64e6bc814518a1103c2"
   },
   {
     "date": "2026-07-20",
-    "country": "中国",
+    "country": "安徽",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -1615,7 +1689,7 @@
     "id": "notion|f6f8b344636b4fcaa0315d1cc069f96e",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "f6f8b344636b4fcaa0315d1cc069f96e",
-    "fingerprint": "notion|b0ea022a43b0a6598089"
+    "fingerprint": "notion|e13b2f6801c3d607fb20"
   },
   {
     "date": "2026-07-16",
@@ -1799,7 +1873,7 @@
   },
   {
     "date": "2026-04-27",
-    "country": "中国",
+    "country": "河北",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -1820,7 +1894,7 @@
     "id": "notion|1c1b0b6a716f40eaabbbeb373014fbae",
     "collectedAt": "2026-08-27T00:00:00.000Z",
     "notionPageId": "1c1b0b6a716f40eaabbbeb373014fbae",
-    "fingerprint": "notion|4866904afafad86d3d43"
+    "fingerprint": "notion|9f2cb79b7dd072ea2466"
   },
   {
     "date": "2026-04-17",
@@ -2004,8 +2078,8 @@
       "储能"
     ],
     "tags": [
-      "吉林",
-      "项目入库"
+      "储能",
+      "吉林"
     ],
     "company": "吉林政策机构",
     "title": "吉林加强新型储能项目入库和清退管理",
@@ -2014,14 +2088,14 @@
     "sourceUrl": "https://www.pvmeng.com/2025/09/02/44892",
     "sourceType": "notion-approved",
     "id": "notion|2025-08-18|中国|吉林储能项目入库清退",
-    "fingerprint": "notion|37819087299feaf9aad5",
+    "fingerprint": "notion|3275e8694cf32a44ea7b",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "bf4328ab02624a55810723a9a00dff2e"
   },
   {
     "date": "2025-08-15",
-    "country": "中国",
+    "country": "江苏",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -2039,7 +2113,7 @@
     "sourceUrl": "https://www.wuxi.gov.cn/doc/2025/08/15/4633574.shtml",
     "sourceType": "notion-approved",
     "id": "notion|2025-08-15|中国|无锡源网荷储微电网政策",
-    "fingerprint": "notion|0b55530dc9609159101d",
+    "fingerprint": "notion|597f27e4070a6fa2a901",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "faa7561717e74288af6e96aff6a778ff"
@@ -2054,8 +2128,8 @@
       "电力交易"
     ],
     "tags": [
-      "河北",
-      "虚拟电厂"
+      "电力交易",
+      "河北"
     ],
     "company": "河北省发展改革委",
     "title": "河北征求虚拟电厂建设运营实施意见",
@@ -2064,7 +2138,7 @@
     "sourceUrl": "https://mchuneng.in-en.com/html/chunengy-47681.shtml",
     "sourceType": "notion-approved",
     "id": "notion|2025-08-15|中国|河北虚拟电厂实施意见",
-    "fingerprint": "notion|874de1ac73e2f2a96952",
+    "fingerprint": "notion|85aff25a8d3576c5ab77",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "76f192b40b9b47b280fa73ce4cdfad77"
@@ -2079,8 +2153,8 @@
       "储能"
     ],
     "tags": [
-      "浙江",
-      "迎峰度夏"
+      "储能",
+      "浙江"
     ],
     "company": "浙江省发展改革委",
     "title": "浙江优化迎峰度夏期间电网侧储能价格机制",
@@ -2089,7 +2163,7 @@
     "sourceUrl": "https://www.pvmeng.com/2025/06/26/44261",
     "sourceType": "notion-approved",
     "id": "notion|2025-08-13|中国|浙江电网侧储能迎峰度夏价格",
-    "fingerprint": "notion|ffa84636beb412022ab3",
+    "fingerprint": "notion|7d73d7ffa10ec6dcdc3f",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e9c3a3068449437e879d5b0c439a0fd4"
@@ -2104,8 +2178,8 @@
       "零碳园区"
     ],
     "tags": [
-      "内蒙古",
-      "零碳园区"
+      "零碳园区",
+      "内蒙古"
     ],
     "company": "内蒙古自治区发展改革委",
     "title": "内蒙古发布零碳园区培育建设方案",
@@ -2114,7 +2188,7 @@
     "sourceUrl": "https://newenergy.in-en.com/html/newenergy-2444002.shtml",
     "sourceType": "notion-approved",
     "id": "notion|2025-08-07|中国|内蒙古零碳园区方案",
-    "fingerprint": "notion|e581d8b15723f17644fe",
+    "fingerprint": "notion|6a45296a33217fef4191",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "92b347aadd7d4ef99181afb7d46c657a"
@@ -2129,8 +2203,8 @@
       "储能"
     ],
     "tags": [
-      "安徽",
-      "调度结算"
+      "储能",
+      "安徽"
     ],
     "company": "安徽省能源局",
     "title": "安徽征求新型储能调度运行结算通知",
@@ -2139,7 +2213,7 @@
     "sourceUrl": "https://www.pvmeng.com/2025/08/07/44026",
     "sourceType": "notion-approved",
     "id": "notion|2025-08-07|中国|安徽储能调度结算征求意见",
-    "fingerprint": "notion|84afcded1fe7e7b57641",
+    "fingerprint": "notion|ae04e99bcd0dc1a6b575",
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
