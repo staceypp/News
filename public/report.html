@@ -72,17 +72,17 @@
     </section>
     </div></div>
   </main>
-  <script src="daily-news-data.js?v=20260826-1"></script>
+  <script src="daily-news-data.js?v=20260826-2"></script>
   <script src="market-view-data.js?v=20260823-5"></script>
   <script>
     const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
     const list=document.querySelector('#list');
     for(const r of [...(window.DAILY_NEWS_DATA||[]),...(window.MARKET_VIEW_DATA||[])]){
-      const article=document.createElement('article');article.className='item';article.dataset.date=r.date||'';article.dataset.geo=r.geo||'全球';article.dataset.country=(r.geo==='中国'?'中国':r.country)||'全球';article.dataset.tags=`${r.category||''} ${r.eventType||''} ${r.tags||''} ${r.country||''} ${r.company||''}`;
+      const article=document.createElement('article');article.className='item';article.dataset.date=r.date||'';article.dataset.geo=r.geo||'全球';article.dataset.country=r.country||'全球';article.dataset.tags=`${r.category||''} ${r.eventType||''} ${r.tags||''} ${r.country||''} ${r.company||''}`;
       const shownDate=r.date?r.date.slice(5).replace('-','.'):'资料';const href=/^https?:\/\//.test(r.sourceUrl||'')?r.sourceUrl:'';
       article.innerHTML=`<div class="date">${esc(shownDate)}<small>${esc(r.country||'全球')}</small></div><div class="tags"><span class="tag archive">${esc(r.category)}</span><span class="tag">${esc(r.eventType)}</span></div><div class="content"><h3 class="title">${esc(r.title)}</h3><p class="summary">${esc(r.summary||'《2026 Market View》历史记录')}</p></div><div class="source">${href?`<a href="${esc(href)}" target="_blank" rel="noreferrer">${esc(r.sourceName||'原始来源')} ↗</a>`:'<span>Excel 历史档案</span>'}</div>`;list.append(article);
     }
-    [...list.querySelectorAll('.item')].forEach(el=>{if(!el.dataset.date)el.dataset.date=`2026-${el.querySelector('.date').textContent.replace('.', '-')}`;if(!el.dataset.geo)el.dataset.geo='中国';if(el.dataset.geo==='中国')el.dataset.country='中国';else if(!el.dataset.country)el.dataset.country=el.querySelector('.date small')?.textContent.trim()||'全球'});
+    [...list.querySelectorAll('.item')].forEach(el=>{if(!el.dataset.date)el.dataset.date=`2026-${el.querySelector('.date').textContent.replace('.', '-')}`;if(!el.dataset.geo)el.dataset.geo='中国';if(!el.dataset.country)el.dataset.country=el.querySelector('.date small')?.textContent.trim()||'全球'});
     const buttons=[...document.querySelectorAll('.type-filters .filter')],categoryButtons=[...document.querySelectorAll('.category-filters .filter')],geoButtons=[...document.querySelectorAll('.geo')],items=[...document.querySelectorAll('.item')],search=document.querySelector('#search'),count=document.querySelector('#count'),allDays=document.querySelector('#allDays'),selectedDate=document.querySelector('#selectedDate'),calendar=document.querySelector('#calendar'),calendarTitle=document.querySelector('#calendarTitle'),prevMonth=document.querySelector('#prevMonth'),nextMonth=document.querySelector('#nextMonth'),countryOptions=document.querySelector('#countryOptions'),statusText=document.querySelector('#statusText'),sortToggle=document.querySelector('#sortToggle');let active='全部',activeCategory='全部',activeDate='全部',activeGeo='全部',activeCountry='全部国别',calendarDays=[],calendarCursor=new Date(2026,7,1),sortDesc=true;
     function applySort(){[...list.querySelectorAll('.item')].sort((a,b)=>sortDesc?(b.dataset.date||'').localeCompare(a.dataset.date||''):(a.dataset.date||'').localeCompare(b.dataset.date||'')).forEach(el=>list.append(el))}
     applySort();

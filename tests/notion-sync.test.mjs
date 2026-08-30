@@ -30,7 +30,7 @@ test("maps an approved overseas row to canonical news data", () => {
   assert.equal(result.record.geo, "亚洲");
   assert.equal(result.record.category, "市场信息");
   assert.equal(result.record.eventType, "政策");
-  assert.deepEqual(result.record.businessTags, ["分布式光伏", "储能"]);
+  assert.deepEqual(result.record.businessTags, ["分布式", "储能"]);
   assert.equal(result.record.sourceUrl, "https://example.com/policy");
 });
 
@@ -52,6 +52,29 @@ test("supports the current domestic Select review column", () => {
   assert.equal(result.record.category, "同行动态");
   assert.equal(result.record.eventType, "收购");
   assert.equal(result.record.company, "隆基绿能");
+  // Domestic records should carry the province as `country` (so the 国别 filter can drill into
+  // 江苏/北京/上海 etc. under 地域=中国), while `geo` still resolves to 中国 regardless.
+  assert.equal(result.record.country, "江苏");
+  assert.equal(result.record.geo, "中国");
+});
+
+test("falls back to 中国 as country when no specific province is given", () => {
+  const page = {
+    id: "page-china-national",
+    properties: {
+      "Select": select("批准发布"),
+      "标题（一句话）": title("国家能源局发布新型储能并网技术规定"),
+      "日期": date("2026-08-22"),
+      "大类": select("政策"),
+      "标签": select("储能"),
+      "所属省、市、自治区": multiSelect("全国"),
+      "内容摘要": richText("规定统一了新型储能项目的并网技术要求。"),
+      "链接": url("https://example.cn/policy"),
+    },
+  };
+  const result = mapNotionPage(page, DATA_SOURCES[0], "2026-08-25T00:00:00.000Z");
+  assert.equal(result.record.country, "中国");
+  assert.equal(result.record.geo, "中国");
 });
 
 test("skips rows that are not approved or miss publication fields", () => {

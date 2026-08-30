@@ -184,7 +184,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-22",
-    "country": "中国",
+    "country": "内蒙古",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "签约",
@@ -317,14 +317,14 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-20",
-    "country": "中国",
+    "country": "内蒙古",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
       "分布式"
     ],
-    "tags": "分布式 风电 公示",
+    "tags": "分布式 风电 公示 内蒙古",
     "company": "鄂尔多斯市东胜区能源局",
     "title": "鄂尔多斯市东胜区能源局2026年申报分散式风电、分布式光伏项目优选结果公示",
     "summary": "东胜区能源局公示2026年优选结果：分散式风电项目评审5项，符合条件4项、共14万千瓦（泰达新能源、晶澳、鄂尔多斯市新能源开发利用、零碳智慧物流园各1个项目），另1个项目因土地支持性文件缺失不具备建设条件；分布式光伏项目评审22项，符合条件12项、共0.86万千瓦。",
@@ -575,7 +575,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-16",
-    "country": "中国",
+    "country": "江苏",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -947,7 +947,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2025-08-18",
-    "country": "中国",
+    "country": "吉林",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -989,7 +989,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2025-08-15",
-    "country": "中国",
+    "country": "河北",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -1010,7 +1010,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2025-08-13",
-    "country": "中国",
+    "country": "浙江",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -1031,7 +1031,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2025-08-07",
-    "country": "中国",
+    "country": "内蒙古",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
@@ -1052,7 +1052,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2025-08-07",
-    "country": "中国",
+    "country": "安徽",
     "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",

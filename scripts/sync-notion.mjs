@@ -52,8 +52,8 @@ const COUNTRY_GEO = new Map([
 
 const BUSINESS_TAG_MAP = new Map([
   ["集中式光伏", "集中式"],
-  ["分布式光伏", "分布式光伏"],
-  ["工商业光伏", "分布式光伏"],
+  ["分布式光伏", "分布式"],
+  ["工商业光伏", "分布式"],
   ["户用光伏", "户用光伏"],
   ["储能", "储能"],
   ["绿电直连", "绿电直连"],
@@ -174,9 +174,14 @@ export function mapNotionPage(page, config, collectedAt = new Date().toISOString
   const summary = [main, interpretation && `解读：${interpretation}`].filter(Boolean).join(" ");
   const date = String(propertyValue(page, ["日期"]) ?? "").slice(0, 10);
   const url = normalizeUrl(propertyValue(page, config.sourceProperties));
-  const country = config.country ?? oneLine(propertyValue(page, config.countryProperties));
   const rawTags = asList(propertyValue(page, config.tagProperties)).map(oneLine);
   const locations = asList(propertyValue(page, config.locationProperties)).map(oneLine);
+  // Prefer the actual province/city (所属省、市、自治区) as the drill-down "country" value for
+  // domestic records, falling back to the flat "中国" only when no province is given (e.g. a
+  // national-level policy tagged "全国"). This lets the 国别 filter show 北京/上海/河北/江苏 etc.
+  // when 地域=中国 is selected, instead of collapsing every domestic record to one bucket.
+  const province = locations.find((item) => item && item !== "全国");
+  const country = province ?? config.country ?? oneLine(propertyValue(page, config.countryProperties));
   const businessTags = [...new Set(rawTags.map((tag) => BUSINESS_TAG_MAP.get(tag)).filter(Boolean))];
   const combined = `${title} ${summary}`;
   const explicitEvent = propertyValue(page, ["事件类型"]);
@@ -196,7 +201,7 @@ export function mapNotionPage(page, config, collectedAt = new Date().toISOString
   const record = {
     date,
     country,
-    geo: COUNTRY_GEO.get(country) ?? (country === "中国" ? "中国" : "全球"),
+    geo: config.country === "中国" ? "中国" : (COUNTRY_GEO.get(country) ?? "全球"),
     category,
     eventType,
     businessTags,
