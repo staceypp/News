@@ -9,6 +9,13 @@ on:
       - "public/**"
       - "package.json"
       - ".github/workflows/pages.yml"
+  # Commits pushed by another workflow using the default GITHUB_TOKEN (e.g. the Notion sync bot)
+  # do not trigger the `push` event above -- that's a deliberate GitHub anti-loop safeguard, not
+  # a bug -- so without this, every bot-authored sync would land in main but never actually
+  # deploy until some other, human-authored push happened to come along afterward.
+  workflow_run:
+    workflows: ["Sync approved Notion news"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -22,6 +29,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
