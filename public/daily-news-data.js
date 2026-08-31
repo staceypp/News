@@ -1,5 +1,47 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-08-30",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "财报",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 半年报 亏损 隆基绿能",
+    "company": "隆基绿能",
+    "title": "隆基绿能发布2026年半年报，营收270.45亿元同比降17.58%",
+    "summary": "隆基绿能8月30日披露2026年半年度报告，实现营业收入270.45亿元，同比下降17.58%；归属于上市公司股东的净利润为亏损36.84亿元。作为组件、硅片领域龙头企业，其半年报业绩反映出光伏产业链在\"反内卷\"背景下产能出清、价格承压的行业现状。",
+    "sourceName": "财联社",
+    "sourceUrl": "https://www.cls.cn/detail/2468760",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|隆基绿能|半年报净亏损|36.84亿元|财报",
+    "id": "daily|2026-08-30|中国|隆基绿能半年报净亏损",
+    "collectedAt": "2026-08-31T00:44:49Z"
+  },
+  {
+    "date": "2026-08-29",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "财报",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 半年报 出货指引 阳光电源",
+    "company": "阳光电源",
+    "title": "阳光电源发布2026年半年报，储能出货预期上修至60GWh以上",
+    "summary": "阳光电源2026年上半年营收309.12亿元，同比下降28.99%；归母净利润52.59亿元，同比下降32.01%。储能业务已超越光伏逆变器成为公司第一增长引擎，营收和毛利贡献均居首位，在手订单达350-400GWh，其中2026年待交付订单不低于70GWh，市场机构对其全年储能出货预期已上修至65-70GWh。",
+    "sourceName": "东方财富网",
+    "sourceUrl": "https://finance.eastmoney.com/a/202608293859215273.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|阳光电源|半年报储能出货上修|65-70GWh|财报",
+    "id": "daily|2026-08-29|中国|阳光电源半年报储能上修",
+    "collectedAt": "2026-08-31T00:44:49Z"
+  },
+  {
     "date": "2026-08-29",
     "country": "泰国",
     "geo": "亚洲",
@@ -320,6 +362,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-08-30T07:44:48.922Z",
     "notionPageId": "3ccabced5dee81fc872bf3bb32979523",
     "fingerprint": "notion|4fb69cfea51c3acb341e"
+  },
+  {
+    "date": "2026-08-27",
+    "country": "波兰",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 BESS UniCredit Greenvolt",
+    "company": "Greenvolt",
+    "title": "Greenvolt获意大利裕信银行2.18亿欧元融资支持波兰400MW储能项目",
+    "summary": "葡萄牙可再生能源企业Greenvolt宣布获得意大利裕信银行（UniCredit）2.18亿欧元融资支持，包含1.53亿欧元过桥贷款及6500万欧元担保额度，用于其位于波兰东北部的Ełk和Turośń两个200MW/800MWh储能项目建设，合计规模达400MW/1.6GWh，是波兰规模最大的储能项目之一。Turośń项目已于7月投运，Ełk预计2026年第四季度投运。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.ess-news.com/2026/08/27/greenvolt-secures-e218-million-unicredit-package-for-polish-bess-pair/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "波兰|Greenvolt|裕信银行融资|2.18亿欧元|融资",
+    "id": "daily|2026-08-27|波兰|Greenvolt波兰储能融资",
+    "collectedAt": "2026-08-31T00:44:49Z"
   },
   {
     "date": "2026-08-27",
@@ -694,6 +758,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-08-28T08:43:45.281Z",
     "notionPageId": "3caabced5dee818697e3c91c80d8d2be",
     "fingerprint": "notion|b3981275526fc31da6c4"
+  },
+  {
+    "date": "2026-08-25",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": "集中式 融资 税收股权融资 Invenergy Crux",
+    "company": "Invenergy / Crux",
+    "title": "Crux为Invenergy俄亥俄240MW光伏项目完成2.15亿美元税收股权融资",
+    "summary": "融资平台Crux宣布已为Invenergy开发的Pleasant Prairie太阳能项目（位于俄亥俄州富兰克林县，装机240MW）完成2.15亿美元税收股权投资交割。项目在建，预计2027年投运，建成后可为约4.6万户美国家庭供电，建设期创造约300个岗位，带动超2.3亿美元本地经济投资。",
+    "sourceName": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/energy/articles/crux-closes-215m-tax-equity-111826010.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Invenergy|税收股权融资|2.15亿美元|融资",
+    "id": "daily|2026-08-25|美国|Crux税收股权融资",
+    "collectedAt": "2026-08-31T00:44:49Z"
   },
   {
     "date": "2026-08-25",
