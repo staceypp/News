@@ -1,5 +1,71 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-08-30",
+    "country": "福建",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 福建",
+    "company": "福建相关企业",
+    "title": "广州发展拟投资8.53亿元建设福建南靖200MW渔光互补光伏电站",
+    "summary": "广州发展公告，全资子公司广州发展新能源集团股份有限公司拟投资约8.53亿元，在福建省漳州市南靖县建设装机容量200MW的渔光互补光伏电站项目，同步配套建设20MW/40MWh储能系统及一座220kV升压站，项目已取得备案及并网相关许可，是公司深耕福建新能源市场的又一新增项目。 解读：渔光互补模式在土地资源紧张的东南沿海省份持续获得国企青睐，本项目储能配比达装机容量的10%/2小时，与福建等地强制配储要求相符；单瓦投资强度约4.27元/W。需注意沿海省份滩涂/海域资源争夺加剧、备案及用海许可门槛可能进一步收紧的趋势。",
+    "sourceName": "finance.eastmoney.com",
+    "sourceUrl": "https://finance.eastmoney.com/a/202608303859458357.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3ccabced5dee81888f81ee0eb1edc313",
+    "collectedAt": "2026-08-31T07:59:22.104Z",
+    "notionPageId": "3ccabced5dee81888f81ee0eb1edc313",
+    "fingerprint": "notion|ed217778df985f329e08"
+  },
+  {
+    "date": "2026-08-30",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "产品",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 全国",
+    "company": "隆基绿能",
+    "title": "隆基绿能上半年净亏损36.84亿元，亏损同比扩大",
+    "summary": "隆基绿能发布2026年半年度业绩，归属母公司净亏损36.84亿元，较去年同期亏损进一步扩大，反映公司在当前光伏行业价格竞争和产能过剩环境下持续承压，业绩尚未见明显改善。 解读：隆基绿能作为全球出货量最大、技术路线最领先的光伏组件制造商之一，其上半年亏损进一步扩大，主要受2026年上半年摆脱价格战和产能过剩的影响，行业底部出清周期可能比预期更长，二三线厂商生存压力将进一步加大，产业链整合、减产限产或兼并重组预计将加速。",
+    "sourceName": "finance.sina.com.cn",
+    "sourceUrl": "https://finance.sina.com.cn/tech/digi/2026-08-30/doc-iniqauvp8179952.shtml",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3ccabced5dee81b9b057e3c4a4117095",
+    "collectedAt": "2026-08-31T07:59:22.104Z",
+    "notionPageId": "3ccabced5dee81b9b057e3c4a4117095",
+    "fingerprint": "notion|a77f8871ed6a0ef2d124"
+  },
+  {
+    "date": "2026-08-30",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "算电协同"
+    ],
+    "tags": "算电协同 算电协同 全国",
+    "company": "中国政策机构",
+    "title": "重庆正式支持算力项目参与绿电直连并推广源网荷储协同运行",
+    "summary": "重庆市政府办公厅印发渝府办发〔2026〕43号《重庆市进一步推动经济稳中向好若干政策举措》，文件已经市政府同意并正式发布。政策提出对算力网、新型电网等能耗密集型项目统筹保障能耗指标，支持新增负荷参与绿电直连试点，推广源网荷储电力协同运行，并支持老旧小散数据中心实施节能降碳改造。政策同时对购买算力调度平台或关联平台提供的词元服务、建设“词元工厂”MaaS专区分别给予每年最高100万元支持；相关责任部门原则上应在文件印发后3个月内出台操作指引。 解读：重庆已将算力项目的能耗指标、绿电直连和源网荷储协同纳入正式市级政策框架，有助于降低AIDC项目前期能耗准入不确定性，并可能带动绿电电源、储能及能源管理系统需求。但现阶段仍属于方向性政策，项目准入条件、绿电直连源荷比例、电价与结算方式以及补助申报口径，需要等待后续操作指引明确。",
+    "sourceName": "cq.gov.cn",
+    "sourceUrl": "https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/xzgfxwj/szfbgt/202608/t20260830_16002477.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3cdabced5dee812799d3ca6334105783",
+    "collectedAt": "2026-08-31T07:59:22.104Z",
+    "notionPageId": "3cdabced5dee812799d3ca6334105783",
+    "fingerprint": "notion|b7fc148bcd23cd411451"
+  },
+  {
     "date": "2026-08-29",
     "country": "泰国",
     "geo": "亚洲",
@@ -22,6 +88,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-08-30T07:44:48.922Z",
     "notionPageId": "3ccabced5dee818e8905d0da2d7faae7",
     "fingerprint": "notion|97bd511ebb45a0b284fc"
+  },
+  {
+    "date": "2026-08-29",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "产品",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 全国",
+    "company": "阳光电源",
+    "title": "阳光电源发布2026年半年度报告，营收净利双降",
+    "summary": "阳光电源发布2026年半年度报告，上半年实现营业收入309.12亿元，同比下降28.99%；归属母公司净利润52.59亿元，同比下降32.01%；扣非净利润42.75亿元，同比下降42.96%；经营性现金流37.35亿元，同比增长8.75%；基本每股收益2.56元，加权平均净资产收益率10.73%，同比下降8.45个百分点；公司拟每10股派发现金红利6.4元（含税）。 解读：作为全球最大的光伏逆变器及主要储能系统集成商之一，阳光电源营收净利双降反映2026年上半年光伏与储能行业价格战和产能过剩对设备端利润的持续挤压，主营业务盈利能力承压更为明显；但经营性现金流逆势增长，显示公司在收缩阶段仍保持较好的回款与营运资本管理。",
+    "sourceName": "finance.eastmoney.com",
+    "sourceUrl": "https://finance.eastmoney.com/a/202608293859215273.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3ccabced5dee81c589b6fcd9422f8461",
+    "collectedAt": "2026-08-31T07:59:22.104Z",
+    "notionPageId": "3ccabced5dee81c589b6fcd9422f8461",
+    "fingerprint": "notion|456fcedd7b49517f8d10"
   },
   {
     "date": "2026-08-28",
