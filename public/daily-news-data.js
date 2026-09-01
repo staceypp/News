@@ -113,6 +113,27 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-28",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "审批申报",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 电池储能 环评",
+    "company": "Octopus Australia / Enervest",
+    "title": "Octopus Australia旗下1.2GW/4.8GWh电池储能项目提交联邦环评申请",
+    "summary": "Octopus Australia通过开发合作方Enervest，就位于新南威尔士州Bannaby地区的Hanworth电池储能项目（规划规模1.2GW/4.8GWh）向澳大利亚联邦《环境保护与生物多样性保护法》(EPBC Act)提交环评申请，项目拟通过地下线路接入Transgrid的500kV Bannaby变电站。该项目由Octopus Australia于2026年2月从Enervest收购，若建成将成为澳大利亚规划中规模最大的电池储能项目。 解读：随着澳大利亚多个GWh级储能项目集中提交联邦环评，新南威尔士州正成为该国大型电池储能开发的热点区域，储能项目的电网接入排队和环评审批周期将成为项目落地节奏的关键变量。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/octopus-australia-submits-4-8gwh-hanworth-battery-project-for-epbc-act-approval/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Octopus Australia|Hanworth|1.2GW4.8GWh|EPBC环评申请",
+    "id": "daily|2026-08-28|澳大利亚|Hanworth储能环评申请",
+    "collectedAt": "2026-09-01T00:45:43.000Z"
+  },
+  {
+    "date": "2026-08-28",
     "country": "北京",
     "geo": "中国",
     "category": "市场信息",
@@ -524,6 +545,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-08-28T08:43:45.281Z",
     "notionPageId": "3caabced5dee81f8aaafd133a92dde6d",
     "fingerprint": "notion|cb55dba39cbec61d8439"
+  },
+  {
+    "date": "2026-08-26",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "财报",
+    "businessTags": [
+      "集中式",
+      "分布式"
+    ],
+    "tags": "集中式 分布式 硅料 组件 财务",
+    "company": "通威股份",
+    "title": "通威股份上半年净亏损51.19亿元，光伏主链亏损持续",
+    "summary": "通威股份披露2026年半年度报告，实现营业收入343.57亿元，同比下降15.19%；归属于上市公司股东的净利润亏损51.19亿元，此前公司7月已预告上半年亏损48亿至54亿元区间，实际结果落在预告区间内。 解读：作为硅料和电池片环节龙头，通威此轮亏损延续了光伏产业链开工率不足、价格低迷的行业性压力，饲料等非光伏业务仍在部分对冲亏损，行业底部出清节奏仍是后续观察重点。",
+    "sourceName": "财联社",
+    "sourceUrl": "https://www.cls.cn/detail/2465817",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "通威股份|半年报|净亏损51.19亿元|2026H1|财报",
+    "id": "daily|2026-08-26|中国|通威股份半年报净亏51亿",
+    "collectedAt": "2026-09-01T00:45:43.000Z"
   },
   {
     "date": "2026-08-26",
@@ -1289,6 +1332,29 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-19",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "PPA签约",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": "集中式 储能 交易 PPA 光储一体化",
+    "company": "EDF power solutions / NV Energy",
+    "title": "EDF与NV Energy签署内华达州400MW光伏+400MW/1600MWh储能25年期PPA",
+    "summary": "EDF power solutions North America宣布与内华达州公用事业公司NV Energy签署两份为期25年的购电协议(PPA)，覆盖其在建的Winston Energy项目，该项目位于内华达州莱昂县，包含400MW光伏发电与400MW/1600MWh电池储能系统，预计2029年10月投入商业运营，年发电量约111万MWh，可满足约10万户家庭用电需求。 解读：该项目毗邻NV Energy规划中的Greenlink North特高压输电线路走廊，长周期PPA叠加大规模光储配置，反映美国西部电力公司在数据中心等新增负荷驱动下持续锁定长期清洁电力供应的趋势。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/edf-ppas-nv-energy-solar-plus-storage-project-nevada/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|EDF power solutions|NV Energy|Winston Energy|400MW光伏400MW1600MWh储能|PPA",
+    "id": "daily|2026-08-19|美国|Winston光储PPA",
+    "collectedAt": "2026-09-01T00:45:43.000Z"
+  },
+  {
+    "date": "2026-08-19",
     "country": "越南",
     "geo": "亚洲",
     "category": "同行动态",
@@ -1420,6 +1486,28 @@ window.DAILY_NEWS_DATA=[
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "df181b947cbf480492cd38ef3f8dd65e"
+  },
+  {
+    "date": "2026-08-12",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "项目融资",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": "集中式 融资 农光互补 项目融资",
+    "company": "European Energy",
+    "title": "European Energy获2.341亿欧元融资建设意大利225MW农光互补项目",
+    "summary": "丹麦可再生能源开发商European Energy宣布，就其位于意大利西西里岛Vizzini的225MW先进农光互补(Agri-PV)项目达成2.341亿欧元项目融资协议，资金由法国农业信贷银行(Crédit Agricole CIB)、Intesa Sanpaolo（IMI CIB部门）、NORD/LB及法国兴业银行共同提供，用于支持项目建设，预计2028年投入商业运营。 解读：这是意大利同等规模、复杂度农光互补项目中较早完成的大额项目融资案例之一，反映欧洲银行团对意大利农光互补赛道的信心正在提升，也为国内同类项目的土地复合利用与融资结构设计提供参照。",
+    "sourceName": "European Energy",
+    "sourceUrl": "https://europeanenergy.com/2026/08/12/european-energy-secures-eur-234m-financing-for-225-mw-agri-pv-project-in-italy/",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|European Energy|Vizzini|225MW农光互补|2.341亿欧元融资",
+    "id": "daily|2026-08-12|意大利|Vizzini农光互补融资",
+    "collectedAt": "2026-09-01T00:45:43.000Z"
   },
   {
     "date": "2026-08-07",
