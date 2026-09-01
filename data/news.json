@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-08-31",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "电力交易",
+      "系统销售"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能",
+      "电力交易",
+      "系统销售"
+    ],
+    "company": "ERC",
+    "title": "菲律宾AKELCO 25MWp光伏+26.7MWh储能项目签署收购及开发协议，20年PSA固定电价6.035比索/kWh",
+    "summary": "SunScout宣布签署确定性股权收购及项目开发协议，拟以250万美元收购Anaya 1 Power全部股权，获得Panay岛AKELCO项目。项目规划25MWp直流光伏、10MWac送出容量、约13MWac/26.7MWh BESS，并与Aklan Electric Cooperative签20年固定价PSA，电价PHP6.035/kWh；RTB目标为2026年9月。 解读：已确认事实：该项目已从此前87.5MWp组合层面的MOU推进到首个确定性项目协议，且披露了收购价、PSA电价和BESS配置。分析：这是菲律宾光储项目“开发权收购+EPC+长期持有+O&M”的可复制BOO案例，对项目估值和长期现金流建模很有参考价值。需核实：交易尚受RTB确认、ERC对PSA的批准、董事会决议及融资条件约束；公司披露的2500万美元建设收入、年均360万美元收入和120万美元自由现金流均基于内部模型，不能视为已实现收益。",
+    "sourceName": "globenewswire.com",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/08/31/3353345/0/en/sunscout-signs-definitive-agreement-for-first-philippine-solar-plus-storage-project-expected-to-add-us-25-million-in-construction-revenue.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3ceabced5dee81879d88c108d79d0b13",
+    "collectedAt": "2026-09-01T07:05:35.470Z",
+    "notionPageId": "3ceabced5dee81879d88c108d79d0b13",
+    "fingerprint": "notion|6af13cd552af0c37c225"
+  },
+  {
     "date": "2026-08-30",
     "country": "福建",
     "geo": "中国",
