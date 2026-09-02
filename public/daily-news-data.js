@@ -1,5 +1,139 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-01",
+    "country": "吉林",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 吉林",
+    "company": "吉林相关企业",
+    "title": "吉林首个构网型储能电站——松原白沙储能电站一次并网成功",
+    "summary": "吉林省首个大规模构网型储能电站——松原市长岭县白沙储能电站（100MW/200MWh，由20台5MW/10MWh单元组成）于8月29日一次并网成功，接入长丰500千伏变电站220千伏线路，投运后预计每年可减少弃风弃光电量约6000万千瓦时。 解读：作为吉林省首个构网型储能项目，白沙电站的成功并网标志着东北高风光渗透率地区在电网稳定性支撑技术上取得实质进展，构网型储能可提供电压支撑、黑启动、惯量响应等传统跟网型储能不具备的能力，有助于缓解吉林等新能源装机占比高地区的弃风弃光问题。",
+    "sourceName": "escn.com.cn",
+    "sourceUrl": "https://www.escn.com.cn/news/show-2268345.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3ceabced5dee8112b1c9cac6bf9a11c0",
+    "collectedAt": "2026-09-02T06:42:54.051Z",
+    "notionPageId": "3ceabced5dee8112b1c9cac6bf9a11c0",
+    "fingerprint": "notion|475b80c13986e6dce8d6"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 全国",
+    "company": "晶科能源",
+    "title": "晶科能源落地全球首单GSSA标准可持续发展挂钩贷款",
+    "summary": "晶科能源宣布落地全球首单基于GSSA（Global Solar & Storage Alliance）标准的可持续发展挂钩贷款，贷款利率与企业ESG绩效目标（包括供应链GSSA合规评估覆盖率等指标）挂钩，达成目标可触发利率下调。 解读：此次落地意味着中国光伏企业开始从\"标准接受者\"转向\"标准制定者\"，有助于降低中国光伏供应链在欧美市场面临的ESG合规及碳关税壁垒风险，并为国内同业提供可复制的绿色融资范式。对光伏电站开发商而言，若组件、储能等设备采购方的供应链ESG评级持续提升，其自身项目在申请绿色信贷、参与国际招标或对接海外资本时的合规成本有望降低；该模式也预示未来绿色融资定价机制将进一步与供应链可持续表现深度绑定，产业链上下游企业需提前布局ESG数据披露与合规体系建设。",
+    "sourceName": "news.solarbe.com",
+    "sourceUrl": "https://news.solarbe.com/202609/01/50028413.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3ceabced5dee811db8b2fc11a72c3a51",
+    "collectedAt": "2026-09-02T06:42:54.051Z",
+    "notionPageId": "3ceabced5dee811db8b2fc11a72c3a51",
+    "fingerprint": "notion|cdbfafc314f7c5cd3f49"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "新疆",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "中标",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 新疆",
+    "company": "新疆项目主体",
+    "title": "新疆喀什200MW/1200MWh构网型独立储能EPC中标，报价0.73元/Wh",
+    "summary": "中国能建安徽电力设计院中标新疆喀什莎车县200MW/1200MWh构网型独立储能项目EPC总承包，中标价8.7829亿元，折合单价约0.73元/Wh，项目为社会资本投资。 解读：对于计划在新疆布局光伏及配套储能的企业，该中标价可作为区域储能造价的重要参照。",
+    "sourceName": "escn.com.cn",
+    "sourceUrl": "https://www.escn.com.cn/news/show-2268276.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3ceabced5dee81618b2efa7ab08fbf56",
+    "collectedAt": "2026-09-02T06:42:54.051Z",
+    "notionPageId": "3ceabced5dee81e4a2c2fcb251f4791a",
+    "fingerprint": "notion|1e6adf3eed6f851ab841"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式",
+      "电力交易"
+    ],
+    "tags": "集中式 电力交易 集中式光伏 电力交易",
+    "company": "ERC",
+    "title": "菲律宾Bugallon 25MWp光伏获ERC合规证书，可进入商业运营并申请GEA固定付款",
+    "summary": "PetroGreen Energy的25MWp Bugallon Solar Power Plant获得菲律宾能源监管委员会ERC签发的Certificate of Compliance（CoC），此前已完成NGCP及当地电力合作社并网审批和调试。项目可开始商业运营，并申请Green Energy Auction第二轮对应的green energy tariff及TransCo renewable energy payment agreement。 解读：CoC是并网调试完成后的关键监管节点，也使该项目能够衔接绿色能源拍卖下的电价与 TransCo 付款安排，显著降低投运后的收入不确定性。",
+    "sourceName": "businessmirror.com.ph",
+    "sourceUrl": "https://businessmirror.com.ph/2026/09/01/bugallon-solar-power-plant-gets-erc-ok",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3cfabced5dee810992ddcd05fa34c93a",
+    "collectedAt": "2026-09-02T06:42:54.051Z",
+    "notionPageId": "3cfabced5dee810992ddcd05fa34c93a",
+    "fingerprint": "notion|f0fa1d6cb54572ef88ce"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "系统销售"
+    ],
+    "tags": "集中式 系统销售 集中式光伏 系统销售",
+    "company": "泰国项目主体",
+    "title": "泰国GULF两座光伏项目商业运行，合约容量135MW、装机250.1MW，并计划年内再投运235.6MW",
+    "summary": "GULF旗下两座光伏项目于9月1日开始商业运行并向EGAT供电，合计合约容量135MW、装机容量250.1MW。其中Luminous Energy项目合约容量68MW、装机90.6MW；Siam Shining Energy项目合约容量67MW、装机159.5MW。 另有4个光伏项目计划在2026年11-12月陆续商业运行，合计合约容量235.6MW。 解读：泰国大型光伏项目从开发阶段转入现金流阶段。良良项目均与EGAT签订25年购电协议：普通光伏FiT为2.1679泰铢/kWh（0.4336元/kWh），光伏配储项目FiT为2.8331泰铢/kWh（0.5666元/kWh）。",
+    "sourceName": "kaohooninternational.com",
+    "sourceUrl": "https://www.kaohooninternational.com/markets/589828",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3cfabced5dee819f9e18f3642ac561f7",
+    "collectedAt": "2026-09-02T06:42:54.051Z",
+    "notionPageId": "3cfabced5dee819f9e18f3642ac561f7",
+    "fingerprint": "notion|7b4cee810e9633c2ac66"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 全国",
+    "company": "国家能源局",
+    "title": "中国光伏装机达到12.86亿千瓦，首次超过煤电成为第一大电源",
+    "summary": "国家能源局9月1日公布，截至2026年7月底，全国光伏发电装机容量达到12.86亿千瓦（1,286 GW），其中集中式光伏7.04亿千瓦（704 GW）、分布式光伏5.82亿千瓦（582 GW），首次超过煤电装机12.85亿千瓦（1,285 GW），成为我国装机规模最大的电源品类。今年1—7月光伏累计新增装机8565万千瓦（85.65 GW），同比下降62%，主要受2025年同期抢装形成的高基数影响；同期光伏发电量达到8024亿千瓦时（802.4 TWh），同比增长15.5%，占全社会用电量约13%。 解读：装机规模成为第一并不等同于发电量或系统贡献已经超过煤电，新能源消纳、调节能力和利用小时仍是主要约束。集中式光伏存量达到7.04亿千瓦，后续项目竞争将更依赖接网条件、绿电交易、负荷绑定及储能配置；新增装机同比下降也表明抢装过后开发节奏明显放缓。",
+    "sourceName": "xinhuanet.com",
+    "sourceUrl": "https://www.xinhuanet.com/20260901/06dda6c14ab2408e903885a17e974279/c.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3cfabced5dee81f7bd8dc44da3450077",
+    "collectedAt": "2026-09-02T06:42:54.051Z",
+    "notionPageId": "3cfabced5dee81f7bd8dc44da3450077",
+    "fingerprint": "notion|007bd16a25a9a3b20d25"
+  },
+  {
     "date": "2026-08-31",
     "country": "菲律宾",
     "geo": "亚洲",
@@ -23,6 +157,29 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-01T07:05:35.470Z",
     "notionPageId": "3ceabced5dee81879d88c108d79d0b13",
     "fingerprint": "notion|6af13cd552af0c37c225"
+  },
+  {
+    "date": "2026-08-31",
+    "country": "尼日利亚",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "投资",
+    "businessTags": [
+      "微电网",
+      "系统销售"
+    ],
+    "tags": "微电网 系统销售 离网光伏 智能微电网 系统销售",
+    "company": "尼日利亚项目主体",
+    "title": "尼日利亚All On与Energise Africa投资400万美元，在19个社区部署太阳能微电网",
+    "summary": "All On与Energise Africa宣布向Maskh Nigeria投资400万美元，在Jigawa和Bauchi两州19个社区建设太阳能mini-grid，预计覆盖近10万人，服务家庭、企业、学校、医疗机构和生产性用能客户。项目通过DART Programme推进，并获得尼日利亚农村电气化机构REA支持。 解读：该项目体现西非离网市场由单户SHS向社区级mini-grid和生产性用能场景升级，适合跟踪标准化PV+BESS+配电+O&M系统包。包括每个站点的kWp/MWh配置、客户电价、补贴比例、设备供应商和项目IRR。",
+    "sourceName": "all-on.com",
+    "sourceUrl": "https://www.all-on.com/media/media-releases/all-on-and-energise-africa-invest-usd-four-million-in-maskh-to-expand-solar-mini-grids-across-nineteen-communities-in-jigawa-and-bauchi.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3cfabced5dee81e68bd4e718ee85524f",
+    "collectedAt": "2026-09-02T06:42:54.051Z",
+    "notionPageId": "3cfabced5dee81e68bd4e718ee85524f",
+    "fingerprint": "notion|edf92f1827ff593f02fe"
   },
   {
     "date": "2026-08-30",
@@ -135,6 +292,29 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-08-31T07:59:22.104Z",
     "notionPageId": "3ccabced5dee81c589b6fcd9422f8461",
     "fingerprint": "notion|456fcedd7b49517f8d10"
+  },
+  {
+    "date": "2026-08-29",
+    "country": "巴西",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "系统销售"
+    ],
+    "tags": "储能 系统销售 储能 系统销售",
+    "company": "晶科",
+    "title": "Jinko ESS与UCB Power签署巴西储能本地化合作备忘录，瞄准容量储能拍卖与本地融资",
+    "summary": "巴西UCB Power与Jinko ESS签署合作备忘录，拟评估在巴西本地生产Jinko ESS储能系统，预计年产能在1.5至4.5 GWh之间，以满足当地内容要求，并重点面向预计于12月举行的容量储能拍卖LRCAP-BESS。合作也意在提高获取BNDES融资的可能性。 解读：晶科正在将海外竞争从设备出口推进到本地制造与政策适配，这对后续巴西储能招标的银行可融资性和本地准入很关键。可持续跟踪最终本地化比例、工厂落地时间、产能、BNDES可融资资格及实际中标订单。",
+    "sourceName": "ess-news.com",
+    "sourceUrl": "https://www.ess-news.com/2026/08/31/jinko-ess-partners-with-ucb-power-to-localize-bess-production-in-brazil",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3cfabced5dee8197b658c8a8cd9507b3",
+    "collectedAt": "2026-09-02T06:42:54.051Z",
+    "notionPageId": "3cfabced5dee8197b658c8a8cd9507b3",
+    "fingerprint": "notion|77b2af59b35a819a7e27"
   },
   {
     "date": "2026-08-28",
