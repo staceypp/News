@@ -90,6 +90,29 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-09-01",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "招标",
+    "businessTags": [
+      "集中式",
+      "系统销售"
+    ],
+    "tags": "集中式 系统销售 集中式光伏 系统销售",
+    "company": "中国项目主体",
+    "title": "山东第二批集中式光伏建设名单约1.83GW，20个项目承诺2027年前投产",
+    "summary": "山东2026年第二批集中式光伏发电项目建设名单包含20个项目，总规模约183.31万千瓦，项目承诺于2027年前建成投产。公开梳理显示，华能、华电、国家能源集团、三峡、大唐、中广核、中节能及中国电建等央企项目占较高比例。 解读：该批项目央企占比较高，后续可跟踪招标情况。",
+    "sourceName": "finance.jrj.com.cn",
+    "sourceUrl": "https://finance.jrj.com.cn/2026/09/01085958305248.shtml",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3cfabced5dee81388f25d265b9f92329",
+    "collectedAt": "2026-09-02T13:09:21.000Z",
+    "notionPageId": "3cfabced5dee81388f25d265b9f92329",
+    "fingerprint": "notion|ce08276b3e924207e742"
+  },
+  {
+    "date": "2026-09-01",
     "country": "泰国",
     "geo": "亚洲",
     "category": "市场信息",
@@ -571,7 +594,7 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-08-28",
-    "country": "多国/区域",
+    "country": "加拿大",
     "geo": "全球",
     "category": "市场信息",
     "eventType": "PPA",
@@ -580,7 +603,7 @@ window.DAILY_NEWS_DATA=[
       "储能"
     ],
     "tags": "集中式 储能 集中式光伏 储能",
-    "company": "多国/区域项目主体",
+    "company": "加拿大项目主体",
     "title": "加拿大Red Willow 225MWac光伏+100MW储能项目签署股权出售协议，最高应收约2672.5万加元",
     "summary": "Westbridge Renewable Energy签署Red Willow Solar Inc.全部股权出售协议。项目位于加拿大阿尔伯塔省，规划最高225MWac光伏并配100MW BESS，已获得AUC电站、储能及变电站相关审批并进入AESO并网流程。按里程碑全部实现计算，Westbridge应收总额预计约2672.5万加元，包括交割现金、担保金补偿以及光伏/BESS商业运行节点付款。 解读：项目已进入签署SPA后的资产变现阶段，交易采用“交割款+COD里程碑款”结构。该案例对新能源项目开发—降险—出售模式具有参考价值，说明已取得许可和并网位置的光储项目具有可变现价值。交易仍受交割条件和监管批准约束，且未披露买方、项目最终CAPEX、PPA及实际开发利润率；2672.5万加元是潜在应收总额而非当期现金回款。",
     "sourceName": "westbridge.energy",
@@ -590,7 +613,7 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|3ccabced5dee8166aecffe5c09991b94",
     "collectedAt": "2026-08-30T07:44:48.922Z",
     "notionPageId": "3ccabced5dee8166aecffe5c09991b94",
-    "fingerprint": "notion|45c5c2f38bbaa97f1deb"
+    "fingerprint": "notion|65e7714471081464dfed"
   },
   {
     "date": "2026-08-28",
