@@ -2347,5 +2347,136 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "标准实施",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": [
+      "虚拟电厂",
+      "国家标准",
+      "电力现货市场"
+    ],
+    "company": "国家市场监督管理总局",
+    "title": "国内首个虚拟电厂国标9月1日起正式实施",
+    "summary": "《虚拟电厂技术导则》（GB/T 47241-2026）作为国内首个虚拟电厂国家标准，于2026年9月1日起正式实施。标准明确虚拟电厂总聚合容量不低于10MW、总调节容量不低于5MW，单元调节容量不低于1MW，调节速率不低于调节容量的3%/min，持续调节时间不小于1小时等技术要求。 解读：该标准填补了虚拟电厂技术层面的国家标准空白，为虚拟电厂参与电力中长期及现货市场交易提供统一技术门槛，有助于分布式资源规模化聚合参与市场。",
+    "sourceName": "东方财富网",
+    "sourceUrl": "https://caifuhao.eastmoney.com/news/20260414065558991593960",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|虚拟电厂|GB-T47241-2026|9月1日实施|标准实施",
+    "id": "daily|2026-09-01|中国|虚拟电厂国标实施",
+    "collectedAt": "2026-09-02T00:43:21Z"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "消费税",
+      "锂电池",
+      "光伏电池",
+      "储能电池"
+    ],
+    "company": "财政部、海关总署、税务总局",
+    "title": "电池消费税新政9月1日实施，锂电池恢复征税",
+    "summary": "财政部、海关总署、税务总局公告明确，自2026年9月1日起，对无汞原电池、金属氢化物镍蓄电池、锂原电池、锂离子蓄电池、全钒液流电池按2%税率征收消费税，2027年9月1日起税率提高至4%，结束了锂电池长达十余年的消费税免征政策。同时，自9月1日起至2028年12月31日，对钠离子电池、固态电池、燃料电池以及钙钛矿、叠层、砷化镓等新型光伏电池品类暂免征收消费税。 解读：储能锂电池成本端新增消费税负担，钠离子、固态电池及新型光伏电池品类获得阶段性税收优惠，可能加速技术路线切换与产业投资方向调整。",
+    "sourceName": "新浪财经",
+    "sourceUrl": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniicyyq4096772.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|电池消费税|锂电池|9月1日|政策",
+    "id": "daily|2026-09-01|中国|电池消费税新政实施",
+    "collectedAt": "2026-09-02T00:43:21Z"
+  },
+  {
+    "date": "2026-08-28",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "行业报告",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "储能出海",
+      "海外订单",
+      "CNESA"
+    ],
+    "company": "中关村储能产业技术联盟(CNESA)",
+    "title": "CNESA：上半年中国储能海外订单增83%至298GWh",
+    "summary": "中关村储能产业技术联盟(CNESA)在第十一届中国西部国际储能大会（甘肃兰州）上发布数据，2026年上半年中国企业储能海外订单签约规模达298GWh，同比增长83%，欧洲仍是重要市场，中东、印度、智利等新兴市场增速更快。 解读：报告指出中国储能企业出海正从单纯产品出口向海外建厂、本地化服务、技术合作及综合解决方案输出演进，反映出海模式的持续升级。",
+    "sourceName": "新华网",
+    "sourceUrl": "https://www.news.cn/energy/20260828/9a63f0b477f247eab756720e16ab7bd3/c.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|储能出海|298GWh|83%|行业报告",
+    "id": "daily|2026-08-28|中国|储能海外订单83%增长",
+    "collectedAt": "2026-09-02T00:43:21Z"
+  },
+  {
+    "date": "2026-08-31",
+    "country": "荷兰",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资",
+      "交易"
+    ],
+    "tags": [
+      "BESS",
+      "财务关闭",
+      "长期托管协议"
+    ],
+    "company": "Return / Vattenfall",
+    "title": "荷兰800MWh储能项目Sirius实现财务关闭",
+    "summary": "荷兰储能开发商Return宣布与电力公司Vattenfall就其位于格罗宁根Winschoten的200MW/800MWh Sirius储能项目签署长期固定价格托管（toll）协议，并同步实现财务关闭。项目获得NIBC、NatWest、德意志银行、ABN AMRO和Rabobank提供的约4亿欧元（4.63亿美元）融资，总投资约1.8亿欧元，预计2027年第四季度投运，将通过TenneT电网在Meeden并网。 解读：这是Return与Vattenfall签署的第二个托管协议（此前为Waddinxveen的100MW/200MWh Antares项目），也是荷兰迄今最大的固定价格储能托管协议之一，显示欧洲大型独立储能项目融资模式日趋成熟。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/return-financial-close-vattenfall-toll-800mwh-dutch-netherlands-battery-storage/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "荷兰|Return|Vattenfall|Sirius|800MWh|融资",
+    "id": "daily|2026-08-31|荷兰|Sirius储能项目财务关闭",
+    "collectedAt": "2026-09-02T00:43:21Z"
+  },
+  {
+    "date": "2026-08-31",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "供应协议",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "LFP电池",
+      "电池供应协议",
+      "本土化制造"
+    ],
+    "company": "SK On / NeoVolta Power",
+    "title": "SK On与NeoVolta签9GWh磷酸铁锂电芯供应协议",
+    "summary": "韩国电池企业SK On宣布与美国储能公司NeoVolta Power签署长期战略协议，将于2027年至2031年向其供应9GWh磷酸铁锂（LFP）软包电芯，产自SK On位于美国佐治亚州的工厂。双方还同步达成NeoVolta Power为SK On生产储能电池包的协议，使合作总量达到18GWh，据韩媒报道交易金额约合10.9亿美元。 解读：该协议是美国本土LFP电池供应链布局的重要案例，体现出韩系电池企业加码美国储能市场、与本土储能系统集成商深化产业链合作的趋势。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/sk-on-signs-18gwh-reciprocal-lfp-supply-deal-with-neovolta-power-for-us-made-battery-storage/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|SKOn|NeoVolta|LFP|9GWh|供应协议",
+    "id": "daily|2026-08-31|美国|SKOn与NeoVolta电池供应协议",
+    "collectedAt": "2026-09-02T00:43:21Z"
   }
 ]
