@@ -1,6 +1,27 @@
 window.DAILY_NEWS_DATA=[
   {
     "date": "2026-09-01",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "开工",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 德国 独立储能 电网侧储能",
+    "company": "SUNOTEC",
+    "title": "德国SUNOTEC开工建设100MW/441MWh独立储能项目",
+    "summary": "德国能源公司SUNOTEC在萨克森-安哈尔特州施滕达尔（Stendal）启动一座100MW/441MWh独立电网侧储能电站建设，该项目已于2026年二季度达到可开工（ready-to-build）状态，预计2027年一季度投运，建成后将跻身德国最大储能电站之列。SUNOTEC担任项目总承包方，负责工程设计、设备安装及长期运维；合作方WT Energiesysteme将在现场新建一座110千伏变电站以支撑并网。 解读：该项目意在提升电网灵活性，光伏和风电高发时段充电、用电高峰时段放电，反映德国独立储能开发节奏在2026年下半年持续加速，为国内储能企业评估德国独立储能市场规模及配套并网要求提供参照。",
+    "sourceName": "Energy Global",
+    "sourceUrl": "https://www.energyglobal.com/energy-storage/01092026/sunotec-advances-100-mw441-mwh-battery-energy-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|SUNOTEC|100MW/441MWh|独立储能|施滕达尔|开工",
+    "id": "daily|2026-09-01|德国|SUNOTEC储能开工",
+    "collectedAt": "2026-09-03T00:44:36.000Z"
+  },
+  {
+    "date": "2026-09-01",
     "country": "吉林",
     "geo": "中国",
     "category": "同行动态",
@@ -155,6 +176,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-02T06:42:54.051Z",
     "notionPageId": "3cfabced5dee81f7bd8dc44da3450077",
     "fingerprint": "notion|007bd16a25a9a3b20d25"
+  },
+  {
+    "date": "2026-08-31",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "PPA签约",
+    "businessTags": [
+      "PPA",
+      "储能"
+    ],
+    "tags": "PPA 储能 印度 铁路用电 全天候电力",
+    "company": "ACME Solar Holdings",
+    "title": "ACME Solar与印度铁路签署130MW全天候PPA",
+    "summary": "印度可再生能源开发商ACME Solar Holdings旗下子公司ACME Marigold Urja，与印度东北边境铁路（Northeast Frontier Railway）签署130MW全天候（RTC）可再生能源购售协议，电价为每度4.35卢比，合同期25年，计划于2029年2月25日开始供电。该项目由REMC Limited主导招标，要求ACME Solar以跨邦输电线路（ISTS）连接的光伏、风电及储能资产组合实现全天候稳定供电，前三年最低可用率需达75%，此后提升至85%。 解读：印度铁路系统正加速以长期RTC协议锁定绿色电力，光伏＋储能捆绑供电模式在印度企业与公共机构用电侧的渗透率持续提升，为国内出海企业观察印度全天候绿电定价及配储要求提供参考。",
+    "sourceName": "SolarQuarter",
+    "sourceUrl": "https://solarquarter.com/2026/08/31/acme-solar-signs-130-mw-rtc-ppa-with-northeast-frontier-railway-at-inr-4-35-kwh-for-25-years/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|ACME Solar|130MW RTC PPA|东北边境铁路|4.35卢比|PPA签约",
+    "id": "daily|2026-08-31|印度|ACME全天候PPA",
+    "collectedAt": "2026-09-03T00:44:36.000Z"
   },
   {
     "date": "2026-08-31",
