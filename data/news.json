@@ -2578,5 +2578,78 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-08-23",
+    "country": "保加利亚",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "EPC签约",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "EPC出海",
+      "中国电建"
+    ],
+    "company": "中国电建（POWERCHINA）",
+    "title": "中国电建签约保加利亚46.54MW光伏EPC项目",
+    "summary": "中国电建集团国际工程有限公司8月23日与Belozem Photovoltaic Power Station公司签署保加利亚南部贝洛赞（Belozem）46.54MW光伏项目EPC合同，工作内容涵盖光伏场区、110kV升压站及架空线路的设计、采购、施工、调试、试运行及并网。该项目是中国电建在保加利亚市场签约的首个项目，标志着公司进一步拓展欧洲新能源市场。",
+    "sourceName": "中国电建集团国际工程有限公司",
+    "sourceUrl": "https://www.powerchina-intl.com/show/9/2139.html",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "保加利亚|中国电建|贝洛赞光伏项目|46.54MW|EPC签约",
+    "id": "daily|2026-08-23|保加利亚|中国电建贝洛赞光伏EPC",
+    "collectedAt": "2026-08-30T00:45:15Z"
+  },
+  {
+    "date": "2026-08-24",
+    "country": "马来西亚",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "开工",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "电池制造",
+      "东南亚产能出海"
+    ],
+    "company": "亿纬锂能（EVE Energy）",
+    "title": "亿纬锂能马来西亚三期工厂开工，规划年产38GWh储能电池",
+    "summary": "亿纬锂能马来西亚三期工厂项目8月24日在居林东鑫工业园开工，由中建三局承建，总建筑面积约20万平方米，规划年产38GWh储能电池，建设内容包括电芯厂、化成车间、锂锰工厂、锂亚工厂及配套动力站、变电站等设施。该项目是继一期圆柱电池、二期10GWh储能项目之后，亿纬锂能在马来西亚布局的第三期产能，是其全球化产业链的重要一环。",
+    "sourceName": "集邦新能源网 EnergyTrend",
+    "sourceUrl": "https://www.energytrend.cn/news/20260825-148452.html",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "马来西亚|亿纬锂能|三期工厂-居林东鑫工业园|38GWh-20万平方米|开工",
+    "id": "daily|2026-08-24|马来西亚|亿纬锂能三期工厂开工",
+    "collectedAt": "2026-08-30T00:45:15Z"
+  },
+  {
+    "date": "2026-08-27",
+    "country": "波兰",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "BESS",
+      "UniCredit"
+    ],
+    "company": "Greenvolt / UniCredit",
+    "title": "Greenvolt获2.18亿欧元融资建设波兰两座储能电站",
+    "summary": "葡萄牙可再生能源企业Greenvolt获意大利裕信银行（UniCredit）提供合计2.18亿欧元融资（含1.53亿欧元过桥贷款及6500万欧元担保额度），用于支持其在波兰埃乌克（Ełk）和图罗希尼（Turośń Kościelna）的两座储能电站，单座规模均为200MW/800MWh，合计400MW/1.6GWh，是波兰规模最大的储能设施之一。图罗希尼电站已于7月投运，埃乌克电站已并网，预计四季度实现商业运行。",
+    "sourceName": "Renewable Watch",
+    "sourceUrl": "https://renewablewatch.in/2026/08/28/greenvolt-group-secures-financing-for-1-6-gwh-bess-projects-in-poland/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "波兰|Greenvolt-UniCredit|Ełk-Turośń BESS|218百万欧元-1.6GWh|融资",
+    "id": "daily|2026-08-27|波兰|Greenvolt储能融资",
+    "collectedAt": "2026-08-30T00:45:15Z"
   }
 ]
