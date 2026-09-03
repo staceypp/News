@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-09-02",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "户用光伏",
+      "系统销售"
+    ],
+    "tags": [
+      "分布式光伏",
+      "户用光伏",
+      "系统销售"
+    ],
+    "company": "泰国政策机构",
+    "title": "泰国拟一年内推动100万户安装5GW屋顶光伏，以降低LNG价格冲击并强化家庭能源自给",
+    "summary": "路透社报道，泰国政府拟在一年内推动约100万户家庭安装合计5GW屋顶光伏，作为能源价格与LNG进口风险应对措施。计划拟由约2000亿泰铢能源转型应急资金支持，并包括每户最高约5万泰铢补贴和低息贷款；泰国当前仍高度依赖天然气发电，进口LNG价格波动对居民电价形成压力。 解读：泰国政府正在推动更大规模的家庭屋顶光伏计划，目标规模明显高于此前500MW购电配额讨论。如果5GW目标进入正式实施，将直接扩大户用组件、逆变器、储能、安装及融资市场，并可能形成东南亚最大级别的居民光伏增量市场之一。关键不确定性在于正式政策文件、补贴覆盖范围、并网容量、余电收购机制、预算拨付节奏及5GW是否为硬性年度落地目标。",
+    "sourceName": "reuters.com",
+    "sourceUrl": "https://www.reuters.com/business/energy/thailand-backs-rooftop-solar-guard-against-lng-price-surges-minister-says-2026-09-02",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d0abced5dee8188bffafe79293b9195",
+    "collectedAt": "2026-09-03T06:45:15.340Z",
+    "notionPageId": "3d0abced5dee8188bffafe79293b9195",
+    "fingerprint": "notion|9f7f4224fd9eb976222b"
+  },
+  {
+    "date": "2026-09-02",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "储能",
+      "电力交易"
+    ],
+    "tags": [
+      "储能",
+      "电力交易"
+    ],
+    "company": "国家能源局",
+    "title": "华中跨省电力互济交易首月成交超5亿kWh，29座储能及虚拟电厂首次实现跨省调节出清",
+    "summary": "国家能源局披露，华中区域东四省电力互济交易自7月1日连续结算试运行以来，首月累计653家主体完成交易，交易电量超过5亿千瓦时（500 GWh），跨省最大互济电力353.3万千瓦（3.5 GW）。29家储能电站和1家虚拟电厂实现出清，跨省调节电力分别达到45.8万千瓦（458 MW）和0.5万千瓦（5 MW），累计交易电量超过3000万千瓦时（30 GWh）；同时帮助327家新能源企业通过外送减弃增发近1亿千瓦时（100 GWh）。 解读：储能、虚拟电厂已经在华中跨省互济市场形成真实成交和调节电量。这意味着储能收益来源正从省内峰谷价差进一步扩展到跨省调节和市场化辅助交易，对储能项目收益模型和聚合平台价值均有增量意义。",
+    "sourceName": "nea.gov.cn",
+    "sourceUrl": "https://www.nea.gov.cn/20260902/24519b4010bb43a192c3b6b0dbdba1d2/c.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d0abced5dee81cc83abfe2c501ac88f",
+    "collectedAt": "2026-09-03T06:45:15.340Z",
+    "notionPageId": "3d0abced5dee81cc83abfe2c501ac88f",
+    "fingerprint": "notion|7c67b94f7d5e39d6fdbf"
+  },
+  {
     "date": "2026-09-01",
     "country": "吉林",
     "geo": "中国",
@@ -176,6 +230,32 @@
     "collectedAt": "2026-09-02T06:42:54.051Z",
     "notionPageId": "3cfabced5dee81f7bd8dc44da3450077",
     "fingerprint": "notion|007bd16a25a9a3b20d25"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "阿联酋",
+    "geo": "中东",
+    "category": "同行动态",
+    "eventType": "产品",
+    "businessTags": [
+      "储能",
+      "系统销售"
+    ],
+    "tags": [
+      "储能",
+      "系统销售"
+    ],
+    "company": "天合",
+    "title": "天合储能在中东发布Elementa+Electra一体化方案，单套最高50MWh并支持2—8小时储能配置",
+    "summary": "Trina Storage在Middle East Energy 2026首次面向中东推出Elementa + Electra一体化公用事业级储能方案。该方案将6.25MWh Elementa 3电池系统与13.8MVA Electra平台组合，单套储能容量最高可达50MWh，支持2—8小时持续时间，系统效率最高约96%。 解读：中东大型储能项目正向更长时长和一体化交付演进，头部组件企业与传统逆变器/储能系统商的竞争边界进一步重叠。",
+    "sourceName": "wam.ae",
+    "sourceUrl": "https://www.wam.ae/en/article/c210gy2-trina-storage-launches-elementa-electra-middle",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d0abced5dee8125a59ac49d2745cef0",
+    "collectedAt": "2026-09-03T06:45:15.340Z",
+    "notionPageId": "3d0abced5dee8125a59ac49d2745cef0",
+    "fingerprint": "notion|ff1c6116857c8f90355e"
   },
   {
     "date": "2026-08-31",
