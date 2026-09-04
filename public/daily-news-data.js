@@ -1,6 +1,27 @@
 window.DAILY_NEWS_DATA=[
   {
     "date": "2026-09-02",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "并网核准",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 压缩空气储能 长时储能",
+    "company": "Hydrostor",
+    "title": "Hydrostor澳大利亚Silver City压缩空气储能项目获并网核准",
+    "summary": "Hydrostor宣布其位于新南威尔士州Broken Hill的Silver City压缩空气储能中心获得澳大利亚能源市场运营商AEMO及输电公司Transgrid的并网核准。该项目为200兆瓦/1600兆瓦时（8小时时长）地下压缩空气储能设施，是澳大利亚首个此类项目，将为Broken Hill地区提供电网可靠性支撑和长时储能备用电力。",
+    "sourceName": "pv magazine Australia",
+    "sourceUrl": "https://www.pv-magazine-australia.com/2026/09/02/air-storage-pioneer-secures-grid-connection-approval-for-first-project-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Hydrostor|Silver City压缩空气储能|200MW-1600MWh|并网核准",
+    "id": "daily|2026-09-02|澳大利亚|Hydrostor压缩空气储能并网",
+    "collectedAt": "2026-09-04T00:43:12Z"
+  },
+  {
+    "date": "2026-09-02",
     "country": "泰国",
     "geo": "亚洲",
     "category": "市场信息",
@@ -45,6 +66,72 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-03T06:45:15.340Z",
     "notionPageId": "3d0abced5dee81cc83abfe2c501ac88f",
     "fingerprint": "notion|7c67b94f7d5e39d6fdbf"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "里程碑",
+    "businessTags": [
+      "集中式",
+      "分布式"
+    ],
+    "tags": "集中式 分布式 装机容量 煤电",
+    "company": "国家能源局",
+    "title": "中国光伏发电装机历史性超过煤电成最大电源",
+    "summary": "国家能源局9月1日宣布，截至7月底我国光伏发电装机容量达12.86亿千瓦，其中集中式7.04亿千瓦、分布式5.82亿千瓦，首次超过煤电12.85亿千瓦，成为装机规模最大的电源品类。我国光伏组件产量已连续16年全球第一，多晶硅、硅片、电池片、组件产能全球占比均超80%。",
+    "sourceName": "新华社",
+    "sourceUrl": "https://www.xinhuanet.com/fortune/20260901/80d08f8c77104df68f9302e03cce1e9e/c.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|光伏装机超过煤电|12.86亿千瓦|里程碑",
+    "id": "daily|2026-09-01|中国|光伏装机超煤电",
+    "collectedAt": "2026-09-04T00:43:12Z"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "电价调整",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": "电力交易 代理购电 工商业电价 广东",
+    "company": "广东电网有限责任公司",
+    "title": "广东电网9月代理购电价格上调，珠三角环比涨6.5%",
+    "summary": "广东电网发布2026年9月工商业用户代理购电价格公告，覆盖珠三角五市、惠州、江门、东西两翼及粤北山区，按单一制和两部制分类并执行峰谷分时电价政策。其中珠三角地区代理购电价格环比上涨6.5%，新电价自2026年9月1日起执行。",
+    "sourceName": "碳索新能",
+    "sourceUrl": "https://carbon.solarbe.com/article/50028359",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|广东电网|9月代理购电价格|珠三角涨6.5%|电价调整",
+    "id": "daily|2026-09-01|中国|广东9月代理购电价格",
+    "collectedAt": "2026-09-04T00:43:12Z"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "沙特阿拉伯",
+    "geo": "中东",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "绿电"
+    ],
+    "tags": "集中式 储能 绿电 离网微电网 红海项目",
+    "company": "Red Sea Global / SEPCOIII",
+    "title": "沙特红海项目光储微电网建成，成全球最大离网光储系统",
+    "summary": "沙特红海旅游目的地Red Sea Global的多功能公用事业项目实现全面商业运营，配套358兆瓦交流光伏电站与1.2吉瓦时电池储能系统，为旅游设施、海水淡化、制冷等基础设施独立供电。项目EPC总承包商为中国电建旗下SEPCOIII，是目前全球规模最大的离网光储微电网。",
+    "sourceName": "pv magazine",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/01/worlds-largest-solar-storage-microgrid-goes-online-in-saudi-arabia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "沙特阿拉伯|Red Sea Global-SEPCOIII|红海光储微电网|358MW-1.2GWh|投运",
+    "id": "daily|2026-09-01|沙特阿拉伯|红海光储微电网投运",
+    "collectedAt": "2026-09-04T00:43:12Z"
   },
   {
     "date": "2026-09-01",
