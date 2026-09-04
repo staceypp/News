@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-09-04",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "收购",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能"
+    ],
+    "company": "澳大利亚项目主体",
+    "title": "澳大利亚维州SEC可再生能源园区119MW光伏项目并网",
+    "summary": "澳大利亚维多利亚州国有电力公司SEC（State Electricity Commission）旗下SEC可再生能源园区光伏项目在霍舍姆（Horsham）实现并网，该项目装机119MW，采用21.2万余块组件，SEC投资达3.7亿澳元（人民币17.87亿元）。项目配套的100MW/200MWh储能系统预计年内运抵安装，2027年全面投运。该项目原为OX2开发，2024年9月由SEC收购，属于VRET2招标计划（六个项目共获14.8亿澳元（人民币69.56亿元）支持）的一部分。 解读：该项目是维州政府主导的国有可再生能源投资平台首个实现并网的大型光伏项目，标志着维州以国有资本推动\"光伏+储能\"配套建设、支撑亚洛恩（Yallourn）燃煤电站2028年退役的战略进入实质执行阶段。",
+    "sourceName": "pv-tech.org",
+    "sourceUrl": "https://www.pv-tech.org/victorias-sec-connects-119mw-solar-plus-storage-site-to-the-grid-in-australia",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d1abced5dee81cc89f6da28c0f893c0",
+    "collectedAt": "2026-09-04T13:04:36.916Z",
+    "notionPageId": "3d1abced5dee81cc89f6da28c0f893c0",
+    "fingerprint": "notion|c3a325004c97aa298469"
+  },
+  {
+    "date": "2026-09-03",
+    "country": "江苏",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "算电协同"
+    ],
+    "tags": [
+      "算电协同",
+      "江苏"
+    ],
+    "company": "江苏相关企业",
+    "title": "京东集团与协鑫集团在苏州座谈聚焦算电协同",
+    "summary": "9月1日，京东集团副总裁、京东云AIDC业务部负责人王凯一行到访协鑫能源中心，与协鑫集团董事长朱共山座谈，聚焦国家“算电协同”战略部署与数字经济发展规划，围绕资源整合、技术融合与场景落地展开研讨，就携手推进AIDC全球化布局达成重要共识。王凯表示京东具备AIDC算力架构设计、智能调度算法及全栈式算力服务能力，协鑫拥有规模化低成本绿电资源及风光储一体化配套体系，双方优势高度契合。协鑫集团董事长朱共山介绍协鑫已建成6吉瓦电力装机容量，并建议双方共建长效对接机制与AIDC联合工作组，在算力租赁、智算中心建设等领域展开合作。 解读：该会谈是“算电协同”从政策语言走向头部企业实质合作的信号。对光伏电站开发商而言，协鑫这类拥有“规模化绿电+风光储一体化”交付能力的新能源集团正在与互联网大厂形成绑定关系，未来大型云计算/AIDC企业的绿电采购可能进一步向具备一体化交付能力的头部集团集中。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/B9w832p0LAiUcKLpnZM2dw",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3d1abced5dee815eb59bd1bdb7b57ec7",
+    "collectedAt": "2026-09-04T13:04:36.916Z",
+    "notionPageId": "3d1abced5dee815eb59bd1bdb7b57ec7",
+    "fingerprint": "notion|1c5e87e6a9036dad5574"
+  },
+  {
     "date": "2026-09-02",
     "country": "泰国",
     "geo": "亚洲",
