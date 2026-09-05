@@ -2709,5 +2709,130 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "行业数据",
+    "businessTags": [
+      "集中式",
+      "分布式"
+    ],
+    "tags": [
+      "装机容量",
+      "能源转型"
+    ],
+    "company": "国家能源局",
+    "title": "中国光伏发电装机容量历史性超过煤电，跃居第一大电源",
+    "summary": "国家能源局2026年9月1日公布，截至7月底全国光伏发电装机容量达12.86亿千瓦（其中集中式7.04亿千瓦、分布式5.82亿千瓦），首次超过煤电12.85亿千瓦装机，占全国总装机31.5%，光伏正式成为中国装机规模最大的电源品种。该里程碑被多家官方媒体视为中国能源转型进入新阶段的重要信号。",
+    "sourceName": "中国新闻网",
+    "sourceUrl": "https://www.chinanews.com.cn/cj/2026/09-01/10687691.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|光伏装机超越煤电|12.86亿千瓦|行业数据",
+    "id": "daily|2026-09-01|中国|光伏装机超煤电",
+    "collectedAt": "2026-09-05T00:42:41Z"
+  },
+  {
+    "date": "2026-08-31",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA签署",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "PPA",
+      "孟买"
+    ],
+    "company": "SECI / BEST",
+    "title": "孟买BEST与印度SECI签署220MW光伏配储25年购电协议",
+    "summary": "印度孟买电力运营商BEST于2026年8月31日与印度可再生能源开发署（SECI）签署为期25年的购电协议，采购220MW光伏电量并配套110MW/440MWh电池储能系统，电价约2.87卢比/度。交易将把BEST电力结构中的可再生能源占比从约33%提升至43%，并帮助其完成可再生能源购买义务（RPO）指标。",
+    "sourceName": "Indian Infrastructure",
+    "sourceUrl": "https://indianinfrastructure.com/2026/09/04/brihanmumbai-electric-supply-and-transport-undertaking-signs-ppa-with-seci-for-220-mw-solar-power-and-bess/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|SECI-BEST|孟买220MW光伏配110MW-440MWh储能|2.87卢比|PPA签署",
+    "id": "daily|2026-08-31|印度|BEST-SECI购电协议",
+    "collectedAt": "2026-09-05T00:42:41Z"
+  },
+  {
+    "date": "2026-08-31",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "开工",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "电网侧储能",
+      "EPC"
+    ],
+    "company": "海博思创（HyperStrong）/ LEAG Clean Power",
+    "title": "海博思创德国1.6GWh储能项目GigaBattery Boxberg 400正式开工",
+    "summary": "2026年8月31日，中国储能系统集成商海博思创（HyperStrong）与德国能源公司LEAG Clean Power在萨克森州博克斯贝格（Boxberg）为\"GigaBattery Boxberg 400\"储能项目举行开工仪式。项目电网接入容量400MW、储能规模1.6GWh，由海博思创作为EPC总承包方建设，满功率运行下理论上可为约64万户家庭供电4小时，是海博思创在欧洲市场的重要里程碑项目。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/industry-updates/hyperstrong-marks-groundbreaking-of-1-6-gwh-project-in-germany/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|HyperStrong-LEAG Clean Power|GigaBattery Boxberg 400|400MW-1.6GWh|开工",
+    "id": "daily|2026-08-31|德国|Boxberg储能开工",
+    "collectedAt": "2026-09-05T00:42:41Z"
+  },
+  {
+    "date": "2026-09-02",
+    "country": "南非",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "融资关闭",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": [
+      "PPA",
+      "财务关闭"
+    ],
+    "company": "Yellow Door Energy / Nedbank CIB",
+    "title": "Yellow Door Energy与Nedbank CIB完成南非49MW光伏电站融资关闭",
+    "summary": "Yellow Door Energy与Nedbank CIB于2026年9月2日宣布，位于南非西北省Leeudoringstad的49MWp Lion Thorn太阳能电站项目实现融资关闭，项目已与PPC及电力交易商POWERX签署长期购电协议（PPA）。项目预计投运后首年发电量约1.15亿千瓦时，可减排约10.42万吨二氧化碳，工程将于9月开工，预计2028年建成投运。",
+    "sourceName": "Energy Global",
+    "sourceUrl": "https://www.energyglobal.com/solar/02092026/yellow-door-energy-and-nedbank-cib-achieve-financial-close-on-south-african-solar-park/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "南非|Yellow Door Energy-Nedbank CIB|Lion Thorn Solar Park|49MWp|融资关闭",
+    "id": "daily|2026-09-02|南非|狮荆棘光伏融资关闭",
+    "collectedAt": "2026-09-05T00:42:41Z"
+  },
+  {
+    "date": "2026-09-04",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "并网",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "国有电力公司",
+      "光储混合"
+    ],
+    "company": "维多利亚州国有电力公司（SEC）",
+    "title": "维多利亚州国有电力公司SEC旗下Horsham光伏电站首次并网",
+    "summary": "澳大利亚维多利亚州国有电力公司SEC宣布，其位于Horsham（距墨尔本西北约300公里）的119MW光伏电站于2026年9月4日首次并网发电，是该州首个全资公有可再生能源项目SEC Renewable Energy Park的组成部分。项目下一步将进入热调试阶段，并将于年内加装100MW/200MWh电池储能系统，全面投运后预计年发电量约24.2万兆瓦时。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/victorias-sec-connects-119mw-solar-plus-storage-site-to-the-grid-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Victoria SEC|Horsham光伏电站|119MW|并网",
+    "id": "daily|2026-09-04|澳大利亚|Horsham光伏并网",
+    "collectedAt": "2026-09-05T00:42:41Z"
   }
 ]
