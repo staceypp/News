@@ -24,6 +24,51 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-09-03",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 电池制造 西澳",
+    "company": "Magellan Power",
+    "title": "澳大利亚西澳电池部件本土供应链获340万澳元政府资助",
+    "summary": "西澳州政府电池制造扶持计划向包括Magellan Power在内的三家企业的五个项目提供合计340万澳元资助（其中州政府出资170万澳元），支持电池储能部件本土供应链建设，用于购置先进设备、扩大产能及工艺升级。Magellan Power主要生产工业级交直流不间断电源、储能单元及电动车基础设施相关产品。",
+    "sourceName": "pv magazine Australia",
+    "sourceUrl": "https://www.pv-magazine-australia.com/2026/09/03/battery-component-onshore-supply-chain-secured-with-3-4-million-funding-in-wa/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Magellan Power|西澳电池供应链|340万澳元|融资",
+    "id": "daily|2026-09-03|澳大利亚|西澳电池供应链融资",
+    "collectedAt": "2026-09-06T00:43:39Z"
+  },
+  {
+    "date": "2026-09-03",
+    "country": "英国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "融资"
+    ],
+    "tags": "集中式 储能 融资 BESS 光伏电站",
+    "company": "Anesco / Lombard",
+    "title": "Anesco获Lombard融资支持英国三处光伏储能项目",
+    "summary": "英国可再生能源开发商Anesco宣布获得金融机构Lombard提供的项目融资，用于支持三处处于不同建设阶段的场站：已并网运行的21MWp Woodwalton光伏电站（剑桥郡）、即将投运的50MW/100MWh Rothienorman储能电站（苏格兰），以及刚完成融资关闭的48.5MWp Coven光伏电站（斯塔福德郡）。三个项目合计光伏装机69.5MWp、储能容量100MWh。",
+    "sourceName": "Renewable Energy Magazine",
+    "sourceUrl": "https://www.renewableenergymagazine.com/pv_solar/anesco-secures-lombard-project-financing-across-three-20260903",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "英国|Anesco-Lombard|Woodwalton-Rothienorman-Coven|100MWh|融资",
+    "id": "daily|2026-09-03|英国|Anesco光储融资",
+    "collectedAt": "2026-09-06T00:43:39Z"
+  },
+  {
+    "date": "2026-09-03",
     "country": "江苏",
     "geo": "中国",
     "category": "同行动态",
@@ -90,6 +135,50 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-03T06:45:15.340Z",
     "notionPageId": "3d0abced5dee81cc83abfe2c501ac88f",
     "fingerprint": "notion|7c67b94f7d5e39d6fdbf"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "行业数据",
+    "businessTags": [
+      "集中式",
+      "分布式"
+    ],
+    "tags": "集中式 分布式 装机容量 煤电 国家能源局",
+    "company": "国家能源局",
+    "title": "我国光伏发电装机容量历史性超过煤电装机",
+    "summary": "国家能源局9月1日宣布，截至2026年7月底，全国光伏发电装机容量达12.86亿千瓦（其中集中式7.04亿千瓦、分布式5.82亿千瓦），首次超过煤电装机容量12.85亿千瓦，成为我国装机规模最大的电源品类。今年1—7月全国光伏发电量8024亿千瓦时，同比增长15.5%，占全社会用电量比重升至13%。解读：这是继2026年上半年煤电发电量占比历史性跌破50%后，我国电力供给结构转型的又一标志性节点。",
+    "sourceName": "新华网",
+    "sourceUrl": "https://www.news.cn/politics/20260901/6ab72835fd464ebd9127e9b092a6ac14/c.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|光伏装机超煤电|12.86亿千瓦|行业数据",
+    "id": "daily|2026-09-01|中国|光伏装机首超煤电",
+    "collectedAt": "2026-09-06T00:43:39Z"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "开工",
+    "businessTags": [
+      "储能",
+      "开发"
+    ],
+    "tags": "储能 开发 BESS 萨克森州",
+    "company": "HyperStrong（海博思创）/ LEAG Clean Power",
+    "title": "北京海博思创（HyperStrong）与德国LEAG合作1.6GWh储能项目开工",
+    "summary": "储能系统集成商HyperStrong与德国能源企业LEAG Clean Power在萨克森州Boxberg电厂原址举行400MW/1600MWh（1.6GWh）电池储能项目开工仪式，HyperStrong作为EPC总承包方，采用其液冷HyperBlock III电池系统，建成后理论上可为约64万户家庭提供4小时供电。项目将通过新建380kV变电站接入50Hertz输电网，双方已于2025年11月签署EPC合同。",
+    "sourceName": "Energy-Storage.News / ESS News",
+    "sourceUrl": "https://www.energy-storage.news/industry-updates/hyperstrong-marks-groundbreaking-of-1-6-gwh-project-in-germany/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|HyperStrong-LEAG|Boxberg储能项目|1.6GWh|开工",
+    "id": "daily|2026-09-01|德国|Boxberg储能项目开工",
+    "collectedAt": "2026-09-06T00:43:39Z"
   },
   {
     "date": "2026-09-01",
