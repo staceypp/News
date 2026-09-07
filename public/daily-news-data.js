@@ -23,6 +23,50 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|c3a325004c97aa298469"
   },
   {
+    "date": "2026-09-04",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "微电网"
+    ],
+    "tags": "微电网 智能微电网 全国",
+    "company": "国家能源局",
+    "title": "国家能源局部署\"十五五\"新型电网建设，聚焦主配微协同与算电协同",
+    "summary": "国家能源局9月1日召开新型电网建设工作部署会，提出构建主配微协同电网新架构、加快人工智能与柔性构网等新技术应用、升级新能源并网消纳与算电协同服务、守牢安全运行底线四大重点任务；预计\"十五五\"期间电力需求年均增长约5%，新能源占比进一步提升，将加快输电通道等重大电网工程核准建设，并鼓励民营资本参与投资。 解读：这是国家能源局层面首次系统提出\"主配微协同\"电网架构，意味着分布式电源、微电网与主网协同调度将成为\"十五五\"电网规划的核心逻辑，对光伏电站开发商而言，配套微电网/储能能力将成为并网消纳的重要加分项；同时\"算电协同\"被明确写入电网建设任务，预示AIDC负荷接入将获得更明确的电网侧支持政策，光伏+储能+微电网一体化项目在数据中心供电场景中的商业空间有望扩大。鼓励民资参与电网投资也为社会资本进入配电网/微电网领域打开新窗口。",
+    "sourceName": "nea.gov.cn",
+    "sourceUrl": "https://www.nea.gov.cn/20260902/6a6147bd0a244735af4c28e3e285af6f/c.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3d2abced5dee8117b996c9010f6c1957",
+    "collectedAt": "2026-09-07T06:54:01.330Z",
+    "notionPageId": "3d2abced5dee8117b996c9010f6c1957",
+    "fingerprint": "notion|c51e382677299738fa56"
+  },
+  {
+    "date": "2026-09-04",
+    "country": "河北",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "中标",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 河北",
+    "company": "河北项目主体",
+    "title": "河北1.2GWh储能系统采购中标候选公示，报价0.536~0.545元/Wh",
+    "summary": "河北交投晟德承德县300MW/1200MWh储能电站项目公布中标候选人，瑞源电气、远景能源、金风零碳等企业入围，中标候选报价区间为0.536~0.545元/Wh。 解读：报价区间延续了近期储能系统价格下行趋势，反映出储能系统集成市场竞争依然激烈。",
+    "sourceName": "news.bjx.com.cn",
+    "sourceUrl": "https://news.bjx.com.cn/html/20260904/1511404.shtml",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3d2abced5dee817fb1d3fd6ddc0e7886",
+    "collectedAt": "2026-09-07T06:54:01.330Z",
+    "notionPageId": "3d2abced5dee817fb1d3fd6ddc0e7886",
+    "fingerprint": "notion|8f9e1bef0b87601a0630"
+  },
+  {
     "date": "2026-09-03",
     "country": "江苏",
     "geo": "中国",
