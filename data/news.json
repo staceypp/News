@@ -2709,5 +2709,155 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-04",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "统计公告",
+    "businessTags": [
+      "集中式",
+      "分布式"
+    ],
+    "tags": [
+      "新增装机",
+      "建档立卡"
+    ],
+    "company": "国家能源局",
+    "title": "国家能源局：7月全国新增新能源发电项目4276个",
+    "summary": "国家能源局9月4日发布公告，2026年7月全国新增建档立卡新能源发电（不含户用光伏）项目共4276个，其中风电38个、光伏发电4236个（集中式29个、工商业分布式4207个）、生物质发电2个。数据显示工商业分布式光伏仍是当月新增装机绝对主力，相关项目清单可在国家可再生能源发电项目信息管理平台查询。",
+    "sourceName": "界面新闻",
+    "sourceUrl": "https://www.jiemian.com/article/15056436.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|7月新增建档立卡新能源发电项目|4276个|统计公告",
+    "id": "daily|2026-09-04|中国|7月新增新能源发电项目",
+    "collectedAt": "2026-09-07T00:43:41Z"
+  },
+  {
+    "date": "2026-09-04",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA签约",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "PPA",
+      "BESS"
+    ],
+    "company": "SECI / BEST（孟买电力供应运输公司）",
+    "title": "印度SECI与BEST签署220MW光伏+储能25年购电协议",
+    "summary": "印度可再生能源公司SECI与孟买电力供应运输公司（BEST）签署为期25年的购电协议，为220MW光伏配套110MW/440MWh储能系统，电价约每度2.87卢比。协议落地后BEST绿电占比将提升至43%，储能系统可在晚高峰时段稳定供电，缓解孟买用电成本压力。",
+    "sourceName": "Indian Infrastructure",
+    "sourceUrl": "https://indianinfrastructure.com/2026/09/04/brihanmumbai-electric-supply-and-transport-undertaking-signs-ppa-with-seci-for-220-mw-solar-power-and-bess/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|SECI-BEST|220MW光伏+110MW-440MWh储能|25年PPA|签约",
+    "id": "daily|2026-09-04|印度|BEST-SECI光伏储能PPA",
+    "collectedAt": "2026-09-07T00:43:41Z"
+  },
+  {
+    "date": "2026-09-03",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA签约",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "PPA",
+      "BESS"
+    ],
+    "company": "CPDL / SECI",
+    "title": "CPDL与印度SECI签署50MW光伏+储能购电协议",
+    "summary": "印度可再生能源公司SECI与开发商CPDL签署50MW光伏配套储能系统（BESS）购电协议，是SECI近期密集落地的多个光储一体化PPA项目之一。协议延续印度光伏+储能招标扩容趋势，助力提升可再生能源消纳与电网调峰能力。",
+    "sourceName": "Renewable Watch",
+    "sourceUrl": "https://renewablewatch.in/2026/09/02/cpdl-inks-ppa-with-seci-for-50-mw-solar-project-with-bess/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|CPDL-SECI|50MW光伏+储能|PPA|签约",
+    "id": "daily|2026-09-03|印度|CPDL光伏储能PPA",
+    "collectedAt": "2026-09-07T00:43:41Z"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "项目开工",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "BESS",
+      "出海"
+    ],
+    "company": "海博思创（HyperStrong）/ LEAG Clean Power",
+    "title": "中国海博思创与德国LEAG合作储能项目破土动工",
+    "summary": "中国储能企业海博思创（HyperStrong）与德国能源公司LEAG Clean Power合作开发的1.6GWh Boxberg储能项目在萨克森州正式破土动工，项目建于原发电厂旧址，配套400MW并网容量，建成后理论上可满足约64万户家庭4小时用电需求，是海博思创在欧洲市场的重要落地项目。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/industry-updates/hyperstrong-marks-groundbreaking-of-1-6-gwh-project-in-germany/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|海博思创HyperStrong-LEAG|1.6GWh Boxberg储能|400MW|开工",
+    "id": "daily|2026-09-01|德国|海博思创德国储能开工",
+    "collectedAt": "2026-09-07T00:43:41Z"
+  },
+  {
+    "date": "2026-09-04",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "招标",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": [
+      "ISTS",
+      "工商业"
+    ],
+    "company": "SECI",
+    "title": "印度SECI发布700MW光伏项目招标面向工商业用户",
+    "summary": "印度可再生能源公司SECI发布700MW跨州输电系统（ISTS）并网光伏项目招标，专门面向工商业（C&I）用户群体，是SECI近期连续推出光伏及光储招标计划的最新举措，旨在拓宽企业侧绿电直购渠道。",
+    "sourceName": "SolarQuarter",
+    "sourceUrl": "https://solarquarter.com/2026/09/04/seci-invites-bids-for-700-mw-ists-connected-solar-pv-projects-for-ci-consumers/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|SECI|700MW ISTS光伏招标|工商业|招标",
+    "id": "daily|2026-09-04|印度|SECI700MW光伏招标",
+    "collectedAt": "2026-09-07T00:43:41Z"
+  },
+  {
+    "date": "2026-09-03",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "政府资助",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "电池制造",
+      "供应链"
+    ],
+    "company": "西澳大利亚州政府 / Magellan Power",
+    "title": "澳大利亚西澳州政府投资340万澳元支持电池零部件供应链",
+    "summary": "西澳大利亚州政府通过电池制造扩产资助计划向本地电池零部件企业投放340万澳元配套资金，获资助企业包括Magellan Power等，用于设备采购、人员培训及产能升级，旨在强化澳大利亚本土电池供应链能力。",
+    "sourceName": "pv magazine Australia",
+    "sourceUrl": "https://www.pv-magazine-australia.com/2026/09/03/battery-component-onshore-supply-chain-secured-with-3-4-million-funding-in-wa/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|西澳政府-Magellan Power|340万澳元资助|电池供应链|政府资助",
+    "id": "daily|2026-09-03|澳大利亚|西澳电池供应链资助",
+    "collectedAt": "2026-09-07T00:43:41Z"
   }
 ]
