@@ -1,5 +1,115 @@
 [
   {
+    "date": "2026-09-07",
+    "country": "多国/区域",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "招标",
+    "businessTags": [
+      "系统销售",
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "系统销售",
+      "集中式光伏",
+      "储能"
+    ],
+    "company": "多国/区域项目主体",
+    "title": "东盟2026年迄今采购中国清洁技术超200亿美元，太阳能进口额同比增近90%至41亿美元",
+    "summary": "Reuters援引Ember数据称，2026年迄今东盟国家采购中国制造的清洁技术产品已超过200亿美元（人民币1342亿元），同比增加50%。其中中国太阳能系统进口额约41亿美元（人民币275亿元），同比增近90%，占中国对亚洲太阳能出口的57%；菲律宾、马来西亚、印尼和越南的采购额均约同比翻倍。东盟另采购近70亿美元储能电池和约16亿美元（人民币107亿元）电网设备。 解读：东南亚已成为中国清洁技术在亚洲最大的出口市场之一，太阳能、储能和电网设备需求同时走强。菲律宾、马来西亚、印尼、越南应优先跟踪渠道、项目开发及本地化服务能力。",
+    "sourceName": "reuters.com",
+    "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/southeast-asia-emerges-crucial-driver-chinas-clean-tech-exports-maguire-2026-09-07",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d5abced5dee81059762c4b533f9578a",
+    "collectedAt": "2026-09-08T06:49:37.789Z",
+    "notionPageId": "3d5abced5dee81059762c4b533f9578a",
+    "fingerprint": "notion|3ba43f5570c23f2c5ea7"
+  },
+  {
+    "date": "2026-09-07",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "分布式",
+      "电力交易"
+    ],
+    "tags": [
+      "工商业光伏",
+      "电力交易"
+    ],
+    "company": "印度项目主体",
+    "title": "印度Kajaria与Sunsure签20MW风光混合长期PPA，为两座工厂供应RTC绿电",
+    "summary": "Sunsure Energy与Kajaria Ceramics签署一份20年长期PPA，将在印度拉贾斯坦邦为 Kajaria 的瓷砖生产设施提供全天候（RTC）可再生电力。该项目由 10 MW（15 MWp）光伏和 10 MW 风电构成，计划位于 Barmer 区，供电对象为 Gailpur 和 Alwar 的工厂。预计年发电/供电量为 5,250 万度。 解读：该模式比单一太阳能PPA更接近工业客户实际负荷曲线，值得作为印度及东南亚工业客户脱碳产品设计参考。 【企业背景】Sunsure Energy 是印度独立发电商（IPP），由 Partners Group 支持，披露其已运营约 800 MW 可再生能源资产、在开发和建设项目达 8.3 GW，并以 2030 年实现 10 GW 运营容量为目标。 Kajaria Ceramics 是印度大型陶瓷和玻化砖制造商，拥有九座工厂、年综合产能 8,780 万平方米；因此其绿电采购具有典型的高耗电制造业减排意义。",
+    "sourceName": "sunsure-energy.com",
+    "sourceUrl": "https://sunsure-energy.com/medias/sunsure-energy-signs-20-mw-hybrid-ppa-with-kajaria-ceramics-for-supplying-round-the-clock-green-power-in-rajasthan",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d5abced5dee818e826ad3a8a82d7a31",
+    "collectedAt": "2026-09-08T06:49:37.789Z",
+    "notionPageId": "3d5abced5dee818e826ad3a8a82d7a31",
+    "fingerprint": "notion|af6b79023f78aef65d41"
+  },
+  {
+    "date": "2026-09-07",
+    "country": "斐济",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "电力交易"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能",
+      "电力交易"
+    ],
+    "company": "斐济项目主体",
+    "title": "斐济拟建142MW光伏+240MWh储能，EFL目标2027年一季度前敲定长期PPA",
+    "summary": "澳大利亚 EPC Renewables 与西班牙 Grupo Cobra 已同斐济电力公司 Energy Fiji Ltd.（EFL）签署MoU，拟开发Yaqara光储项目，总规模142MW+240MWh，其中一期22MW光伏+40MWh BESS，二期120MW光伏+200MWh BESS，。EPC Renewables负责融资、开发、建设、持有和运营，Grupo Cobra参与EPC；EFL计划与EPC Renewables在2027年一季度前完成PPA谈判，目标最迟于2029年一季度实现商运(COD)。 解读：该项目核心价值是减少斐济对进口柴油发电的依赖，并借助大规模储能将太阳能转移至系统需要的时段，以提升电网稳定性和可调度性。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/07/epc-renewables-cobra-to-deploy-142-mw-240-mwh-solar-plus-storage-project-in-fiji",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d5abced5dee819892bddac00e445135",
+    "collectedAt": "2026-09-08T06:49:37.789Z",
+    "notionPageId": "3d5abced5dee819892bddac00e445135",
+    "fingerprint": "notion|cb843a449fbaff614946"
+  },
+  {
+    "date": "2026-09-07",
+    "country": "蒙古",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "电力交易"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能",
+      "电力交易"
+    ],
+    "company": "蒙古项目主体",
+    "title": "蒙古首轮新能源竞价完成PPA签署：220MW光伏+135MW/440MWh储能，最低中标价4.85美分/kWh",
+    "summary": "蒙古已完成首次竞争性可再生能源拍卖，并由国家调度中心与中标方签署购电协议（PPA）。本轮共采购 220 MW 光伏和 135 MW/440 MWh 电池储能。包括四个50MW光伏+30MW/100MWh储能项目和一个20MW光伏+15MW/40MWh储能项目。本轮吸引了 115 家国内外企业参与， 经技术评估后有 19 家进入合格投标人名单，最终选出五家开发商。中标电价介于 0.0485 美元/kWh（Dundgovi）至 0.078 美元/kWh（Khentii）之间，区域资源条件、并网成本及项目规模很可能是价差的重要影响因素。 解读：标志着蒙古开始通过竞争性招标引入私营及国际资本建设“光伏+储能”电源。蒙古能源部还计划9月11日开展戈壁地区第二轮、带稳定化方案的新能源竞价。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/07/mongolia-completes-first-renewable-energy-auction",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d5abced5dee81f09a18c896697a59f7",
+    "collectedAt": "2026-09-08T06:49:37.789Z",
+    "notionPageId": "3d5abced5dee81f09a18c896697a59f7",
+    "fingerprint": "notion|6bb2efb27d816e36315d"
+  },
+  {
     "date": "2026-09-04",
     "country": "澳大利亚",
     "geo": "大洋洲",
