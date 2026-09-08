@@ -2759,5 +2759,130 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "里程碑",
+    "businessTags": [
+      "集中式",
+      "分布式"
+    ],
+    "tags": [
+      "装机容量",
+      "煤电反超"
+    ],
+    "company": "国家能源局",
+    "title": "我国光伏发电装机容量历史性超过煤电",
+    "summary": "国家能源局9月1日宣布，截至今年7月底，全国光伏发电装机容量达到12.86亿千瓦（其中集中式光伏7.04亿千瓦、分布式光伏5.82亿千瓦），首次超过煤电装机容量（12.85亿千瓦），成为我国装机规模最大的电源品类。7月光伏新增装机1373万千瓦，同比增长43%，光伏发电量占全社会用电量比重已达13%。",
+    "sourceName": "新华网",
+    "sourceUrl": "https://www.news.cn/politics/20260901/6ab72835fd464ebd9127e9b092a6ac14/c.html",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|光伏装机超过煤电|12.86亿千瓦-12.85亿千瓦|里程碑",
+    "id": "daily|2026-09-01|中国|光伏装机反超煤电",
+    "collectedAt": "2026-09-08T00:45:18Z"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "算电协同"
+    ],
+    "tags": [
+      "虚拟电厂",
+      "国家标准"
+    ],
+    "company": "国家能源局/国家标准委",
+    "title": "《虚拟电厂技术导则》国标9月1日起正式实施",
+    "summary": "国内首个虚拟电厂国家标准《虚拟电厂技术导则》（GB/T47241—2026）于2026年9月1日起正式实施，明确总聚合容量不低于10MW、总调节容量不低于5MW、单元调节容量不低于1MW等技术指标，覆盖资源接入、系统终端、运行管理等全流程要求。标准首次为分布式光伏、储能等分散资源提供了作为独立市场主体参与电力市场调节的技术依据。",
+    "sourceName": "东方财富网",
+    "sourceUrl": "https://caifuhao.eastmoney.com/news/20260414065558991593960",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局-国家标准委|虚拟电厂技术导则GB/T47241-2026|9月1日实施|政策",
+    "id": "daily|2026-09-01|中国|虚拟电厂国标实施",
+    "collectedAt": "2026-09-08T00:45:18Z"
+  },
+  {
+    "date": "2026-08-31",
+    "country": "山东",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "交易",
+      "绿电"
+    ],
+    "tags": [
+      "分时电价",
+      "山东"
+    ],
+    "company": "山东省发展和改革委员会",
+    "title": "山东拟放宽分时电价峰谷时长限制至1500小时",
+    "summary": "山东省发改委就分时电价政策优化方案公开征求意见，拟将尖峰、深谷时段年度时长上限由此前的1200小时放宽至1500小时，全年高峰（含尖峰）、低谷（含深谷）时段合计原则上各不超过2628小时，并探索不同地区错时执行分时电价。政策旨在通过价差引导新能源消纳与储能错峰充放。",
+    "sourceName": "北极星储能网",
+    "sourceUrl": "https://news.bjx.com.cn/html/20260831/1510668.shtml",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|山东省发改委|分时电价政策优化|1500小时|政策",
+    "id": "daily|2026-08-31|山东|分时电价新政",
+    "collectedAt": "2026-09-08T00:45:18Z"
+  },
+  {
+    "date": "2026-09-03",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "收购",
+    "businessTags": [
+      "AIDC",
+      "交易"
+    ],
+    "tags": [
+      "电力电子",
+      "并购"
+    ],
+    "company": "Flex / EPC Power",
+    "title": "Flex以44亿美元收购电力转换公司EPC Power",
+    "summary": "电子制造服务商Flex宣布以44亿美元收购美国电力转换解决方案商EPC Power，交易预计2026年第四季度完成，完成后EPC Power将并入Flex云与电力基础设施（CPI）板块。EPC Power专注面向AI数据中心和电网应用的智能电力转换硬件与软件，2026年营收预计约8亿美元，此次收购意在强化Flex在AI数据中心电力基础设施领域的竞争力。",
+    "sourceName": "Flex Investor Relations",
+    "sourceUrl": "https://investors.flex.com/news/news-details/2026/Flex-to-Acquire-EPC-Power-Adding-Leading-Power-Conversion-Capabilities-for-AI-Data-Centers-and-Grid-Applications/default.aspx",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Flex-EPC Power|44亿美元收购|AI数据中心电力转换|收购",
+    "id": "daily|2026-09-03|美国|Flex收购EPC Power",
+    "collectedAt": "2026-09-08T00:45:18Z"
+  },
+  {
+    "date": "2026-09-03",
+    "country": "埃及",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "开发",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "出海",
+      "储能工厂"
+    ],
+    "company": "阳光电源（Sungrow）",
+    "title": "阳光电源深化埃及布局，推进10GWh储能工厂建设",
+    "summary": "阳光电源在埃及苏伊士运河经济区中埃泰达合作区推进其中东及非洲首个储能系统制造基地建设，规划年产能10GWh，总投资约5000万美元，预计2027年6月投产。该工厂初期产能将支持阳光电源为埃及Sustainable Energy Valley项目（与挪威Scatec合作开发）供应的4GWh储能系统。",
+    "sourceName": "PR Newswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/sungrow-deepens-long-term-commitment-to-egypt-with-new-energy-storage-facility-302868615.html",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "埃及|阳光电源Sungrow|10GWh储能工厂|5000万美元|开发",
+    "id": "daily|2026-09-03|埃及|阳光电源储能工厂",
+    "collectedAt": "2026-09-08T00:45:18Z"
   }
 ]
