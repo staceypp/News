@@ -1,5 +1,50 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-08",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 Fraser Coast GPG Naturgy 组件发货",
+    "company": "FTC Solar / Global Power Generation (GPG)",
+    "title": "FTC Solar启动澳Fraser Coast 330MW光伏项目组件发货",
+    "summary": "FTC Solar于9月8日宣布，已开始向Naturgy旗下Global Power Generation（GPG）位于澳大利亚昆士兰的Fraser Coast项目发货，该项目为330MW光伏配180MW储能的混合电站，是GPG在澳最大可再生能源项目及第二个光储混合项目，预计2028年投运，年发电量约3.8亿千瓦时。",
+    "sourceName": "GlobeNewswire",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/09/08/3357614/0/en/ftc-solar-begins-shipments-on-330-mw-fraser-coast-project-in-australia.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Fraser Coast-GPG-FTC Solar|330MW光伏180MW储能|开发",
+    "id": "daily|2026-09-08|澳大利亚|FraserCoast光伏发货",
+    "collectedAt": "2026-09-09T00:42:51Z"
+  },
+  {
+    "date": "2026-09-07",
+    "country": "越南",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "绿电",
+      "分布式",
+      "储能"
+    ],
+    "tags": "绿电 分布式 储能 虚拟电厂 VPP 户用光伏 政策",
+    "company": "越南工贸部",
+    "title": "越南工贸部启动政策研究，拟将户用光伏储能与电动车聚合为虚拟电厂",
+    "summary": "越南工贸部9月7日释放早期政策信号，拟推动分布式屋顶光伏、户用储能电池与电动车通过聚合平台组成虚拟电厂，以算法调度消纳光伏午间富余电量并在晚高峰释放。此举被视为应对越南中南部光伏消纳瓶颈和弃光问题的重要举措，此前越南光伏装机快速增长已导致电网承压。",
+    "sourceName": "pv magazine",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/07/vietnam-lays-early-policy-groundwork-to-aggregate-rooftop-pv-storage-and-evs-into-vpps/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "越南|VPP虚拟电厂政策|户用光伏储能电动车聚合|政策",
+    "id": "daily|2026-09-07|越南|VPP虚拟电厂政策",
+    "collectedAt": "2026-09-09T00:42:51Z"
+  },
+  {
     "date": "2026-09-07",
     "country": "多国/区域",
     "geo": "全球",
@@ -95,6 +140,72 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|6bb2efb27d816e36315d"
   },
   {
+    "date": "2026-09-06",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "股权变更",
+    "businessTags": [
+      "交易"
+    ],
+    "tags": "交易 光伏焊带 股权转让 要约收购 控制权变更",
+    "company": "宇邦新材",
+    "title": "光伏焊带龙头宇邦新材控制权生变，苏州德翎拟受让29.99%股权",
+    "summary": "光伏焊带龙头宇邦新材9月6日公告，控股股东聚信源及实际控制人与苏州德翎签署股份转让协议，苏州德翎拟以约8.61亿元受让公司29.99%股份，并向其余股东发起每股20.08元的要约收购。交易完成后公司控股股东将变更为苏州德翎，实际控制人变更为江文全，相关事项尚需履行深交所合规确认程序。",
+    "sourceName": "每日经济新闻",
+    "sourceUrl": "https://www.nbd.com.cn/articles/2026-09-06/4573978.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|宇邦新材|控制权变更-苏州德翎|29.99%股权8.61亿元|股权变更",
+    "id": "daily|2026-09-06|中国|宇邦新材控制权变更",
+    "collectedAt": "2026-09-09T00:42:51Z"
+  },
+  {
+    "date": "2026-09-04",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": "集中式 储能 交易 PPA SECI BEST 孟买",
+    "company": "SECI / BEST",
+    "title": "印度SECI与孟买BEST签25年期220MW光伏配储PPA",
+    "summary": "印度太阳能公司（SECI）与孟买电力供应运输公司（BEST）签署为期25年的购电协议，采购220MW光伏电力并配套110MW/440MWh储能系统，电价约每单位2.87卢比，电力来自马哈拉施特拉邦可再生能源项目，用于满足BEST用电需求并管理高峰负荷。",
+    "sourceName": "Indian Infrastructure",
+    "sourceUrl": "https://indianinfrastructure.com/2026/09/04/brihanmumbai-electric-supply-and-transport-undertaking-signs-ppa-with-seci-for-220-mw-solar-power-and-bess/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|SECI-BEST|220MW光伏110MW-440MWh储能|PPA",
+    "id": "daily|2026-09-04|印度|SECI-BEST光伏PPA",
+    "collectedAt": "2026-09-09T00:42:51Z"
+  },
+  {
+    "date": "2026-09-04",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "分布式",
+      "交易"
+    ],
+    "tags": "分布式 交易 PPA LIMA工业区 Aboitiz",
+    "company": "Advent Upgrade Solar Inc.(AUSI) / Proterial Philippines",
+    "title": "菲律宾AUSI与Proterial签20年PPA，落地LIMA工业区光伏",
+    "summary": "Aboitiz旗下Advent Upgrade Solar Inc.（AUSI）与Proterial菲律宾公司签署20年期购电协议，为其巴淡加斯LIMA工业区工厂建设1587.2千瓦地面光伏系统，商业运营目标为2027年一季度。该项目是LIMA工业区首个地面光伏电站，预计每年减少逾1400吨二氧化碳排放，协议期内累计减排约2.8万吨。",
+    "sourceName": "Context.ph",
+    "sourceUrl": "https://context.ph/2026/09/04/proterial-ausi-seal-20-year-clean-energy-ppa/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "菲律宾|AUSI-Proterial|LIMA工业区1587kW光伏|PPA",
+    "id": "daily|2026-09-04|菲律宾|AUSI-Proterial光伏PPA",
+    "collectedAt": "2026-09-09T00:42:51Z"
+  },
+  {
     "date": "2026-09-04",
     "country": "澳大利亚",
     "geo": "大洋洲",
@@ -160,6 +271,72 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-07T06:54:01.330Z",
     "notionPageId": "3d2abced5dee817fb1d3fd6ddc0e7886",
     "fingerprint": "notion|8f9e1bef0b87601a0630"
+  },
+  {
+    "date": "2026-09-03",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "标准",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 压缩空气储能 国家标准 中储国能",
+    "company": "中储国能（北京）技术有限公司",
+    "title": "中储国能两项压缩空气储能国家标准通过送审稿审查",
+    "summary": "中储国能参与编制的《压缩空气储能电站监控系统技术规范》《压缩空气储能电站叶轮式膨胀机技术规范》两项国家标准，8月28日至29日在山东泰安通过送审稿审查。公司已参与编制压缩空气储能相关标准22项，其中6项已完成发布，覆盖规划、设计、装备、施工及运维全流程。",
+    "sourceName": "北极星储能网",
+    "sourceUrl": "https://news.bjx.com.cn/html/20260903/1511321.shtml",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|中储国能|压缩空气储能国家标准|2项送审稿|标准",
+    "id": "daily|2026-09-03|中国|中储国能压缩空气储能标准",
+    "collectedAt": "2026-09-09T00:42:51Z"
+  },
+  {
+    "date": "2026-09-03",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": "集中式 储能 交易 PPA SECI CPDL 昌迪加尔",
+    "company": "SECI / CPDL",
+    "title": "印度SECI与昌迪加尔CPDL签25年期50MW光伏配储PPA",
+    "summary": "印度太阳能公司（SECI）与昌迪加尔电力配电有限公司（CPDL）签署25年期购电协议，采购50MW光伏电力并配套储能系统，通过SECI跨州输电系统（ISTS）第20批项目实施，预计年供电量约1.35亿千瓦时，帮助昌迪加尔首次接入ISTS光伏电力，并减少每年逾96吨碳排放。",
+    "sourceName": "Indian Infrastructure",
+    "sourceUrl": "https://indianinfrastructure.com/2026/09/03/cpdl-signs-ppa-with-seci-for-50-mw-solar-power-and-bess/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|SECI-CPDL|50MW光伏配储|PPA",
+    "id": "daily|2026-09-03|印度|SECI-CPDL光伏PPA",
+    "collectedAt": "2026-09-09T00:42:51Z"
+  },
+  {
+    "date": "2026-09-03",
+    "country": "青海",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "招标",
+    "businessTags": [
+      "储能",
+      "集中式"
+    ],
+    "tags": "储能 集中式 储能 青海 电网侧独立储能 容量补偿",
+    "company": "青海省发展和改革委员会",
+    "title": "青海启动2GW电网侧独立储能项目招标，时长不低于4小时",
+    "summary": "青海省发改委9月3日发布2026年第一批电网侧独立新型储能项目招标公告，总规模2GW，储能时长不低于4小时，总容量超8GWh，共设5个标段。项目不设风光配比要求，中标后可享受185元/千瓦·年的发电侧容量补偿。",
+    "sourceName": "上海有色网(SMM)",
+    "sourceUrl": "https://news.smm.cn/news/104098484",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "青海|电网侧独立储能招标|2GW-8GWh|5标段|招标",
+    "id": "daily|2026-09-03|青海|电网侧独立储能2GW招标",
+    "collectedAt": "2026-09-09T00:42:51Z"
   },
   {
     "date": "2026-09-03",
