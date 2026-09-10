@@ -1,5 +1,28 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-09",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "分布式",
+      "绿电",
+      "交易"
+    ],
+    "tags": "分布式 绿电 交易 PPA LIMA经济区 工业绿电",
+    "company": "Advent Upgrade Solar Inc.（AboitizPower旗下）/ Proterial Philippines",
+    "title": "AUSI与Proterial菲律宾签署20年期太阳能购电协议",
+    "summary": "AboitizPower旗下Advent Upgrade Solar Inc.（AUSI，由AboitizPower Distributed Renewables与Upgrade Energy Philippines合资成立）与日立金属旗下Proterial Philippines签署20年期购电协议，为其位于八打雁LIMA经济区的制造工厂建设一套容量1,587.20千瓦峰值的地面光伏系统，这是LIMA经济区内首个地面光伏项目，预计2027年一季度投运。项目投运后预计每年减少二氧化碳排放超1,400吨，20年协议期内累计约2.8万吨。 解读：该项目体现菲律宾工业园区企业通过长期PPA锁定绿电供应、满足外资制造业减碳诉求的趋势。",
+    "sourceName": "BusinessMirror",
+    "sourceUrl": "https://businessmirror.com.ph/2026/09/09/advent-upgrade-solar-inc-proterial-philippines-sign-20-year-ppa-for-first-solar-pv-system-in-lima-estate/",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "菲律宾|AUSI|Proterial|LIMA经济区|20年PPA|1587kWp",
+    "id": "daily|2026-09-09|菲律宾|AUSI与Proterial太阳能PPA",
+    "collectedAt": "2026-09-10T00:44:38Z"
+  },
+  {
     "date": "2026-09-08",
     "country": "马来西亚",
     "geo": "亚洲",
@@ -210,6 +233,27 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|6bb2efb27d816e36315d"
   },
   {
+    "date": "2026-09-06",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "监管",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能电池 产能过剩 审批收紧",
+    "company": "储能电池行业（多家企业反映，监管部门摸底产能）",
+    "title": "储能电池新建产能审批趋严，行业启动产能摸底",
+    "summary": "多位储能业内人士反映，有关部门正对储能电池产能进行全面摸底，暂缓审批尚处规划阶段、未正式开工的新建产能项目，已备案且在建项目不受影响，管控重点集中在电芯环节。行业数据显示，今年储能电芯规划扩产已超800GWh，年底建成产能预计达1.2—1.5TWh、规划总产能超2TWh，远超全球市场真实需求，上半年新增装机功率和电量规模同比分别下滑约18%和16%。 解读：本轮收紧并非全面叫停，后续预计根据市场实际需求动态调整，但短期内新玩家进场难度加大，行业出清和集中度提升趋势料将加快。",
+    "sourceName": "界面新闻",
+    "sourceUrl": "https://www.jiemian.com/article/15059978.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|储能电池|产能摸底|审批暂缓|监管",
+    "id": "daily|2026-09-06|中国|储能电池产能审批收紧",
+    "collectedAt": "2026-09-10T00:44:38Z"
+  },
+  {
     "date": "2026-09-04",
     "country": "澳大利亚",
     "geo": "大洋洲",
@@ -344,6 +388,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-03T06:45:15.340Z",
     "notionPageId": "3d0abced5dee81cc83abfe2c501ac88f",
     "fingerprint": "notion|7c67b94f7d5e39d6fdbf"
+  },
+  {
+    "date": "2026-09-01",
+    "country": "马来西亚",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 BESS MyBeST 电池储能",
+    "company": "Blueleaf Energy / Universal Peak（合资公司BKHM BESS）",
+    "title": "Blueleaf与Universal Peak完成马来西亚储能项目融资交割",
+    "summary": "新加坡Blueleaf Energy与马来西亚Universal Peak组成的合资公司BKHM BESS，就位于吉打州武吉高育（Bukit Kayu Hitam）的100兆瓦/400兆瓦时磷酸铁锂电池储能项目完成融资交割，独家贷款方为大华银行（UOB）。项目采用建设-拥有-运营模式，商业运营目标为2027年4月30日，运营期15年，是马来西亚能源委员会（Suruhanjaya Tenaga）MyBeST储能招标计划中标项目之一。 解读：该项目是马来西亚首批MyBeST中标项目中较早完成融资交割的案例之一，反映东南亚电网侧储能项目正加速进入建设阶段。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/macquarie-backed-blueleaf-energy-and-universal-peak-close-financing-on-malaysia-tender-winning-bess-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "马来西亚|Blueleaf|Universal Peak|100MW400MWh|MyBeST|融资交割",
+    "id": "daily|2026-09-01|马来西亚|Blueleaf储能项目融资交割",
+    "collectedAt": "2026-09-10T00:44:38Z"
   },
   {
     "date": "2026-09-01",
