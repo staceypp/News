@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-09",
+    "country": "宁夏",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "中标",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "储能",
+      "宁夏",
+      "山西",
+      "新疆",
+      "江苏"
+    ],
+    "company": "宁夏项目主体",
+    "title": "宁夏中卫500MW/2000MWh共享储能EPC三家中标候选公示，投标报价0.726-0.783元/Wh",
+    "summary": "宁夏中卫沙坡头区500MW/2000MWh电网侧共享储能EPC项目公布三家中标候选人，均为中国能源建设集团下属子公司，投标单价区间0.726~0.783元/Wh，项目涵盖沙坡头区四座储能变电站及330kV送出线路，工期258天。 解读：中国能源建设集团系统内子公司包揽宁夏中卫项目全部中标候选席位，体现央企在大型电网侧共享储能EPC总包领域的集中度持续提升，民营及第三方EPC企业中标空间受到挤压。",
+    "sourceName": "escn.com.cn",
+    "sourceUrl": "https://www.escn.com.cn/news/show-2269485.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3d6abced5dee81f0ad3bd3f663433274",
+    "collectedAt": "2026-09-10T06:54:55.061Z",
+    "notionPageId": "3d6abced5dee81f0ad3bd3f663433274",
+    "fingerprint": "notion|bea56618ab6e3e4052b8"
+  },
+  {
     "date": "2026-09-08",
     "country": "马来西亚",
     "geo": "亚洲",
@@ -74,6 +102,31 @@
     "collectedAt": "2026-09-09T06:58:32.456Z",
     "notionPageId": "3d6abced5dee8177aceed70194183b25",
     "fingerprint": "notion|7ae7bdd3f201a0b316fa"
+  },
+  {
+    "date": "2026-09-08",
+    "country": "甘肃",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "开发",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "储能",
+      "甘肃"
+    ],
+    "company": "甘肃相关企业",
+    "title": "世界首台300MW级人工硐室压气储能电站压力达12.63兆帕，创世界纪录",
+    "summary": "中国能源建设集团在甘肃酒泉建设的世界首台300MW级人工硐室型压缩空气储能示范电站取得新进展，机组配置为300MW/1800MWh，储气8小时、发电6小时，年运行330天。储气洞室在首次升压测试中压力达到12.63兆帕，创下人工硐室储气规模最大截面、最大容积及压缩空气储能最高压力等多项世界纪录。项目采用\"非补燃+绝热压缩+多介质宽温储热+人工硐室储库\"完全自主技术路线。 解读：12.63兆帕的压力纪录标志着我国压缩空气储能技术从实验室验证阶段迈向大型工程化应用的关键跨越，该技术路线不依赖化石燃料补燃，具备大规模、低成本、长寿命储能潜力，是磷酸铁锂电池储能之外的重要补充路线。",
+    "sourceName": "escn.com.cn",
+    "sourceUrl": "https://www.escn.com.cn/news/show-2269286.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3d6abced5dee81e19f10ced073fc5216",
+    "collectedAt": "2026-09-10T06:54:55.061Z",
+    "notionPageId": "3d6abced5dee81e19f10ced073fc5216",
+    "fingerprint": "notion|82037243dc8bab2443c5"
   },
   {
     "date": "2026-09-08",
