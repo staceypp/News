@@ -22,6 +22,30 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|bea56618ab6e3e4052b8"
   },
   {
+    "date": "2026-09-09",
+    "country": "越南",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "系统销售"
+    ],
+    "tags": "集中式 储能 系统销售 集中式光伏 储能 系统销售",
+    "company": "天合光能",
+    "title": "天合获越南Dầu Tiếng 5 562MWdc漂浮式光储项目Vertex N组件供货",
+    "summary": "天合光能被选为越南西宁省Dầu Tiếng 5 Floating Solar and Storage Project组件供应商，将供应730–735W Vertex N n型i-TOPCon组件。项目规模450MWac/562MWdc，由Xuân Cầu Holdings成员企业DT5.1 Energy JSC开发，已于2026年8月4日开工，计划2027年12月商业运行，预计年发电量约808GWh。 解读：此前天合曾于 2020 年为平定省 50.6MW 的 Dầm Trà Ổ 浮式光伏项目供应组件。Dầu Tiếng 5 是较早采用越南 直接购电协议（DPPA）机制的项目之一，反映该机制正从监管框架走向实际落地，并有望支持发电企业与大型用电客户之间的交易及竞争性电力市场发展。",
+    "sourceName": "prnewswire.com",
+    "sourceUrl": "https://www.prnewswire.com/apac/news-releases/trinasolar-vertex-n-modules-selected-for-562mwdc-du-ting-5-floating-solar-project-in-vietnam-302873470.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d7abced5dee810b8603d3b13db79dc1",
+    "collectedAt": "2026-09-10T18:52:39.842Z",
+    "notionPageId": "3d7abced5dee810b8603d3b13db79dc1",
+    "fingerprint": "notion|6581275d32e8453aa260"
+  },
+  {
     "date": "2026-09-08",
     "country": "马来西亚",
     "geo": "亚洲",
