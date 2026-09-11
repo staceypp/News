@@ -3080,5 +3080,108 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-04",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "统计数据",
+    "businessTags": [
+      "集中式",
+      "分布式"
+    ],
+    "tags": [
+      "国家能源局",
+      "备案",
+      "分布式光伏"
+    ],
+    "company": "国家能源局",
+    "title": "国家能源局：7月全国新增光伏备案项目4236个",
+    "summary": "国家能源局9月4日发布2026年7月全国新增建档立卡新能源发电（不含户用光伏）项目情况公告：7月全国新增新能源发电项目共4276个，其中风电项目38个、光伏发电项目4236个（集中式光伏29个、工商业分布式光伏4207个）、生物质发电项目2个。解读：工商业分布式光伏占当月新增光伏项目97%以上，仍是新增项目备案主力，反映分布式光伏在整县推进和市场化电价改革背景下继续保持活跃备案节奏。",
+    "sourceName": "界面新闻",
+    "sourceUrl": "https://www.jiemian.com/article/15056436.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|7月新增新能源发电项目备案|4276个|统计数据",
+    "id": "daily|2026-09-04|中国|7月新增光伏备案4236个",
+    "collectedAt": "2026-09-11T00:45:00Z"
+  },
+  {
+    "date": "2026-09-09",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "公司战略",
+    "businessTags": [
+      "融资"
+    ],
+    "tags": [
+      "晶科能源",
+      "更名",
+      "AI投资"
+    ],
+    "company": "晶科能源（JinkoSolar）",
+    "title": "晶科能源拟更名Jinko Holdings并披露AI战略投资进展",
+    "summary": "晶科能源董事会9月9日批准将公司英文名称变更为Jinko Holdings Limited，中文对应拟定为晶科控股有限公司，该更名尚需10月21日年度股东大会批准及监管程序完成，ADS仍以代码JKS在纽交所交易。公司同时披露未来将按产业控股与战略投资双主线运营：产业控股板块保持对晶科能源(Jinko Solar Co., Ltd.)的控股权，战略投资板块布局人工智能、新能源、先进材料、商业航天等领域的少数股权投资，现有投资组合包括月之暗面(Moonshot AI)、阶跃星辰(StepFun)、硅基流动(SiliconFlow)等，其中月之暗面已于2026年5月完成约20亿美元融资。解读：光伏龙头通过设立战略投资板块布局AI等新兴产业，反映主业增长放缓背景下头部企业寻求第二增长曲线的趋势。",
+    "sourceName": "PR Newswire（晶科能源）",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/jinkosolar-announces-proposed-change-of-company-name-to-jinko-holdings-limited-and-provides-strategic-investment-update-302873616.html",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|晶科能源|更名Jinko Holdings战略投资|20亿美元|公司战略",
+    "id": "daily|2026-09-09|中国|晶科能源更名战略投资",
+    "collectedAt": "2026-09-11T00:45:00Z"
+  },
+  {
+    "date": "2026-09-08",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式",
+      "分布式",
+      "储能"
+    ],
+    "tags": [
+      "泰国",
+      "PDP2026",
+      "屋顶光伏"
+    ],
+    "company": "泰国能源政策与规划办公室（EPPO）",
+    "title": "泰国启动2026版电力发展规划公众咨询，最高情景清洁能源占比89%",
+    "summary": "泰国能源政策与规划办公室9月8日就2026-2050年电力发展规划（PDP2026）启动公众咨询，提出多种情景供社会讨论：最低情景清洁能源占比65%，其中「净零可再生能源」情景清洁能源占比最高达89%，但对应电网投资需求也最大。规划新增装机合计约5.09万兆瓦，包括光伏2.43万兆瓦、风电2700兆瓦及电池储能（BESS）1.45万兆瓦；同期能源部还提出未来推动10吉瓦屋顶光伏的路径规划。解读：泰国以多情景公开咨询方式推进能源转型规划，光伏与储能是新增装机的绝对主力，屋顶光伏被作为独立目标单列，显示分布式光伏在泰国能源转型中的重要性上升。",
+    "sourceName": "The Nation Thailand",
+    "sourceUrl": "https://www.nationthailand.com/news/policy/40070671",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "泰国|EPPO|PDP2026电力发展规划公众咨询|89%清洁能源|政策",
+    "id": "daily|2026-09-08|泰国|PDP2026公众咨询",
+    "collectedAt": "2026-09-11T00:45:00Z"
+  },
+  {
+    "date": "2026-09-07",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "运行里程碑",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "Waratah",
+      "Akaysha Energy",
+      "电池储能"
+    ],
+    "company": "Akaysha Energy",
+    "title": "澳大利亚Waratah超级电池9月7日首次恢复850MW满功率输出",
+    "summary": "Akaysha Energy运营的澳大利亚Waratah Super Battery（850MW/1680MWh，为目前全球输出功率最大的电池储能设施）于9月7日自年内高压变压器（HVT3）故障后首次恢复850MW满额输出；9月9日该电站又以701MW功率完成对输电商Transgrid的系统完整性保护方案（SIPS）全容量测试。该项目位于新南威尔士州原Munmorah燃煤电厂旧址。解读：作为全球功率最大的电池储能电站，Waratah从设备故障中恢复满功率运行，体现大型电网侧储能在电力可靠性保障中的关键作用，也反映澳大利亚电网对大容量储能调频调峰能力的依赖持续加深。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/australia-akaysha-energys-waratah-super-battery-tests-full-sips-obligation-as-850mw-output-recorded/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Akaysha Energy|Waratah电池恢复850MW满功率|850MW|运行里程碑",
+    "id": "daily|2026-09-07|澳大利亚|Waratah电池恢复满功率",
+    "collectedAt": "2026-09-11T00:45:00Z"
   }
 ]
