@@ -1,5 +1,27 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-10",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "产品",
+    "businessTags": [
+      "算电协同"
+    ],
+    "tags": "算电协同 算电协同 全国",
+    "company": "中国项目主体",
+    "title": "构网型储能为算电融合筑牢电力支撑",
+    "summary": "截至2025年底我国数据中心年耗电量达1960亿千瓦时，占全社会用电量1.9%，同比增长18.1%。AI算力负荷呈脉冲式波动，对电能质量和可靠性要求远高于常规负荷，而新能源出力具有间歇性。构网型储能通过感知、决策、执行三个环节的智能化升级，可动态响应电网扰动，为算力设施提供稳定电力支撑，并强调需发展芯片级可部署的设备侧AI平台。 解读：构网型储能是\"算电协同\"从政策概念走向工程落地的技术支撑逻辑之一。配套构网型储能将成为绿电直连、源网荷储一体化项目获取AIDC等高质量负荷订单的核心竞争力，值得提前布局相关技术和产品能力。",
+    "sourceName": "escn.com.cn",
+    "sourceUrl": "https://www.escn.com.cn/news/show-2269688.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3d7abced5dee814f8dc8f51f0e2b6eb3",
+    "collectedAt": "2026-09-11T06:54:55.435Z",
+    "notionPageId": "3d7abced5dee814f8dc8f51f0e2b6eb3",
+    "fingerprint": "notion|41695b9e9aa8c37f8b63"
+  },
+  {
     "date": "2026-09-09",
     "country": "宁夏",
     "geo": "中国",
