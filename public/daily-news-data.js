@@ -1,5 +1,69 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-11",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "并购",
+    "businessTags": [
+      "融资"
+    ],
+    "tags": "融资 硅料 并购 反垄断",
+    "company": "通威股份",
+    "title": "通威收购青海丽豪反垄断审查获无异议批复，交易条款仍存分歧",
+    "summary": "pv magazine披露，通威股份拟发行股份及支付现金收购青海丽豪清能100%股权并募集配套资金的交易，已获得中国国家市场监督管理总局反垄断审查\"不予禁止\"决定，扫清并购的反垄断障碍。但公司同时披露，自交易方案公布以来光伏行业市场环境发生较大变化，交易双方在具体条款上仍存分歧，预计无法在董事会首次决议后6个月内发出股东大会通知。 解读：作为2026年硅料\"反内卷\"整合的标志性并购案，反垄断放行意味着监管层面对头部企业整合过剩产能持支持态度，但交易条款迟迟未能敲定也反映出当前硅料价格底部尚未企稳，收购方与标的资产估值预期差距仍待弥合，后续实际交割进度值得持续跟踪。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/11/tongwei-clears-antitrust-hurdle-for-acquisition-of-polysilicon-competitor-qinghai-lihao/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|通威股份|青海丽豪|反垄断批准|并购",
+    "id": "daily|2026-09-11|中国|通威收购丽豪反垄断获批",
+    "collectedAt": "2026-09-12T00:44:01.000Z"
+  },
+  {
+    "date": "2026-09-11",
+    "country": "坦桑尼亚",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 输变电 特变电工 电网基础设施",
+    "company": "特变电工(TBEA)",
+    "title": "坦桑尼亚220kV伊甘乔-萨扎输电线路合同签约，特变电工承建",
+    "summary": "坦桑尼亚政府与中国企业特变电工（TBEA）签署总额1986.7亿坦桑尼亚先令（约合人民币5.5亿元）的合同，建设一条从姆贝亚伊甘乔至松圭萨扎的220kV输电线路，全长约121公里，途经姆贝亚和松圭两省13个乡的26个村，同步在萨扎新建220/33kV变电站，工期18个月，坦桑尼亚能源部副部长Salome Makamba出席签约仪式并见证。该线路是更大范围坦赞400kV跨境互联工程（TAZA）的组成部分。 解读：该项目由中国装备企业特变电工总承包，是中国电力设备企业深度参与东非区域电网互联及新能源送出通道建设的又一案例，松圭、春亚等矿业资源富集地区电网容量提升后，有望为当地光伏、水电等新能源接入及外送创造更多空间。",
+    "sourceName": "therespondents.co.tz",
+    "sourceUrl": "https://www.therespondents.co.tz/2026/09/tzs19867bn-power-project-targets-songwe.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "坦桑尼亚|特变电工|输电线路|Iganjo-Saza|合同签约",
+    "id": "daily|2026-09-11|坦桑尼亚|特变电工输电线路合同",
+    "collectedAt": "2026-09-12T00:44:01.000Z"
+  },
+  {
+    "date": "2026-09-10",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "产品",
+    "businessTags": [
+      "AIDC",
+      "算电协同"
+    ],
+    "tags": "AIDC 算电协同 算电协同 AIDC HJT 储能",
+    "company": "东方日升",
+    "title": "东方日升发布绿色算力一体化方案，切入智算中心供电场景",
+    "summary": "东方日升宣布将光伏、储能与智能能源管理能力延伸至算力基础设施领域，推出面向智算中心、算力园区及数字产业集群的绿色算力一体化解决方案。方案由高效HJT Hyper-ion组件、液冷碳化硅储能系统及搭载升级版Energy OS的\"日升云\"智慧能源平台三部分构成，可通过云边端协同与AI预测动态调配光储资源，应对算力负荷波动。 解读：继协鑫、天合等企业之后，东方日升成为又一家将光储主业延伸至\"算电协同\"赛道的组件龙头，反映出在组件主业价格承压背景下，头部光伏企业普遍将AIDC供电作为寻找第二增长曲线的重点方向；液冷储能与AI预测调度能力可能成为该类一体化方案差异化竞争的关键。",
+    "sourceName": "businessintelligence.mo",
+    "sourceUrl": "https://businessintelligence.mo/2026/09/10/risen-energy-expands-into-green-computing-and-power-integration/",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|东方日升|算电协同|绿色算力|产品发布",
+    "id": "daily|2026-09-10|中国|东方日升绿色算力方案",
+    "collectedAt": "2026-09-12T00:44:01.000Z"
+  },
+  {
     "date": "2026-09-10",
     "country": "中国",
     "geo": "中国",
@@ -20,6 +84,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-11T06:54:55.435Z",
     "notionPageId": "3d7abced5dee814f8dc8f51f0e2b6eb3",
     "fingerprint": "notion|41695b9e9aa8c37f8b63"
+  },
+  {
+    "date": "2026-09-09",
+    "country": "墨西哥",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 集中式光伏 储能 拉美",
+    "company": "Genux等墨西哥项目主体",
+    "title": "墨西哥近一个月新增超3GW大型光伏储能项目获批推进",
+    "summary": "pv magazine统计，过去一个月内墨西哥环保及能源主管部门新受理或批准了近20个大型光伏项目，覆盖10个州，合计规划光伏容量超过3GW，且多数项目按2025年3月生效的强制配储规定同步配置至少30%装机容量、至少3小时时长的电池储能。其中开发商Genux通过墨西哥2026年约束性规划程序获得Lagartija和Ocelote两个项目，合计光伏容量201MW，总投资约1.65亿美元；La Morita III项目规模达373.416MW，配套90MW/270MWh电池系统。 解读：墨西哥\"光伏+强制储能\"的项目获批节奏明显加快，表明该国正通过约束性规划机制及储能配置强制要求，推动新增可再生能源产能与电网稳定性同步提升，为组件、逆变器及储能系统供应商在拉美市场提供新的订单增量窗口。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/09/more-than-3-gw-of-large-scale-solar-projects-advance-across-mexico-over-the-past-month/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "墨西哥|光伏储能|3GW|项目获批|开发",
+    "id": "daily|2026-09-09|墨西哥|3GW光伏储能项目推进",
+    "collectedAt": "2026-09-12T00:44:01.000Z"
   },
   {
     "date": "2026-09-09",
