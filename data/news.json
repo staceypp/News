@@ -3105,5 +3105,82 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-10",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "认证",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "零碳工厂",
+      "ESG",
+      "TÜV莱茵"
+    ],
+    "company": "晶科储能",
+    "title": "晶科储能海宁工厂通过TÜV莱茵零碳认证获三星评级",
+    "summary": "晶科储能位于浙江海宁的工厂通过TÜV莱茵零碳工厂核查，获评I型三星级认证。该工厂2025年可再生电力占比达10.13%，并通过绿电交易与绿证实现报告期内100%可再生电力消费，同时应用余热回收、冷却塔替代等节能措施。 解读：继晶科能源多个组件/硅片基地获零碳认证后，储能业务板块也开始复制这一ESG路径，为其海外客户在碳关税、绿色供应链审查趋严背景下提供合规背书。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/industry-updates/jinko-esss-haining-factory-passes-zero-carbon-verification/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|晶科储能|海宁工厂|零碳认证|TÜV莱茵",
+    "id": "daily|2026-09-10|中国|晶科储能零碳工厂",
+    "collectedAt": "2026-09-13T00:42:56.000Z"
+  },
+  {
+    "date": "2026-09-08",
+    "country": "韩国",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "供货协议",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "钠离子电池",
+      "长期协议",
+      "系统集成"
+    ],
+    "company": "海钠科技（HiNa Battery）",
+    "title": "海钠科技与韩国Volta签署5年10GWh钠离子电池长期供货协议",
+    "summary": "海钠科技于9月2日与韩国Volta公司签署战略合作协议，双方将推进为期5年、总量10GWh的钠离子电池长期供货合作，应用场景涵盖电网级、工商业及户用储能。海钠负责钠离子电芯技术与产能供给，Volta负责系统集成与韩国本地市场拓展，光云大学作为技术验证合作方参与研发与测试。该合作是在此前15MWh示范项目基础上的大幅扩容，双方未披露具体合同金额及首批交付时间。 解读：这是钠离子电池技术在海外储能市场规模化落地的标志性订单之一，显示中国钠电企业正加速向具备本地系统集成能力的海外伙伴输出电芯技术。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/08/hina-battery-scales-korean-sodium-ion-partnership-from-15-mwh-to-10-gwh/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "韩国|海钠科技|Volta|钠离子电池|10GWh",
+    "id": "daily|2026-09-08|韩国|海钠Volta钠电协议",
+    "collectedAt": "2026-09-13T00:42:56.000Z"
+  },
+  {
+    "date": "2026-09-10",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "绿电"
+    ],
+    "tags": [
+      "屋顶光伏",
+      "户用光伏",
+      "净计量"
+    ],
+    "company": "泰国政策机构",
+    "title": "泰国推进10GW屋顶光伏计划，投入500亿泰铢并减免进口税",
+    "summary": "泰国政府为推动屋顶光伏扩张提供500亿泰铢（约合15.2亿美元）资金支持及光伏产品进口税减免，8月起已开放屋顶光伏安装商及设备注册（8月3日至9月30日），MEA/PEA负责审核组件、逆变器等设备是否符合IEC及泰国工业标准。居民侧净计量电价为2.20泰铢/千瓦时，新版电力发展规划提出未来10年清洁能源占比达50%、新增10GW屋顶光伏的目标。 解读：相较9月初路透社披露的100万户/5GW规划，泰国官方已将目标上调至10GW并明确资金与免税细节，政策路径趋于具体化，将进一步带动户用组件、逆变器及户储市场需求。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/10/thailand-paves-the-way-for-10-gw-of-rooftop-solar/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "泰国|屋顶光伏|10GW|净计量|政策",
+    "id": "daily|2026-09-10|泰国|10GW屋顶光伏政策",
+    "collectedAt": "2026-09-13T00:42:56.000Z"
   }
 ]
