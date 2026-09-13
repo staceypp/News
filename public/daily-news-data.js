@@ -1,5 +1,116 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-12",
+    "country": "江苏",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "合作",
+    "businessTags": [
+      "零碳园区"
+    ],
+    "tags": "零碳园区 零碳园区 江苏",
+    "company": "江苏项目主体",
+    "title": "2026跨国公司江苏行·盐城零碳产业园国际合作交流会举行，签约25个项目",
+    "summary": "2026年9月11日，\"跨国公司江苏行\"盐城零碳产业园国际合作交流会在盐城举行，主题为\"共赴绿色之约、共创零碳未来\"，来自20多个国家和地区的代表参加，包括世界500强企业和绿色产业领军企业。盐城是国家碳达峰试点城市和绿色发展示范区，正建设射阳港（绿电+新型电力系统）、大丰港（绿电+氢能）、滨海港（绿电+冷能）三个各具特色的零碳产业园。上海美国商会、欧盟商会等外国商会代表出席并表示支持，会议最终签约25个合作项目。 解读：盐城以港口为载体差异化布局绿电+新型电力系统/氢能/冷能三类零碳园区，体现了地方政府将风光资源禀赋转化为招商引资抓手的路径，并将外资导入与零碳园区建设直接挂钩。25个签约项目后续的具体新能源投资细节值得持续跟踪，是潜在的项目开发和合作机会来源。",
+    "sourceName": "chinanews.com.cn",
+    "sourceUrl": "https://www.chinanews.com.cn/cj/2026/09-12/10695196.shtml",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3d9abced5dee8160972cdac485cf801f",
+    "collectedAt": "2026-09-13T18:28:10.828Z",
+    "notionPageId": "3d9abced5dee8160972cdac485cf801f",
+    "fingerprint": "notion|d0106efd282ab4882c87"
+  },
+  {
+    "date": "2026-09-11",
+    "country": "辽宁",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 辽宁",
+    "company": "辽宁政策机构",
+    "title": "辽宁朝阳：到2030年清洁能源总装机达2000万千瓦",
+    "summary": "辽宁朝阳市在\"十五五\"期间提出清洁能源发展目标，到2030年清洁能源总装机容量将达到2000万千瓦（20GW）。目前该市风光总装机730万千瓦（7.3GW），居辽宁省首位，风能年利用小时数2800-3200小时，太阳能年利用小时数1500-1800小时，是国家九大清洁能源基地重要节点。当地还将加强大功率风电机组、储能、氢能等装备制造能力建设，拓展智算中心绿电应用和绿色氢氨项目。 解读：朝阳市提出的2000万千瓦目标较现有730万千瓦规模增长超过1.7倍，叠加装备制造与绿电制氢/智算协同布局，预计将持续释放大规模风光及储能项目开发机会。",
+    "sourceName": "chinanews.com.cn",
+    "sourceUrl": "https://www.chinanews.com.cn/cj/2026/09-11/10694598.shtml",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3d8abced5dee810583ffd6ae375c3af0",
+    "collectedAt": "2026-09-13T18:28:10.828Z",
+    "notionPageId": "3d8abced5dee810583ffd6ae375c3af0",
+    "fingerprint": "notion|7df1b9ca43098bd86de9"
+  },
+  {
+    "date": "2026-09-11",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": "分布式 工商业光伏 PPA",
+    "company": "菲律宾相关企业",
+    "title": "菲律宾AUSI与Proterial签署20年光伏购电协议",
+    "summary": "Advent Upgrade Solar Inc.(AUSI，由AboitizPower旗下分布式可再生能源公司与Upgrade Energy Philippines合资成立)与Proterial Philippines(原日立电线菲律宾)签署为期20年的购电协议，将在Proterial位于八打雁省LIMA工业园区的自有场地建设一座装机容量1,587.20千瓦峰值的地面光伏电站，预计2027年第一季度投运，是该工业园区首个地面光伏项目。项目预计每年减排二氧化碳超过1,400吨，合同期内累计减排约28,000吨。 解读：这笔交易延续了东南亚工商业光伏市场“合资开发商+第三方购电”的主流模式，值得海外光伏系统集成商和EPC企业关注。20年长期PPA为项目提供稳定现金流保障。",
+    "sourceName": "philstartech.com",
+    "sourceUrl": "https://philstartech.com/press-release/2026/09/11/19642/advent-upgrade-solar-inc-and-proterial-philippines-sign-20-year-ppa-for-first-solar-pv-system-in-lima-estate",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d9abced5dee8124bd34c0f7d10e2da0",
+    "collectedAt": "2026-09-13T18:28:10.828Z",
+    "notionPageId": "3d9abced5dee8124bd34c0f7d10e2da0",
+    "fingerprint": "notion|67df3a76851c32020bb7"
+  },
+  {
+    "date": "2026-09-11",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式",
+      "系统销售"
+    ],
+    "tags": "集中式 系统销售 集中式光伏 系统销售",
+    "company": "美国政策机构",
+    "title": "美国最终裁定对印尼太阳能产品征收94.36%反倾销税，并叠加73.2%-173.7%反补贴税",
+    "summary": "美国商务部于9月11日完成对印度、印尼和老挝太阳能电池及组件反倾销/反补贴调查的最终裁定。印尼反倾销税率为94.36%，反补贴税率区间73.2%-173.7%；印度反倾销税率123.04%、反补贴126.09%；老挝反倾销65.43%、反补贴82.03%-153.67%。美国国际贸易委员会预计10月14日作出最终损害裁定；如裁定肯定，商务部随后将发布征税令。 解读：这会削弱“东南亚制造—美国销售”的成本优势，并可能推动部分组件和电池片产能转向东盟本地、欧洲、中东等市场，对在印尼布局制造或依赖东南亚供应链的中国光伏企业形成直接影响。",
+    "sourceName": "reuters.com",
+    "sourceUrl": "https://www.reuters.com/business/energy/us-commerce-department-finalizes-steep-duties-solar-imports-india-indonesia-laos-2026-09-11",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d9abced5dee81f783b3f286930ccf6d",
+    "collectedAt": "2026-09-13T18:28:10.828Z",
+    "notionPageId": "3d9abced5dee81f783b3f286930ccf6d",
+    "fingerprint": "notion|5c298468172d6eaff699"
+  },
+  {
+    "date": "2026-09-11",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式光伏 PPA",
+    "company": "美国相关企业",
+    "title": "意大利Enel以约7.6亿美元收购Excelsior旗下625兆瓦美国光伏组合",
+    "summary": "意大利电力巨头Enel通过其北美子公司Enel Green Power North America和EGPNA Project Holdco 2，以约7.6亿美元收购Excelsior Energy Capital旗下两个已投运光伏项目，合计625兆瓦：位于犹他州犹他县的525兆瓦Faraday项目（与PacifiCorp签有20年购电协议）和位于田纳西州奥比恩县的100兆瓦Skyhawk项目（与田纳西河谷管理局签有长期购电协议）。此次交易延续了双方2026年2月达成的860兆瓦光伏及风电组合收购协议。 解读：对光伏电站开发商而言，\"成后转让仍是有效的退出路径之一，尤其配套长期PPA的项目更易获得溢价；同时Excelsior作为专注新能源基础设施的私募基金二次退出，也反映出北美可再生能源资产证券化和二级市场交易正趋于活跃。",
+    "sourceName": "pv-tech.org",
+    "sourceUrl": "https://www.pv-tech.org/enel-buys-625mw-us-solar-portfolio-from-excelsior-energy-capital",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3daabced5dee81bda5d1d9fa3dbf118f",
+    "collectedAt": "2026-09-13T18:28:10.828Z",
+    "notionPageId": "3daabced5dee81bda5d1d9fa3dbf118f",
+    "fingerprint": "notion|9459bc6305e4e57c4046"
+  },
+  {
     "date": "2026-09-10",
     "country": "中国",
     "geo": "中国",
@@ -20,6 +131,97 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-11T06:54:55.435Z",
     "notionPageId": "3d7abced5dee814f8dc8f51f0e2b6eb3",
     "fingerprint": "notion|41695b9e9aa8c37f8b63"
+  },
+  {
+    "date": "2026-09-10",
+    "country": "北京",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "技术",
+    "businessTags": [
+      "算电协同"
+    ],
+    "tags": "算电协同 算电协同 北京",
+    "company": "北京相关企业",
+    "title": "明阳创始人张传卫与中国华电集团董事长、党组书记叶向东座谈",
+    "summary": "9月10日，明阳集团创始人、董事长张传卫在北京拜会中国华电集团董事长、党组书记叶向东，双方围绕深化战略合作、强化科技协同、推动重点项目落地等议题深入交流，并就深远海新能源、绿色氢能、绿色算力、科技研发及设备升级等领域合作达成广泛共识。 解读：此次座谈释放出双方在深远海漂浮式风电、绿色氢能及绿色算力等新兴领域深化合作的信号，反映行业龙头正加速向\"新能源+算力\"融合布局延伸。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/ovXWzi2hga23ERsdzRFwCQ?poc_token=HDKMo2qj3wh2a457YGeJCw1u5bDJovOnT-rOHep4",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3d8abced5dee8137a61ed3e68b8af813",
+    "collectedAt": "2026-09-13T18:28:10.828Z",
+    "notionPageId": "3d8abced5dee8137a61ed3e68b8af813",
+    "fingerprint": "notion|9e7c77f82f3b12c4b57a"
+  },
+  {
+    "date": "2026-09-10",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "AIDC",
+      "算电协同",
+      "电力交易"
+    ],
+    "tags": "AIDC 算电协同 电力交易 AIDC 算电协同 电力交易",
+    "company": "泰国政策机构",
+    "title": "泰国数据中心许可拟要求PPA及能源系统就绪证明，电力基础设施成为审批前置条件",
+    "summary": "泰国NBTC办公室正拟定数据中心许可规则，目标是在吸引投资的同时，加强对电力保障、环境责任及本地产业带动的监管。两类许可路径，分别为 • 自动通道（Type 1）：申请材料齐全并符合标准的项目，提交 NBTC 主席签批，目标在 7 个工作日内完成。 • 一般通道（Type 3）：需进行详细审查的项目，NBTC Office 文件审查最多 60 天，之后由 NBTC 董事会再用最多 30 天决定是否批准。 解读：泰国数据中心许可规则草案把PPA和能源/冷却系统批准纳入申请条件。 结构、施工和电气系统所用材料中，要求至少 50% 来自泰国制造商。这意味着AIDC项目的电力获取正从后置配套变为前置准入条件，对绿电PPA、电网接入和设计方案等形成更早期的业务窗口。",
+    "sourceName": "nationthailand.com",
+    "sourceUrl": "https://www.nationthailand.com/news/policy/40070885",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d8abced5dee81529b77f52043440686",
+    "collectedAt": "2026-09-13T18:28:10.828Z",
+    "notionPageId": "3d8abced5dee81529b77f52043440686",
+    "fingerprint": "notion|1d1e127a28eb9607b917"
+  },
+  {
+    "date": "2026-09-10",
+    "country": "瑞典",
+    "geo": "全球",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能",
+    "company": "瑞典相关企业",
+    "title": "沃尔沃集团在瑞典电池超级工厂园区部署70MW储能系统",
+    "summary": "沃尔沃集团宣布将在瑞典Marienstad能源园区其电池超级工厂所在地部署一套70MW/260MWh电池储能系统，预计2027年投运，用于支持电网灵活性并作为客户演示项目使用。 解读：对国内电企业而言，海外拓展时可考虑与当地制造业龙头产业园区合作，将储能嵌入综合能源方案，形成“设备+场景示范”的联合获客路径。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/nordic-roundup-flower-volvo-and-delta-capacity-launch-bess-projects",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3d9abced5dee81a191e2f4cfb84cde71",
+    "collectedAt": "2026-09-13T18:28:10.828Z",
+    "notionPageId": "3d9abced5dee81a191e2f4cfb84cde71",
+    "fingerprint": "notion|c68a2354e8696ec5d524"
+  },
+  {
+    "date": "2026-09-10",
+    "country": "肯尼亚",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "分布式",
+      "系统销售"
+    ],
+    "tags": "分布式 系统销售 分布式光伏 系统销售",
+    "company": "肯尼亚项目主体",
+    "title": "KCB与肯尼亚公立大学签署绿色融资MoU，支持校园光伏及综合节能项目",
+    "summary": "KCB Bank Kenya与肯尼亚公立大学签署MoU，为校园向更清洁、高效和气候韧性的基础设施转型提供融资支持。拟支持的项目包括太阳能、能效改造、清洁烹饪、废弃物管理、沼气、太阳能热水及雨水收集等。KCB表示合作旨在缓解公立高校预算和基础设施压力，通过融资降低清洁能源项目的前期门槛；但未披露融资总额度、覆盖大学数量及项目实施时间表。 解读：肯尼亚分布式光伏增长的关键约束之一是融资而非资源条件，此类银行+公共机构模式若形成标准化资产融资，可扩展到学校、医院及其他公共设施，为本地EPC、新能源设备商形成可复制客户群。",
+    "sourceName": "businessnewskenya.com",
+    "sourceUrl": "https://www.businessnewskenya.com/banking/2026/09/kcb-bank-kenya-signs-mou-public-universities-finance-green-campus-upgrades",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3daabced5dee8152b0f8f3e0229716eb",
+    "collectedAt": "2026-09-13T18:28:10.828Z",
+    "notionPageId": "3daabced5dee8152b0f8f3e0229716eb",
+    "fingerprint": "notion|aa3fa60c3651ae401230"
   },
   {
     "date": "2026-09-09",
@@ -66,6 +268,50 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-10T18:52:39.842Z",
     "notionPageId": "3d7abced5dee810b8603d3b13db79dc1",
     "fingerprint": "notion|6581275d32e8453aa260"
+  },
+  {
+    "date": "2026-09-09",
+    "country": "河北",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "中标",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 河北",
+    "company": "河北项目主体",
+    "title": "河北承德1.1GW风电项目投资主体中标候选：华电、中广核、河北交投等领衔",
+    "summary": "近日，河北承德9个风电项目公示投资主体中标候选人，涉及风电规模合计1102.67MW。其中华电获取规模最大为400MW，中广核、河北交投、河北水利发展集团各获200MW，国家电投获取100MW。 解读：承德作为河北风资源富集区，此轮1.1GW风电指标分配延续了央企主导、地方国资平台参与的格局，反映地方资源型省份新能源开发权分配中，资金实力与地方政府协同能力仍是决定性因素。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/v_4cDyPEplTFB9-bICP3VQ",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3d8abced5dee81968c4ada5ffa1603f9",
+    "collectedAt": "2026-09-13T18:28:10.828Z",
+    "notionPageId": "3d8abced5dee81968c4ada5ffa1603f9",
+    "fingerprint": "notion|33b5474758f90e30014b"
+  },
+  {
+    "date": "2026-09-09",
+    "country": "吉林",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "投资",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 吉林",
+    "company": "吉林项目主体",
+    "title": "华能签约吉林东丰县100MW风电项目",
+    "summary": "近日，吉林省辽源市东丰县与华能吉林新能源开发有限公司就100MW风电项目签约，项目选址东丰县横道河镇，总投资约4.4亿元，建设周期为2027年6月至2028年12月。 解读：该项目单瓦投资约4.4元/W，可作为东北地区同类陆上风电项目的价格参考。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/HDSEpj8T8oQQYgxkFxNm3A",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3d8abced5dee81b4bc74cb15e4c31709",
+    "collectedAt": "2026-09-13T18:28:10.828Z",
+    "notionPageId": "3d8abced5dee81b4bc74cb15e4c31709",
+    "fingerprint": "notion|a8fbdb75a0f71dc497c9"
   },
   {
     "date": "2026-09-08",
