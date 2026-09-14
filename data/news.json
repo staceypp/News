@@ -3384,5 +3384,105 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-08",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "项目终止",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": [
+      "跨界光伏",
+      "募投项目变更"
+    ],
+    "company": "英力股份（安徽英力电子科技股份有限公司）",
+    "title": "英力股份终止七省分布式光伏电站募投项目",
+    "summary": "英力股份公告拟终止原定在安徽、四川、黑龙江、重庆、甘肃、贵州、江苏七省市实施的“安徽飞米新能源分布式光伏电站投资项目”，将剩余1.09亿元募集资金转投笔记本结构件等主业项目。公司表示，受光伏产业链持续扩产、组件价格及电站投资收益阶段性波动影响，原定16.30%的税后内部收益率、7.60年投资回收期目标已难以实现。",
+    "sourceName": "界面新闻",
+    "sourceUrl": "https://www.jiemian.com/article/15073450.html",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|英力股份|分布式光伏电站募投终止|1.09亿元|项目终止",
+    "id": "daily|2026-09-08|中国|英力股份光伏电站募投终止",
+    "collectedAt": "2026-09-14T00:45:33Z"
+  },
+  {
+    "date": "2026-09-08",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "光伏跟踪支架",
+      "GPG",
+      "Naturgy"
+    ],
+    "company": "FTC Solar / GPG（Naturgy子公司）",
+    "title": "FTC Solar为澳大利亚330MW光伏项目供货",
+    "summary": "美国跟踪支架厂商FTC Solar宣布开始为澳大利亚昆士兰州Fraser Coast光伏项目发货，供应其1P地形跟踪支架系统。该项目由西班牙Naturgy旗下GPG开发，为330MW光伏配套180MW储能，是Naturgy在澳洲规模最大的新能源项目及第二个光储混合项目，预计2028年投运。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/ftc-solar-begins-solar-tracker-shipments-for-330mw-pv-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|FTC Solar-GPG-Naturgy|Fraser Coast光伏项目供货|330MW|开发",
+    "id": "daily|2026-09-08|澳大利亚|FTC Solar供货澳项目",
+    "collectedAt": "2026-09-14T00:45:33Z"
+  },
+  {
+    "date": "2026-09-11",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "市场数据",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "户用储能",
+      "ANIE Rinnovabili"
+    ],
+    "company": "ANIE Rinnovabili / Terna",
+    "title": "意大利储能新增装机12个月同比骤降58%",
+    "summary": "意大利可再生能源协会ANIE Rinnovabili基于电网公司Terna的Gaudì数据库发布最新储能观察报告：截至2026年6月的过去12个月，意大利新增储能装机容量同比下降58%、功率下降42%，二季度新增容量同比骤降82%。2026年上半年意大利新增储能1.3GWh，其中0.9GWh为配套户用光伏的分布式系统，主因户用市场持续低迷、支持政策延后。截至6月底，意大利（不含抽水蓄能）累计储能装机约19GWh/8GW。",
+    "sourceName": "Energy Storage News (ESS News)",
+    "sourceUrl": "https://www.ess-news.com/2026/09/11/italys-storage-market-shrinks-58-in-12-months-as-installations-slow/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|ANIE Rinnovabili-Terna|储能装机同比降58%|1.3GWh|市场数据",
+    "id": "daily|2026-09-11|意大利|储能装机同比降58%",
+    "collectedAt": "2026-09-14T00:45:33Z"
+  },
+  {
+    "date": "2026-09-07",
+    "country": "越南",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "储能"
+    ],
+    "tags": [
+      "虚拟电厂",
+      "VPP",
+      "DPPA"
+    ],
+    "company": "越南工业贸易部（MOIT）",
+    "title": "越南工贸部释放信号将聚合光伏储能电动车组建虚拟电厂",
+    "summary": "越南工业贸易部下属产业司通过《越南能源杂志》科学委员会成员阮辉学发文，首次公开探讨在分时电价和工业需求响应之外构建虚拟电厂（VPP），聚合分布式屋顶光伏、用户侧储能和电动车等资源，通过算法调度吸纳光伏午间过剩发电、并在晚高峰释放储能。与此同时，越南屋顶光伏新政草案拟允许自发自用项目向国家电力集团EVN出售最多20%装机容量的富余电量。",
+    "sourceName": "pv magazine",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/07/vietnam-lays-early-policy-groundwork-to-aggregate-rooftop-pv-storage-and-evs-into-vpps/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "越南|越南工业贸易部|虚拟电厂VPP政策草案|屋顶光伏+储能+电动车|政策",
+    "id": "daily|2026-09-07|越南|VPP虚拟电厂政策",
+    "collectedAt": "2026-09-14T00:45:33Z"
   }
 ]
