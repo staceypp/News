@@ -112,6 +112,51 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-09-10",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "投资决策",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 电网侧储能 退役核电站再利用",
+    "company": "Vattenfall",
+    "title": "瀑布电力对德国254MW/1000MWh电池储能项目做出最终投资决策",
+    "summary": "瑞典能源企业Vattenfall宣布对位于石勒苏益格-荷尔斯泰因州Brunsbüttel退役核电站厂址的电池储能项目做出最终投资决策，项目功率254MW、容量约1000MWh，是Vattenfall迄今最大电池储能项目，将接入50Hertz运营的380kV输电网，预计2028年底前建成投运。解读：该项目建成后将使Vattenfall在运储能规模较目前150MW大幅提升，体现欧洲能源企业利用退役核电站场址和既有电网接入条件加速部署大型电池储能的趋势。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/vattenfall-goes-ahead-with-1gwh-battery-storage-project-at-former-nuclear-site-in-germany/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|Vattenfall|Brunsbüttel电池储能FID|254MW-1000MWh|投资决策",
+    "id": "daily|2026-09-10|德国|Vattenfall电池储能FID",
+    "collectedAt": "2026-09-15T00:43:37Z"
+  },
+  {
+    "date": "2026-09-10",
+    "country": "智利",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "出售",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": "集中式 储能 交易 资产轮动 光储一体化",
+    "company": "METLEN Energy & Metals / Copec",
+    "title": "METLEN将智利165MW光伏+725MWh储能项目出售给Copec",
+    "summary": "希腊能源企业METLEN Energy & Metals宣布与智利能源集团Copec旗下Copec Flux签署协议，出售位于智利阿塔卡马大区的Tamarico II光储项目，项目包含165MW光伏发电和725MWh电池储能（可扩容至925MWh），交易金额未披露。解读：这是METLEN与Copec三年合作关系下的又一笔资产轮动交易，双方表示将在智利进一步拓展新能源与储能投资，体现拉美光储市场开发商与本地能源集团深度绑定的资产运作模式。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/metlen-agrees-to-sell-165mw-725mwh-chile-solar-plus-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "智利|METLEN-Copec|Tamarico II光储出售|165MW-725MWh|出售",
+    "id": "daily|2026-09-10|智利|Tamarico II光储出售",
+    "collectedAt": "2026-09-15T00:43:37Z"
+  },
+  {
+    "date": "2026-09-10",
     "country": "中国",
     "geo": "中国",
     "category": "市场信息",
@@ -222,6 +267,49 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-13T18:28:10.828Z",
     "notionPageId": "3daabced5dee8152b0f8f3e0229716eb",
     "fingerprint": "notion|aa3fa60c3651ae401230"
+  },
+  {
+    "date": "2026-09-09",
+    "country": "安徽",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 电力现货市场 独立储能",
+    "company": "安徽省能源局",
+    "title": "安徽电力现货市场9月9日转入正式运行",
+    "summary": "经安徽省政府批准并报国家发改委、国家能源局备案，安徽电力现货市场自2026年9月9日起由结算试运行转为正式运行。独立储能、虚拟电厂等新型经营主体可选择\"报量报价\"或\"自调度\"方式参与现货市场，充放电价格按节点电价结算，并可与调频辅助服务市场之间灵活切换参与。解读：安徽是国内较早开展现货连续结算试运行的省份之一，正式运行意味着独立储能收益将更直接与实时节点电价挂钩，利好具备灵活调度能力的储能项目。",
+    "sourceName": "安徽省电力行业协会",
+    "sourceUrl": "https://www.ahpea.cn/archives/21949",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "安徽|安徽省能源局|电力现货市场转正式运行|独立储能报量报价|政策",
+    "id": "daily|2026-09-09|安徽|现货市场转正式运行",
+    "collectedAt": "2026-09-15T00:43:37Z"
+  },
+  {
+    "date": "2026-09-09",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 ERCOT 电网侧储能",
+    "company": "SMT Energy / FlexGen",
+    "title": "SMT Energy与FlexGen休斯顿160MW/320MWh储能项目投运",
+    "summary": "SMT Energy与FlexGen宣布位于德州休斯顿的SMT Houston IV储能项目正式投运，规模为160MW/320MWh，仅用六周即完成调试，较原计划提速约3倍。项目此前获得1.35亿美元融资，由Macquarie和KeyBanc联合安排，采用FlexGen的HybridOS能量管理系统，接入ERCOT电网提供电能量和辅助服务。解读：在ERCOT电网负荷持续创新高的背景下，该项目的快速部署反映出美国储能行业在应对尖峰负荷和数据中心用电增长方面的交付能力正在加快。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/flexgen-smt-energy-commission-320mwh-texas-bess-in-just-six-weeks-as-ercot-grid-faces-record-demand/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|SMT Energy-FlexGen|休斯顿BESS投运|160MW-320MWh|投运",
+    "id": "daily|2026-09-09|美国|休斯顿BESS投运",
+    "collectedAt": "2026-09-15T00:43:37Z"
   },
   {
     "date": "2026-09-09",
@@ -452,6 +540,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-09-07",
+    "country": "越南",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能",
+      "绿电"
+    ],
+    "tags": "储能 绿电 虚拟电厂 分布式光伏",
+    "company": "越南工贸部",
+    "title": "越南着手制定虚拟电厂政策框架，拟整合屋顶光伏与储能",
+    "summary": "越南工贸部（MOIT）发布文件，初步提出将分布式屋顶光伏、用户侧电池储能和电动汽车通过虚拟电厂（VPP）平台聚合调度的政策方向，以应对光伏过剩导致的中南部地区弃光问题。文件同时指出，由于电力公司EVN在输电和统购统销环节仍占主导地位，后续仍需制定具体的市场准入路线图和聚合机制。解读：越南VPP政策仍处早期概念阶段，但释放出未来分布式资源参与电力市场调节的信号，为储能和虚拟电厂运营商在越南布局提供政策观察窗口。",
+    "sourceName": "pv magazine",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/07/vietnam-lays-early-policy-groundwork-to-aggregate-rooftop-pv-storage-and-evs-into-vpps/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "越南|越南工贸部|虚拟电厂政策框架|VPP|政策",
+    "id": "daily|2026-09-07|越南|VPP政策框架",
+    "collectedAt": "2026-09-15T00:43:37Z"
+  },
+  {
+    "date": "2026-09-07",
     "country": "多国/区域",
     "geo": "全球",
     "category": "市场信息",
@@ -544,6 +654,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-08T06:49:37.789Z",
     "notionPageId": "3d5abced5dee81f09a18c896697a59f7",
     "fingerprint": "notion|6bb2efb27d816e36315d"
+  },
+  {
+    "date": "2026-09-04",
+    "country": "湖北",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": "集中式 融资 风光水储 地方合作",
+    "company": "湖北能源",
+    "title": "湖北能源与恩施州政府签订约80亿元清洁能源合作协议",
+    "summary": "湖北能源9月4日与恩施州政府签订清洁能源项目深化合作协议，计划\"十五五\"期间在恩施州投资约80亿元，建设一批风光水储综合能源项目及上下游产业链，其中邻溪河水电项目总投资20.8亿元、装机18.52万千瓦。解读：湖北能源持续以地方政府框架协议方式锁定风光水储资源，为后续项目核准和落地提供储备，反映央地国企在中西部清洁能源基地建设中的深化布局。",
+    "sourceName": "界面新闻",
+    "sourceUrl": "https://www.jiemian.com/article/15058061.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "湖北|湖北能源|恩施州清洁能源深化合作|80亿元|合作",
+    "id": "daily|2026-09-04|湖北|湖北能源恩施合作",
+    "collectedAt": "2026-09-15T00:43:37Z"
   },
   {
     "date": "2026-09-04",
