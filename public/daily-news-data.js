@@ -1,5 +1,49 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-14",
+    "country": "浙江",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "开工",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 浙江",
+    "company": "浙江项目主体",
+    "title": "100MW/400MWh！浙江临海电网侧储能及能碳智慧管理平台项目获备案",
+    "summary": "浙江省台州湾经济技术开发区临海市一个100MW/400MWh磷酸铁锂电网侧独立储能及能碳智慧管理平台项目完成备案，项目含80套电池储能单元及20套变流升压一体机，通过220kV变电站接入电网，总投资约45.32亿元，计划2027年11月开工、2029年8月建成。 解读：该项目投资规模大、建设周期长，\"储能+能碳智慧管理平台\"的组合模式体现出地方政府在推动电网侧储能建设的同时，同步布局能碳数据管理基础设施，为园区或区域碳管理提供数字化支撑。",
+    "sourceName": "escn.com.cn",
+    "sourceUrl": "https://www.escn.com.cn/news/show-2270551.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3dbabced5dee8105b5f5ee8eba09e09f",
+    "collectedAt": "2026-09-15T07:03:59.131Z",
+    "notionPageId": "3dbabced5dee8105b5f5ee8eba09e09f",
+    "fingerprint": "notion|16b643c8abf44611e701"
+  },
+  {
+    "date": "2026-09-14",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "产品",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 全国",
+    "company": "阳光电源",
+    "title": "阳光电源光储产品涨价5%-15%，9月20日起执行",
+    "summary": "阳光电源宣布自2026年9月20日起，其光伏逆变器及储能系统产品价格上调5%~15%，原因是上游原材料成本上升、供应链压力加大及贵金属价格上涨。 解读：头部逆变器/储能厂商集体提价，标志着此前持续两年多的储能系统价格战可能阶段性见底，电站开发商在近期签约或框架协议中应提前锁价，避免年底交付批次成本上升。",
+    "sourceName": "escn.com.cn",
+    "sourceUrl": "https://www.escn.com.cn/news/show-2270495.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3dbabced5dee8116921ce4959eb2184e",
+    "collectedAt": "2026-09-15T07:03:59.131Z",
+    "notionPageId": "3dbabced5dee8116921ce4959eb2184e",
+    "fingerprint": "notion|289d968b55bd9ba3c9c5"
+  },
+  {
     "date": "2026-09-12",
     "country": "江苏",
     "geo": "中国",
