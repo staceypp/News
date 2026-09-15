@@ -66,6 +66,53 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|b4907b90d22b1bda9627"
   },
   {
+    "date": "2026-09-14",
+    "country": "巴西",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "微电网",
+      "储能"
+    ],
+    "tags": "微电网 储能 离网光伏 储能 智能微电网",
+    "company": "巴西项目主体",
+    "title": "巴西亚马逊50kWp光伏+165kWh储能微电网替代柴油并支撑社区产业",
+    "summary": "巴西亚马逊州Tefé偏远社区投运50kWp光伏+165kWh电池储能微电网，替代不稳定柴油发电，并为当地açaí加工设施提供可靠电力，设计支持年加工最高约3.6万升。项目属于Luz na Floresta计划，由FAS、GEAPP及巴西矿业和能源部参与推动。 解读：对农业加工、冷链、渔业和偏远社区微电网具有直接参考意义。",
+    "sourceName": "ess-news.com",
+    "sourceUrl": "https://www.ess-news.com/2026/09/14/solar-battery-microgrid-enables-acai-processing-in-remote-amazon-community",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3dcabced5dee81299336dc39b8776c8a",
+    "collectedAt": "2026-09-15T19:25:58.532Z",
+    "notionPageId": "3dcabced5dee81299336dc39b8776c8a",
+    "fingerprint": "notion|f69b60110eb6f34456c3"
+  },
+  {
+    "date": "2026-09-14",
+    "country": "多国/区域",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "微电网"
+    ],
+    "tags": "集中式 储能 微电网 集中式光伏 储能 智能微电网 PPA",
+    "company": "多国/区域项目主体",
+    "title": "刚果（金）Kamoa铜矿233MW光伏+526MWh储能投入商业运行",
+    "summary": "CrossBoundary Energy开发的Kamoa光储项目在刚果（金）投入商业运行，项目位于Kamoa-Kakula铜矿附近，规模233MW光伏+526MWh电池储能。项目通过与Kamoa Copper签署的PPA向矿山提供round-the-clock电力，支持铜矿持续扩产。矿山由加拿大 Ivanhoe Mines、中国国有企业紫金矿业，以及刚果（金）政府共同持有。 解读：这是非洲大型矿业负荷采用“光伏+BESS+长期PPA”替代高成本或不稳定电网供电的标志性案例，对东非及非洲矿业、工业园区的C&I/微电网开发具有较强复制参考价值；客户购买的核心是稳定电力而非单纯最低光伏电价。",
+    "sourceName": "pv-tech.org",
+    "sourceUrl": "https://www.pv-tech.org/crossboundary-energy-powers-up-233mw-solar-plus-storage-site-at-drc-copper-mine",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3dcabced5dee812b9f06e57aeee886a4",
+    "collectedAt": "2026-09-15T19:25:58.532Z",
+    "notionPageId": "3dcabced5dee812b9f06e57aeee886a4",
+    "fingerprint": "notion|f0c514a76982ec5d3e0f"
+  },
+  {
     "date": "2026-09-12",
     "country": "江苏",
     "geo": "中国",
