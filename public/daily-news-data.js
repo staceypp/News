@@ -44,6 +44,28 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|289d968b55bd9ba3c9c5"
   },
   {
+    "date": "2026-09-14",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "中标",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 全国",
+    "company": "中国项目主体",
+    "title": "8月全国储能采招规模达94.9GWh，4小时系统最低中标价降至0.519元/Wh",
+    "summary": "据CESA储能应用分会不完全统计，2026年8月全国新增储能采招项目207个，合计规模20.27GW/94.94GWh，磷酸铁锂储能项目规模17.52GW/86.5GWh（占比91.1%）。从区域分布看，新疆、内蒙古、山西、河北8月新增采招落地规模均超6GWh，位居全国前列。2h锂电储能中标加权均价0.588元/Wh，最低报价0.432元/Wh。4小时储能平均报价0.532元/Wh，最低中标价为0.519元/Wh。 解读：8月中标价格继续下探且4小时系统跌破0.52元/Wh，显示储能系统成本仍处于下行通道，电站开发商的储能配置成本压力有望进一步缓解，但也意味着系统集成商利润空间持续承压。大基地配储需求持续释放，同时关注低价中标项目后续的产品质量与履约风险。",
+    "sourceName": "escn.com.cn",
+    "sourceUrl": "https://www.escn.com.cn/news/show-2270463.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3dbabced5dee8125b772d350bbea8899",
+    "collectedAt": "2026-09-15T14:05:12.612Z",
+    "notionPageId": "3dbabced5dee8125b772d350bbea8899",
+    "fingerprint": "notion|b4907b90d22b1bda9627"
+  },
+  {
     "date": "2026-09-12",
     "country": "江苏",
     "geo": "中国",
