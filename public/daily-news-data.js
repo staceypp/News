@@ -1,5 +1,52 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-15",
+    "country": "云南",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "产能",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 云南",
+    "company": "云南相关企业",
+    "title": "云南能投拟开发5个风电场，规划总装机60万千瓦",
+    "summary": "云南能投股份有限公司公告拟开发马龙通泉风电场（三期至五期）及会泽五星风电场等5个风电项目，合计装机容量约60万千瓦（600MW），项目尚处前期工作阶段，后续将提交董事会/股东会审议并取得相关部门核准或备案，建设期约12个月。公司目前已运营新能源装机275万千瓦（2.75GW），其中风电249万千瓦（2.49GW）。 解读：作为云南省属国企，云南能投此次60万千瓦风电扩张延续了其\"十五五\"新能源装机扩张路径，反映出云南在资源条件较好区域仍在持续核准新增风电产能；对光伏电站开发商而言，此类国企主导的集中式风电项目会在当地电网接入、土地林草手续及送出消纳空间上与光伏项目形成一定竞争，需关注相关送出通道余量变化。",
+    "sourceName": "data.eastmoney.com",
+    "sourceUrl": "https://data.eastmoney.com/notices/detail/002053/AN202609141829372530.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3dcabced5dee81289c39f71d9a73824c",
+    "collectedAt": "2026-09-16T19:17:50.348Z",
+    "notionPageId": "3dcabced5dee81289c39f71d9a73824c",
+    "fingerprint": "notion|46176633025e9fd43212"
+  },
+  {
+    "date": "2026-09-15",
+    "country": "肯尼亚",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "产品",
+    "businessTags": [
+      "系统销售",
+      "分布式",
+      "户用光伏",
+      "储能"
+    ],
+    "tags": "系统销售 分布式 户用光伏 储能 系统销售 工商业光伏 户用光伏 储能",
+    "company": "肯尼亚相关企业",
+    "title": "GoodWe在肯尼亚内罗毕设立区域办公室，强化撒哈拉以南非洲本地技术与渠道支持",
+    "summary": "GoodWe正式在肯尼亚内罗毕开设区域办公室，面向安装商、分销商、EPC和终端客户提供更近距离的技术培训、产品展示、售后和伙伴支持，并同步强化其撒哈拉以南非洲本地化战略。 解读：东非光储系统竞争正从单纯出口设备转向“本地办公室+渠道+培训+售后”模式；对肯尼亚及周边市场，服务响应和安装商生态可能逐渐成为逆变器/储能系统商的重要竞争壁垒。",
+    "sourceName": "en.goodwe.com",
+    "sourceUrl": "https://en.goodwe.com/goodwe-expands-sub-saharan-africa-presence-with-nairobi-office-and-eo-g2-launch",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3ddabced5dee81aea246d0274640b1c2",
+    "collectedAt": "2026-09-16T19:17:50.348Z",
+    "notionPageId": "3ddabced5dee81aea246d0274640b1c2",
+    "fingerprint": "notion|a2617c855b588b640475"
+  },
+  {
     "date": "2026-09-14",
     "country": "浙江",
     "geo": "中国",
@@ -67,6 +114,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-09-14",
+    "country": "贵州",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": "电力交易 电力交易 贵州",
+    "company": "贵州政策机构",
+    "title": "贵州新能源竞价及差价结算细则公开征求意见",
+    "summary": "贵州省发展改革委发布两份实施细则征求意见稿：一是新能源项目竞争性配置规则，适用于2025年6月1日至12月31日期间并网、已获核准/备案但未纳入现行机制的新能源项目；二是相应的电价与差价结算细则。征求意见期为2026年9月11日至28日。 解读：差价结算细则的出台也预示贵州新能源上网电价将进一步与市场化交易价格挂钩，长期看会压缩传统标杆电价模式下的收益空间。",
+    "sourceName": "cpnn.com.cn",
+    "sourceUrl": "https://cpnn.com.cn/news/xny/202609/t20260914_1914934.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3dcabced5dee8120a77fc0e16541777e",
+    "collectedAt": "2026-09-16T19:17:50.348Z",
+    "notionPageId": "3dcabced5dee8120a77fc0e16541777e",
+    "fingerprint": "notion|6756d6f456c6de7a79f4"
+  },
+  {
+    "date": "2026-09-14",
     "country": "巴西",
     "geo": "美洲",
     "category": "市场信息",
@@ -111,6 +180,50 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-15T19:25:58.532Z",
     "notionPageId": "3dcabced5dee812b9f06e57aeee886a4",
     "fingerprint": "notion|f0c514a76982ec5d3e0f"
+  },
+  {
+    "date": "2026-09-14",
+    "country": "广东",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": "电力交易 电力交易 广东",
+    "company": "广东政策机构",
+    "title": "广东启动2026年增量新能源项目机制电价竞价登记",
+    "summary": "广东电力交易中心发布《关于开展广东省增量新能源项目机制电价竞价登记的通知》，启动2026年机制电价竞价工作。尚未投产但承诺竞价月起未来12个月内投产、已完成核准或备案且未纳入机制执行范围的新能源项目可参与竞价；集中式光伏和陆上风电项目不参与机制电价竞价；2025年5月31日前全容量并网的存量项目及已入选2025年机制竞价的项目无需重新参与。符合条件的项目自2026年9月14日起可通过\"广东电力交易系统\"或\"广东电力交易中心\"小程序办理竞价登记，需在2026年10月13日前提交资料。 解读：广东此次明确将集中式光伏和陆上风电排除在机制电价竞价之外，意味着广东后续增量集中式光伏项目收益将更多依赖现货市场和中长期交易价格，而非机制电价托底保障，这对仍可参与机制竞价的分布式光伏、海上风电等项目类型形成相对利好，二者收益确定性出现分化。机制电价\"退坡\"信号也预示广东新能源市场化程度正加速提升，建议提前布局电力交易能力和风险对冲工具。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/quGmCEu1PLi8_Bce7LBZ9w",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3dcabced5dee8139ab6ac9536598a340",
+    "collectedAt": "2026-09-16T19:17:50.348Z",
+    "notionPageId": "3dcabced5dee8139ab6ac9536598a340",
+    "fingerprint": "notion|d3dc1fa9eca96864f0ee"
+  },
+  {
+    "date": "2026-09-14",
+    "country": "广西",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": "电力交易 电力交易 广西",
+    "company": "广西政策机构",
+    "title": "广西启动2027年增量新能源项目机制电价竞价登记",
+    "summary": "广西电力交易中心发布通知，启动2027年增量新能源项目机制电价竞价工作，拟于2026年10月下旬开展竞价。参与条件为2025年6月1日及以后全容量并网、或承诺2027年12月31日前投产的项目；源网荷储、绿电直连项目及2025年6月1日后并网的分布式光伏不纳入机制电价框架。测试报名为9月10日至13日，测试数据清空为9月14日，正式报名为9月15日至30日（每日8:00-18:00）。入选项目实际投产时间较承诺时间延误超6个月的，将被取消资格且3年内不得再参与竞价。 解读：广西此次竞价规则将源网荷储、绿电直连类项目排除在机制电价之外，意味着这类项目今后需更多依赖市场化交易或自愿绿电直连获得收益。6个月延误即取消资格且三年内禁止参赛的严格条款，将倒逼开发商在申报阶段更审慎评估建设周期与并网风险，尤其是用地、环评、接网等前置手续复杂的项目。建议关注广西存量与增量项目在测试登记阶段暴露出的容量分布，判断后续区域消纳压力走向。",
+    "sourceName": "cpnn.com.cn",
+    "sourceUrl": "https://cpnn.com.cn/news/xny/202609/t20260914_1914943.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3dcabced5dee817e9a4cfbe93ca9aa41",
+    "collectedAt": "2026-09-16T19:17:50.348Z",
+    "notionPageId": "3dcabced5dee817e9a4cfbe93ca9aa41",
+    "fingerprint": "notion|6528693d21fcf841121a"
   },
   {
     "date": "2026-09-12",
