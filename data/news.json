@@ -1,5 +1,82 @@
 [
   {
+    "date": "2026-09-15",
+    "country": "乌干达",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式光伏",
+      "乌干达",
+      "投运"
+    ],
+    "company": "AMEA Power",
+    "title": "迪拜AMEA Power在乌干达24MWp Ituka光伏项目投入运营",
+    "summary": "迪拜可再生能源开发商AMEA Power位于乌干达西尼罗河地区马迪奥科洛区的24MWp Ituka光伏项目正式投入商业运营，这是该地区首个光伏独立发电项目。项目总投资约2700万美元，由AMEA Power自有资金及Emerging Africa Infrastructure Fund债务融资支持，电力通过乌干达国家电力传输公司（UETCL）接入国家电网，预计年发电量约54GWh，可满足19.2万户家庭用电需求。解读：非洲欠发达地区大型光伏独立发电项目持续获得开发性金融机构支持，为区域并网型光伏IPP开发提供参考模式。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/15/uganda-switches-on-24-mw-solar-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "乌干达|AMEA Power|Ituka光伏项目投运|24MWp|投运",
+    "id": "daily|2026-09-15|乌干达|Ituka光伏投运",
+    "collectedAt": "2026-09-16T00:43:11.000Z"
+  },
+  {
+    "date": "2026-09-10",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "储能",
+      "集中式"
+    ],
+    "tags": [
+      "储能",
+      "意大利",
+      "Megapack"
+    ],
+    "company": "Zhero",
+    "title": "意大利Zhero与特斯拉Energy签约约3GWh储能框架协议",
+    "summary": "意大利储能开发商Zhero与特斯拉能源（Tesla Energy）签署框架协议，联合南非开发商H1 Holdings推进意大利约3GWh电池储能项目，首批包括200MW已具备开工条件的项目。特斯拉将为项目供应Megapack电池，项目将依托长期购电协议获取市场收益，减少对MACSE等受监管支持机制的依赖。解读：意大利独立储能市场持续吸引国际开发商与电池厂商深度绑定，长期购电协议正成为脱离补贴机制、支撑大型BESS项目融资的关键路径。",
+    "sourceName": "ess-news.com",
+    "sourceUrl": "https://www.ess-news.com/2026/09/10/zhero-and-tesla-energy-sign-agreement-for-3-gwh-of-bess-in-italy/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|Zhero|特斯拉Megapack储能框架协议|3GWh|合作",
+    "id": "daily|2026-09-10|意大利|Zhero特斯拉储能协议",
+    "collectedAt": "2026-09-16T00:43:11.000Z"
+  },
+  {
+    "date": "2026-09-15",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "分布式",
+      "融资"
+    ],
+    "tags": [
+      "分布式光伏",
+      "社区光伏",
+      "融资"
+    ],
+    "company": "Generate Capital",
+    "title": "Generate Capital获三菱日联1.17亿美元社区光伏融资",
+    "summary": "美国基础设施投资商Generate Capital宣布与三菱日联金融集团（MUFG）达成1.17亿美元定期债务融资，这是双方首次在社区光伏领域合作。该笔资金将用于支持其Community Solar Fund 11旗下伊利诺伊州和纽约州共18个社区光伏项目，合计约114MWdc装机容量。解读：美国社区光伏融资持续活跃，银行系资本正加速布局中小型分布式光伏资产包，为国内组件及系统集成商拓展北美社区光伏渠道提供参考。",
+    "sourceName": "prnewswire.com",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/generate-capital-closes-117-million-community-solar-financing-with-mufg-302878382.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Generate Capital|MUFG社区光伏融资|1.17亿美元|融资",
+    "id": "daily|2026-09-15|美国|Generate Capital社区光伏融资",
+    "collectedAt": "2026-09-16T00:43:11.000Z"
+  },
+  {
     "date": "2026-09-14",
     "country": "浙江",
     "geo": "中国",
