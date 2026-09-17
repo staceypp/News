@@ -3645,5 +3645,58 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-11",
+    "country": "江苏",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "订单",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "储能设备",
+      "变流升压一体机",
+      "江苏"
+    ],
+    "company": "江苏华辰变压器股份有限公司(603097.SH)",
+    "title": "江苏华辰获4.28亿元储能变流升压一体机设备合同",
+    "summary": "江苏华辰变压器股份有限公司公告，公司于2026年8月26日和9月7日与宁夏天普芯科技有限公司签订8份《储能变流升压一体机设备买卖合同》，合同总金额约4.28亿元（含税）。该业务以净额法确认收入，不构成关联交易，无需提交董事会及股东会审议，合同经双方盖章后即生效。公司表示，若合同顺利履行，将对本年度及未来业绩产生积极影响。",
+    "sourceName": "news.qq.com",
+    "sourceUrl": "https://news.qq.com/rain/a/20260911A0CVNU00",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "江苏|华辰变压器|储能变流升压一体机|4.28亿元|订单",
+    "id": "daily|20260911|江苏|华辰储能合同",
+    "collectedAt": "2026-09-17T00:43:48.000Z"
+  },
+  {
+    "date": "2026-09-11",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "投资决定",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "电池储能",
+      "FID",
+      "德国",
+      "退役核电站改储能"
+    ],
+    "company": "Vattenfall（瑞典大瀑布电力公司）",
+    "title": "Vattenfall对德国254MW/约1GWh电池储能项目做出最终投资决定",
+    "summary": "瑞典国有能源企业Vattenfall宣布，对位于德国石勒苏益格-荷尔斯泰因州退役的Brunsbüttel核电站原址电池储能项目做出最终投资决定（FID），项目装机容量约254兆瓦、储能容量约1吉瓦时，建成后将成为该公司迄今最大的电池储能项目，规模接近其现有及在建储能组合的两倍。项目计划接入50赫兹380千伏输电网，预计2028年底投运。",
+    "sourceName": "group.vattenfall.com",
+    "sourceUrl": "https://group.vattenfall.com/press-and-media/pressreleases/2026/vattenfall-takes-final-investment-decision-on-major-battery-project-in-germany/",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|Vattenfall|Brunsbuttel|254MW|1GWh|FID",
+    "id": "daily|20260911|德国|Vattenfall储能FID",
+    "collectedAt": "2026-09-17T00:43:48.000Z"
   }
 ]
