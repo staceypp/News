@@ -1,5 +1,52 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-16",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "分布式"
+    ],
+    "tags": "集中式 储能 分布式 集中式光伏 储能 PPA 工商业光伏",
+    "company": "德国项目主体",
+    "title": "西班牙Zelestra公司与德国Salzgitter Flachstahl钢厂签署德国最大光伏+储能购电协议",
+    "summary": "西班牙可再生能源公司Zelestra与德国钢铁企业Salzgitter Flachstahl签署购电协议，项目组合包括德国东部图林根州和勃兰登堡州两个项目提供147MW光伏，配套79MW/237MWh电池储能系统，储能时长为3小时。该项目总投资约 27亿欧元（约31.2亿美元），属于Salzgitter“SALCOS”脱碳计划的一部分。Zelestra负责光伏资产建设、持有和运营，Salzgitter 负责购买项目全部发电量，并负责储能系统调度管理。这是德国迄今规模最大的光伏+储能购售电协议。 解读：该交易表明工商业企业（尤其高耗能的钢铁行业）对光伏+储能一体化直供电模式的接受度在提升，有助于企业以具竞争力的价格锁定绿电供应，支撑其从燃煤向绿氢转型。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/zelestra-salzgitter-flachstahl-german-solar-plus-storage-ppa-steelmaking",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3deabced5dee811fb05fd112296d3a4e",
+    "collectedAt": "2026-09-17T07:01:24.756Z",
+    "notionPageId": "3deabced5dee811fb05fd112296d3a4e",
+    "fingerprint": "notion|e60bc2fbd6c4d866d2f8"
+  },
+  {
+    "date": "2026-09-16",
+    "country": "几内亚",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 集中式光伏 储能",
+    "company": "几内亚政策机构",
+    "title": "几内亚启动光伏储能竞争性采购项目",
+    "summary": "几内亚能源部与比利时非营利机构RELP达成合作，共同设计并启动光伏与电池储能的竞争性采购机制，首期目标容量400MW。目前，非洲太阳能产业协会（AFSIA）数据库统计几内亚已投运光伏项目约329.7MW，主要为工商业项目。 解读：透明、可预期的竞争性采购机制有助于降低几内亚可再生能源项目的开发风险和融资成本，为大规模投资进入西非市场创造条件。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/16/guinea-plans-solar-storage-procurement-program",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3deabced5dee815c8c74d5463d354d25",
+    "collectedAt": "2026-09-17T07:01:24.756Z",
+    "notionPageId": "3deabced5dee815c8c74d5463d354d25",
+    "fingerprint": "notion|c702b996da42a0d41e23"
+  },
+  {
     "date": "2026-09-15",
     "country": "乌干达",
     "geo": "非洲",
@@ -63,6 +110,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-16T19:17:50.348Z",
     "notionPageId": "3dcabced5dee81289c39f71d9a73824c",
     "fingerprint": "notion|46176633025e9fd43212"
+  },
+  {
+    "date": "2026-09-15",
+    "country": "天津",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": "电力交易 电力交易 天津",
+    "company": "天津政策机构",
+    "title": "天津启动2026度增量新能源项目机制电量竞价，比例上限提至80%",
+    "summary": "天津市发改委于9月9日发布《关于2026年度增量新能源项目机制电量竞价工作有关事项的通知》，天津电力公司9月11日发布竞价组织公告。文件明确2027年12月31日前全部建成投产（含此前未纳入机制执行范围）的风电、光伏项目可参与竞价，其中分布式项目可委托代理商参与；单项目机制电量比例上限调整至80%，其他条件不变。 解读：参考2025年天津竞价：不设下限、上限0.32元/度、执行期限10年，2025年竞价出清结果为0.3196元/度、1279个项目入围。光伏电站开发商在天津及类似省份布局时应尽快评估项目是否符合“2027年底前全容量并网”的时间窗口要求，并结合各省已披露的机制电价水平测算项目全生命周期收益率。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/GqPjnXfFjQfWlzaFmXPXVg",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3ddabced5dee818f9763f2b3e4f84d96",
+    "collectedAt": "2026-09-17T07:01:24.756Z",
+    "notionPageId": "3ddabced5dee818f9763f2b3e4f84d96",
+    "fingerprint": "notion|a98bf14491b427cd5eda"
   },
   {
     "date": "2026-09-15",
