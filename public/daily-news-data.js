@@ -1,5 +1,49 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-17",
+    "country": "福建",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "市场动态",
+    "businessTags": [
+      "算电协同"
+    ],
+    "tags": "算电协同 算电协同 福建 宁夏",
+    "company": "福建项目主体",
+    "title": "闽宁首次实现算电协同全流程联动测试",
+    "summary": "9月16日，福建、宁夏两省首次开展跨省算电协同全流程联动测试，将福州、厦门数据中心的算力负荷通过统一调度系统转移至宁夏中卫数据中心，两地电力部门同步监测调整计算负荷。宁夏光照资源丰富但午间新能源消纳压力大，福建数字经济发达但用电高峰紧张，双方探索计算负荷跟随电力供给弹性调度，为\"东数西算\"工程提供可复制的\"闽宁模式\"。 解读：该试点标志着东数西算工程从数据中心选址层面的资源匹配，升级为负荷可实时跟随电力供给弹性调度的运行机制创新，为西部富余新能源电力找到了更精准的消纳出口。实现“东部减负、西部消纳”双向效益。",
+    "sourceName": "m.gmw.cn",
+    "sourceUrl": "https://m.gmw.cn/2026-09/17/content_1304564722.htm",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3deabced5dee81f09731f62edb5f6cf7",
+    "collectedAt": "2026-09-18T13:18:32.520Z",
+    "notionPageId": "3deabced5dee81f09731f62edb5f6cf7",
+    "fingerprint": "notion|903c163d122579785f0f"
+  },
+  {
+    "date": "2026-09-17",
+    "country": "河南",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 河南",
+    "company": "河南政策机构",
+    "title": "河南严查独立储能\"圈而不建\"，44个16GWh+项目面临清退",
+    "summary": "河南省发改委对44个已获并网批复但迟迟未开工的独立储能项目（合计6.11GW/16.11GWh）启动专项检查，锁定获批6-15个月仍未实质性开工的项目，明确对无实质进展项目予以清退、作废接网意见，企业可提交未开工说明申请豁免。 解读：未来独立储能项目从核准到并网的时间窗口将被严格压缩。对光伏电站开发商而言，若计划通过租赁独立储能容量满足配储要求，需重点核实拟合作储能项目的实际建设进度，避免因对方项目被清退而导致配储承诺落空。",
+    "sourceName": "escn.com.cn",
+    "sourceUrl": "https://www.escn.com.cn/news/show-2271420.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3deabced5dee81fd9d89e88d54f4be71",
+    "collectedAt": "2026-09-18T13:18:32.520Z",
+    "notionPageId": "3deabced5dee81fd9d89e88d54f4be71",
+    "fingerprint": "notion|a9c51f41f297f9728569"
+  },
+  {
     "date": "2026-09-16",
     "country": "德国",
     "geo": "欧洲",
@@ -45,6 +89,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-17T07:01:24.756Z",
     "notionPageId": "3deabced5dee815c8c74d5463d354d25",
     "fingerprint": "notion|c702b996da42a0d41e23"
+  },
+  {
+    "date": "2026-09-16",
+    "country": "河北",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 河北",
+    "company": "河北政策机构",
+    "title": "河北省风电、光伏发电及独立储能项目共用工程建设及费用分摊指导意见（征求意见稿）",
+    "summary": "河北省发改委公开征求意见，拟规范风电、光伏发电及独立储能项目共用工程管理，明确项目界定、承建主体、存量容量开放及共用设施建设与运行费用分摊规则。核心机制：共用项目原则上接入同一公共并网点；共用设施包括共用变压器及母线、公共连接点母线和出线间隔、送出线路及相关二次系统等。建设费用按各项目交流侧额定装机容量占比分摊，运行费用按实际年发电量占比分摊，新增项目导致存量项目陪停的还需按陪停容量、时长和度电利润补偿。文件强调“谁受益、谁承担”、公平开放和动态调整。征求意见时间为2026年9月16日至9月20日。 解读：对电站企业而言，项目竞配和接入方案阶段应重点核查共用工程边界、承建主体履约能力、容量开放承诺及第三方成本核算安排，提前测算并网成本与后续运行分摊风险。",
+    "sourceName": "pvmeng.com",
+    "sourceUrl": "https://www.pvmeng.com/2026/09/16/78806",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|8c90e357b3e54b5d93b040256c545686",
+    "collectedAt": "2026-09-18T13:18:32.520Z",
+    "notionPageId": "8c90e357b3e54b5d93b040256c545686",
+    "fingerprint": "notion|f335541b8aba23ec5d87"
   },
   {
     "date": "2026-09-15",
