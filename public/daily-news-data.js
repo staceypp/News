@@ -1,5 +1,50 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-17",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "投资",
+    "businessTags": [
+      "储能",
+      "集中式",
+      "交易"
+    ],
+    "tags": "储能 集中式 交易 长时储能 国有电力公司 养老金投资",
+    "company": "Victoria SEC",
+    "title": "维多利亚州SEC入股澳大利亚Baranduda 400MW/1.86GWh电池储能项目",
+    "summary": "澳大利亚维多利亚州国有电力公司SEC出资约4300万澳元入股由养老基金Aware Super与开发商Birdwood联合开发的Baranduda电池储能项目，该项目装机400MW/1.86GWh，持续时长达4.65小时，将成为维州时长最长的电网级储能系统。SEC通过15年购电协议锁定项目约50%电量输出，项目预计2026年11月开工、2028年底投运。此次交易也是维州政府与养老基金首次在可再生能源项目上开展公私合营。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/victorias-sec-takes-stake-in-1-86gwh-battery-storage-system-in-australia-alongside-aware-super-and-birdwood/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|SEC-Aware Super-Birdwood|Baranduda|400MW1.86GWh|投资",
+    "id": "daily|2026-09-17|澳大利亚|Baranduda储能入股",
+    "collectedAt": "2026-09-18T00:42:22.000Z"
+  },
+  {
+    "date": "2026-09-16",
+    "country": "罗马尼亚",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "储能",
+      "集中式"
+    ],
+    "tags": "储能 集中式 液冷储能 BESS 光储一体",
+    "company": "隆基绿能",
+    "title": "隆基绿能与罗马尼亚Enexus签署50MWh液冷储能订单",
+    "summary": "隆基绿能与罗马尼亚可再生能源开发商Enexus签署协议，将在罗马尼亚登博维察州Titu为其光储项目部署50MWh液冷储能系统，由10台隆基液冷储能一体机及集成中压升压系统组成，用于电力调峰、容量支撑等电网服务。该项目是Enexus首次采用隆基储能方案，此前双方已有超200MW光伏组件供货合作，此次合作标志着双方从组件供应延伸至储能领域，也是隆基在欧洲最大的储能订单之一。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/industry-updates/enexus-selects-longis-bess-solutions-for-key-utility-projects-in-romania/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "罗马尼亚|隆基绿能-Enexus|Titu-Dambovita|50MWh液冷储能|签约",
+    "id": "daily|2026-09-16|罗马尼亚|隆基罗马尼亚储能订单",
+    "collectedAt": "2026-09-18T00:42:22.000Z"
+  },
+  {
     "date": "2026-09-16",
     "country": "德国",
     "geo": "欧洲",
@@ -114,6 +159,50 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-16T19:17:50.348Z",
     "notionPageId": "3ddabced5dee81aea246d0274640b1c2",
     "fingerprint": "notion|a2617c855b588b640475"
+  },
+  {
+    "date": "2026-09-14",
+    "country": "日本",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "储能",
+      "集中式"
+    ],
+    "tags": "储能 集中式 BESS 谅解备忘录 并网储能",
+    "company": "天合储能",
+    "title": "天合储能与日本AMP-lify签署1GWh并网电池储能谅解备忘录",
+    "summary": "天合光能旗下天合储能与日本清洁能源平台AMP-lify签署谅解备忘录，将为其约1GWh并网电池储能项目供应Elementa 3系列储能系统，该系统采用587Ah大容量磷酸铁锂电芯，单个20英尺集装箱容量最高达6.25MWh。天合储能日本团队还将为项目提供系统配置、技术咨询、交付协调及售后服务支持。AMP-lify在日本从事并网储能、公用事业级光伏及陆上风电项目的开发、建设与运营，双方未披露具体项目地点及交付时间表。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/trina-signs-1gwh-mou-to-help-developer-meet-unique-technical-and-delivery-requirements-of-japans-battery-storage-market/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "日本|天合储能-AMP-lify|Elementa3|1GWh|签约",
+    "id": "daily|2026-09-14|日本|天合储能日本MoU",
+    "collectedAt": "2026-09-18T00:42:22.000Z"
+  },
+  {
+    "date": "2026-09-14",
+    "country": "马来西亚",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "储能",
+      "集中式"
+    ],
+    "tags": "储能 集中式 东南亚 BESS 构网型",
+    "company": "阳光电源",
+    "title": "阳光电源与马来西亚ERS Energy储能合作规模达1GWh，覆盖马来西亚和菲律宾",
+    "summary": "阳光电源与马来西亚光伏EPC企业ERS Energy宣布双方储能项目合作规模累计达1GWh，涵盖马来西亚国家级大型储能计划下Bahau的441MWh MyBeST项目，以及为菲律宾ACEN开发的556MWh、四小时时长储能项目，后者具备构网型能力，可为电网提供电压和频率支撑。此次合作是阳光电源与ERS Energy战略伙伴关系的又一里程碑，助力东南亚电网灵活性提升和新能源消纳。",
+    "sourceName": "Manila Times / PR Newswire",
+    "sourceUrl": "https://www.manilatimes.net/2026/09/14/tmt-newswire/pr-newswire/sungrow-and-ers-energy-advance-1-gwh-of-energy-storage-across-southeast-asia/2424376",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "马来西亚-菲律宾|阳光电源-ERS Energy|MyBeST Bahau+ACEN|1GWh|合作",
+    "id": "daily|2026-09-14|马来西亚|阳光电源东南亚1GWh储能",
+    "collectedAt": "2026-09-18T00:42:22.000Z"
   },
   {
     "date": "2026-09-14",
