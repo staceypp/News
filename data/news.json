@@ -3801,5 +3801,131 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "AIDC",
+      "出海",
+      "电池供应"
+    ],
+    "company": "亿纬锂能/Fluence",
+    "title": "亿纬锂能子公司与Fluence签署206GWh储能电池供应框架协议",
+    "summary": "亿纬锂能子公司湖北亿纬动力与美国储能系统集成商Fluence Energy签署2027—2031年电池供应框架协议，合计供货规模达206GWh，其中2027年确认交付16GWh，2028至2031年预留产能190GWh。多家媒体测算该协议规模相当于亿纬锂能两年以上储能电池总出货量，被视为其切入AI数据中心(AIDC)储能核心供应链的重大突破。",
+    "sourceName": "腾讯新闻",
+    "sourceUrl": "https://news.qq.com/rain/a/20260918A02VAK00",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|亿纬锂能-Fluence|206GWh电池供应协议|2027-2031|签约",
+    "id": "daily|2026-09-18|中国|亿纬锂能Fluence储能大单",
+    "collectedAt": "2026-09-19T00:41:26Z"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "出售",
+    "businessTags": [
+      "分布式",
+      "交易"
+    ],
+    "tags": [
+      "资产处置",
+      "河北"
+    ],
+    "company": "锦浪科技",
+    "title": "锦浪科技拟转让河北巨鹿两座分布式光伏电站子公司股权",
+    "summary": "锦浪科技全资子公司锦浪智慧、浙江海速拟将其持有的巨鹿承阳、巨鹿益瑞两家项目公司100%股权转让给石家庄正刚，转让对价合计722.69万元，涉及分布式光伏电站装机容量约2.59MW。公司表示此举旨在缩短项目投资变现周期、充实营运资金、加快资产周转效率。",
+    "sourceName": "富途牛牛",
+    "sourceUrl": "https://news.futunn.com/post/79479571/jinlang-technology-300763-sz-equity-transfer-of-wholly-owned-project",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|锦浪科技|巨鹿承阳-巨鹿益瑞|722.69万元-2.59MW|出售",
+    "id": "daily|2026-09-18|中国|锦浪科技巨鹿光伏股权转让",
+    "collectedAt": "2026-09-19T00:41:26Z"
+  },
+  {
+    "date": "2026-09-17",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "供货",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "BESS",
+      "光储一体化"
+    ],
+    "company": "天合储能/Frontier Energy",
+    "title": "天合储能为澳大利亚Waroona光储混合项目一期供应BESS",
+    "summary": "Frontier Energy选定天合储能为其西澳大利亚Waroona可再生能源项目一期供应电池储能系统，项目为132MW光伏配81.5MW/6.9小时储能的光储混合项目，位于珀斯以南约120公里处。系统采用天合常州工厂生产的磷酸铁锂电芯及DC耦合方案，协议含20年质保及性能保证，首批发电目标为2028年。",
+    "sourceName": "PR Newswire",
+    "sourceUrl": "https://www.prnewswire.com/apac/news-releases/trina-storage-to-supply-bess-for-major-west-australia-solar-and-battery-energy-storage-system-302881392.html",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|天合储能-Frontier Energy|Waroona光储项目|132MW-81.5MW6.9h|供货",
+    "id": "daily|2026-09-17|澳大利亚|天合储能Waroona项目BESS",
+    "collectedAt": "2026-09-19T00:41:26Z"
+  },
+  {
+    "date": "2026-09-16",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "绿电"
+    ],
+    "tags": [
+      "屋顶光伏",
+      "Gastech"
+    ],
+    "company": "泰国政府",
+    "title": "泰国总理在Gastech 2026宣布5000万泰铢屋顶光伏扶持计划",
+    "summary": "泰国总理阿努廷在曼谷Gastech 2026开幕致辞中宣布多项能源新举措，包括自10月中旬起推出规模约5000万泰铢(约150万美元)的家庭屋顶光伏安装支持计划，并同步推进电网现代化、储能建设及生物质能发展。泰方将此定位为“安全与可负担、务实能源转型、能源政策联动产业投资”三大战略方向之一。",
+    "sourceName": "The Nation Thailand",
+    "sourceUrl": "https://www.nationthailand.com/business/economy/40070998",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "泰国|泰国政府|Gastech2026屋顶光伏计划|5000万泰铢|政策",
+    "id": "daily|2026-09-16|泰国|Gastech屋顶光伏计划",
+    "collectedAt": "2026-09-19T00:41:26Z"
+  },
+  {
+    "date": "2026-09-16",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "资助",
+    "businessTags": [
+      "分布式",
+      "储能"
+    ],
+    "tags": [
+      "社区电池",
+      "ARENA"
+    ],
+    "company": "ARENA",
+    "title": "澳大利亚ARENA完成第100座社区电池并追加2320万澳元资助",
+    "summary": "澳大利亚可再生能源署(ARENA)宣布其社区电池计划第100座社区级电池已在西澳Esperance由Horizon Power建成投运，标志社区储能计划达成里程碑。ARENA同时宣布为第二轮社区电池资助计划追加2320万澳元资金，将支持全国再新建约35座社区电池，进一步提升家庭光伏用户的自发自用价值。",
+    "sourceName": "SolarQuarter",
+    "sourceUrl": "https://solarquarter.com/2026/09/16/australia-reaches-100-community-battery-milestone-arena-allocates-23-2-million-for-35-more/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|ARENA|社区电池100座里程碑|2320万澳元|资助",
+    "id": "daily|2026-09-16|澳大利亚|ARENA社区电池百座里程碑",
+    "collectedAt": "2026-09-19T00:41:26Z"
   }
 ]
