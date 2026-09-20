@@ -22,6 +22,30 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|c97005bedd404fd64481"
   },
   {
+    "date": "2026-09-19",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "户用光伏",
+      "分布式",
+      "系统销售"
+    ],
+    "tags": "户用光伏 分布式 系统销售 户用光伏 分布式光伏 系统销售",
+    "company": "泰国政策机构",
+    "title": "泰国10GW户用光伏进一步明确5kW/户、账单抵扣、融资与简化审批机制",
+    "summary": "9月19日，泰国能源部长Akanat进一步说明10GW户用光伏计划：单户系统拟限制约5kW，以扩大参与覆盖；余电价值可在同一账期抵扣电费。并举例5 kW 系统每月可发约 600—700 kWh，价值略高于 2,000 泰铢（人民币 400 元）；实际节省取决于当地辐照、用电曲线和自发自用比例。政府已将公共照明费用从电价结构中剔除，并对居民实行每户前 200 度用电每度 3 泰铢（人民币 0.6 元）的电价。 解读：商业机会进一步延伸至标准化5kW系统、安装渠道、智能电表、消费金融和售后；若审批真正压缩至1周/1个月，获客到并网周期可能显著缩短。补贴金额、贷款利率与担保、设备准入、本地化要求、正式实施日期及配电网可接入容量尚未形成完整正式细则。",
+    "sourceName": "nationthailand.com",
+    "sourceUrl": "https://www.nationthailand.com/news/policy/40071236",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e1abced5dee813481e5d2717d453a88",
+    "collectedAt": "2026-09-20T13:24:30.097Z",
+    "notionPageId": "3e1abced5dee813481e5d2717d453a88",
+    "fingerprint": "notion|2261428c32e332d1dc66"
+  },
+  {
     "date": "2026-09-18",
     "country": "中国",
     "geo": "中国",
