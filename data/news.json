@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-09-19",
-    "country": "海外",
+    "country": "埃及",
     "geo": "中国",
     "category": "同行动态",
     "eventType": "招标",
@@ -10,7 +10,8 @@
     ],
     "tags": [
       "储能",
-      "海外"
+      "产能",
+      "埃及"
     ],
     "company": "宁德时代",
     "title": "宁德时代与埃及BME合作建电池生产基地，一期1GWh规划扩至5GWh",
@@ -22,7 +23,31 @@
     "id": "notion|3e0abced5dee8151a00ced626ca87f74",
     "collectedAt": "2026-09-20T07:21:02.173Z",
     "notionPageId": "3e0abced5dee8151a00ced626ca87f74",
-    "fingerprint": "notion|c97005bedd404fd64481"
+    "fingerprint": "notion|38e82a214f7c5473a6dc"
+  },
+  {
+    "date": "2026-09-19",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "产能",
+    "businessTags": [
+      "零碳园区"
+    ],
+    "tags": [
+      "零碳园区"
+    ],
+    "company": "德国项目主体",
+    "title": "巴斯夫与西门子能源在德国路德维希港化工基地推进绿电制氢一体化",
+    "summary": "德国化工企业巴斯夫(BASF)与西门子能源(Siemens Energy)在巴斯夫位于路德维希港的全球最大化工生产基地(约3.3万名员工)推进绿色电解水制氢整合，通过可再生电力驱动的电解槽为化工生产提供氢气原料，电解槽运行会根据电网供需动态调节以匹配波动性可再生能源出力。化工行业对氢气需求巨大，绿氢在化工原料供应中的占比正持续提升。 解读：大型化工园区与可再生能源电解制氢深度耦合，是零碳园区及绿电直连模式在高耗能工业场景落地的典型案例，表明可再生能源消纳正从单纯电力供应向工业原料替代延伸。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/19/green-hydrogens-growing-share-in-chemical-production",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e1abced5dee8128be7cd7b69181cc45",
+    "collectedAt": "2026-09-20T18:25:30.956Z",
+    "notionPageId": "3e1abced5dee8128be7cd7b69181cc45",
+    "fingerprint": "notion|e3110dad70fdbce31584"
   },
   {
     "date": "2026-09-19",
@@ -42,7 +67,7 @@
     ],
     "company": "泰国政策机构",
     "title": "泰国10GW户用光伏进一步明确5kW/户、账单抵扣、融资与简化审批机制",
-    "summary": "9月19日，泰国能源部长Akanat进一步说明10GW户用光伏计划：单户系统拟限制约5kW，以扩大参与覆盖；余电价值可在同一账期抵扣电费。并举例5 kW 系统每月可发约 600—700 kWh，价值略高于 2,000 泰铢（人民币 400 元）；实际节省取决于当地辐照、用电曲线和自发自用比例。政府已将公共照明费用从电价结构中剔除，并对居民实行每户前 200 度用电每度 3 泰铢（人民币 0.6 元）的电价。 解读：商业机会进一步延伸至标准化5kW系统、安装渠道、智能电表、消费金融和售后；若审批真正压缩至1周/1个月，获客到并网周期可能显著缩短。补贴金额、贷款利率与担保、设备准入、本地化要求、正式实施日期及配电网可接入容量尚未形成完整正式细则。",
+    "summary": "9月19日，泰国能源部长Akanat进一步说明10GW户用光伏计划：单户系统拟限制约5kW，以扩大参与覆盖；余电价值可在同一账期抵扣电费。并举例5 kW 系统每月可发约 600—700 kWh，价值略高于 2,000 泰铢（人民币 400 元）；实际节省取决于当地辐照、用电曲线和自发自用比例。政府已将公共照明费用从电价结构中剔除，并对居民实行每户前 200 度用电每度 3 泰铢（人民币 0.6 元）的电价。 解读：采用Net billing模式，余电收购价前期披露为2.20泰铢/kWh（人民币0.44元/kWh），规模也从5GW提升至10GW。商业机会进一步延伸至标准化5kW系统、安装渠道、智能电表、消费金融和售后；若审批真正压缩至1周/1个月，获客到并网周期可能显著缩短。补贴金额、贷款利率与担保、设备准入、本地化要求、正式实施日期及配电网可接入容量尚未形成完整正式细则。",
     "sourceName": "nationthailand.com",
     "sourceUrl": "https://www.nationthailand.com/news/policy/40071236",
     "sourceType": "notion-approved",
@@ -54,9 +79,38 @@
   },
   {
     "date": "2026-09-18",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "技术",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "微电网"
+    ],
+    "tags": [
+      "分布式光伏",
+      "储能",
+      "智能微电网",
+      "工商业光伏"
+    ],
+    "company": "泰国项目主体",
+    "title": "泰国EGAT启动CBD建筑群屋顶光伏+混合电池储能综合能源管理研发项目",
+    "summary": "泰国国家电力局EGAT与替代能源发展与效率局(DEDE)、国家科技发展署（NSTDA）、Charoenchai Transformer及InnoPower签署MoU，开展“中央商务区混合电池储能系统示范项目建筑群能源管理研究与开发”项目，以全面提升能源使用效率。示范系统将整合以下技术：屋顶光伏发电、混合电池储能系统（Hybrid BESS）、 新电池与电动汽车退役电池的梯次利用、智能变压器和建筑群能源管理系统。 解读：该项目不仅是商业建筑群综合能源管理的试点，也强调循环经济：将退役电动车电池与新电池组合使用，以提高资源利用效率。这与泰国10GW户用光伏扩容形成互补：政策端扩大分布式PV规模，公用事业端开始验证PV+BESS+群控的系统价值，未来可能衍生C&I储能、EMS、VPP/聚合和电网服务机会。",
+    "sourceName": "egat.co.th",
+    "sourceUrl": "https://www.egat.co.th/home/20260918-pre110",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e0abced5dee810a9b38f7d5e6344dfb",
+    "collectedAt": "2026-09-20T18:25:30.956Z",
+    "notionPageId": "3e0abced5dee810a9b38f7d5e6344dfb",
+    "fingerprint": "notion|75b485696230371406ad"
+  },
+  {
+    "date": "2026-09-18",
     "country": "中国",
     "geo": "中国",
-    "category": "市场信息",
+    "category": "同行动态",
     "eventType": "融资",
     "businessTags": [
       "分布式"
@@ -76,6 +130,58 @@
     "collectedAt": "2026-09-20T07:21:02.173Z",
     "notionPageId": "3e0abced5dee811285d4f987b1e59700",
     "fingerprint": "notion|ab743f03eb60a42da94b"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "浙江",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "技术",
+    "businessTags": [
+      "AIDC"
+    ],
+    "tags": [
+      "AIDC",
+      "浙江"
+    ],
+    "company": "浙江相关企业",
+    "title": "均胜电子新增\"数据中心(AIDC)\"概念，布局液冷电源模块切入AI数据中心赛道",
+    "summary": "均胜电子（600699）披露公司正基于汽车级技术积累研发AC/DC电源转换单元、大功率DC/DC转换单元、浸没式液冷电源柜及冷液分配单元等产品，预计9月推出样品，将车规级高压、大电流、高可靠性工程能力延伸至数据中心电源与液冷领域。 解读：汽车零部件供应商跨界进入AIDC电源与液冷赛道，反映出AI数据中心对大功率直流供电和高效散热的需求正吸引传统制造业巨头跨界卡位，供给端竞争将加剧。这类企业的入局意味着数据中心侧的能源基础设施（尤其是直流化、液冷化）技术路线会加速迭代，未来算电协同项目在设计电源架构时需要更早对接此类新玩家而非仅限传统电力设备商。",
+    "sourceName": "stock.10jqka.com.cn",
+    "sourceUrl": "https://stock.10jqka.com.cn/20260918/c680056368.shtml",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3e0abced5dee811dbf7fe65441c68d34",
+    "collectedAt": "2026-09-20T18:25:30.956Z",
+    "notionPageId": "3e0abced5dee811dbf7fe65441c68d34",
+    "fingerprint": "notion|6049bf55b077856ab3ed"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "湖南",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "绿电直连",
+      "零碳园区"
+    ],
+    "tags": [
+      "绿电直连",
+      "零碳园区",
+      "湖南"
+    ],
+    "company": "湖南政策机构",
+    "title": "湖南发布多用户绿电直连实施细则，园区可由主责单位统一参与电力市场",
+    "summary": "湖南省发改委9月18日发布多用户绿电直连省级实施要求，在国家688号文基础上细化开发建设管理。项目按“以荷定源”确定新能源规模；项目年自发自用电量占总可用发电量的比例不低于60%，占总用电量的比例不低于30%、2030年前不低于35%。并网型项目原则上作为整体参与电力市场，由主责单位统一申报；园区、零碳园区等可组织多个法人用户参与。项目投运后原则上3年内不得退出；达产后连续3年不符合政策指标的，可能被强制退出。退出后，相关直连电源不得参与后续机制电量竞价。 解读：商业上比单用户直连更有意义：工业园区可聚合多个负荷，以主责单位统一投资专线、变电、储能和运营平台，形成“园区负荷+新能源+储能+交易”的综合开发模式。湖南项目用户边界、跨供电营业区具体适用条件、就近距离、可接受的上网比例、首批项目申报窗口和第三方评审口径均未明确；实际经济性仍需按输配电费、系统运行费和内部结算机制随项目测算。",
+    "sourceName": "fgw.hunan.gov.cn",
+    "sourceUrl": "https://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202609/t20260918_34067182.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3e1abced5dee80bb9f34cacf72d7034b",
+    "collectedAt": "2026-09-20T18:25:30.956Z",
+    "notionPageId": "3e1abced5dee80bb9f34cacf72d7034b",
+    "fingerprint": "notion|dc92e10117b715113e16"
   },
   {
     "date": "2026-09-17",
