@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-09-19",
+    "country": "海外",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "招标",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "储能",
+      "海外"
+    ],
+    "company": "宁德时代",
+    "title": "宁德时代与埃及BME合作建电池生产基地，一期1GWh规划扩至5GWh",
+    "summary": "宁德时代与埃及合作方BME达成协议，将共同建设电池生产基地，一期产能规划1GWh，后续计划扩产至5GWh。BME 负责工厂的开发与全额投资，产品将直接供应埃及本地汽车制造商。宁德时代提供电芯采购、技术授权、生产设备和技术培训。 解读：BME 由埃及商用车制造商 MCV 与汽车产业解决方案公司 Auto D 共同成立。 对 CATL 而言，该项目有助于切入埃及及更广泛区域市场（非洲、欧洲及中东）；对埃及而言，则可增强本土电池包制造能力，并连接商用车电动化和可再生能源储能两类需求。",
+    "sourceName": "catl.com",
+    "sourceUrl": "https://www.catl.com/en/news/6998.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3e0abced5dee8151a00ced626ca87f74",
+    "collectedAt": "2026-09-20T07:21:02.173Z",
+    "notionPageId": "3e0abced5dee8151a00ced626ca87f74",
+    "fingerprint": "notion|c97005bedd404fd64481"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": [
+      "分布式",
+      "全国"
+    ],
+    "company": "晶科",
+    "title": "晶科电力57座分布式光伏电站资产证券化，规模约298MW",
+    "summary": "晶科电力技术拟对旗下34家项目公司、合计57座工商业分布式光伏电站（总容量约298MW）开展不动产类资产支持专项计划融资，存续期至2050年，晶科拟认购初始份额的10%-20%。 解读：这是分布式光伏资产证券化（ABS/REITs类工具）在工商业场景的又一典型案例，反映出分布式电站运营商正加速通过金融工具将长期稳定现金流”变现“以回笼资金支持新增装机，而非依赖传统银行贷款。",
+    "sourceName": "paper.cnstock.com",
+    "sourceUrl": "https://paper.cnstock.com/html/2026-08/27/content_2260525.htm",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3e0abced5dee811285d4f987b1e59700",
+    "collectedAt": "2026-09-20T07:21:02.173Z",
+    "notionPageId": "3e0abced5dee811285d4f987b1e59700",
+    "fingerprint": "notion|ab743f03eb60a42da94b"
+  },
+  {
     "date": "2026-09-17",
     "country": "福建",
     "geo": "中国",
@@ -49,6 +99,31 @@
     "collectedAt": "2026-09-18T13:18:32.520Z",
     "notionPageId": "3deabced5dee81fd9d89e88d54f4be71",
     "fingerprint": "notion|a9c51f41f297f9728569"
+  },
+  {
+    "date": "2026-09-17",
+    "country": "江苏",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式",
+      "江苏"
+    ],
+    "company": "江苏相关企业",
+    "title": "协鑫能科拟发行风电基础设施REITs，两项目合计125MW",
+    "summary": "协鑫能科公告拟以江苏两座投运风电场（125MW）为底层资产发行公募基础设施REITs，两项目总投资约11.54亿元，拟募集资金规模12-13亿元，用于支持滚动开发新项目。项目分别为江苏泗洪协鑫 75MW 风电项目和兴化昌荣 50MW 风电项目，分别于 2020 年 12 月和 2020 年 11 月实现全容量并网，主要收入来源是售电收入。该事项已获董事会审批，尚需股东大会审议并取得国家发改委、证监会、深交所等相关审批。 解读：延续了2026年以来新能源企业普遍采用的\"建设-证券化-再开发\"滚动模式。反映出补贴退坡和电价市场化背景下，风电资产证券化正成为主流的存量退出与再融资渠道之一。",
+    "sourceName": "vip.stock.finance.sina.com.cn",
+    "sourceUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002015&id=12608263",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3dfabced5dee8102af5bf3fc23bf0984",
+    "collectedAt": "2026-09-20T07:21:02.173Z",
+    "notionPageId": "3dfabced5dee8102af5bf3fc23bf0984",
+    "fingerprint": "notion|fd67d2ec5e4fba87843e"
   },
   {
     "date": "2026-09-16",
