@@ -1,5 +1,71 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-18",
+    "country": "安徽",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "行业会议",
+    "businessTags": [
+      "储能",
+      "绿电"
+    ],
+    "tags": "储能 绿电 光储协调 2026世界制造业大会 滁州",
+    "company": "中国光伏行业协会 / 安徽省工业和信息化厅 / 滁州市人民政府",
+    "title": "2026光储协调应用创新发展大会在安徽滁州举行",
+    "summary": "作为2026世界制造业大会活动之一，2026光储协调应用创新发展大会9月18日在滁州举办，由中国光伏行业协会、安徽省工业和信息化厅、滁州市人民政府主办。会议围绕光储一体化新机遇、光储算融合技术、太空光伏产业发展等作多场主旨报告，并举行安徽省先进光伏和新型储能创新成果发布、高安全锂电池隔膜材料联合攻关协议签约等活动。数据显示安徽省光储产业营收规模「十四五」期间从约800亿元增长至3800多亿元。",
+    "sourceName": "腾讯新闻",
+    "sourceUrl": "https://news.qq.com/rain/a/20260919A03YOQ00",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "安徽|中国光伏行业协会-滁州市政府|光储协调应用创新发展大会|2026世界制造业大会|行业会议",
+    "id": "daily|2026-09-18|中国|光储协调应用创新发展大会",
+    "collectedAt": "2026-09-20T00:52:53Z"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": "集中式 融资 项目融资 Giotto组合 光储一体",
+    "company": "Encavis / Watson Farley & Williams",
+    "title": "Encavis完成2.82亿欧元意大利351MW光伏组合项目融资",
+    "summary": "德国独立发电商Encavis宣布完成对意大利351MW光伏组合的2.82亿欧元无追索权长期项目融资，由美国银行、拜仁州立银行、德意志银行卢森堡等多家银行组成的银团提供。组合包括「Giotto」系列5座、共265MW已运营电站，以及另外4个合计约86MW在运或在建项目，主要分布在拉齐奥、普利亚、皮埃蒙特和艾米利亚-罗马涅大区。融资结构还预留了未来加装电池储能的灵活性。",
+    "sourceName": "Energy Global",
+    "sourceUrl": "https://www.energyglobal.com/solar/18092026/wfw-advises-encavis-on-282-million-351-mw-italian-solar-portfolio-project-financing/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|Encavis|351MW光伏组合|2.82亿欧元|融资",
+    "id": "daily|2026-09-18|意大利|Encavis意大利光伏组合融资",
+    "collectedAt": "2026-09-20T00:52:53Z"
+  },
+  {
+    "date": "2026-09-17",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "投资入股",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 电池储能 维多利亚州 长时储能",
+    "company": "维多利亚州电力委员会(SEC) / Aware Super / Birdwood Energy",
+    "title": "维多利亚州SEC入股澳洲400MW/1.86GWh Baranduda电池储能项目",
+    "summary": "澳大利亚维多利亚州政府电力公司SEC宣布，将出资最高4300万澳元入股由退休金机构Aware Super与开发商Birdwood Energy联合开发的Baranduda电池储能项目，并签署15年购电协议。项目位于沃东加(Wodonga)附近，规模达400MW/1.86GWh，由四个各100MW/465MWh的独立单元组成，预计2026年11月开工、2028年底投运，可在用电高峰为超过20万户维州家庭供电。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/victorias-sec-takes-stake-in-1-86gwh-battery-storage-system-in-australia-alongside-aware-super-and-birdwood/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|SEC-Aware Super-Birdwood|Baranduda电池储能|400MW-1.86GWh-4300万澳元|投资入股",
+    "id": "daily|2026-09-17|澳大利亚|Baranduda电池储能项目",
+    "collectedAt": "2026-09-20T00:52:53Z"
+  },
+  {
     "date": "2026-09-17",
     "country": "福建",
     "geo": "中国",
@@ -42,6 +108,51 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-18T13:18:32.520Z",
     "notionPageId": "3deabced5dee81fd9d89e88d54f4be71",
     "fingerprint": "notion|a9c51f41f297f9728569"
+  },
+  {
+    "date": "2026-09-16",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "政策资助",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "融资"
+    ],
+    "tags": "分布式 储能 融资 社区电池 ARENA",
+    "company": "澳大利亚可再生能源署(ARENA)",
+    "title": "澳大利亚ARENA第100座社区电池投运，追加2320万澳元资助35座新项目",
+    "summary": "澳大利亚可再生能源署(ARENA)宣布，其社区电池资助计划安装的第100座社区级电池已在西澳埃斯佩兰斯（由Horizon Power建设）投运，标志着该计划的重要里程碑。同时ARENA在第二轮社区电池资助计划下追加2320万澳元资金，支持包括纽卡斯尔市在内的多个新项目，预计将新增约35座社区电池，覆盖昆士兰等多个地区。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/arena-marks-100th-community-battery-installed-funds-three-new-projects-across-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|ARENA|第100座社区电池-新一轮资助|2320万澳元-35座|政策资助",
+    "id": "daily|2026-09-16|澳大利亚|ARENA社区电池新一轮资助",
+    "collectedAt": "2026-09-20T00:52:53Z"
+  },
+  {
+    "date": "2026-09-16",
+    "country": "罗马尼亚",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "储能",
+      "集中式"
+    ],
+    "tags": "储能 集中式 液冷储能 光储一体",
+    "company": "隆基绿能(LONGi) / Enexus",
+    "title": "隆基与罗马尼亚Enexus签约50MWh液冷储能设备供应协议",
+    "summary": "隆基绿能宣布与罗马尼亚领先开发商及EPC企业Enexus签署50MWh液冷电池储能系统供应协议，设备将部署于登博维察县蒂图（Titu）的两个光储一体化项目，用于容量调节、能量转移和电网辅助服务。这是Enexus首次采用隆基储能技术，也是隆基在罗马尼亚最大的储能订单之一，双方合作已从组件供应拓展至公用事业级储能领域，此前隆基已在该公司项目中部署超200MW光伏组件。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/industry-updates/enexus-selects-longis-bess-solutions-for-key-utility-projects-in-romania/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "罗马尼亚|隆基-Enexus|50MWh液冷储能|Titu项目|签约",
+    "id": "daily|2026-09-16|罗马尼亚|隆基Enexus储能签约",
+    "collectedAt": "2026-09-20T00:52:53Z"
   },
   {
     "date": "2026-09-16",
