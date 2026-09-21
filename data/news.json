@@ -4010,5 +4010,84 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-17",
+    "country": "北京",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "AIDC",
+      "融资"
+    ],
+    "tags": [
+      "定增",
+      "算力",
+      "北京",
+      "通州"
+    ],
+    "company": "金刚光伏",
+    "title": "金刚光伏调整定增方案，16.87亿元投向通州AI智算中心一期",
+    "summary": "9月17日，金刚光伏公告调整2026年度向特定对象发行A股股票方案，删除\"上海办公研发中心项目\"，募资总额调整为不超过23.87亿元，其中16.87亿元拟投入北京通州区人工智能智算中心项目一期（总投资约17.14亿元，由公司全资子公司北京超维智算信息技术有限公司实施），另7亿元用于补充流动资金及偿还债务。 解读：这是又一家传统光伏制造企业通过定增将募资方向转向AI智算中心建设的案例，\"光伏+AI算力\"正成为部分光伏上市公司缓解主业价格战压力、寻找第二增长曲线的路径；对算电协同/AIDC产业链而言，此类跨界资本涌入可能加剧智算中心供配电及算力基础设施领域的竞争。",
+    "sourceName": "每经网(nbd.com.cn)",
+    "sourceUrl": "https://www.nbd.com.cn/articles/2026-09-17/4584677.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|金刚光伏|通州智算中心|16.87亿元|融资",
+    "id": "daily|2026-09-17|中国|金刚光伏通州智算融资",
+    "collectedAt": "2026-09-21T00:52:25.000Z"
+  },
+  {
+    "date": "2026-09-17",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "储能",
+      "框架协议",
+      "德国",
+      "PowerTitan"
+    ],
+    "company": "阳光电源(Sungrow)",
+    "title": "阳光电源与德国be.storaged签署1.6GWh储能项目框架协议",
+    "summary": "阳光电源与德国工程公司be.storaged签署框架协议，双方计划在未来两年内合作开发交付德国境内合计1.6GWh的电池储能项目管线，并将统一技术方案和工作流程，在项目开发更早阶段介入协同。be.storaged负责项目开发、规划、采购、工程施工、调试及运营支持，阳光电源提供储能系统、电力电子设备及相关服务，未来项目将更多采用阳光电源PowerTitan 3.0（20尺柜内集成7.14MWh电池容量及1.78MW变流升压一体机，标称4小时时长）。双方此前已合作交付Soltau 17MW/38MWh及Reußenköge风电配套20MW/40MWh储能项目，另在不来梅港为德国电力公司SWB建设85MW/170MWh项目，预计2028年初投运。 解读：中国头部储能系统集成商正从单纯设备供应向与欧洲本地工程商深度绑定的\"管线级\"合作模式演进，有助于在手订单可见度和欧洲本地化交付能力上建立壁垒。",
+    "sourceName": "Best Magazine (bestmag.co.uk)",
+    "sourceUrl": "https://www.bestmag.co.uk/sungrow-be-storaged-german-bess-pipeline/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|阳光电源|be.storaged|1.6GWh|合作",
+    "id": "daily|2026-09-17|德国|阳光电源储能框架协议",
+    "collectedAt": "2026-09-21T00:52:25.000Z"
+  },
+  {
+    "date": "2026-09-17",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "储能",
+      "BESS",
+      "澳大利亚",
+      "包销协议"
+    ],
+    "company": "维多利亚州国有电力公司(SEC)/Birdwood Energy",
+    "title": "澳大利亚维州SEC与Baranduda电池储能项目签署15年包销协议",
+    "summary": "澳大利亚维多利亚州国有电力公司SEC宣布对Birdwood Energy旗下400MW/1.86GWh（4.65小时时长）Baranduda电池储能项目投资最高4300万澳元获得少数股权，并签署为期15年的包销协议，锁定项目50%电量用于支持维州政府及商业售电合同，剩余50%电量在批发市场销售。项目位于沃东加(Wodonga)终端变电站附近的维新（维多利亚-新南威尔士）高压联络线上，预计2026年11月开工建设，可创造约150个建设岗位，2028年底投运后可满足超20万户维州家庭晚高峰用电需求。 解读：这是澳大利亚州属电力公司通过少数股权投资+长期包销协议双重工具锁定大型独立储能项目产能的典型案例，为国内储能设备商和开发商参与澳洲电网侧储能提供了合作范式参考。",
+    "sourceName": "pv-magazine-australia.com",
+    "sourceUrl": "https://www.pv-magazine-australia.com/2026/09/17/victoria-secures-15-year-offtake-agreement-with-400-mw-baranduda-battery/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Baranduda|SEC|400MW1.86GWh|PPA",
+    "id": "daily|2026-09-17|澳大利亚|Baranduda电池包销协议",
+    "collectedAt": "2026-09-21T00:52:25.000Z"
   }
 ]
