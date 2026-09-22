@@ -4010,5 +4010,184 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "标准发布",
+    "businessTags": [
+      "集中式",
+      "分布式"
+    ],
+    "tags": [
+      "钙钛矿",
+      "国家标准"
+    ],
+    "company": "国家市场监督管理总局（国家标准委）",
+    "title": "国家标准委发布首个钙钛矿光伏领域国家标准",
+    "summary": "国家市场监督管理总局（国家标准委）于9月18日发布《光伏器件 第12部分：钙钛矿光伏电池及组件的电流-电压（I-V）特性测量方法》（GB/T 6495.12—2026），为国内首个钙钛矿光伏领域国家标准，将于2027年3月1日起实施。标准填补了钙钛矿电池及组件I-V特性测试方法的空白，为产业化提供统一测试标尺，多家企业同步披露产业化进展。",
+    "sourceName": "中国新闻网",
+    "sourceUrl": "https://www.chinanews.com.cn/cj/2026/09-18/10698728.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家标准委|钙钛矿光伏I-V测试国家标准|GB/T6495.12-2026|标准发布",
+    "id": "daily|2026-09-18|中国|钙钛矿光伏国标发布",
+    "collectedAt": "2026-09-22T00:54:45Z"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "分布式",
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "并购基金",
+      "零碳园区",
+      "关联交易"
+    ],
+    "company": "海泰新能（唐山盛泰）",
+    "title": "海泰新能子公司拟出资2599万元参设新能源并购合伙企业",
+    "summary": "海泰新能全资子公司唐山盛泰拟与熙诚能源、熙诚共赢共同设立北京熙诚海泰新能源发展合伙企业（有限合伙），总认缴出资1.25亿元，唐山盛泰作为劣后级有限合伙人认缴2599万元、占比20.792%，合伙期限8年。合伙企业主要投向工商业分布式光伏、集中式光伏、风电、储能及零碳园区等新能源项目，唐山盛泰后续出资将通过转让存量并网电站净回收资金分批完成，本次交易构成关联交易。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://news.10jqka.com.cn/20260918/c680070385.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|海泰新能-唐山盛泰|北京熙诚海泰新能源发展合伙企业|2599万元-1.25亿元|融资",
+    "id": "daily|2026-09-18|中国|海泰新能设新能源并购基金",
+    "collectedAt": "2026-09-22T00:54:45Z"
+  },
+  {
+    "date": "2026-09-20",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "战略升级",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "资产运营",
+      "金融保险工具"
+    ],
+    "company": "宁德时代",
+    "title": "宁德时代拟推出储能资产运营与金融保险结合方案",
+    "summary": "9月20日，宁德时代在福建宁德举办\"宁德品质\"全球开放月媒体交流活动，公司国内储能解决方案CTO林久标透露，将推出与金融、电站运营结合的储能整体解决方案。林久标提出\"动力电池是产品、储能是资产\"，公司未来将探索储能资产运营与金融保险工具结合，以摆脱单纯设备价格竞争。其还透露，公司储能产能今年基本满产、四季度排产依然饱满，国内独立储能出现投资热潮，海外则因出口退税退坡出现提前提货。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://stock.10jqka.com.cn/20260920/c680098365.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|宁德时代|储能资产运营+金融保险结合方案|林久标发言|战略升级",
+    "id": "daily|2026-09-20|中国|宁德时代储能战略升级",
+    "collectedAt": "2026-09-22T00:54:45Z"
+  },
+  {
+    "date": "2026-09-17",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "PPA",
+      "钢铁行业绿电"
+    ],
+    "company": "Zelestra / Salzgitter Flachstahl",
+    "title": "Zelestra与德国钢企萨尔茨吉特签署最大混合光储PPA",
+    "summary": "西班牙独立发电商Zelestra与德国钢铁制造商Salzgitter Flachstahl签署长期购电协议，将在勃兰登堡州和图林根州建设两座合计147MW的光伏电站，并配套79MW/237MWh电池储能系统，为萨尔茨吉特炼钢基地供应绿电。该协议被多家媒体称为德国迄今规模最大的混合型企业光储PPA，旨在支持钢铁生产环保转型。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/zelestra-signs-147mw-solar-plus-storage-ppa-german-steelmaker-salzgitter-flachstahl/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|Zelestra-Salzgitter Flachstahl|147MW光伏+79MW-237MWh储能混合PPA|德国最大混合企业PPA|PPA",
+    "id": "daily|2026-09-17|德国|萨尔茨吉特光储PPA",
+    "collectedAt": "2026-09-22T00:54:45Z"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "合作协议",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "框架协议",
+      "PowerTitan"
+    ],
+    "company": "阳光电源（Sungrow）/ be.storaged",
+    "title": "阳光电源与be.storaged签署德国1.6GWh储能管道框架协议",
+    "summary": "阳光电源与德国储能开发商be.storaged签署框架协议，双方将在两年内共同开发交付合计约1.6GWh的储能项目管道。协议约定be.storaged负责项目开发、规划、采购、工程建设及运维支持，阳光电源提供PowerTitan 3.0等储能系统、功率变换设备及相关服务，双方将统一技术设计和工作流程、并在项目更早阶段介入协作。该1.6GWh为项目管道规模，尚未明确具体已获选址、许可、并网或融资的项目。",
+    "sourceName": "SolarQuarter",
+    "sourceUrl": "https://solarquarter.com/2026/09/18/sungrow-and-be-storaged-sign-framework-agreement-for-1-6-gwh-bess-pipeline-in-germany/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|阳光电源-be.storaged|1.6GWh储能管道框架协议|PowerTitan3.0|合作协议",
+    "id": "daily|2026-09-18|德国|阳光电源储能框架协议",
+    "collectedAt": "2026-09-22T00:54:45Z"
+  },
+  {
+    "date": "2026-09-14",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "灵活性协议",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "虚拟电厂",
+      "灵活性购买协议"
+    ],
+    "company": "ENGIE / Return",
+    "title": "ENGIE与Return将德国储能虚拟灵活性协议扩容至400MW",
+    "summary": "法国能源集团ENGIE与储能开发商Return宣布将双方在德国的虚拟灵活性购买协议（vFPA）从最初的100MW（2月签订、2027年启用）扩容至400MW，新增300MW电池储能灵活容量。该协议被称为欧洲规模最大的固定价格虚拟灵活性协议之一，将为德国电力系统提供额外的调节能力。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.ess-news.com/2026/09/14/engie-and-return-extend-flexibility-agreement-for-storage-in-germany-to-400-mw/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|ENGIE-Return|储能虚拟灵活性协议扩容至400MW|vFPA|灵活性协议",
+    "id": "daily|2026-09-14|德国|ENGIE-Return储能协议扩容",
+    "collectedAt": "2026-09-22T00:54:45Z"
+  },
+  {
+    "date": "2026-09-16",
+    "country": "新加坡",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "产品发布",
+    "businessTags": [
+      "分布式",
+      "交易"
+    ],
+    "tags": [
+      "PPA",
+      "重型电动车充电",
+      "EHVCG补贴"
+    ],
+    "company": "LHN Energy",
+    "title": "LHN Energy推出光伏PPA与直流快充一体化能源方案",
+    "summary": "新加坡LHN Energy宣布推出整合太阳能购电协议（PPA）与直流快充（DC fast charging）的一体化能源基础设施方案，面向正在转型电动重型车辆（eHV）的企业，将光伏PPA融资、充电桩供应安装、电力工程及调试整合为单一交付方案。该方案结合新加坡电动重型车充电桩补助计划（EHVCG，2026年1月至2028年12月），最高可补贴合格充电桩安装成本的50%、每桩上限3万新元，覆盖首批500个获批充电桩。",
+    "sourceName": "Media OutReach（Manila Times转载）",
+    "sourceUrl": "https://www.manilatimes.net/2026/09/16/tmt-newswire/media-outreach-newswire/lhn-energy-to-roll-out-integrated-energy-infrastructure-solution-combining-solar-ppa-and-dc-fast-charging/2426261",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "新加坡|LHN Energy|光伏PPA+直流快充一体化方案|EHVCG补贴|产品发布",
+    "id": "daily|2026-09-16|新加坡|LHN光伏PPA快充方案",
+    "collectedAt": "2026-09-22T00:54:45Z"
   }
 ]
