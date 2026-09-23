@@ -1,5 +1,50 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-22",
+    "country": "越南",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "绿电"
+    ],
+    "tags": "分布式 绿电 户用光伏 屋顶光伏",
+    "company": "越南工贸部（MOIT）",
+    "title": "越南工贸部督促各省加快出台户用屋顶光伏支持政策",
+    "summary": "越南工贸部通报，总理2026年3月发布相关指令近六个月后，全国34个省市中仅有北宁省和莱州省出台了户用自发自用屋顶光伏支持政策，河内、芹苴等多地尚未提交实施方案；17个应制定配套方案的部委中也仅工贸部和民族宗教事务部完成。工贸部要求各地方尽快跟进，北宁省对每千瓦时装机给予最高300万越南盾补贴，并叠加储能补贴；越南多家当地媒体（VnExpress、Vietnamnet等）同步报道称，尽管余电上网政策已放宽，但截至8月仍未记录到一笔余电销售。",
+    "sourceName": "pv magazine Global",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/22/vietnam-pushes-provinces-to-accelerate-rooftop-solar-rollout/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "越南|工贸部|户用屋顶光伏支持政策|2省达标34省|政策",
+    "id": "daily|2026-09-22|越南|户用光伏政策督促",
+    "collectedAt": "2026-09-23T00:52:22Z"
+  },
+  {
+    "date": "2026-09-20",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "市场数据",
+    "businessTags": [
+      "算电协同",
+      "AIDC",
+      "绿电"
+    ],
+    "tags": "算电协同 AIDC 绿电 用电量 负荷",
+    "company": "国家能源局",
+    "title": "国家能源局：8月全社会用电量再破万亿，负荷创历史新高",
+    "summary": "国家能源局9月20日公布数据，2026年8月全社会用电量达10,332亿千瓦时，同比增长1.7%，再次突破万亿千瓦时；全国最高用电负荷达15.6亿千瓦，创历史新高，较上年最高负荷高出4.969亿千瓦，其中7天超过上年最高负荷。第三产业用电中，充换电服务业用电量同比增长51.2%，互联网数据服务用电量同比增长37.9%，数据中心与算力负荷增速持续显著快于全社会用电增长。",
+    "sourceName": "中国新闻网",
+    "sourceUrl": "https://www.chinanews.com.cn/cj/2026/09-20/10699861.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|8月全社会用电量|10332亿千瓦时|市场数据",
+    "id": "daily|2026-09-20|中国|8月全社会用电量数据",
+    "collectedAt": "2026-09-23T00:52:22Z"
+  },
+  {
     "date": "2026-09-19",
     "country": "埃及",
     "geo": "中国",
@@ -66,6 +111,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-20T13:24:30.097Z",
     "notionPageId": "3e1abced5dee813481e5d2717d453a88",
     "fingerprint": "notion|2261428c32e332d1dc66"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "出售",
+    "businessTags": [
+      "分布式",
+      "交易"
+    ],
+    "tags": "分布式 交易 股权转让 光伏电站",
+    "company": "锦浪科技",
+    "title": "锦浪科技转让河北巨鹿两家光伏项目公司100%股权",
+    "summary": "锦浪科技（300763.SZ）公告，全资子公司宁波锦浪智慧能源、浙江海速信息科技拟将其合计持有的巨鹿承阳新能源、巨鹿益瑞新能源两家项目公司100%股权，转让给石家庄正刚新能源科技有限公司，交易对价合计722.69万元，涉及光伏电站合计装机容量约2.59MW。公司表示此举旨在推进电站项目滚动开发，优化资产结构、加快资产周转效率，交易完成后两家公司将不再纳入合并报表范围。",
+    "sourceName": "腾讯新闻",
+    "sourceUrl": "https://news.qq.com/rain/a/20260918A0A99500",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|锦浪科技|巨鹿光伏项目公司股权转让|722.69万元|出售",
+    "id": "daily|2026-09-18|中国|锦浪科技光伏股权转让",
+    "collectedAt": "2026-09-23T00:52:22Z"
   },
   {
     "date": "2026-09-18",
@@ -160,6 +227,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-09-17",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "中标",
+    "businessTags": [
+      "储能",
+      "集中式"
+    ],
+    "tags": "储能 集中式 独立储能 构网型 EPC",
+    "company": "陕建股份 / 陕西建工第一建设集团",
+    "title": "陕建股份子公司中标新疆巴州200MW/800MWh构网型独立储能EPC",
+    "summary": "陕建股份（600248.SH）公告，下属子公司陕西建工第一建设集团有限公司中标巴州嘉旭时代200MW/800MWh构网型独立储能电站项目EPC总承包，中标金额约10.5亿元，项目位于新疆巴音郭楞蒙古自治州库尔勒市。项目采用4小时时长的构网型技术路线，具备主动支撑电网电压和频率能力，是当前长时储能与构网型技术升级的代表性中标案例。",
+    "sourceName": "腾讯新闻",
+    "sourceUrl": "https://news.qq.com/rain/a/20260917A0CIAG00",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|陕建股份|巴州嘉旭时代独立储能EPC|10.5亿元|中标",
+    "id": "daily|2026-09-17|中国|陕建储能EPC中标",
+    "collectedAt": "2026-09-23T00:52:22Z"
+  },
+  {
+    "date": "2026-09-17",
     "country": "福建",
     "geo": "中国",
     "category": "市场信息",
@@ -223,6 +312,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-20T07:21:02.173Z",
     "notionPageId": "3dfabced5dee8102af5bf3fc23bf0984",
     "fingerprint": "notion|fd67d2ec5e4fba87843e"
+  },
+  {
+    "date": "2026-09-16",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 BESS 项目融资",
+    "company": "Jupiter Power",
+    "title": "Jupiter Power获14亿美元融资支持1.5GW储能项目组合",
+    "summary": "美国储能开发商Jupiter Power宣布完成四笔独立交易合计14亿美元的项目融资，用于支持得克萨斯州和密歇根州十个公用事业规模电池储能项目，总容量达1,500MW/3,600MWh。融资结构涵盖高级担保项目债、税收股权过渡贷款及投资级美国私募票据，公司自成立以来累计融资总额已超过30亿美元。",
+    "sourceName": "pv magazine USA",
+    "sourceUrl": "https://pv-magazine-usa.com/2026/09/16/jupiter-power-secures-1-4-billion-in-financing-for-1-5-gw-energy-storage-portfolio/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Jupiter Power|1.5GW储能组合融资|14亿美元|融资",
+    "id": "daily|2026-09-16|美国|Jupiter Power储能融资",
+    "collectedAt": "2026-09-23T00:52:22Z"
   },
   {
     "date": "2026-09-16",
@@ -292,6 +403,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-18T13:18:32.520Z",
     "notionPageId": "8c90e357b3e54b5d93b040256c545686",
     "fingerprint": "notion|f335541b8aba23ec5d87"
+  },
+  {
+    "date": "2026-09-15",
+    "country": "日本",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 BESS 容量市场",
+    "company": "Nozomi Energy（Actis旗下）",
+    "title": "Actis旗下Nozomi Energy完成日本大分县储能项目融资并开工",
+    "summary": "Actis于2023年成立的开发平台Nozomi Energy宣布，其位于日本大分县臼杵市的Nozu电池储能项目（50MW/196MWh）完成融资并启动建设，由日本商业银行Aozora Bank提供无追索权项目融资，具体金额未披露。该项目已中标日本2023财年长期脱碳拍卖（LTDA），获得20年期与CPI挂钩的容量补偿合同，预计2028年第三季度建成，是Nozomi Energy在日本1.1GW布局目标中的又一落地项目。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/actis-subsidiary-nozomi-energy-closes-financing-on-japanese-capacity-market-winning-bess/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "日本|Nozomi Energy-Actis|Nozu储能项目融资|50MW196MWh|融资",
+    "id": "daily|2026-09-15|日本|Nozomi储能项目融资",
+    "collectedAt": "2026-09-23T00:52:22Z"
   },
   {
     "date": "2026-09-15",
@@ -651,6 +784,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-13T18:28:10.828Z",
     "notionPageId": "3daabced5dee81bda5d1d9fa3dbf118f",
     "fingerprint": "notion|9459bc6305e4e57c4046"
+  },
+  {
+    "date": "2026-09-10",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": "集中式 交易 PPA 公用事业采购",
+    "company": "Georgia Power",
+    "title": "佐治亚州公用事业委员会批准Georgia Power新增1,137MW光伏PPA",
+    "summary": "佐治亚州公用事业委员会（PSC）批准Georgia Power通过CARES 2023与CARES 2025招标项目新增签署的7份光伏购电协议，合计容量1,137MW，覆盖Appling、Decatur、Emanuel、Irwin、Jefferson、Sumter和Warren等七个县，各项目容量在78MW至200MW之间，预计最早于2029年投入商业运营。此次CARES 2023批次为Georgia Power历史上规模最大的单次光伏采购，延续了2025年9月批准的1,068MW项目。",
+    "sourceName": "PR Newswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/georgia-power-receives-approval-for-1-137-mw-of-new-solar-power-purchase-agreements-through-cares-program-302874678.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Georgia Power|1137MW光伏PPA批准|CARES项目|PPA",
+    "id": "daily|2026-09-10|美国|GeorgiaPower光伏PPA批准",
+    "collectedAt": "2026-09-23T00:52:22Z"
   },
   {
     "date": "2026-09-10",
