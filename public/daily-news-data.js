@@ -1,5 +1,27 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-22",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "产品",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式光伏",
+    "company": "美国项目主体",
+    "title": "美国太阳能累计装机逼近300吉瓦，足以为5000万户家庭供电",
+    "summary": "据美国太阳能产业协会（SEIA）与Wood Mackenzie联合发布的《美国太阳能市场洞察报告》，美国累计太阳能装机容量已达299.4吉瓦(直流侧)，覆盖620万套系统，可为5000万户家庭供电。2026年第二季度新增装机11.4吉瓦(直流侧)，同比增长45%，环比第一季度增长43%，其中公用事业规模新增9.6吉瓦、同比增长61%。光伏与储能合计占2026年上半年美国新增电网装机的70%，目前光伏发电占全美总发电量近9%。装机分布上，共和党主政州份占累计装机57%、占新增装机71%。加利福尼亚州(56,457兆瓦)、德克萨斯州(55,125兆瓦)、佛罗里达州(22,550兆瓦)位居前三。制造端，美国光伏能工厂建设投资已达180亿美元（人民币1,206亿元），组件生产产能75.3吉瓦、在建产能14.4吉瓦；电池生产产能10.6吉瓦，在建产能19.9吉瓦。 解读：公用事业规模61%的同比增速显著高于总体45%的增速，表明大型电站开发商仍是美国光伏增长的核心驱动力。在联邦IRA政策前景仍存不确定性的背景下，德州等传统能源州反而成为光伏增长最快的地区，说明电价经济性已超越党派政策立场成为项目落地的主导因素。 • 《降低通胀法案》(Inflation Reduction Act of 2022, IRA)是美国联邦层面一揽子财政与税收政策，其中对新能源行业最重要的部分是：通过长期、可叠加的税收抵免和补贴机制，推动太阳能、储能、风电、电动车、氢能、制造业及建筑节能投资。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/22/u-s-solar-capacity-nears-300-gw-enough-to-power-50-million-homes",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e4abced5dee819a9c25d66ca7a2fb16",
+    "collectedAt": "2026-09-23T19:23:34.364Z",
+    "notionPageId": "3e4abced5dee819a9c25d66ca7a2fb16",
+    "fingerprint": "notion|9da6046dcd6b1714bf59"
+  },
+  {
     "date": "2026-09-21",
     "country": "上海",
     "geo": "中国",
@@ -64,6 +86,72 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-23T14:00:58.477Z",
     "notionPageId": "3e1abced5dee813799c8f5534353c92d",
     "fingerprint": "notion|02a2e13389dc29ae10d7"
+  },
+  {
+    "date": "2026-09-20",
+    "country": "江苏",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 江苏",
+    "company": "江苏相关企业",
+    "title": "三峡江苏泰州海陵100MW渔光互补项目全容量并网发电",
+    "summary": "三峡集团江苏分公司开发的泰州海陵100兆瓦渔光互补项目于9月18日实现全容量并网发电，采用“渔业养殖+光伏发电”的水面立体开发模式，年均可提供清洁电力约1.49亿千瓦时，年节约标煤4.5万吨，减排二氧化碳12.26万吨。 解读：渔光互补项目通过“上可发电、下可养殖”的复合利用模式提高了水面综合利用效率，是江苏等土地资源紧张省份发展集中式光伏的重要路径。此类项目审批和用地协调难度通常低于纯地面电站，需额外承担渔业运营或分成成本，并提前评估渔业合作方的长期利益分配机制。",
+    "sourceName": "cpnn.com.cn",
+    "sourceUrl": "https://cpnn.com.cn/news/xny/202609/t20260920_1916449.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3e1abced5dee8149a32ee524d2de2f6b",
+    "collectedAt": "2026-09-23T19:23:34.364Z",
+    "notionPageId": "3e1abced5dee8149a32ee524d2de2f6b",
+    "fingerprint": "notion|273395b2bcb5d90cc818"
+  },
+  {
+    "date": "2026-09-20",
+    "country": "阿塞拜疆",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 阿塞拜疆",
+    "company": "阿塞拜疆相关企业",
+    "title": "寰泰能源阿塞拜疆戈布斯坦100MW光伏电站正式并网",
+    "summary": "寰泰能源股份有限公司投资建设的阿塞拜疆巴库加拉达赫区戈布斯坦100兆瓦光伏电站正式并网发电，项目安装约20万块光伏组件并配套一座110千伏升压站，预计年发电量2亿千瓦时，每年可节约天然气4500万立方米、减排二氧化碳9.7万吨。该项目是中阿两国2025年建立全面战略伙伴关系后能源合作的代表性项目。 解读：这是中国民营新能源企业在“一带一路”沿线国家落地的又一大型光伏项目，反映出中国光伏EPC与投资能力持续向中亚、高加索等新兴市场延伸，为国内产能过剩背景下寻找海外增量市场提供参考样本。但需注意当地电网消纳能力、汇率及政策风险。",
+    "sourceName": "cpnn.com.cn",
+    "sourceUrl": "https://cpnn.com.cn/news/xny/202609/t20260920_1916408.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3e1abced5dee81b2bf29cc009365b589",
+    "collectedAt": "2026-09-23T19:23:34.364Z",
+    "notionPageId": "3e1abced5dee81b2bf29cc009365b589",
+    "fingerprint": "notion|e9d8cf85c9c070001d21"
+  },
+  {
+    "date": "2026-09-20",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "中标",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能",
+    "company": "天合",
+    "title": "天合储能中标澳大利亚Waroona项目一期81.5MW/562MWh储能订单",
+    "summary": "天合储能(Trina Storage)获得澳大利亚西澳州Waroona可再生能源项目一期供货合同，规模81.5MW/562MWh，储能时长约6.9小时，采用Elementa直流耦合储能方案，含20年质保与运维服务，项目预计2028年商运。 解读：该订单延续6.9小时的长时储能配置，反映澳大利亚电网对高比例风光消纳、削峰填谷及备用容量的需求正从2-4小时向更长时段演进。长时储能配套正成为海外项目获取并网许可、提升收益确定性的关键筹码。",
+    "sourceName": "energytrend.com",
+    "sourceUrl": "https://www.energytrend.com/news/20260920-52177.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e2abced5dee81a1a4dcfa540025ee74",
+    "collectedAt": "2026-09-23T19:23:34.364Z",
+    "notionPageId": "3e2abced5dee81a1a4dcfa540025ee74",
+    "fingerprint": "notion|f11c08857995731c7aa4"
   },
   {
     "date": "2026-09-19",
