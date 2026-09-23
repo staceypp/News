@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-09-21",
+    "country": "上海",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "AIDC"
+    ],
+    "tags": [
+      "AIDC",
+      "上海"
+    ],
+    "company": "上海相关企业",
+    "title": "中建八局牵头AIDC数据中心产业协同交流会在沪举行，30余家机构参与",
+    "summary": "9月21日，由中国建筑第八工程局牵头组织的AIDC数据中心产业协同交流会在上海举行，涵盖算力、能源、设备、金融、出海服务等领域的30余家机构参会，包括戴德梁行、ABB、高通、罗克韦尔、中国进出口银行、SBI中国等。会议探讨数据中心向高密度、低碳、智能化算力基础设施转型。 解读：参会方横跨算力、能源、设备、金融四大领域，反映AIDC基础设施建设正从单纯工程总承包转向算力-能源-金融一体化的生态协同。通过建造方、咨询机构、芯片与设备企业、金融机构联动，可缩短交付周期、优化全生命周期成本，建议关注此类跨行业交流平台，寻找AIDC配套绿电项目的合作入口。",
+    "sourceName": "news.qq.com",
+    "sourceUrl": "https://news.qq.com/rain/a/20260921A0AKI200",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3e3abced5dee813295c5f5bc565beef6",
+    "collectedAt": "2026-09-23T07:09:36.260Z",
+    "notionPageId": "3e3abced5dee813295c5f5bc565beef6",
+    "fingerprint": "notion|cd66efeef22b94628d5b"
+  },
+  {
     "date": "2026-09-19",
     "country": "埃及",
     "geo": "中国",
