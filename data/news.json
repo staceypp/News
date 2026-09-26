@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-09-25",
+    "country": "纳米比亚",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "电力交易"
+    ],
+    "tags": [
+      "集中式光伏",
+      "电力交易"
+    ],
+    "company": "纳米比亚项目主体",
+    "title": "纳米比亚19.3MWp Gerus光伏投运，成为该国首个直接在SAPP交易的光伏项目",
+    "summary": "Solarcentury Africa的19.3MWp Gerus光伏电站达到商业运营，成为纳米比亚首个在南非电力池（Southern African Power Pool，SAPP）直接交易的商业光伏项目，也是非洲第二个专门面向SAPP交易建设的商业光伏项目。项目12个月建成，预计年发电50.8GWh，国际融资约2,000万美元，由母公司BB Energy提供；Solarcentury Trading负责在SAPP售电。 解读：项目验证了非洲新能源从固定PPA向“商业资产 + 区域电力池交易”延伸的路径；若跨境流动性提升，开发商可降低对单一承购方的依赖，并形成发电+交易一体化模式。",
+    "sourceName": "solarcenturyafrica.com",
+    "sourceUrl": "https://solarcenturyafrica.com/en/articles/gerus-solar-cimmercial-operation",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e7abced5dee813f9da7cf6f063a6955",
+    "collectedAt": "2026-09-26T18:54:56.182Z",
+    "notionPageId": "3e7abced5dee813f9da7cf6f063a6955",
+    "fingerprint": "notion|95ece539451c0b22a50d"
+  },
+  {
+    "date": "2026-09-25",
+    "country": "马来西亚",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "招标",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "微电网"
+    ],
+    "tags": [
+      "分布式光伏",
+      "储能",
+      "工商业光伏",
+      "智能微电网"
+    ],
+    "company": "马来西亚项目主体",
+    "title": "马来西亚Comet槟城工厂投运约1.46MWp屋顶光伏并配置BESS，采用Solar ATAP余电抵扣",
+    "summary": "Comet Technologies Malaysia槟城工厂安装2,343块625W组件，光伏规模约1.46MWp，预测年发电量128万kWh。项目自2026年中开始发电，自发自用并可在太阳能加速转型行动计划（Solar Accelerated Transition Action Programme，Solar ATAP）机制下将余电上网抵扣电费。工厂同时投运BESS，虽未与光伏直流耦合，但用于停电期间关键负荷保障、峰值供电和降低最大需量费用。 解读：Solar ATAP是马来西亚2026年起实施的新版屋顶光伏自发自用及余电上网抵扣机制，接替NEM计划。区别注意：Solar ATAP更偏向表后屋顶光伏 + 余电抵扣；SelCo主要是自发自用；而CRESS则是企业通过电网采购异地可再生能源，属于更偏大型项目/企业绿电交易的机制。马来西亚能源委员会目前把这几项政策作为不同的能源转型项目分别管理。",
+    "sourceName": "comet.tech",
+    "sourceUrl": "https://comet.tech/en/news/solar-energy-penang",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e7abced5dee81669f7de5329b1ca3fd",
+    "collectedAt": "2026-09-26T18:54:56.182Z",
+    "notionPageId": "3e7abced5dee81669f7de5329b1ca3fd",
+    "fingerprint": "notion|3c4479a58ea53a41a758"
+  },
+  {
     "date": "2026-09-22",
     "country": "美国",
     "geo": "美洲",
