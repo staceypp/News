@@ -1,6 +1,28 @@
 window.DAILY_NEWS_DATA=[
   {
     "date": "2026-09-25",
+    "country": "肯尼亚",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "交易"
+    ],
+    "tags": "分布式 交易 净计量 分布式光伏 电价监管",
+    "company": "肯尼亚能源与石油监管局（EPRA）",
+    "title": "肯尼亚EPRA新规：未经批准并网的光伏余电将被罚款",
+    "summary": "肯尼亚能源与石油监管局（EPRA）已通过政府公报发布新规（2026年9月18日刊登，近日广泛见报），将未经批准或无有效净计量协议而向Kenya Power电网倒送的家庭及企业光伏余电视为“违规倾倒”，按基础电价计费，并可处以最高每日10万肯先令（约772美元）、单次最高300万肯先令（约2.32万美元）罚款，新规追溯至2025年7月1日生效。经批准的净计量用户余电仍可获得50%电量抵扣，但不再获现金结算。",
+    "sourceName": "Kenyans.co.ke",
+    "sourceUrl": "https://www.kenyans.co.ke/news/127364-epra-introduces-fines-illegal-dumping-excess-solar-power-grid",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "肯尼亚|EPRA|净计量倾倒罚款新规|10万肯先令-300万肯先令|政策",
+    "id": "daily|2026-09-25|肯尼亚|EPRA光伏余电罚款新规",
+    "collectedAt": "2026-09-27T00:54:15Z"
+  },
+  {
+    "date": "2026-09-25",
     "country": "纳米比亚",
     "geo": "全球",
     "category": "市场信息",
@@ -47,6 +69,69 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|3c4479a58ea53a41a758"
   },
   {
+    "date": "2026-09-24",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "并购",
+    "businessTags": [
+      "交易"
+    ],
+    "tags": "交易 多晶硅 反垄断审查 光伏产业链整合",
+    "company": "通威股份 / 丽豪清能",
+    "title": "通威收购丽豪清能获市场监管总局无条件批准",
+    "summary": "2026年9月24日，国家市场监管总局依法无条件批准通威股份收购青海丽豪清能股份有限公司股权案。审查认定尽管交易双方在国内太阳能级多晶硅市场合计份额较高，但当前产能充足、竞争者众多，交易不会产生排除、限制竞争效果。此举被普遍解读为监管层支持光伏行业通过市场化并购整合产能、化解低水平同质化“内卷式”竞争的信号。",
+    "sourceName": "21世纪经济报道",
+    "sourceUrl": "https://www.21jingji.com/article/20260924/herald/6d0fa0785565b6b3592b50190a4be399.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|通威股份-丽豪清能|反垄断无条件批准|多晶硅整合|并购",
+    "id": "daily|2026-09-24|中国|通威收购丽豪清能获批",
+    "collectedAt": "2026-09-27T00:54:15Z"
+  },
+  {
+    "date": "2026-09-24",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "备案",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 电池储能 新南威尔士州 Gransolar",
+    "company": "Bess Arctic / Gransolar",
+    "title": "澳大利亚新南威尔士州Deniliquin East储能项目获批",
+    "summary": "澳大利亚新南威尔士州规划部门于2026年9月24日批准Bess Arctic旗下Deniliquin East储能项目的开发申请，此前该项目收到70余份公众反对意见。项目位于Deniliquin东南约7公里处，规划装机100MW/200MWh（电芯总容量约120MW/240MWh），由西班牙Gransolar集团澳大利亚子公司开发，总投资约1.18亿澳元，预计带来52个建设岗位并提供60万澳元社区补偿基金。",
+    "sourceName": "pv magazine Australia",
+    "sourceUrl": "https://www.pv-magazine-australia.com/2026/09/25/deniliquin-east-bess-granted-development-application/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Bess Arctic-Gransolar|Deniliquin East储能获批|100MW-200MWh|备案",
+    "id": "daily|2026-09-24|澳大利亚|Deniliquin East储能获批",
+    "collectedAt": "2026-09-27T00:54:15Z"
+  },
+  {
+    "date": "2026-09-22",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "备案",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 电池储能 撒丁岛 地方反对",
+    "company": "Bluefield Partners（BSD042024 Srl / BSD052024 Srl）",
+    "title": "意大利环境能源部批准撒丁岛Ittiri两座合计110MW储能项目",
+    "summary": "意大利环境与能源安全部（MASE）分别以264/2026号、263/2026号决定，批准撒丁岛萨萨里省伊蒂里（Ittiri）两座各55MW、合计110MW的电池储能项目“Ittiri A”“Ittiri B”，项目业主为伦敦Bluefield Partners旗下公司。两项目各配置48个1,255kW集装箱式储能单元，时长4小时。尽管当地市政府及大区景观保护部门此前均出具反对意见，国家层面审批仍予以通过，凸显意大利储能项目审批中地方与中央的持续博弈。",
+    "sourceName": "pv magazine Italia",
+    "sourceUrl": "https://www.pv-magazine.it/2026/09/22/il-mase-autorizza-110-mw-bess-in-sardegna-nonostante-i-pareri-negativi-di-comune-e-regione/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|Bluefield Partners|Ittiri A-B储能获批|110MW|备案",
+    "id": "daily|2026-09-22|意大利|Ittiri储能项目获批",
+    "collectedAt": "2026-09-27T00:54:15Z"
+  },
+  {
     "date": "2026-09-22",
     "country": "美国",
     "geo": "美洲",
@@ -67,6 +152,27 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-23T19:23:34.364Z",
     "notionPageId": "3e4abced5dee819a9c25d66ca7a2fb16",
     "fingerprint": "notion|9da6046dcd6b1714bf59"
+  },
+  {
+    "date": "2026-09-21",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "新品量产",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 大容量电芯 合肥基地",
+    "company": "派能科技",
+    "title": "派能科技588Ah、601Ah大容量储能电芯合肥量产下线",
+    "summary": "2026年9月21日，派能科技588Ah、601Ah大容量储能电芯量产下线仪式在合肥基地举行，两款电芯已批量生产超100MWh，其中601Ah电芯能量密度达425.8Wh/L、循环寿命超12,000次、能量效率96.5%，已集成至公司新一代PyOcean系列6.25MWh、8MWh储能系统并获得市场订单。合肥产线核心工序自动化率达100%，配置120余台工业机器人及180余台智能装备。",
+    "sourceName": "搜狐财经",
+    "sourceUrl": "https://www.sohu.com/a/1079547484_122014422",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|派能科技|588Ah-601Ah电芯量产|100MWh|新品量产",
+    "id": "daily|2026-09-21|中国|派能科技大容量电芯量产",
+    "collectedAt": "2026-09-27T00:54:15Z"
   },
   {
     "date": "2026-09-21",
@@ -267,6 +373,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-20T13:24:30.097Z",
     "notionPageId": "3e1abced5dee813481e5d2717d453a88",
     "fingerprint": "notion|2261428c32e332d1dc66"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 框架协议 电池储能 阳光电源出海",
+    "company": "阳光电源（Sungrow）/ be.storaged",
+    "title": "阳光电源与德国be.storaged签署1.6GWh储能项目框架协议",
+    "summary": "阳光电源与德国工程公司be.storaged签署框架协议，计划未来两年在德国合作开发交付1.6GWh电池储能项目管线。协议约定双方统一技术方案与工作流程：be.storaged负责开发、规划、采购、工程、施工、并网及运营支持，阳光电源提供储能系统、电力电子设备及相关服务，项目将较多采用其PowerTitan 3.0系统（单20尺集装箱7.14MWh电池容量搭配1.78MW变流器，标称4小时时长）。双方未披露具体点位、业主及财务条款。",
+    "sourceName": "PR Newswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/sungrow-and-bestoraged-strengthen-partnership-for-gigawatt-hour-scale-battery-storage-projects-302883068.html",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|阳光电源-be.storaged|1.6GWh框架协议|德国储能管线|合作",
+    "id": "daily|2026-09-18|德国|阳光电源be.storaged框架协议",
+    "collectedAt": "2026-09-27T00:54:15Z"
   },
   {
     "date": "2026-09-18",
