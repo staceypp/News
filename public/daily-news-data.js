@@ -1,5 +1,50 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-26",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式光伏",
+    "company": "美国政策机构",
+    "title": "美国Section 232关税12月4日生效，进口组件价格预期上涨40%",
+    "summary": "美国商务部对多晶硅进口发起的Section 232关税（税率15%）将于2026年12月4日生效，覆盖多晶硅、硅锭、硅片、电池片及组件全产业链。据Anza数据，12月4日后交付的进口组件中位价已从8月7日前的0.27美元/W升至0.38美元/W，涨幅约40%；截至9月9日，55%的供应商已更新报价，涉及65%的可售组件。美国目前组件制造产能为75.3GW。 解读：关税生效前约10周的窗口期，通过采购美国本土库存、加快提前进口清关或调整本土与进口组件的采购比例来锁定成本。本轮关税将进一步推高美国地面电站的组件成本曲线，利好已在美布局本土产能的组件厂商，也可能延缓部分美国项目的开工节奏。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/26/anza-expects-at-least-a-40-spike-in-solar-module-prices-after-section-232",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e8abced5dee814dbf95efd264ca9030",
+    "collectedAt": "2026-09-28T17:15:29.725Z",
+    "notionPageId": "3e8abced5dee814dbf95efd264ca9030",
+    "fingerprint": "notion|7e002053e73350afcf45"
+  },
+  {
+    "date": "2026-09-26",
+    "country": "巴西",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "分布式",
+      "户用光伏"
+    ],
+    "tags": "分布式 户用光伏 分布式光伏 户用光伏",
+    "company": "巴西项目主体",
+    "title": "巴西2026年上半年光伏系统均价上涨7%，融资比例降至历史低点",
+    "summary": "据Greener《分布式能源解决方案》报告，2026年上半年巴西300kW以下光伏系统均价同比上涨7%，主要由设备成本推动；其中4kW户用系统组件成本上涨18.3%，而300kW系统组件成本仅上涨2%。2kW系统单瓦安装成本为BRL 3.62/W（4.65元/W），30–50 kW 系统单瓦安装成本BRL 2.02/W（2.59元/W）。同期新增分布式光伏并网数量同比下降16%，户用光伏占新增容量比例升至65%，工商业光伏占比降至19%；能获得融资支持的经销商销售占比降至33%，为近年最低。 解读：30-50kW系统具备最低单瓦安装成本。 短期成本回升、融资收紧进一步抑制户用光伏需求。对出海巴西的系统企业而言，需关注融资渠道创新以维持户用市场增长动能。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/26/pv-system-costs-increase-7-percent-brazil-h1",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e8abced5dee81b19361dad481b2ba37",
+    "collectedAt": "2026-09-28T17:15:29.725Z",
+    "notionPageId": "3e8abced5dee81b19361dad481b2ba37",
+    "fingerprint": "notion|fe4aa0b9ded7dfd44eb9"
+  },
+  {
     "date": "2026-09-25",
     "country": "德国",
     "geo": "欧洲",
