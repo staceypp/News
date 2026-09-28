@@ -69,6 +69,28 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|3c4479a58ea53a41a758"
   },
   {
+    "date": "2026-09-25",
+    "country": "香港",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "产品",
+    "businessTags": [
+      "AIDC"
+    ],
+    "tags": "AIDC AIDC 香港",
+    "company": "香港相关企业",
+    "title": "中环新能源中报：AI算力收入飙升至10.47亿元，占营收近两成",
+    "summary": "中环新能源发布2026年中期业绩，营收约63.3亿港元，同比增长56.3%；毛利约13亿元，同比增长50%。作为公司“第二增长曲线”的AI算力业务期内收入达10.47亿元，占总营收近20%。今年6月公司推出面向AI数据中心的“焕熹-AIDC”光伏组件，董事长余竹云提出打造光伏+储能+智算一体化“绿色大基地”，构建“绿电供算力、算力助绿电”的循环。 解读：中环新能源业务主要包括新能源及EPC、绿色建筑、AI芯片及伺服器服务、智慧能源管理、健康医疗和餐饮六个板块。AI 芯片和服务器的收入已成为第二增长曲线。同时，行业普遍切入“绿电+算力”融合赛道。",
+    "sourceName": "finance.sina.com.cn",
+    "sourceUrl": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-25/doc-iniszvzt4273542.shtml",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3e7abced5dee816bbed3ee759480e713",
+    "collectedAt": "2026-09-28T08:05:25.979Z",
+    "notionPageId": "3e7abced5dee816bbed3ee759480e713",
+    "fingerprint": "notion|ee5b29635f45d6d7e3cc"
+  },
+  {
     "date": "2026-09-24",
     "country": "澳大利亚",
     "geo": "大洋洲",
@@ -112,6 +134,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-28T00:54:24Z"
   },
   {
+    "date": "2026-09-23",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "招标",
+    "businessTags": [
+      "AIDC"
+    ],
+    "tags": "AIDC AIDC 全国",
+    "company": "中国相关企业",
+    "title": "JA晶澳提出\"绿色词元指标\"(GTI)，推动AI算力绿电可验证可追溯",
+    "summary": "9月16日，2026\"两湖对话\"绿色低碳高质量发展国际合作对接会在武汉举行，JA晶澳受邀参会并提出\"绿色词元指标\"（Green Token Index，GTI），围绕\"AI Token计算所消耗电力中的绿色能源占比\"这一核心指标，界定绿色电力边界、提供占比核算口径并引入绿色算力评价体系。绿电供给端，晶澳为阿联酋RTC光储项目（5.2GW光伏+19GWh储能供应3GW组件；调度端，晶澳智慧能源E-Link Agent OS调度系统可帮助工商业园区降低15%-30%用能成本；量化端，GTI可量化每单位Token生成过程中的绿电覆盖比例。 解读：反映出AIDC/算电协同赛道正从单纯的电力供应竞争，升级为绿色属性标准化与可信度的竞争。GTI这类量化框架一旦被数据中心、云服务商采纳为采购标准，绿电溯源认证能力将成为电站资产议价的新筹码，尤其利好已布局绿证/CCER体系并与AI算力客户直连的电站运营商。但需注意GTI目前仅是企业自主提出的行业倡议，尚未形成国家或行业的通用标准。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/_YwFLzq9-HyAxUvDqBZxxg",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3e8abced5dee81b5a3f9f53795b125e4",
+    "collectedAt": "2026-09-28T08:05:25.979Z",
+    "notionPageId": "3e8abced5dee81b5a3f9f53795b125e4",
+    "fingerprint": "notion|5f4609b8f77ba18656bf"
+  },
+  {
     "date": "2026-09-22",
     "country": "美国",
     "geo": "美洲",
@@ -132,6 +176,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-23T19:23:34.364Z",
     "notionPageId": "3e4abced5dee819a9c25d66ca7a2fb16",
     "fingerprint": "notion|9da6046dcd6b1714bf59"
+  },
+  {
+    "date": "2026-09-22",
+    "country": "内蒙古",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "中标",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 内蒙古",
+    "company": "内蒙古项目主体",
+    "title": "中广核呼和浩特新城区350MW/1400MWh独立储能EPC公示两候选，报价0.564-0.565元/Wh",
+    "summary": "中广核内蒙古呼和浩特新城区350MW/1400MWh（4小时时长）独立储能EPC项目公示两家中标候选人：中国电力工程顾问集团中南电力设计院报价约79.159亿元（约0.565元/Wh），中国能源建设集团湖南省电力设计院报价约78.953亿元（约0.564元/Wh），报价差距极小。 解读：反映出大型央企设计院在大型储能EPC招标中的主导地位仍在强化。对储能电站开发商而言，这一价格可作为内蒙古及同类资源区大型独立储能EPC总承包成本的最新基准。",
+    "sourceName": "escn.com.cn",
+    "sourceUrl": "https://www.escn.com.cn/news/show-2330334.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3e4abced5dee81b6b5e1c370c9c5b1cb",
+    "collectedAt": "2026-09-28T08:05:25.979Z",
+    "notionPageId": "3e4abced5dee81b6b5e1c370c9c5b1cb",
+    "fingerprint": "notion|aa8072b0b31a5ccbb1dc"
   },
   {
     "date": "2026-09-21",
