@@ -4363,5 +4363,159 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-23",
+    "country": "浙江",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "电力交易",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "电力现货市场",
+      "独立储能",
+      "浙江"
+    ],
+    "company": "浙江省能源局",
+    "title": "浙江允许独立储能参与电力现货市场交易，首批覆盖2.54GW/5.1GWh",
+    "summary": "浙江省能源局联合国家能源局浙江监管办、省发改委于9月23日发布通知，允许独立新型储能项目直接参与电力现货市场交易，储能可自行选择每日进入电能量市场或调频辅助服务市场。通知同步公布首批准入项目清单，共40个项目、装机2.54GW/5.1GWh，其中28个已投产项目（2.13GW/4.27GWh）可同时参与电能量与调频市场。浙江计划自2027年1月1日起将独立储能全面转入报量报价的现货交易模式。 解读：这是浙江在电力现货市场对独立储能开放交易权限的重要一步，有助于储能从“新能源配储”向“独立市场主体”转型，为其他省份推进储能参与现货交易提供参考样本。",
+    "sourceName": "pv magazine Global",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/26/chinese-province-moves-grid-side-batteries-into-spot-market/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "浙江|浙江省能源局|电力现货市场|独立储能|2.54GW|电力交易",
+    "id": "daily|2026-09-23|中国|浙江独立储能入市",
+    "collectedAt": "2026-09-28T00:54:24Z"
+  },
+  {
+    "date": "2026-09-21",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "产品量产",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "大容量电芯",
+      "588Ah",
+      "601Ah",
+      "合肥"
+    ],
+    "company": "派能科技（Pylontech）",
+    "title": "派能科技588Ah、601Ah大容量储能电芯在合肥基地量产下线",
+    "summary": "9月21日，派能科技在合肥基地举行588Ah、601Ah大容量储能电芯量产下线仪式，标志着公司正式进入大容量储能电芯规模化量产阶段。其中601Ah电芯能量密度达425.8Wh/L，循环寿命超过12000次，能量效率达96.5%，目前已完成超100MWh的批量交付，主要配套公司新一代PyOcean系列6.25MWh及8MWh大型储能系统。 解读：随着储能系统持续向大容量、集成化方向演进，头部电池厂商密集推出600Ah级电芯，反映出储能产业链对度电成本和系统能量密度的进一步竞争。",
+    "sourceName": "PR Newswire",
+    "sourceUrl": "https://www.prnewswire.com/apac/zh/news-releases/588ah601ah-302884898.html",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|派能科技|588Ah|601Ah电芯|合肥量产|产品量产",
+    "id": "daily|2026-09-21|中国|派能588Ah电芯量产",
+    "collectedAt": "2026-09-28T00:54:24Z"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "合作协议",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "框架协议",
+      "PowerTitan",
+      "德国储能"
+    ],
+    "company": "阳光电源（Sungrow）/ be.storaged",
+    "title": "阳光电源与德国be.storaged签框架协议，共建1.6GWh储能项目管线",
+    "summary": "阳光电源与德国储能开发商be.storaged于9月18日宣布签署框架协议，双方计划在未来两年内共同开发、交付总计1.6GWh的德国电池储能项目管线。协议约定双方将统一技术设计与工作流程，在项目开发更早阶段介入协同：be.storaged负责开发、规划、采购、工程、施工建设及运维支持，阳光电源提供PowerTitan 3.0等储能系统、电力电子设备及相关服务。 解读：双方此前已在德国有多个储能项目合作基础，此次框架协议意在将合作标准化、规模化，加快吉瓦时级项目的落地速度，也反映出中国储能设备商在欧洲市场加深本地化绑定的趋势。",
+    "sourceName": "SolarQuarter",
+    "sourceUrl": "https://solarquarter.com/2026/09/18/sungrow-and-be-storaged-sign-framework-agreement-for-1-6-gwh-bess-pipeline-in-germany/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|阳光电源|be.storaged|1.6GWh|框架协议|合作协议",
+    "id": "daily|2026-09-18|德国|阳光电源1.6GWh储能协议",
+    "collectedAt": "2026-09-28T00:54:24Z"
+  },
+  {
+    "date": "2026-09-25",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "项目开工",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "光伏+储能",
+      "Buckeläcker",
+      "Eppingen"
+    ],
+    "company": "hep global GmbH",
+    "title": "德国hep global旗下35.7MWp光伏+储能项目进入建设阶段，为其国内最大项目",
+    "summary": "德国太阳能开发商hep global宣布其位于Eppingen的Buckeläcker光伏电站正式进入建设阶段，该项目装机容量35.7MWp并配置电池储能，是hep global迄今在德国本土开发的最大项目。施工由ZaberSolar GmbH负责协调，预计2027年上半年完工并网。项目采用光伏+储能一体化配置，旨在提升发电时段灵活性并更高效利用有限的并网容量。 解读：在欧洲光伏电价持续走低、并网容量趋紧的背景下，光储一体化正成为德国地面电站开发商提高项目收益确定性的主流路径。",
+    "sourceName": "Renewables Now",
+    "sourceUrl": "https://renewablesnow.com/news/hep-brings-35-7-mwp-solar-project-to-construction-phase-in-germany-1301840/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|hep global|Buckeläcker|35.7MWp|光伏储能|项目开工",
+    "id": "daily|2026-09-25|德国|hep35.7MWp光储项目开工",
+    "collectedAt": "2026-09-28T00:54:24Z"
+  },
+  {
+    "date": "2026-09-24",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "项目审批",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "电池储能",
+      "新南威尔士州",
+      "开发许可"
+    ],
+    "company": "Gransolar Development Australia / Bess Arctic",
+    "title": "澳大利亚新南威尔士州批准Deniliquin East百MWh级电池储能项目开发申请",
+    "summary": "新南威尔士州规划部门于9月24日批准了Deniliquin East电池储能系统（BESS）的开发申请，项目由西班牙Gransolar集团旗下Bess Arctic Pty Ltd通过其澳大利亚子公司Gransolar Development Australia推进，位于德尼利昆东南约7公里处。项目额定容量100MW/200MWh，电芯总容量达120MW/240MWh，总投资约1.18亿澳元，将带来52个建设岗位和60万澳元社区效益基金。该项目此前收到超过70份反对意见，主要集中在消防安全和土地用途争议上，最终仍获批准。 解读：澳大利亚多个大型电池储能项目近期频遭社区反对，本次批准显示地方规划部门在权衡电网调节需求与社区关切后，仍倾向于支持符合条件的储能项目落地。",
+    "sourceName": "pv magazine Australia",
+    "sourceUrl": "https://www.ess-news.com/2026/09/25/australian-state-approves-200-mwh-battery-despite-70-plus-objections/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Gransolar|Deniliquin East|200MWh储能|开发许可|项目审批",
+    "id": "daily|2026-09-24|澳大利亚|Deniliquin储能项目获批",
+    "collectedAt": "2026-09-28T00:54:24Z"
+  },
+  {
+    "date": "2026-09-16",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "分布式",
+      "融资"
+    ],
+    "tags": [
+      "工商业光伏",
+      "非追索项目融资",
+      "responsAbility"
+    ],
+    "company": "Verdant Energy",
+    "title": "泰国Verdant Energy获responsAbility最高2500万美元融资扩大工商业光伏组合",
+    "summary": "东南亚可再生能源平台Verdant Energy于9月16日宣布获得responsAbility Investments AG提供的最高2500万美元非追索项目融资，用于扩大其在泰国的工商业（C&I）光伏项目组合。Verdant Energy由A.P. Moller Capital旗下新兴市场基础设施基金二期（EMIF II）支持，业务覆盖泰国、越南和菲律宾。本笔融资是responsAbility面向亚洲气候基础设施的5亿美元气候投资策略的一部分，非追索结构使贷款方权利主要限于被融资项目本身的现金流。 解读：非追索式项目融资的引入，反映出国际气候资金正加速进入东南亚分布式工商业光伏赛道，有助于当地开发商在不稀释股权的情况下加快项目扩张。",
+    "sourceName": "Mercom Capital Group",
+    "sourceUrl": "https://mercomcapital.com/verdant-energy-secures-25-million-financing-solar-projects-thailand/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "泰国|Verdant Energy|responsAbility|2500万美元|工商业光伏|融资",
+    "id": "daily|2026-09-16|泰国|Verdant融资2500万美元",
+    "collectedAt": "2026-09-28T00:54:24Z"
   }
 ]
