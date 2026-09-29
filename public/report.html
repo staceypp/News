@@ -16,7 +16,7 @@
   <style>
     :root{--ink:#003364;--muted:#687884;--paper:#f4f7f8;--panel:#ffffff;--line:#cad9df;--green:#005dac;--mint:#1e7fbb;--orange:#0b9fc4;--navy:#003364;--mountain:#3da8ab;--aurora:linear-gradient(110deg,#003364 0%,#005dac 38%,#1e7fbb 68%,#3da8ab 100%)}
     *{box-sizing:border-box} body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,"PingFang SC","Microsoft YaHei",sans-serif;border-top:5px solid #003364;border-image:var(--aurora) 1} a{color:inherit}
-    .wrap{max-width:1480px;margin:auto;padding:24px 28px 72px}.nav{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--line);padding-bottom:18px;font-size:13px;letter-spacing:.06em}.brand{font-weight:800;color:var(--navy)}.stamp{color:var(--muted)}
+    .wrap{max-width:1480px;margin:auto;padding:24px 28px 72px}.nav{display:flex;align-items:center;gap:14px;justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:18px;font-size:13px;letter-spacing:.06em}.nav-left{display:flex;align-items:center;gap:12px}.brand{font-weight:800;color:var(--navy)}.stamp{color:var(--muted)}.nav-toggle{display:none}
     .app-shell{display:grid;grid-template-columns:250px minmax(0,1fr);gap:40px;transition:grid-template-columns .2s ease}.calendar-panel{position:sticky;top:20px;align-self:start;margin-top:56px}.calendar-kicker{font-size:11px;letter-spacing:.14em;color:var(--green);font-weight:800}.calendar-head{display:flex;justify-content:space-between;align-items:center;margin:10px 0 18px}.calendar-head h2{font:700 25px Georgia,"Songti SC",serif;margin:0}.calendar-nav{border:0;background:transparent;color:#82939e;font-size:19px;cursor:not-allowed}.weekdays,.calendar-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:4px}.weekdays span{text-align:center;color:#82939e;font-size:10px;padding-bottom:7px}.day{position:relative;aspect-ratio:1;border:0;background:transparent;border-radius:50%;font:600 12px Georgia,serif;color:#718590;cursor:default}.day.has-data{background:var(--panel);color:var(--ink);cursor:pointer;box-shadow:inset 0 0 0 1px var(--line)}.day.has-data::after{content:attr(data-count);position:absolute;right:-2px;top:-3px;min-width:15px;height:15px;border-radius:9px;background:var(--orange);color:#fff;font:700 9px/15px sans-serif}.day.selected{background:var(--ink);color:#fff;box-shadow:none}.day.today{box-shadow:inset 0 0 0 1px var(--green)}.all-days{width:100%;margin-top:22px;border:1px solid #9eb8c5;background:transparent;border-radius:4px;padding:9px 12px;color:var(--ink);font-weight:700;cursor:pointer}.all-days.active,.all-days:hover{background:var(--aurora);color:#fff;border-color:transparent}.selected-label{margin-top:20px;font-size:12px;color:var(--muted)}.selected-label b{display:block;color:var(--ink);font:700 18px Georgia,serif;margin-top:5px}
     .panel-head{display:flex;align-items:center;justify-content:space-between;gap:10px}.panel-toggle{border:1px solid var(--line);background:var(--panel);color:var(--ink);width:26px;height:26px;border-radius:50%;font-size:15px;line-height:1;cursor:pointer;flex:0 0 auto}.panel-toggle:hover{background:rgba(30,127,187,.1)}.panel-body{margin-top:14px}.panel-divider{height:1px;background:var(--line);margin:20px 0 6px}.panel-body .toolbar{position:static;background:none;backdrop-filter:none;padding:0;border-bottom:0}.panel-body .search{width:100%;min-width:0;margin:10px 0 0}.panel-body .geo-strip,.panel-body .country-strip{display:block;padding:12px 0;border-bottom:1px solid var(--line)}.panel-body .geo-strip .country-label,.panel-body .country-strip .country-label{display:block;margin-bottom:8px}.panel-body .geo-options,.panel-body .country-options{overflow-x:visible;flex-wrap:wrap;padding:8px 0 0}.panel-body .toolbar-row.category-filters,.panel-body .toolbar-row.type-filters-row{display:block;padding:12px 0;border-bottom:1px solid var(--line)}.panel-body .toolbar-row.category-filters .country-label,.panel-body .toolbar-row.type-filters-row .country-label{display:block;margin-bottom:8px}.panel-body .category-buttons,.panel-body .type-filters{gap:6px}.panel-body .category-buttons .filter,.panel-body .type-filters .filter{padding:5px 10px;font-size:11px}
     .app-shell.panel-collapsed .panel-body{display:none}.app-shell.panel-open .panel-body{display:block}
@@ -33,21 +33,20 @@
     footer{padding-top:24px;color:var(--muted);font-size:12px;line-height:1.6}.empty{padding:56px;text-align:center;color:var(--muted)}
     .calendar-nav{border:1px solid var(--line);background:var(--panel);color:var(--ink);width:30px;height:30px;border-radius:50%;font-size:19px;cursor:pointer}.calendar-nav:disabled{opacity:.3;cursor:not-allowed}
     @media(max-width:1000px){.app-shell{grid-template-columns:1fr}.calendar-panel{position:static;margin-top:28px;max-width:460px}.calendar-grid,.weekdays{gap:8px}.content-shell{min-width:0}
+      .nav{position:sticky;top:0;z-index:21;background:var(--paper);padding-top:14px;margin-top:-14px}
+      .nav-toggle{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font-size:17px;cursor:pointer;flex:0 0 auto}
+      .nav-toggle:hover,.nav-toggle:active{background:rgba(30,127,187,.1)}
       .panel-backdrop{display:none}
       .app-shell.panel-open~.panel-backdrop{display:block;position:fixed;inset:0;background:rgba(0,20,40,.42);z-index:18}
-      .app-shell:not(.panel-open) .calendar-panel{position:fixed;left:0;top:50%;transform:translateY(-50%);margin:0;width:auto;max-width:none;z-index:20}
-      .app-shell:not(.panel-open) .panel-head{padding:0;background:none;border:0;box-shadow:none}
-      .app-shell:not(.panel-open) .calendar-kicker{display:none}
-      .app-shell:not(.panel-open) .panel-toggle{width:34px;height:34px;font-size:17px;opacity:.5}
-      .app-shell:not(.panel-open) .panel-toggle:hover,.app-shell:not(.panel-open) .panel-toggle:active{opacity:.85}
-      .app-shell.panel-open .calendar-panel{position:fixed;left:0;top:0;bottom:0;margin:0;width:86vw;max-width:340px;padding:18px 18px 24px;background:var(--paper);z-index:19;overflow-y:auto;box-shadow:10px 0 32px rgba(0,20,40,.25)}
+      .app-shell:not(.panel-open) .calendar-panel{display:none}
+      .app-shell.panel-open .calendar-panel{position:fixed;left:0;top:0;bottom:0;align-self:auto;margin:0;width:86vw;max-width:340px;padding:18px 18px 24px;background:var(--paper);z-index:19;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain;touch-action:pan-y;box-shadow:10px 0 32px rgba(0,20,40,.25)}
     }
     @media(max-width:800px){.hero{padding:14px 0 20px}.section-head{padding:14px 0 18px}.metrics{grid-template-columns:1fr 1fr}.metric:nth-child(2){border-right:0}.metric:nth-child(-n+2){border-bottom:1px solid var(--line)}.toolbar{align-items:flex-start;flex-direction:column}.search{width:100%;margin:0}.country-strip,.geo-strip{grid-template-columns:1fr}.item{grid-template-columns:80px 1fr}.content{grid-column:1/3}.source{grid-column:1/3;text-align:left}.insight{grid-template-columns:1fr}.hero h1{font-size:48px}.wrap{padding-inline:18px;padding-top:12px}.nav{gap:20px;align-items:flex-start;padding-bottom:10px}.stamp{text-align:right}}
   </style>
 </head>
 <body>
   <main class="wrap">
-    <nav class="nav"><div class="brand">JA Green × News</div></nav>
+    <nav class="nav"><div class="nav-left"><button class="nav-toggle" id="navToggle" type="button" aria-label="展开侧栏">☰</button><div class="brand">JA Green × News</div></div></nav>
     <div class="app-shell">
     <aside class="calendar-panel" id="calendarPanel" aria-label="情报日历与筛选">
       <div class="panel-head"><span class="calendar-kicker">DAILY ARCHIVE</span><button class="panel-toggle" id="panelToggle" type="button" aria-label="收起/展开侧栏" aria-expanded="true">‹</button></div>
@@ -118,14 +117,19 @@
     prevMonth.addEventListener('click',()=>{calendarCursor=new Date(calendarCursor.getFullYear(),calendarCursor.getMonth()-1,1);renderCalendar()});nextMonth.addEventListener('click',()=>{calendarCursor=new Date(calendarCursor.getFullYear(),calendarCursor.getMonth()+1,1);renderCalendar()});
     sortToggle.addEventListener('click',()=>{sortDesc=!sortDesc;sortToggle.textContent=sortDesc?'按日期倒序 ⇅':'按日期正序 ⇅';applySort();update()});
     renderCountries();renderCalendar();update();
-    const appShell=document.querySelector('.app-shell'),panelToggle=document.querySelector('#panelToggle'),panelBackdrop=document.querySelector('#panelBackdrop'),mobileQuery=window.matchMedia('(max-width:1000px)');
+    const appShell=document.querySelector('.app-shell'),panelToggle=document.querySelector('#panelToggle'),panelBackdrop=document.querySelector('#panelBackdrop'),navToggle=document.querySelector('#navToggle'),calendarPanel=document.querySelector('.calendar-panel'),mobileQuery=window.matchMedia('(max-width:1000px)');
     function panelIsOpen(){if(appShell.classList.contains('panel-open'))return true;if(appShell.classList.contains('panel-collapsed'))return false;return !mobileQuery.matches}
-    function syncPanelToggle(){const open=panelIsOpen();panelToggle.setAttribute('aria-expanded',String(open));panelToggle.textContent=open?'‹':'›'}
+    function syncPanelToggle(){const open=panelIsOpen();panelToggle.setAttribute('aria-expanded',String(open));panelToggle.textContent=open?'‹':'›';navToggle.setAttribute('aria-expanded',String(open))}
     function setPanel(open){appShell.classList.remove('panel-open','panel-collapsed');appShell.classList.add(open?'panel-open':'panel-collapsed');syncPanelToggle()}
     panelToggle.addEventListener('click',()=>setPanel(!panelIsOpen()));
+    navToggle.addEventListener('click',()=>setPanel(!panelIsOpen()));
     panelBackdrop.addEventListener('click',()=>setPanel(false));
     mobileQuery.addEventListener('change',()=>{if(!appShell.classList.contains('panel-open')&&!appShell.classList.contains('panel-collapsed'))syncPanelToggle()});
     syncPanelToggle();
+    let swipeStartX=0,swipeStartY=0,swipeTracking=false;
+    calendarPanel.addEventListener('touchstart',e=>{if(!mobileQuery.matches||!panelIsOpen()||e.target.closest('.country-options,.geo-options'))return;const t=e.touches[0];swipeStartX=t.clientX;swipeStartY=t.clientY;swipeTracking=true},{passive:true});
+    calendarPanel.addEventListener('touchmove',e=>{if(!swipeTracking)return;const t=e.touches[0],dx=t.clientX-swipeStartX,dy=t.clientY-swipeStartY;if(dx<-70&&Math.abs(dx)>Math.abs(dy)*1.5){swipeTracking=false;setPanel(false)}},{passive:true});
+    calendarPanel.addEventListener('touchend',()=>{swipeTracking=false});
     if('serviceWorker' in navigator){window.addEventListener('load',()=>{navigator.serviceWorker.register('sw.js').catch(()=>{})})}
   </script>
 </body>
