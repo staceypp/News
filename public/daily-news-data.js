@@ -1,5 +1,51 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-28",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 全国",
+    "company": "国家发展改革委",
+    "title": "工信部七部门印发《新型电池产业发展\"十五五\"规划》，2030年全固态电池初步规模化应用",
+    "summary": "工业和信息化部、国家发展改革委、交通运输部等七部门联合印发《新型电池产业发展\"十五五\"规划》，明确到2030年，全固态电池初步实现规模化应用，长寿命锂电池循环次数达到1.5万次，龙头企业产品不良率达到PPB级。规划构建以锂电池为主体、钠电池与液流电池等协同发展的产品供给体系，明确覆盖电源侧、电网侧及工业园区、数据中心等储能应用场景，同时涉及电动汽车、船舶、飞行器及智能穿戴、智能家居、移动医疗等消费领域，并推动生产者责任延伸和废旧电池回收体系建设。 解读：释放出储能已从新能源配套设施升级为独立战略产业的信号。规划中\"锂为主、钠及液流协同发展\"的产品体系导向意味着未来配储技术路线选择将更加多元，尤其液流电池、钠离子电池在长时储能和特定应用场景（如高安全性要求的工商业储能）的产业化进程有望提速；同时PPB级不良率和1.5万次循环寿命的量化目标，也为电站运营商未来评估电池供应商产品质量和全生命周期成本提供了国家级基准参考。",
+    "sourceName": "miit.gov.cn",
+    "sourceUrl": "https://www.miit.gov.cn/gyhxxhb/jgsj/dzxxsnew/zcwj/art/2026/art_6c2161b398414389a1bcc655d2113fa0.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3e9abced5dee810cb1f2fd36e3d01da2",
+    "collectedAt": "2026-09-29T15:17:21.343Z",
+    "notionPageId": "3e9abced5dee810cb1f2fd36e3d01da2",
+    "fingerprint": "notion|890b09becb308ce6cb3a"
+  },
+  {
+    "date": "2026-09-28",
+    "country": "印尼",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "微电网"
+    ],
+    "tags": "分布式 储能 微电网 工商业光伏 储能 智能微电网",
+    "company": "印尼项目主体",
+    "title": "印尼Kolaka Nickel推进20MWp光伏+20MW/30MWh储能镍业混合能源项目",
+    "summary": "印尼科拉卡镍业公司（PT Kolaka Nickel Indonesia）正在印尼东南苏拉威西省科拉卡县 Pomalaa 地区推进一座“光伏+储能”项目，为其镍矿/镍冶炼相关工业运营提供部分清洁电力。项目规模为 20 MWp 光伏 + 20 MW / 30 MWh 电池储能系统，计划于 2027 年 3 月投运。项目已获工银印尼、渣打银行印尼及中信银行国际的无追索权融资（non-recourse financing）；EPC承包商为第十一设计研究院股份有限公司（EDRI）；组件供应商为中来股份。 解读：反映出印尼镍矿和冶炼等高耗电产业开始通过光伏与储能降低部分化石能源电力依赖。",
+    "sourceName": "manilatimes.net",
+    "sourceUrl": "https://www.manilatimes.net/2026/09/28/tmt-newswire/pr-newswire/indonesias-kolaka-nickel-advances-20-mw-hybrid-solar-plus-storage-project-in-southeast-sulawesi/2434078",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3eaabced5dee816f9a79da3d43a60463",
+    "collectedAt": "2026-09-29T15:17:21.343Z",
+    "notionPageId": "3eaabced5dee816f9a79da3d43a60463",
+    "fingerprint": "notion|e6c68b712d941e4fdff0"
+  },
+  {
     "date": "2026-09-26",
     "country": "美国",
     "geo": "美洲",
