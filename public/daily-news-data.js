@@ -160,6 +160,101 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|ee5b29635f45d6d7e3cc"
   },
   {
+    "date": "2026-09-25",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "户用光伏",
+      "储能"
+    ],
+    "tags": "分布式 户用光伏 储能 分布式光伏 户用光伏 工商业光伏 储能",
+    "company": "菲律宾政策机构",
+    "title": "菲律宾NGCP呼吁建立强制登记屋顶光伏机制，光伏增长推动Visayas峰值后移并增加调度可视性风险",
+    "summary": "菲律宾国家电网公司NGCP呼吁建立强制性屋顶光伏登记机制，以掌握私人分布式光伏的实际规模。NGCP表示，太阳能出力增长已使Visayas的需求峰值由约14:00后移至16:00；由于大量屋顶光伏缺乏登记和实时可视性，云层变化可能造成聚合出力快速下降，增加负荷预测、备用安排及长期电网规划难度。截至5月14日，太阳能约占Visayas电力供应的10.3%。 解读：菲律宾分布式光伏开始从“装机增长”进入“可观测性+灵活性资源”阶段，后续可能增加智能逆变器、BESS、聚合/VPP和预测调度需求，对系统销售是二次市场机会。",
+    "sourceName": "pna.gov.ph",
+    "sourceUrl": "https://www.pna.gov.ph/articles/1284781",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e7abced5dee8178b9d6c861f3ffd9bc",
+    "collectedAt": "2026-09-29T20:23:35.143Z",
+    "notionPageId": "3e7abced5dee8178b9d6c861f3ffd9bc",
+    "fingerprint": "notion|79d1e23e22d1c5441b68"
+  },
+  {
+    "date": "2026-09-25",
+    "country": "赞比亚",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "电力交易",
+      "分布式"
+    ],
+    "tags": "集中式 电力交易 分布式 集中式光伏 电力交易 工商业光伏",
+    "company": "赞比亚项目主体",
+    "title": "赞比亚IDC与Solarcentury Africa拟开发67MWp光伏，通过wheeling向大型工业用户供电",
+    "summary": "赞比亚国有工业发展公司（IDC）与Solarcentury Africa签署合作意向条款（Heads of Terms），计划在赞比亚中部省奇桑巴（Chisamba）附近联合开发一座 67 MWp 光伏电站。IDC已取得项目用地并完成初步技术研究；Solarcentury负责后续项目开发、设计、融资及建设交付。项目拟接入 ZESCO 电网主干网络，并通过电力过网（wheeling）方式向 IDC 的大型工业客户供电，以帮助缓解赞比亚当前的电力短缺。 解读：这是非洲“集中式新能源+公用电网wheeling+C&I承购”的可复制结构，与开普敦汇集式电力过网(pooled wheeling)趋势一致，可能降低工业客户自建电站和专线门槛。项目的关键商业基础包括工业客户长期购电或承购安排；ZESCO 的接网、输电和 wheeling 批准；输电使用费、损耗及结算机制；项目融资文件及最终投资决定。",
+    "sourceName": "solarcenturyafrica.com",
+    "sourceUrl": "https://solarcenturyafrica.com/en/articles/solarcentury-africa-and-the-industrial-development-corporation-of-zambia-to-develop-a-67-mwp-solar-project",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e7abced5dee819ea753eafffc50f505",
+    "collectedAt": "2026-09-29T20:23:35.143Z",
+    "notionPageId": "3e7abced5dee819ea753eafffc50f505",
+    "fingerprint": "notion|7c30acf373f68dfd9a43"
+  },
+  {
+    "date": "2026-09-24",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "零碳园区",
+      "AIDC"
+    ],
+    "tags": "集中式 储能 零碳园区 AIDC 集中式光伏 储能 零碳园区 AIDC",
+    "company": "菲律宾项目主体",
+    "title": "菲律宾APECO与Huge Energy签署1GW园区光储及变电项目MOU，首期约100MW",
+    "summary": "菲律宾奥罗拉太平洋经济区和自由港管理局(APECO)与Huge Energy签署MOU，在Aurora省Casiguran经济区探索最高1GW新能源项目。项目分三期：首期约100MW，含光伏、BESS和变电站；二期新增350MW光伏及垃圾发电；三期新增550MW。APECO提供90公顷土地；合作范围覆盖可研、许可、并网、承购、融资、EPC和运维。菲律宾政府通讯社另称项目投资约82亿比索（人民币8.77亿元）。计划2027年起建设3–4年，并明确项目意在支撑制造业、数字基础设施及数据中心。 解读：这是“先建设园区能源基础设施、再招商产业/AIDC”的算电协同/零碳园区开发路径，对东南亚园区型光储开发有较强参考价值，可跟进项目进度及落地情况。",
+    "sourceName": "apeco.gov.ph",
+    "sourceUrl": "https://apeco.gov.ph/apeco-huge-energy-sign-mou-for-1gw-solar-100mw-substation-and-energy-storage-projects-in-aurora",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e7abced5dee81439a79c93bb0654b91",
+    "collectedAt": "2026-09-29T20:23:35.143Z",
+    "notionPageId": "3e7abced5dee81439a79c93bb0654b91",
+    "fingerprint": "notion|b93be7dc6990f4e81d07"
+  },
+  {
+    "date": "2026-09-23",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 PPA 储能",
+    "company": "意大利相关企业",
+    "title": "亚马逊与Nadara意大利227MW农光互补电站投运，签156MW购电协议",
+    "summary": "英国可再生能源开发商Nadara在意大利西西里岛建成Big Fish农光互补项目，装机规模227MW，配套20MW/40MWh储能系统，与亚马逊签署156MW长期购电协议(PPA)。项目占地400公顷，涉及15个地块，半数用于农业种植。项目于 2023 年 5 月获得区域环境批准，2023 年 10 月获得最终授权；主管部门于 2025 年 9 月确认项目满足其环境审批条件。历时 12 个月建成投运，高峰期动员逾 900 名施工人员。 解读：该项目体现科技巨头通过长期PPA锁定绿电成本、同时满足碳中和承诺的趋势。意大利大型地面光伏正逐步采用“光伏 + 农业 + 储能 + 社区收益”模式，以应对土地利用、地方接受度和环境许可方面的约束。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/09/23/amazon-nadara-switch-on-277-mw-agricoltaic-facility-in-italy",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3e5abced5dee81d78b0cc1c33a7b58f4",
+    "collectedAt": "2026-09-29T20:23:35.143Z",
+    "notionPageId": "3e5abced5dee81d78b0cc1c33a7b58f4",
+    "fingerprint": "notion|057732e33821195ef996"
+  },
+  {
     "date": "2026-09-23",
     "country": "中国",
     "geo": "中国",
@@ -170,7 +265,7 @@ window.DAILY_NEWS_DATA=[
     ],
     "tags": "AIDC AIDC 全国",
     "company": "中国相关企业",
-    "title": "JA晶澳提出\"绿色词元指标\"(GTI)，推动AI算力绿电可验证可追溯",
+    "title": "晶澳提出\"绿色词元指标\"(GTI)，推动AI算力绿电可验证可追溯",
     "summary": "9月16日，2026\"两湖对话\"绿色低碳高质量发展国际合作对接会在武汉举行，JA晶澳受邀参会并提出\"绿色词元指标\"（Green Token Index，GTI），围绕\"AI Token计算所消耗电力中的绿色能源占比\"这一核心指标，界定绿色电力边界、提供占比核算口径并引入绿色算力评价体系。绿电供给端，晶澳为阿联酋RTC光储项目（5.2GW光伏+19GWh储能供应3GW组件；调度端，晶澳智慧能源E-Link Agent OS调度系统可帮助工商业园区降低15%-30%用能成本；量化端，GTI可量化每单位Token生成过程中的绿电覆盖比例。 解读：反映出AIDC/算电协同赛道正从单纯的电力供应竞争，升级为绿色属性标准化与可信度的竞争。GTI这类量化框架一旦被数据中心、云服务商采纳为采购标准，绿电溯源认证能力将成为电站资产议价的新筹码，尤其利好已布局绿证/CCER体系并与AI算力客户直连的电站运营商。但需注意GTI目前仅是企业自主提出的行业倡议，尚未形成国家或行业的通用标准。",
     "sourceName": "mp.weixin.qq.com",
     "sourceUrl": "https://mp.weixin.qq.com/s/_YwFLzq9-HyAxUvDqBZxxg",
@@ -179,7 +274,7 @@ window.DAILY_NEWS_DATA=[
     "id": "notion|3e8abced5dee81b5a3f9f53795b125e4",
     "collectedAt": "2026-09-28T08:05:25.979Z",
     "notionPageId": "3e8abced5dee81b5a3f9f53795b125e4",
-    "fingerprint": "notion|5f4609b8f77ba18656bf"
+    "fingerprint": "notion|b132c1ab6f3a82ced362"
   },
   {
     "date": "2026-09-22",
