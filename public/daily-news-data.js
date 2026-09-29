@@ -1,5 +1,27 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-09-28",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": "集中式 交易 PPA 可再生能源证书",
+    "company": "Constellation Energy/Toyota Motor North America",
+    "title": "Constellation与丰田签署15年得州太阳能购电协议",
+    "summary": "Constellation Energy与丰田北美签署为期15年的可再生能源协议，Constellation将购买得克萨斯州米拉姆县203.97MW的Milano太阳能项目所发电力，丰田获得该项目产生的可再生能源证书（REC），以支持其在北美实现100%可再生电力消费的目标。该项目由Ferrovial Energy开发，预计2027年9月投运。",
+    "sourceName": "Renewable Watch",
+    "sourceUrl": "https://renewablewatch.in/2026/09/28/constellation-and-toyota-sign-solar-ppa-in-texas/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Constellation|Toyota Milano太阳能PPA|203.97MW|PPA",
+    "id": "daily|2026-09-28|美国|Constellation丰田PPA",
+    "collectedAt": "2026-09-29T00:54:16.000Z"
+  },
+  {
     "date": "2026-09-26",
     "country": "美国",
     "geo": "美洲",
@@ -137,6 +159,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-09-22",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "项目审批",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 项目审批 BESS",
+    "company": "意大利环境与能源安全部(MASE)",
+    "title": "意大利9月已核准2374MW新能源项目含110MW电池储能",
+    "summary": "意大利环境与能源安全部（MASE）9月以来已累计核准2374MW新能源项目，其中包含110MW电池储能系统。9月11日核准6个项目共753.4MW，此前9月7日核准5个项目共603MW。位于萨丁岛的\"Ittiri A/B\"两个储能项目在遭遇地方及区域机构反对意见的情况下仍获批，显示意大利持续加快储能项目审批节奏。",
+    "sourceName": "Energy Storage (ess-news.com)",
+    "sourceUrl": "https://www.ess-news.com/2026/09/22/italy-authorizes-2-3-gw-in-september-so-far-including-110-mw-bess-despite-local-opposition/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|MASE|9月核准2374MW|110MW电池储能|项目审批",
+    "id": "daily|2026-09-22|意大利|MASE九月核准2.3GW",
+    "collectedAt": "2026-09-29T00:54:16.000Z"
+  },
+  {
+    "date": "2026-09-22",
     "country": "美国",
     "geo": "美洲",
     "category": "市场信息",
@@ -178,6 +222,27 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-28T08:05:25.979Z",
     "notionPageId": "3e4abced5dee81b6b5e1c370c9c5b1cb",
     "fingerprint": "notion|aa8072b0b31a5ccbb1dc"
+  },
+  {
+    "date": "2026-09-21",
+    "country": "安徽",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "技术量产",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 大容量电芯 电池制造",
+    "company": "派能科技",
+    "title": "派能科技588Ah/601Ah大容量储能电芯合肥量产下线",
+    "summary": "9月21日，派能科技588Ah、601Ah大容量储能电芯量产下线仪式在合肥基地举行，两款电芯已批量生产超100MWh。601Ah电芯能量密度达425.8Wh/L，循环寿命超12000次，能量效率达96.5%。公司基于两款大电芯开发的PyOcean系列6.25MWh、8MWh大型集装箱储能系统已获得市场订单并实现交付。",
+    "sourceName": "PR Newswire",
+    "sourceUrl": "https://www.prnewswire.com/apac/zh/news-releases/588ah601ah-302884898.html",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|派能科技|601Ah电芯量产下线|100MWh|技术量产",
+    "id": "daily|2026-09-21|中国|派能601Ah电芯量产",
+    "collectedAt": "2026-09-29T00:54:16.000Z"
   },
   {
     "date": "2026-09-21",
@@ -378,6 +443,71 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-20T13:24:30.097Z",
     "notionPageId": "3e1abced5dee813481e5d2717d453a88",
     "fingerprint": "notion|2261428c32e332d1dc66"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "河北/北京",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "电力交易",
+    "businessTags": [
+      "绿电",
+      "交易"
+    ],
+    "tags": "绿电 交易 绿电直连 跨省交易 冀北",
+    "company": "华北能源监管局",
+    "title": "冀北绿电首次省间集中竞价交易直供北京成交",
+    "summary": "2026年9月18日，冀北绿电首次省间集中竞价交易成功成交，成交电量超300万千瓦时，京冀两地60余家市场主体参与申报，标志着冀北新能源场站与北京电力用户点对点直接交易机制正式落地。华北能源监管局9月23日表示，将督导电力交易中心常态化组织月度冀北送京绿电交易，扩大交易规模与覆盖范围。",
+    "sourceName": "每日经济新闻",
+    "sourceUrl": "https://www.nbd.com.cn/articles/2026-09-23/4590536.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|华北能源监管局|冀北绿电送京首次成交|300万千瓦时|电力交易",
+    "id": "daily|2026-09-18|中国|冀北绿电送京交易",
+    "collectedAt": "2026-09-29T00:54:16.000Z"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "合作签约",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 BESS 框架协议",
+    "company": "阳光电源(Sungrow)/be.storaged",
+    "title": "阳光电源与德国be.storaged签署1.6GWh储能框架协议",
+    "summary": "阳光电源与德国工程公司be.storaged签署框架协议，计划未来两年在德国合作开发1.6GWh电池储能项目管线。双方将统一技术方案与工作流程，be.storaged负责开发、规划、采购、施工及运维支持，阳光电源提供储能系统与电力电子设备，并计划逐步导入新一代PowerTitan 3.0大型储能系统。",
+    "sourceName": "PR Newswire",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/sungrow-and-bestoraged-strengthen-partnership-for-gigawatt-hour-scale-battery-storage-projects-302883068.html",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|阳光电源|be.storaged 1.6GWh框架协议|储能|合作签约",
+    "id": "daily|2026-09-18|德国|阳光电源德国储能框架",
+    "collectedAt": "2026-09-29T00:54:16.000Z"
+  },
+  {
+    "date": "2026-09-18",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": "集中式 融资 项目融资 太阳能",
+    "company": "Encavis",
+    "title": "Encavis完成2.82亿欧元意大利351MW光伏组合项目融资",
+    "summary": "德国可再生能源运营商Encavis为其意大利351MW光伏项目组合完成2.82亿欧元长期无追索项目融资，由德意志银行卢森堡分行牵头的银行团提供，包括美银欧洲、拜仁州立银行、法国巴黎银行意大利分行、荷兰合作银行和意大利联合信贷银行。组合包含265MW的\"Giotto\"项目及另外约86MW的四个项目，分布在拉齐奥、普利亚、皮埃蒙特和艾米利亚-罗马涅大区，融资结构还为未来加装储能预留了灵活性。",
+    "sourceName": "Energy Global",
+    "sourceUrl": "https://www.energyglobal.com/solar/18092026/wfw-advises-encavis-on-282-million-351-mw-italian-solar-portfolio-project-financing/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|Encavis|351MW光伏组合融资|2.82亿欧元|融资",
+    "id": "daily|2026-09-18|意大利|Encavis意大利融资",
+    "collectedAt": "2026-09-29T00:54:16.000Z"
   },
   {
     "date": "2026-09-18",
