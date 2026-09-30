@@ -25,6 +25,108 @@
     "fingerprint": "notion|0298f4963bda791f06eb"
   },
   {
+    "date": "2026-09-29",
+    "country": "哥伦比亚",
+    "geo": "全球",
+    "category": "同行动态",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式光伏"
+    ],
+    "company": "ERC",
+    "title": "中国电建在哥伦比亚完成15.99MW Francisco Juana光伏项目",
+    "summary": "中国电力建设集团(POWERCHINA)完成哥伦比亚15.99MW Francisco Juana光伏项目的建设与交付，进一步扩充其在拉丁美洲的已完工光伏资产组合。 解读：该项目虽规模不大,但体现了中国工程承包企业在拉美光伏市场的持续深耕，以EPC总承包模式积累属地化经验和业绩背书，为后续争取更大规模项目奠定基础。",
+    "sourceName": "solarquarter.com",
+    "sourceUrl": "https://solarquarter.com/2026/09/29/powerchina-completes-15-99-mw-francisco-juana-solar-pv-project-in-colombia",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3ebabced5dee8100bd93e194963975e7",
+    "collectedAt": "2026-09-30T20:27:23.001Z",
+    "notionPageId": "3ebabced5dee8100bd93e194963975e7",
+    "fingerprint": "notion|9497a9c861b3a8bb4dfa"
+  },
+  {
+    "date": "2026-09-29",
+    "country": "波兰",
+    "geo": "全球",
+    "category": "同行动态",
+    "eventType": "开工",
+    "businessTags": [
+      "AIDC"
+    ],
+    "tags": [
+      "AIDC"
+    ],
+    "company": "波兰相关企业",
+    "title": "波兰电力零售商Energa Obrót与Konin数据中心项目签署供电意向书",
+    "summary": "波兰电力零售商Energa Obrót、可再生能源开发商 Central Energy Group（CGE） 与科宁市政府签署意向书(LOI)，计划在波兰中部科宁建设一个面向 AI 的大型数据中心。项目首期为 100MW IT 负载，若后续获批，整体规模可扩大到 260MW；总投资估计接近 30 亿欧元，预计于 2027 年初开工。 解读：该项目预计由科宁燃煤电站、电池储能系统（BESS）和若干太阳能电站共同满足数据中心用电需求，以保证供电可靠性的同时逐步提升清洁能源占比。短期内煤电仍将服务于部分数据中心电力。",
+    "sourceName": "datacenterdynamics.com",
+    "sourceUrl": "https://www.datacenterdynamics.com/en/news/electricity-retailer-energa-obr%C3%B3t-signs-letter-of-intent-for-100mw-data-center-in-konin-poland",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3ebabced5dee811a8491c76dda52c9be",
+    "collectedAt": "2026-09-30T20:27:23.001Z",
+    "notionPageId": "3ebabced5dee811a8491c76dda52c9be",
+    "fingerprint": "notion|9937d6b1e60ea48210d3"
+  },
+  {
+    "date": "2026-09-29",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "技术",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "储能"
+    ],
+    "company": "德国相关企业",
+    "title": "德国SMA Solar首获电网构建型逆变器认证,可参与惯量市场交易",
+    "summary": "德国SMA Solar Technology成为首家通过德国VDE FNN 2.1版新规认证的逆变器制造商，其平台满足德国构网型(grid-forming)运行的相关要求。该认证使配备SMA设备的储能系统有资格参与德国\"瞬时储备\"(Momentanreserve)惯量市场，该市场合同价值区间为76至888.5欧元/MWs（人民币 577.75-6754.38元/MWs）。 解读：储能系统提供电网稳定性服务的商业化路径进一步打通。选择具备电网构建型认证的逆变器设备将成为参与惯量等高价值辅助服务市场、提升项目综合收益率的关键考量因素。 跟网型变流器：依赖电网已经存在的电压和频率基准运行。构网型变流器：可主动建立和维持电压、频率参考，并在扰动下提供类似同步机的支撑能力。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/sma-battery-inverter-first-to-win-grid-forming-certification-for-german-inertia-market",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3ebabced5dee8125a692db68159b4806",
+    "collectedAt": "2026-09-30T20:27:23.001Z",
+    "notionPageId": "3ebabced5dee8125a692db68159b4806",
+    "fingerprint": "notion|3cb131faaefa37010518"
+  },
+  {
+    "date": "2026-09-29",
+    "country": "印尼",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "算电协同",
+      "AIDC"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能",
+      "算电协同",
+      "AIDC"
+    ],
+    "company": "PLN",
+    "title": "印尼拟修订RUPTL以容纳未来2–3年100GWp光伏目标，并配套47,758公里智能电网输电",
+    "summary": "印尼经济统筹部长表示，政府将修订现行《国家电力供应规划》（RUPTL），未来2-3年实现100GWp光伏目标。为消纳大规模新增可再生能源，政府计划建设约 47,758 公里输电线路，并配套智能电网，以支撑新能源消纳和数据中心等新增负荷。政府还在扩大农村电气化计划，以提升群岛各地的能源普及率。2026 年的年度覆盖目标为 4,390 个地点，较 2025 年的 1,505 个显著增加，目标是将全国电气化率提升至 99% 以上。 解读：政府将光伏与储能视为电力部门脱碳的关键抓手，并预计能使印尼实现净零排放的时间较现行的 2060 年目标提前约 10–15 年，同时农村电气化也是政策重点。但在群岛型电网、PLN 单一买方结构、可再生能源消纳能力和项目融资条件尚待完善的背景下，电网建设与制度设计很可能比光伏组件供应更构成主要瓶颈。",
+    "sourceName": "en.antaranews.com",
+    "sourceUrl": "https://en.antaranews.com/amp/news/433417/govt-to-revise-electricity-master-plan-for-100-gw-solar-target",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3ebabced5dee8142a3f6f9aaa3a54f49",
+    "collectedAt": "2026-09-30T20:27:23.001Z",
+    "notionPageId": "3ebabced5dee8142a3f6f9aaa3a54f49",
+    "fingerprint": "notion|cd40253d33140b9c3cfe"
+  },
+  {
     "date": "2026-09-28",
     "country": "中国",
     "geo": "中国",
