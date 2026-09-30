@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-09-30",
+    "country": "老挝",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式光伏",
+      "老挝",
+      "EPC",
+      "一带一路"
+    ],
+    "company": "中国能源建设(中国葛洲坝集团国际工程有限公司)",
+    "title": "中国能建葛洲坝老挝阿速坡300MW光伏EPC签约，合同额约4.5亿美元",
+    "summary": "中国能源建设(03996.HK)公告，旗下中国葛洲坝集团国际工程有限公司与老挝Wang Investment Sole Co. LTD签订老挝阿速坡省300兆瓦光伏电站EPC合同，合同金额约4.5亿美元，工期十八个月(自开工日起算)。 解读：该项目为东南亚地区单体容量较大的光伏电站之一，是中老两国能源合作和共建\"一带一路\"的又一代表性项目，反映出中国工程企业在东南亚光伏EPC市场的持续拓展。",
+    "sourceName": "aastocks.com / usmart.hk",
+    "sourceUrl": "https://www.usmart.hk/en/news-detail/6584355868266070142",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "老挝|中国能源建设葛洲坝|300MW光伏EPC|4.5亿美元|签约",
+    "id": "daily|2026-09-30|老挝|葛洲坝300MW光伏EPC签约",
+    "collectedAt": "2026-09-30T00:54:06.000Z"
+  },
+  {
+    "date": "2026-09-25",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "中标",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "储能",
+      "BESS",
+      "印度",
+      "独立储能"
+    ],
+    "company": "NLC India Renewables",
+    "title": "NLC India中标SJVN印度哈里亚纳邦265MW/530MWh独立储能项目",
+    "summary": "印度国有电力企业SJVN公布，NLC India Renewables (NIRL)中标其在哈里亚纳邦帕尼帕特(Panipat)附近的265MW/530MWh独立电池储能系统(BESS)项目，中标报价为2.35万卢比/MW/月，项目分为250MW/500MWh及15MW/30MWh两部分，可享受最高每MWh 18万卢比的可行性缺口补助(VGF)。SJVN将与NIRL签订为期12年的储能购电协议(BESPA)。 解读：该项目延续印度独立储能VGF补贴招标模式，为大型电力央企在北部电网调峰、新能源消纳方面提供了新的储能容量参考基准。",
+    "sourceName": "mercomindia.com",
+    "sourceUrl": "https://mercomindia.com/sjvn-announces-winner-of-265-mw-530-mwh-battery-storage-auction",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|NLCIndiaRenewables|SJVN|265MW530MWh独立储能|中标",
+    "id": "daily|2026-09-25|印度|NLC储能中标SJVN",
+    "collectedAt": "2026-09-30T00:54:06.000Z"
+  },
+  {
     "date": "2026-09-28",
     "country": "中国",
     "geo": "中国",
