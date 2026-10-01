@@ -369,6 +369,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-09-23",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "项目投运",
+    "businessTags": [
+      "储能",
+      "绿电"
+    ],
+    "tags": "储能 绿电 光储换电站 零碳 离网 新疆",
+    "company": "隆基绿能 / 蔚来",
+    "title": "隆基蔚来联合上线全球首座零碳离网光储换电站",
+    "summary": "9月23日，全球首座零碳离网光伏储能换电站在新疆G30连霍高速星星峡服务区正式投运，由蔚来与隆基绿能共同打造。该站采用隆基BLOCK移动能源站与H2D储能系统，以光伏为唯一能源来源构建“发-储-用”闭环，可根据光照自动切换白天光伏直供蓄能、夜间电池放电、连续阴天应急模式三种运行状态，无需人工干预，为电网薄弱偏远地区的换电网络提供零碳供电范例。",
+    "sourceName": "Gasgoo盖世汽车",
+    "sourceUrl": "https://autonews.gasgoo.com/articles/ev/2103020189099962369",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|隆基绿能-蔚来|新疆星星峡服务区|零碳离网光储换电站|项目投运",
+    "id": "daily|2026-09-23|中国|隆基蔚来零碳换电站",
+    "collectedAt": "2026-10-01T00:54:54.634Z"
+  },
+  {
+    "date": "2026-09-23",
     "country": "意大利",
     "geo": "欧洲",
     "category": "同行动态",
@@ -454,6 +476,27 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-28T08:05:25.979Z",
     "notionPageId": "3e4abced5dee81b6b5e1c370c9c5b1cb",
     "fingerprint": "notion|aa8072b0b31a5ccbb1dc"
+  },
+  {
+    "date": "2026-09-21",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "技术量产",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 大容量电芯 LFP 合肥",
+    "company": "派能科技(Pylontech)",
+    "title": "派能科技588Ah/601Ah大容量储能电芯合肥基地量产下线",
+    "summary": "9月21日，派能科技在合肥制造基地启动588Ah与601Ah大容量磷酸铁锂储能电芯量产，目前已交付超100MWh。新电芯将配套公司新一代PyOcean 6.25MWh及8MWh储能系统产品，核心工序实现100%自动化，由超120台工业机器人和180套智能制造设备支持，具备全流程质量数据可追溯能力。",
+    "sourceName": "Placera（Cision新闻稿）",
+    "sourceUrl": "https://www.placera.se/pressmeddelanden/pylontech-starts-mass-production-of-588ah-and-601ah-lfp-cells-for-ess-20260922",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|派能科技|合肥基地|588Ah-601Ah|技术量产",
+    "id": "daily|2026-09-21|中国|派能科技电芯量产",
+    "collectedAt": "2026-10-01T00:54:54.634Z"
   },
   {
     "date": "2026-09-21",
@@ -657,6 +700,27 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-09-18",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "合作协议",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 BESS 框架协议 PowerTitan",
+    "company": "阳光电源(Sungrow) / be.storaged",
+    "title": "阳光电源与be.storaged签署德国1.6GWh储能框架协议",
+    "summary": "阳光电源德国子公司Sungrow Deutschland与当地储能开发商be.storaged签署框架协议，深化大型电池储能项目合作，双方计划在未来两年内在德国联合落地总规模达1.6GWh的储能项目管线，合作涵盖项目规划、开发、实施及运维支持。阳光电源将在相关项目中加大部署其新一代大型储能系统PowerTitan 3.0，是公司持续拓展欧洲储能市场的最新动作。",
+    "sourceName": "SolarQuarter",
+    "sourceUrl": "https://solarquarter.com/2026/09/18/sungrow-and-be-storaged-sign-framework-agreement-for-1-6-gwh-bess-pipeline-in-germany/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|阳光电源-be.storaged|德国BESS管道|1.6GWh|合作协议",
+    "id": "daily|2026-09-18|德国|阳光电源1.6GWh储能框架",
+    "collectedAt": "2026-10-01T00:54:54.634Z"
+  },
+  {
+    "date": "2026-09-18",
     "country": "泰国",
     "geo": "亚洲",
     "category": "市场信息",
@@ -811,6 +875,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-20T07:21:02.173Z",
     "notionPageId": "3dfabced5dee8102af5bf3fc23bf0984",
     "fingerprint": "notion|fd67d2ec5e4fba87843e"
+  },
+  {
+    "date": "2026-09-16",
+    "country": "摩洛哥",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "项目投运",
+    "businessTags": [
+      "储能",
+      "绿电"
+    ],
+    "tags": "储能 绿电 磷矿 OCP LFP电池",
+    "company": "远景能源(Envision Energy) / OCP Green Energy",
+    "title": "远景能源为摩洛哥OCP磷矿基地建成25MW/125MWh储能系统",
+    "summary": "远景能源在摩洛哥OCP Green Energy位于Benguerir的磷矿基地部署完成一套25MW/125MWh磷酸铁锂电池储能系统，投资约1.7亿摩洛哥迪拉姆（约1800万美元），与现场既有67MWp光伏电站配套运行，用于存储白天光伏发电并在用电高峰时段放电，减少该工业基地的峰时购电需求。该项目被称为摩洛哥首个大型电池储能设施，目前已完成能量化并进入测试调试阶段。",
+    "sourceName": "ESS News",
+    "sourceUrl": "https://www.ess-news.com/2026/09/16/ocp-deploys-25-mw-125-mwh-lfp-battery-at-moroccan-phosphate-mine/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "摩洛哥|远景能源-OCP|Benguerir磷矿基地|25MW125MWh|项目投运",
+    "id": "daily|2026-09-16|摩洛哥|远景能源摩洛哥储能",
+    "collectedAt": "2026-10-01T00:54:54.634Z"
   },
   {
     "date": "2026-09-16",
