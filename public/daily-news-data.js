@@ -227,6 +227,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-09-25",
+    "country": "新加坡",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "收购",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 跨境并购 亚太 数据中心配套",
+    "company": "ESR / Aquila Clean Energy APAC",
+    "title": "ESR收购Aquila亚太清洁能源平台，获1.6GW光储资产",
+    "summary": "新加坡地产及数据中心运营商ESR宣布收购德国Aquila集团旗下Aquila Clean Energy APAC 100%股权，交易金额未披露。该平台持有覆盖澳大利亚、新西兰、韩国、日本和中国台湾的1.6GW光伏、储能及风电资产组合，涵盖运营、在建及开发阶段项目。交易预计于2027年第一季度完成，ESR表示清洁能源基础设施与其物流地产、数据中心业务具有较强协同性。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/esr-buys-aquila-clean-energy-apac-to-support-data-centre-business/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "新加坡|ESR-Aquila Clean Energy APAC|亚太光储组合|1.6GW|收购",
+    "id": "daily|2026-09-25|新加坡|ESR收购Aquila亚太平台",
+    "collectedAt": "2026-10-02T00:54:24Z"
+  },
+  {
+    "date": "2026-09-25",
     "country": "纳米比亚",
     "geo": "全球",
     "category": "市场信息",
