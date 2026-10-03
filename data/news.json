@@ -4680,5 +4680,103 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-11",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "产能审批",
+      "电池扩产"
+    ],
+    "company": "储能电池行业（综合多家企业核实）",
+    "title": "多家媒体核实储能电池新建产能审批节奏收紧",
+    "summary": "多家财经媒体近日向多家电池企业核实，储能电池新建产能项目的审批节奏正在收紧，相关部门正对行业现有及在建产能进行全面摸底排查。已备案登记并实际开工建设的项目不受影响，但仍处于规划阶段、尚未正式开工的新建产能项目审批被暂缓。报道称本轮调整并非一刀切式停批，后续节奏将结合市场供需现状动态调整，意在防范储能行业重复此前光伏产业的产能过剩路径。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://news.10jqka.com.cn/20260911/c679801006.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|储能电池产能审批|新建项目暂缓摸底排查|防范过剩|政策",
+    "id": "daily|2026-09-11|中国|储能产能审批收紧",
+    "collectedAt": "2026-10-03T00:56:10Z"
+  },
+  {
+    "date": "2026-09-07",
+    "country": "上海",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "零碳园区",
+      "分布式"
+    ],
+    "tags": [
+      "零碳园区",
+      "上海"
+    ],
+    "company": "上海市发展和改革委员会 / 上海市经济和信息化委员会",
+    "title": "上海印发零碳园区建设工作方案",
+    "summary": "上海市发展和改革委员会、上海市经济和信息化委员会联合印发《上海市零碳园区建设工作方案》（沪发改环资〔2026〕130号），于2026年9月7日发布实施。方案落实国家发改委、工信部、国家能源局关于零碳园区建设的部署，提出通过建设分布式光伏、探索分散式风电与园区微电网、推动生物质能及工业余热利用、强化绿氢应用等路径加快园区能源结构转型。 解读：作为超大城市样本，上海此次方案为零碳园区建设提供了分布式新能源与微电网结合的落地路径，有助于带动本地光伏、储能及绿电消纳相关需求释放。",
+    "sourceName": "上海市发展和改革委员会",
+    "sourceUrl": "https://fgw.sh.gov.cn/cmsres/71/71490e6d58394947a807cf3fdd97b912/5b418e690b7af74f8b7c7632a95da2af.pdf",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "上海|市发改委-市经信委|零碳园区建设工作方案|沪发改环资2026-130号|政策",
+    "id": "daily|2026-09-07|中国|上海零碳园区方案",
+    "collectedAt": "2026-10-03T00:56:10Z"
+  },
+  {
+    "date": "2026-09-25",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "中标",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "BESS拍卖",
+      "VGF补贴"
+    ],
+    "company": "SJVN / NLC India Renewables",
+    "title": "NLC India Renewables中标SJVN印度265MW储能项目",
+    "summary": "印度国有发电企业SJVN公布其哈里亚纳邦265MW/530MWh独立电池储能系统（BESS）招标结果，NLC India Renewables（NIRL）以每兆瓦每月2.35万卢比的报价中标，中标总额约6.36亿卢比。项目分为250MW/500MWh与15MW/30MWh两部分，须建于哈里亚纳邦电力发电公司（HPGCL）Panipat热电站220kV变电站附近，并可获得每MWh最高18万卢比的可行性缺口补助（VGF）支持。SJVN将与NIRL签订为期12年的储能购电协议（BESPA）。",
+    "sourceName": "Mercom India",
+    "sourceUrl": "https://mercomindia.com/sjvn-announces-winner-of-265-mw-530-mwh-battery-storage-auction",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|SJVN-NLC India Renewables|Haryana BESS拍卖|265MW-530MWh|中标",
+    "id": "daily|2026-09-25|印度|SJVN储能拍卖",
+    "collectedAt": "2026-10-03T00:56:10Z"
+  },
+  {
+    "date": "2026-09-22",
+    "country": "加拿大",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "电网侧储能",
+      "大西洋加拿大"
+    ],
+    "company": "Nova Scotia Power",
+    "title": "Nova Scotia Power三座电池储能站全部投运",
+    "summary": "加拿大Nova Scotia Power公司宣布其位于Bridgewater、Waverley和White Rock的三座各50MW/200MWh电池储能电站已全部投入运营，合计规模达150MW/600MWh，成为大西洋加拿大地区规模最大的电池储能项目组合。该项目获得加拿大联邦政府1.09亿加元资金支持，以及加拿大基础设施银行1.382亿加元贷款。项目旨在支持该省煤电退出目标，并提升高峰时段及停电期间的电网可靠性，该省预计到2030年需新增300-400MW储能以实现80%可再生能源占比目标。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/nova-scotia-power-switches-on-atlantic-canadas-biggest-battery-storage-projects/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "加拿大|Nova Scotia Power|Bridgewater-Waverley-White Rock|150MW-600MWh|投运",
+    "id": "daily|2026-09-22|加拿大|NS Power储能投运",
+    "collectedAt": "2026-10-03T00:56:10Z"
   }
 ]
