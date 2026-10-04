@@ -114,6 +114,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-09-28",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 EPC 维多利亚州",
+    "company": "Gamuda / Yanara",
+    "title": "Gamuda获澳大利亚300MW光储项目EPC合同，金额7.9亿澳元",
+    "summary": "Gamuda Engineering Pty Ltd（马来西亚Gamuda集团子公司）与MEH SubCo Pty Ltd于9月28日签署Mortlake能源枢纽一期EPC合同，合同金额约7.9亿澳元（约合2.28亿令吉）。项目位于澳大利亚维多利亚州，为300MW混合可再生能源项目，包含435MWp光伏和1449MWh电池储能系统(BESS)，将通过Mortlake接驳站接入维州500kV电网。合同工期约两年，预计2026年四季度实现融资关闭后全面开工，双方还计划一个月内另行签署约4500万澳元的运维合同。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/gamuda-and-yanara-sign-epc-contract-for-300mw-solar-plus-storage-project-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Gamuda-Yanara|Mortlake Energy Hub|7.9亿澳元300MW|签约",
+    "id": "daily|2026-09-28|澳大利亚|Mortlake能源枢纽EPC",
+    "collectedAt": "2026-10-04T00:53:53Z"
+  },
+  {
+    "date": "2026-09-28",
     "country": "中国",
     "geo": "中国",
     "category": "市场信息",
@@ -410,6 +432,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-28T08:05:25.979Z",
     "notionPageId": "3e8abced5dee81b5a3f9f53795b125e4",
     "fingerprint": "notion|b132c1ab6f3a82ced362"
+  },
+  {
+    "date": "2026-09-22",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "收购",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": "集中式 交易 农光互补 agrivoltaics",
+    "company": "Kelag International",
+    "title": "奥地利Kelag International收购意大利64.4MW农光互补项目组合",
+    "summary": "Kelag International（奥地利Kelag集团旗下企业）收购德国JUWI旗下8个意大利光伏项目，合计约64.4MW，预计年发电量约1.07亿千瓦时。项目主要位于伦巴第和艾米利亚-罗马涅大区，其中7个已具备开工建设条件、1个处于开发后期阶段，均为农光互补(agrivoltaics)类型。交易完成后Kelag International将负责项目后续开发、建设与运营，进一步扩充其在意大利的光伏资产布局，交易金额未披露。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/kelag-international-buys-64-4mw-italian-agrivoltaics-portfolio/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|Kelag International-JUWI|8个项目64.4MW|1.07亿千瓦时|收购",
+    "id": "daily|2026-09-22|意大利|Kelag收购农光项目",
+    "collectedAt": "2026-10-04T00:53:53Z"
   },
   {
     "date": "2026-09-22",
