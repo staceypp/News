@@ -4680,5 +4680,30 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-28",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "EPC",
+      "光储一体"
+    ],
+    "company": "Gamuda Engineering / Yanara",
+    "title": "Gamuda与Yanara签订澳大利亚光储项目EPC合同",
+    "summary": "马来西亚建筑企业Gamuda旗下Gamuda Engineering于2026年9月28日与开发商Yanara（原BrightNight Asia Pacific）签署约7.9亿澳元的EPC合同，承建维多利亚州Mortlake Energy Hub一期项目，涵盖435MWp光伏电站和1449MWh电池储能系统(BESS)。合同工期两年，目标2029年1月完工，双方另拟在一个月内签署约4500万澳元的运维合同。项目全面施工尚需在2026年第四季度完成融资关闭(financial close)后方可推进。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/gamuda-and-yanara-sign-epc-contract-for-300mw-solar-plus-storage-project-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Gamuda|MortlakeEPC|435MWp|1449MWh|签约",
+    "id": "daily|2026-09-28|澳大利亚|MortlakeEPC",
+    "collectedAt": "2026-10-05T00:52:58.237Z"
   }
 ]
