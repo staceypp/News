@@ -4680,5 +4680,107 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-10-01",
+    "country": "巴基斯坦",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "合作",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "电池",
+      "合资",
+      "中国企业出海"
+    ],
+    "company": "河北聚航能源科技集团 / Kohinoor Energy",
+    "title": "河北聚航能源与巴基斯坦Kohinoor Energy签署储能电池合资MOU",
+    "summary": "巴基斯坦上市公司Kohinoor Energy Limited与中国河北聚航能源科技集团10月1日签署非约束性合作备忘录，拟在巴基斯坦合资组装、制造及销售锂电池包、电池储能系统（BESS）及配套电气设备。项目计划分阶段推进：首期年产能约50-100MWh，视市场需求与经营情况逐步扩大至300-500MWh，远期达700-1000MWh。协议尚需双方进一步评估、尽职调查及监管审批，是中资储能企业拓展南亚市场的最新案例。",
+    "sourceName": "Mettis Global News",
+    "sourceUrl": "https://mettisglobal.news/Kohinoor-Energy-Juhang-Energy-sign-MoU-on-battery-joint-venture-63898",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "巴基斯坦|河北聚航-Kohinoor Energy|锂电池储能合资MOU|50-1000MWh|合作",
+    "id": "daily|2026-10-01|巴基斯坦|聚航储能合资MOU",
+    "collectedAt": "2026-10-06T00:53:15Z"
+  },
+  {
+    "date": "2026-09-30",
+    "country": "保加利亚",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "绿电"
+    ],
+    "tags": [
+      "光储一体",
+      "欧洲"
+    ],
+    "company": "Renalfa IPP / Eurowind Energy",
+    "title": "保加利亚Tenevo光储混合电站投运，242MWp光伏配772MWh储能",
+    "summary": "Renalfa IPP（Renalfa Solarpro Group与RGreen Invest合资）与丹麦开发商Eurowind Energy9月30日宣布，位于保加利亚东南部Tundzha市的Tenevo光储混合可再生能源园区正式投运。项目包含242MWp光伏电站及两套合计311MW/772.5MWh电池储能系统，预计年发电量约3.32亿千瓦时。项目由欧洲复兴开发银行（EBRD，5000万欧元）与Raiffeisen Bank International（5300万欧元光伏部分、合计6000万欧元储能部分）提供融资支持，双方后续还计划在同一园区加装250MW风电。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/renalfa-ipp-eurowind-inaugurate-242mw-bulgaria-solar-plus-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "保加利亚|Renalfa IPP-Eurowind Energy|Tenevo光储电站投运|242MWp-772.5MWh|投运",
+    "id": "daily|2026-09-30|保加利亚|Tenevo光储电站投运",
+    "collectedAt": "2026-10-06T00:53:15Z"
+  },
+  {
+    "date": "2026-10-02",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "建成",
+    "businessTags": [
+      "集中式",
+      "绿电"
+    ],
+    "tags": [
+      "公共电力机构",
+      "科罗拉多"
+    ],
+    "company": "ContourGlobal / Platte River Power Authority",
+    "title": "ContourGlobal科罗拉多324MW光伏电站Black Hollow Sun建成",
+    "summary": "ContourGlobal宣布其位于美国科罗拉多州Weld County的Black Hollow Sun光伏项目完成全部建设，较原计划提前四个月。项目分两期：一期185MWp已于2025年9月投运，二期139MWp完成组件安装后进入并网调试阶段，建成后全年发电量约6.08亿千瓦时，将成为科罗拉多北部最大光伏项目，电量供应Platte River Power Authority，服务Fort Collins、Loveland、Estes Park、Longmont等社区用户。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/contourglobal-completes-construction-at-324mw-solar-pv-complex-in-colorado/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|ContourGlobal-Platte River Power Authority|Black Hollow Sun光伏电站建成|324MW|建成",
+    "id": "daily|2026-10-02|美国|Black Hollow Sun建成",
+    "collectedAt": "2026-10-06T00:53:15Z"
+  },
+  {
+    "date": "2026-10-02",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "建成",
+    "businessTags": [
+      "集中式",
+      "绿电"
+    ],
+    "tags": [
+      "福特汽车",
+      "密歇根"
+    ],
+    "company": "DTE Energy / Ford",
+    "title": "DTE Energy为福特建成密歇根州100MW Cold Creek光伏电站",
+    "summary": "DTE Energy宣布完成位于密歇根州Coldwater附近的100MW Cold Creek光伏电站建设，项目2025年4月开工，总投资1.94亿美元，由福特汽车通过DTE的CleanVision MIGreenPower自愿绿电项目出资，年发电量约可满足2.3万-2.5万户家庭用电需求。该项目是DTE为支持福特在密歇根州制造环节实现100%无碳电力承诺而建设的首个配套项目，福特计划到2027年底前实现这一目标。",
+    "sourceName": "Solar Builder",
+    "sourceUrl": "https://solarbuildermag.com/projects/dte-completes-construction-on-cold-creek-solar/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|DTE Energy-Ford|Cold Creek光伏电站建成|100MW-1.94亿美元|建成",
+    "id": "daily|2026-10-02|美国|Cold Creek光伏电站建成",
+    "collectedAt": "2026-10-06T00:53:15Z"
   }
 ]
