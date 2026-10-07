@@ -4680,5 +4680,80 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-30",
+    "country": "保加利亚",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "光储一体化",
+      "混合电站"
+    ],
+    "company": "Renalfa IPP / Eurowind Energy",
+    "title": "Renalfa IPP与Eurowind在保加利亚投运242MW光伏+773MWh储能电站",
+    "summary": "9月30日，Renalfa IPP与丹麦可再生能源开发商Eurowind Energy在保加利亚东南部通杰扎区（Tundzha）揭牌投运Tenevo光储混合电站。该项目光伏装机242MWp，配套储能规模达773MWh，分三期部署，首期65MW/260MWh电池系统已投运，由欧洲复兴开发银行（EBRD）和奥地利莱弗森国际银行（RBI）提供融资支持。Renalfa IPP是奥地利Renalfa Solarpro Group与法国投资机构RGreen Invest的合资公司，双方计划未来在该基地追加250MW风电装机。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/renalfa-ipp-eurowind-inaugurate-242mw-bulgaria-solar-plus-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "保加利亚|Renalfa IPP-Eurowind|Tenevo混合电站|242MW-773MWh|投运",
+    "id": "daily|2026-09-30|保加利亚|Tenevo光储电站",
+    "collectedAt": "2026-10-07T00:54:39Z"
+  },
+  {
+    "date": "2026-10-01",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能",
+      "绿电"
+    ],
+    "tags": [
+      "输电通道",
+      "BESS"
+    ],
+    "company": "印度联邦内阁",
+    "title": "印度内阁批准1.86万亿卢比绿色能源走廊三期，含50GWh储能",
+    "summary": "10月1日，印度总理莫迪主持联邦内阁会议，批准总投资约1.86万亿卢比（约193亿美元）的\"绿色能源走廊三期\"计划，强化省内输电网络，支撑最高135GW新能源电力消纳，实施期至2032-2033财年。其中约5000亿卢比将用于在新能源发电基地或关键电网节点部署50GWh电池储能系统（BESS），缓解间歇性出力、电网拥堵及非光伏时段供电缺口。印度政府同时提出到2035年非化石能源装机达到900GW的目标。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/india-approves-us19-3-billion-green-energy-corridor-phase-iii-with-50gwh-bess/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|印度联邦内阁|绿色能源走廊三期|193亿美元-50GWh|政策",
+    "id": "daily|2026-10-01|印度|绿色能源走廊三期",
+    "collectedAt": "2026-10-07T00:54:39Z"
+  },
+  {
+    "date": "2026-10-01",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "独立储能",
+      "债务融资"
+    ],
+    "company": "Linea Energy / DESRI",
+    "title": "Linea Energy完成美国得州250MW/500MWh储能项目债务融资交割",
+    "summary": "10月1日，美国储能开发商Linea Energy宣布完成其位于得克萨斯州厄普顿县（Upton County）Mesa View独立储能项目（250MW/500MWh）的债务融资及优先股权承诺交割。该融资由北德意志银行（NORD/LB）担任牵头安排行，德克萨斯资本银行（Texas Capital）参与银团贷款，D.E. Shaw可再生能源投资（DESRI）提供优先股权资金。项目预计2027年7月投运。",
+    "sourceName": "Finviz / PR Newswire",
+    "sourceUrl": "https://finviz.com/news/398151/linea-energy-closes-project-debt-financing-and-preferred-equity-commitment-for-250-mw-500-mwh-mesa-view-bess-in-texas",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Linea Energy-DESRI|Mesa View储能项目|250MW-500MWh|融资",
+    "id": "daily|2026-10-01|美国|Mesa View储能融资",
+    "collectedAt": "2026-10-07T00:54:39Z"
   }
 ]
