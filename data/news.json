@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-10-06",
+    "country": "日本",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": [
+      "工商业光伏"
+    ],
+    "company": "日本政策机构",
+    "title": "日本提出工商业光伏优先支持四大类别方案",
+    "summary": "日本资源能源厅(ANRE)向政府可再生能源专门小组提交提案，拟在2027年4月地面光伏电站退出固定电价(Feed-in Tariff ,FIT)及溢价补贴（Feed-in Premium, FIP）支持体系后，优先支持以下四类新建工商业光伏项目：(1)国有或地方政府土地上的项目；(2)市町村脱碳计划获批的项目；(3)光伏车棚项目；(4)机场、公路、铁路、港口等基础设施配套项目。该资源能源厅已对10个候选类别进行评估，拟不将产业园区及商业用地、原高尔夫球场、原滑雪场、弃耕地等类别纳入优先支持范围；营农型光伏则暂缓决定，待农林水产省制定相关标准后，于下一财政年度继续审议。按照目前计划，2026年10月至2027年1月将审议并细化认证条件、FIT/FIP适用安排、拍卖规则、支持价格及期限；2027年2月至3月就修订后的相关法规公开征求意见，拟于2027年4月1日实施。 解读：日本通过优先扶持与地方社区契合度更高、土地利用冲突较小的项目类型，以应对日本土地资源稀缺和社区接受度的双重约束。机构预测，商业屋顶尚有约137.2 GW的开发潜力，这也解释了日本为何将屋顶光伏作为重点发展方向。后续需继续关注认证标准、FIT 与 FIP 的划分、拍卖规则，以及支持价格和期限。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/10/06/japan-proposes-four-categories-for-priority-commercial-solar-support",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3f2abced5dee811eabbcdedd69cd5cd2",
+    "collectedAt": "2026-10-07T16:00:03.798Z",
+    "notionPageId": "3f2abced5dee811eabbcdedd69cd5cd2",
+    "fingerprint": "notion|866d2e71d21a57f092bd"
+  },
+  {
     "date": "2026-09-29",
     "country": "北京",
     "geo": "中国",
