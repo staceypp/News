@@ -4704,5 +4704,81 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-30",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "绿色能源走廊",
+      "电网储能",
+      "输电网络"
+    ],
+    "company": "印度电力部",
+    "title": "印度批准绿色能源走廊三期 配套50GWh电池储能",
+    "summary": "印度联邦内阁于2026年9月30日批准总投资约1.86万亿卢比（约193亿美元）的“绿色能源走廊三期”（GEC-III）计划，目标在2032-33财年前完成。计划包含约5000亿卢比用于部署50GWh电池储能系统（BESS），分布在新能源发电侧及电网关键节点，用于缓解弃风弃光、输电拥堵及非光照时段供电压力；另有约1.36万亿卢比用于升级省内输电网络，支撑最多135GW可再生能源外送。这是印度绿色能源走廊计划首次设立专项储能投资。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/india-approves-us19-3-billion-green-energy-corridor-phase-iii-with-50gwh-bess/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|印度电力部|绿色能源走廊三期GEC-III|50GWh-1.86万亿卢比|政策",
+    "id": "daily|2026-09-30|印度|绿色能源走廊三期",
+    "collectedAt": "2026-10-08T00:56:40Z"
+  },
+  {
+    "date": "2026-09-22",
+    "country": "瑞典",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "北欧储能平台",
+      "Ingrid Capacity"
+    ],
+    "company": "Mirova / Ingrid Capacity",
+    "title": "Mirova投资6500万欧元入股北欧储能平台",
+    "summary": "法国Natixis Investment Managers旗下可持续投资机构Mirova宣布投资6500万欧元，入股瑞典储能开发商Ingrid Capacity旗下两个电池储能项目，启动双方共建的“北欧储能平台”（Nordic Storage Platform）。两个项目分别为芬兰Pedersöre的45MW/90MWh项目（已具备开工条件并签有购售电协议）和瑞典Vaggeryd的100MW/200MWh项目（预计2027年具备开工条件），合计145MW/290MWh。Ingrid Capacity负责项目开发、建设、运营及商业化调度，该平台计划持续纳入更多项目。",
+    "sourceName": "Energy Global",
+    "sourceUrl": "https://www.energyglobal.com/energy-storage/23092026/mirova-invests-65-million-in-nordic-battery-storage-developed-by-ingrid-capacity/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "瑞典芬兰|Mirova-Ingrid Capacity|北欧储能平台|145MW-290MWh-6500万欧元|融资",
+    "id": "daily|2026-09-22|瑞典|Mirova北欧储能平台",
+    "collectedAt": "2026-10-08T00:56:40Z"
+  },
+  {
+    "date": "2026-09-24",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "BESS",
+      "容量市场",
+      "托管协议"
+    ],
+    "company": "Metlen / Dolomiti Energia",
+    "title": "Metlen意大利25MW/75MWh储能项目Erchie正式投运",
+    "summary": "希腊能源集团Metlen与意大利Dolomiti Energia于2026年9月24日为位于意大利普利亚大区（布林迪西省）Erchie的25MW/75MWh电池储能项目举行投运仪式，这是意大利首批实现商业化运营的大型独立储能项目之一，也是首个接入当地变电站的储能项目。该项目此前获得约1800万欧元长期融资，并与Dolomiti Energia签订为期7年的实物托管（Tolling）协议，同时中标意大利2026年容量市场拍卖。Metlen在意大利已布局约3GWh储能容量。",
+    "sourceName": "The National Herald",
+    "sourceUrl": "https://www.thenationalherald.com/metlen-and-dolomiti-energia-inaugurate-the-erchie-bess-in-apulia/",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|Metlen-Dolomiti Energia|Erchie储能项目|25MW-75MWh|投运",
+    "id": "daily|2026-09-24|意大利|Erchie储能项目投运",
+    "collectedAt": "2026-10-08T00:56:40Z"
   }
 ]
