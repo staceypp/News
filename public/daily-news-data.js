@@ -1,5 +1,74 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-10-07",
+    "country": "肯尼亚",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "微电网",
+      "储能",
+      "系统销售"
+    ],
+    "tags": "微电网 储能 系统销售 离网光伏 储能 智能微电网 系统销售",
+    "company": "肯尼亚项目主体",
+    "title": "英国ZE-Gen规模化发展基金投入超200万英镑支持非洲8国10项离网光储项目，肯尼亚聚焦医院与模块化储能",
+    "summary": "英国Ayrton Fund支持的ZE-Gen Scale-up Fund拟投入超过200万英镑（人民币 1770 万元），覆盖肯尼亚、乌干达、卢旺达、坦桑尼亚、马达加斯加、尼日利亚、莫桑比克和莱索托8国10个项目。肯尼亚Acele Africa将部署本地可维修扩容模块化电池，SHIELD拟以融资方案推动医院从柴发转向光储；尼日利亚Farm Warehouse拟部署100套太阳能冷链系统、KAMIM建设4个农业能源枢纽。 解读：东非离网市场逐步从家庭照明转向医疗、冷链和小企业生产性负荷，光储租赁、长期运维与可维修模块化设计更具销售价值。",
+    "sourceName": "the-star.co.ke",
+    "sourceUrl": "https://www.the-star.co.ke/news/2026-10-07-kenya-among-8-african-countries-to-get-uk-clean-energy-funding",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3f3abced5dee8113b547c2eaadd60562",
+    "collectedAt": "2026-10-08T08:17:17.137Z",
+    "notionPageId": "3f3abced5dee8113b547c2eaadd60562",
+    "fingerprint": "notion|2aa344b15a3363cbcb0e"
+  },
+  {
+    "date": "2026-10-07",
+    "country": "南非",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能",
+      "电力交易"
+    ],
+    "tags": "储能 电力交易 储能 电力交易",
+    "company": "南非政策机构",
+    "title": "南非拟优先采购4600MW电池储能及5000MW燃气电源，首轮暂不安排新增风光",
+    "summary": "南非电力与能源部长确认了IRP 2025框架下首项《电力监管法》第34条决定的拟议方案：优先安排4,600 MW电池储能（BESS）与5,000 MW燃气发电，合计9,600 MW。首项决定不安排新增风电、光伏容量，后续决定将覆盖风光、配套储能的混合项目及较长期的抽水蓄能开发。储能采购将着重减少弃电、提供晚高峰供电及快速平衡和电网支持，并统筹选址、系统运营商的充放电要求，以及可执行的可用率与性能义务。政府表示，截至2025年6月，首轮储能招标的5个项目、合计513 MW，已完成商业交割并进入建设阶段，吸引投资154亿兰特（人民币 62 亿元）。 解读：储能招标规模扩大，但也不能完全替代输电网络建设。系统销售应跟踪IPPO采购批次、并网点、性能担保和本地化条件；纯风光新开发短期面临顺序后移风险。",
+    "sourceName": "gov.za",
+    "sourceUrl": "https://www.gov.za/news/media-statements/minister-kgosientsho-ramokgopa-prioritises-battery-storage-and-gas-power",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3f3abced5dee81adbd02e783bd9d7679",
+    "collectedAt": "2026-10-08T08:17:17.137Z",
+    "notionPageId": "3f3abced5dee81adbd02e783bd9d7679",
+    "fingerprint": "notion|79f21c4ab26073359354"
+  },
+  {
+    "date": "2026-10-07",
+    "country": "法国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能",
+    "company": "法国相关企业",
+    "title": "法国最大储能电站TagEnergy 240MW/480MWh项目正式投运",
+    "summary": "葡萄牙储能开发商TagEnergy(法国Banque des Territoires持股49%)在法国东北部Cernay-lès-Reims建成的240MW/480MWh储能电站（由140个特斯拉Megapack组成）正式投运，为TagEnergy首个投运储能资产，也是法国目前最大储能项目。项目接入法国国家电网RTE 225kV输电网，提供调频备用、自动调频恢复及电压调节等辅助服务，投运后125天内已向电网输送70.5GWh电量，完成145次完整充放电循环。融资由ABN AMRO、NORD/LB及Caisse d'Épargne CEPAC组成的银团提供，为双方三年合作框架下首个落地项目。 解读：法国作为传统核电占比较高的市场，大型独立储能资产快速投运并贡献可观辅助服务收入，反映欧洲电网对调频调压等灵活性资源的需求正加速货币化。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/10/07/frances-largest-battery-goes-online",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3f3abced5dee81ff99e1f3effed2afa0",
+    "collectedAt": "2026-10-08T08:17:17.137Z",
+    "notionPageId": "3f3abced5dee81ff99e1f3effed2afa0",
+    "fingerprint": "notion|202537f30a7c7878319c"
+  },
+  {
     "date": "2026-10-06",
     "country": "日本",
     "geo": "亚洲",
@@ -20,6 +89,50 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-07T16:00:03.798Z",
     "notionPageId": "3f2abced5dee811eabbcdedd69cd5cd2",
     "fingerprint": "notion|866d2e71d21a57f092bd"
+  },
+  {
+    "date": "2026-09-30",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": "电力交易 电力交易 全国",
+    "company": "国家能源局",
+    "title": "8月全国核发绿证3.54亿个，环比增15.75%，交易量同比增44.86%",
+    "summary": "国家能源局数据显示，8月份全国核发绿证3.54亿个，环比增长15.75%，覆盖371万个可再生能源项目，其中可交易绿证2.12亿个，占比60.04%。当月全国绿证交易量6055万个，环比增长11.13%、同比增长25.18%；其中绿电交易配套绿证2552万个，同比增长44.86%；单独交易绿证3503万个，环比增长21.21%。价格方面，2024年产可再生能源项目绿证均价0.61元/个，2025年产项目均价3.21元/个，2026年产项目均价6.32元/个。 解读：绿证核发量和交易量同步放量，尤其是2026年新投产项目绿证均价（6.32元/个）显著高于存量项目，反映出市场对新增绿色电力环境价值的支付意愿持续走高，是新能源上网电价市场化改革后“电价+绿色环境价值”双重收益模式加速落地的体现。对新能源电站运营商而言，绿证收入正在成为除电量电费外越来越重要的现金流补充，建议提前梳理存量项目的绿证核发及交易安排，把握价格上行窗口。",
+    "sourceName": "chinanews.com.cn",
+    "sourceUrl": "https://www.chinanews.com.cn/cj/2026/09-30/10706116.shtml",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3ebabced5dee81d4bc83c6effe376e04",
+    "collectedAt": "2026-10-08T08:17:17.137Z",
+    "notionPageId": "3ebabced5dee81d4bc83c6effe376e04",
+    "fingerprint": "notion|694252196b69b45b4584"
+  },
+  {
+    "date": "2026-09-30",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": "电力交易 电力交易 全国",
+    "company": "国家发展改革委",
+    "title": "国家发改委就《电力市场风险防控管理办法》公开征求意见",
+    "summary": "国家发展改革委起草形成《电力市场风险防控管理办法（公开征求意见稿）》，并于2026年9月30日至10月30日向社会公开征求意见。管理办法将风险分为两大类：市场交易内风险：不正当竞争、合同违约、市场价格异常、市场机制缺陷，以及交易申报差错、虚假注册等其他运行风险。市场交易外风险：电力供需失衡、技术支持系统运行异常、市场舆情风险。风险等级按影响结果分为重大风险、一般风险，按紧急程度分为紧急风险、非紧急风险。按照“谁运营、谁防范，谁运营、谁监控”的原则，开展市场监测与分析工作。该办法旨在贯彻落实党中央、国务院关于加快建设全国统一电力市场的决策部署，完善电力市场风险防控机制。 解读：这是继《电力中长期市场基本规则》《电力市场运行基本规则》之后，国家层面电力市场制度体系的又一重要拼图，标志着全国统一电力市场建设从“扩容”阶段转向“强监管、防风险”阶段。建议企业完善交易复核、合同履约、风险预警和应急沟通流程，并关注所在省份后续制定的风险阈值和处置细则。",
+    "sourceName": "yyglxxbsgw.ndrc.gov.cn",
+    "sourceUrl": "https://yyglxxbsgw.ndrc.gov.cn/htmls/article/article.html?articleId=2c97d16b-9ff0098a-01a0-f0650a6e-001b",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3ebabced5dee81ef966ac216ebdce1bc",
+    "collectedAt": "2026-10-08T08:17:17.137Z",
+    "notionPageId": "3ebabced5dee81ef966ac216ebdce1bc",
+    "fingerprint": "notion|79748cb60fd1bcee5cff"
   },
   {
     "date": "2026-09-29",
@@ -203,6 +316,28 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|e6c68b712d941e4fdff0"
   },
   {
+    "date": "2026-09-28",
+    "country": "内蒙古",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "产品",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 内蒙古",
+    "company": "内蒙古项目主体",
+    "title": "内蒙古阿拉善盟5.5GW光伏治沙实验项目实施清单公布",
+    "summary": "9月28日，内蒙古自治区能源局、内蒙古自治区林业和草原局联合发布《内能源公告〔2026〕13号》，公布阿拉善盟光伏治沙实验项目实施清单。清单共5个项目，合计实施规模550万千瓦（5.5GW），治沙任务22万亩，实施主体分别为中广核、华电、中电建、华能下属项目公司，按内蒙古自治区新能源竞争性配置管理办法经阿拉善盟优选报送、自治区审核纳规产生。 解读：光伏治沙项目通常可享受土地、治沙相关的额外政策支持，但同时也面临治沙验收、生态修复指标考核等额外合规要求。中广核、华电、中电建、华能四家央企集中获批，也印证了大型沙漠基地类项目的资源和资质门槛持续向头部央企集中，中小投资主体参与空间有限。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/Fuq12NnzzvLqDf2cusQ5aw",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3ebabced5dee811cac6fcb922f0bb335",
+    "collectedAt": "2026-10-08T08:17:17.137Z",
+    "notionPageId": "3ebabced5dee811cac6fcb922f0bb335",
+    "fingerprint": "notion|72a1681720fbca3eaabe"
+  },
+  {
     "date": "2026-09-26",
     "country": "美国",
     "geo": "美洲",
@@ -246,6 +381,50 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-09-28T17:15:29.725Z",
     "notionPageId": "3e8abced5dee81b19361dad481b2ba37",
     "fingerprint": "notion|fe4aa0b9ded7dfd44eb9"
+  },
+  {
+    "date": "2026-09-26",
+    "country": "安徽",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 安徽",
+    "company": "安徽政策机构",
+    "title": "安徽公布2026年第二批重点项目清单，风光项目超1.35GW",
+    "summary": "安徽省人民政府印发《安徽省2026年重点项目清单（第二批）的通知》，公布531个重点项目（A类60个、B类472个），其中新能源项目13个，均为B类项目，规模超1350MW，包括中广核400MW光伏项目，以及中煤集团250MW、远景能源250MW、皖能集团200MW、国家能源集团250MW等风电项目。 解读：安徽两批重点项目清单合计新能源规模已超3000MW，央国企（中广核、中煤、国家能源集团）与地方国企（皖能集团）、民企（远景能源）共同参与，显示出安徽在\"十五五\"开局之年持续加码新能源装机的态度。其中A类为续建项目，B类为新开工项目。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/e0l3o238mBreX9JYsi-UDg",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3eaabced5dee815bb519d892e920af37",
+    "collectedAt": "2026-10-08T08:17:17.137Z",
+    "notionPageId": "3eaabced5dee815bb519d892e920af37",
+    "fingerprint": "notion|bc5d499cd109c5581588"
+  },
+  {
+    "date": "2026-09-26",
+    "country": "辽宁",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "绿电直连"
+    ],
+    "tags": "绿电直连 绿电直连 辽宁",
+    "company": "辽宁项目主体",
+    "title": "辽宁两个月内密集公示476MW绿电直连项目，聚焦新材料与绿色燃料",
+    "summary": "9月24日，辽宁省发改委公示2个拟安排绿电直连项目，总装机253MW，全部为风电电源、并网型模式，分别为朝阳金钛股份2万吨航空航天海绵钛项目（配套153MW风电，位于朝阳市双塔区）与中能建沈阳10万吨绿色甲醇示范项目（配套100MW风电，位于康平县沈阳生物化工产业园）。此前8月4日已公示2个项目、合计223.1MW（沈阳中德高端装备制造产业园23.1MW、华锦阿美绿电直连项目200MW）。 解读：两批合计4个项目、约476MW，均为风电电源、并网型模式，是辽宁省依据《辽宁省推动绿电直连建设实施方案（2025-2027年）》推进的项目。辽宁作为风电资源大省，正通过绿电直连将风电资源与高耗能、高附加值产业（航空航天新材料、绿色甲醇、高端装备、传统化工升级）精准匹配，体现出\"产业准入制\"而非普惠性供电政策的特征。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/MKf3PLexaitCoFgy2akFrA",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3eaabced5dee81dbaa3ff94ebf4f9caf",
+    "collectedAt": "2026-10-08T08:17:17.137Z",
+    "notionPageId": "3eaabced5dee81dbaa3ff94ebf4f9caf",
+    "fingerprint": "notion|14debed8c7fae7378503"
   },
   {
     "date": "2026-09-25",
