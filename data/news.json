@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-10-06",
+    "country": "波兰",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "收购",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "电池储能",
+      "容量市场",
+      "收购"
+    ],
+    "company": "Actis / DRI（DTEK旗下）",
+    "title": "Actis收购DTEK旗下DRI两个波兰储能项目，合计244MW/1141MWh",
+    "summary": "英国私募股权机构Actis宣布收购DTEK旗下可再生能源平台DRI在波兰的两个电池储能项目——Kozienice（112MW/518MWh，已完成收购并准备开工）和Trzebinia（132MW/623MWh，已签约待项目投运后交割），合计244MW/1141MWh，均签订17年通胀挂钩的容量市场合约，锁定长期收益。该交易是Actis今年7月收购171MW陆上风电平台Klara Renewables、组建波兰及中东欧可再生能源平台（目标1.5GW风光储）后的最新扩张动作。 解读：波兰容量市场机制为储能资产提供稀缺的长期确定性收益，吸引国际基础设施投资者加速并购整合本地储能资产，也为中国储能系统/EPC企业出海波兰提供潜在合作窗口。",
+    "sourceName": "BlackRidge Research",
+    "sourceUrl": "https://www.blackridgeresearch.com/news-releases/actis-adds-battery-storage-to-portfolio-polish-platform-within-three-months-of-launch",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "波兰|Actis-DRI|Kozienice-Trzebinia储能收购|244MW1141MWh|收购",
+    "id": "daily|2026-10-06|波兰|Actis收购DRI储能项目",
+    "collectedAt": "2026-10-09T00:55:39Z"
+  },
+  {
+    "date": "2026-10-01",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "合资",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "储能系统集成",
+      "合资公司"
+    ],
+    "company": "Wärtsilä（芬兰）/ RCT Solutions（德国）",
+    "title": "瓦锡兰与德国RCT Solutions成立储能合资公司Valo",
+    "summary": "芬兰瓦锡兰（Wärtsilä）与德国RCT Solutions于10月1日完成交割，成立全球储能系统集成商Valo，双方各持股50%，业务覆盖欧洲、澳大利亚、亚洲及美洲。Valo起步即拥有逾20GWh、130多个项目的储能业务组合，由RCT Solutions原CEO Peter Fath担任新公司CEO。瓦锡兰预计合资公司2026年仍将亏损，2027年底前转为盈利。 解读：全球储能系统集成环节加速整合，欧洲老牌能源装备企业与新兴电池系统集成商联手，意在以一体化硬件+软件+工程服务方案应对中国储能厂商的激烈竞争。",
+    "sourceName": "ESS News",
+    "sourceUrl": "https://www.ess-news.com/2026/10/01/wartsila-and-rct-solutions-launch-storage-integrator-valo/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|Wärtsilä-RCT Solutions|Valo储能合资公司|20GWh130个项目|合资",
+    "id": "daily|2026-10-01|德国|瓦锡兰RCT成立Valo",
+    "collectedAt": "2026-10-09T00:55:39Z"
+  },
+  {
     "date": "2026-10-07",
     "country": "肯尼亚",
     "geo": "非洲",
