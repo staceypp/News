@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-10-08",
+    "country": "陕西",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": [
+      "分布式",
+      "陕西"
+    ],
+    "company": "陕西政策机构",
+    "title": "陕西公示22个分散式风电、小型地面光伏项目，规模52万千瓦，大唐领先",
+    "summary": "陕西省发改委发布《关于陕西省2026年分散式风电、小型地面光伏电站项目的公示》，确定22个项目、合计52万千瓦（520MW）纳入2026年建设规模，其中风电4个项目18.8万千瓦（188MW），光伏18个项目33.16万千瓦（331.6MW），均为自发自用项目；大唐集团、皖投集团等企业规模较大。公示期为10月8日至10月13日。 解读：陕西此次聚焦\"自发自用\"的分散式风电与小型地面光伏，呼应国家层面鼓励就地消纳、减少长距离外送依赖的政策方向，高耗能行业用户通过自建分散式电源降碳的路径。投资人应关注该类项目用电企业自身，商业模式与纯发电侧项目存在差异，需评估其自用电价与保底购电安排。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/bnYyDNbJ8fGCMAGxEUbSMw",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3f4abced5dee813f89fffd5190cfe67c",
+    "collectedAt": "2026-10-10T07:58:58.929Z",
+    "notionPageId": "3f4abced5dee813f89fffd5190cfe67c",
+    "fingerprint": "notion|b2e62b0484ac4f5ed5fe"
+  },
+  {
     "date": "2026-10-07",
     "country": "肯尼亚",
     "geo": "非洲",
@@ -79,6 +104,57 @@
     "fingerprint": "notion|202537f30a7c7878319c"
   },
   {
+    "date": "2026-10-07",
+    "country": "江苏",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "收购",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式",
+      "江苏",
+      "安徽"
+    ],
+    "company": "江苏项目主体",
+    "title": "中煤新集拟收购江苏150MW渔光互补、安徽100MW风电两项目",
+    "summary": "中煤集团下属中煤新集能源股份有限公司发布询价公告，就两个拟收购新能源项目开展资产评估邀请询价：项目一为江苏淮安优阳新能源150MW渔光互补光伏项目（阳光新能源控股，预期年利用小时数1131.4小时，2026年四季度并网）；项目二为安徽宿州泗县大杨风电场100MW风电项目（特变电工控股，预期年利用小时数3091.3小时）。 解读：中煤新集此次收购标的符合煤炭企业近年通过并购存量优质新能源资产快速做大新能源装机、对冲主业碳排放压力的普遍路径，渔光互补光伏预期年利用小时数偏低也反映其仍以土地复合利用为主要优势而非资源禀赋。对于潜在卖方（开发商），此类央企询价收购为存量中小型风光资产提供了除REITs之外的另一退出渠道，有助于加快资金周转。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/OOcHEEQO73lsurPHwHQxoA",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3f4abced5dee8138a2e9e5524bc95a80",
+    "collectedAt": "2026-10-10T07:58:58.929Z",
+    "notionPageId": "3f4abced5dee8138a2e9e5524bc95a80",
+    "fingerprint": "notion|3b6de04fe875866a6769"
+  },
+  {
+    "date": "2026-10-07",
+    "country": "河南",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": [
+      "分布式",
+      "河南"
+    ],
+    "company": "河南政策机构",
+    "title": "河南下发第18批源网荷储一体化项目，合计559MW，华能规模最大",
+    "summary": "河南发改委《关于实施第十八批源网荷储一体化项目的通知》（原通知发布于2026年6月）确定49个项目，总规模558.78MW（风电127.8MW、光伏430.98MW），含工业企业类32个、增量配电网类2个、其他类7个，另有8个项目信息变更。华能集团规模最大（127.91MW），中煤集团、牧原股份约70MW。截至第18批，河南源网荷储项目累计规模达12.1GW。 解读：河南源网荷储开发正从早期以传统工业大户为主，向农业养殖等新型高耗电负荷主体扩散，市场纵深有所拓展但单批规模趋于常态化、不再追求爆发式增长。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/kvQow2FB2jQInTdocihUHQ",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3f4abced5dee81eda7edc0ab96954926",
+    "collectedAt": "2026-10-10T07:58:58.929Z",
+    "notionPageId": "3f4abced5dee81eda7edc0ab96954926",
+    "fingerprint": "notion|71e0581e8fddbebdce9e"
+  },
+  {
     "date": "2026-10-06",
     "country": "日本",
     "geo": "亚洲",
@@ -101,6 +177,31 @@
     "collectedAt": "2026-10-07T16:00:03.798Z",
     "notionPageId": "3f2abced5dee811eabbcdedd69cd5cd2",
     "fingerprint": "notion|866d2e71d21a57f092bd"
+  },
+  {
+    "date": "2026-10-06",
+    "country": "河南",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": [
+      "分布式",
+      "河南"
+    ],
+    "company": "河南政策机构",
+    "title": "河南下发第17批源网荷储一体化项目，合计947MW，累计规模达11.5GW",
+    "summary": "河南发改委《关于实施第十七批源网荷储一体化项目的通知》（原通知发布于2026年4月）确定77个项目，总规模947.11MW（风电301.1MW、光伏646.01MW），含工业企业类48个、增量配电网类3个、农村地区类7个、其他类9个，另有10个项目信息变更。华能集团入围规模最大（227.43MW），河南国资运营、中煤集团均超100MW。截至第17批，河南累计下发源网荷储项目规模已达11.5GW。源网荷储项目依现行政策不享受机制电价。 解读：河南源网荷储模式持续高频批复，表明该省仍把“工业企业就地消纳”作为新能源增量开发的主渠道，而非依赖集中式基地外送。由于明确不享受机制电价，项目收益高度依赖与工业用户的自发自用电价安排，开发商需在前期就锁定稳定的用电负荷和售电价格，谈判能力和客户资源成为核心竞争力；央企（华能等）持续在该赛道占据最大份额，反映其在地方资源获取和工业客户对接上的优势正进一步固化。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/_kpaGSiX7lbJqquZc2BxUQ",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3f4abced5dee8102b052c77a23aac7ce",
+    "collectedAt": "2026-10-10T07:58:58.929Z",
+    "notionPageId": "3f4abced5dee8102b052c77a23aac7ce",
+    "fingerprint": "notion|9e33a7793a8c5377085b"
   },
   {
     "date": "2026-09-30",
@@ -151,6 +252,31 @@
     "collectedAt": "2026-10-08T08:17:17.137Z",
     "notionPageId": "3ebabced5dee81ef966ac216ebdce1bc",
     "fingerprint": "notion|79748cb60fd1bcee5cff"
+  },
+  {
+    "date": "2026-09-30",
+    "country": "河北",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "储能",
+      "河北"
+    ],
+    "company": "河北政策机构",
+    "title": "河北启动10GW独立储能优选申报，11月27日截止",
+    "summary": "2026年9月30日河北省发改委正式启动2026年全省独立新型储能项目优选申报工作，一次性释放10GW独立储能规模，分为冀北电网（6GW）与河北南网（4GW）两大片区，涵盖张家口、承德、保定、沧州等13个地市，其中张家口额度最高达2.8GW。申报截止日为2026年11月27日。文件设置主体资质、项目建设、项目管控、建设工期等多条一票否决红线（禁止拆分建设、禁止指标倒卖、投产前限制变更投资主体），采用技术先进性(25分，鼓励构网型逆变器)与地方自主评分 (20分) 相结合的综合评分机制，入选项目须9个月内开工、15个月内并网，最长可延期6个月。 解读：这是2026年国内规模最大的省级独立储能集中优选项目，释放规模远超以往地方批次，且额度明确向张家口、承德等风光资源富集区倾斜，释放出华北储能市场从\"规模扩张\"转向\"技术与履约竞争\"的信号，有利于已具备成熟构网型技术方案和资金实力的头部储能开发商。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/sqTlI7qIsQ8BeAUFDfSXNA",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3f3abced5dee8159a3d8fc5e258c05c7",
+    "collectedAt": "2026-10-10T07:58:58.929Z",
+    "notionPageId": "3f3abced5dee8159a3d8fc5e258c05c7",
+    "fingerprint": "notion|fb70afd58d224668e4cd"
   },
   {
     "date": "2026-09-29",
