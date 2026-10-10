@@ -4908,5 +4908,31 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-10-02",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "电池储能",
+      "昆士兰",
+      "容量投资计划"
+    ],
+    "company": "Atmos Renewables",
+    "title": "澳大利亚昆士兰Teebar储能项目完成融资关闭",
+    "summary": "澳大利亚可再生能源开发商Atmos Renewables（Igneo Infrastructure Partners旗下公司）宣布，其位于昆士兰Fraser Coast地区、紧邻Powerlink Teebar Creek变电站的400MW/1600MWh电池储能项目Teebar BESS完成融资关闭，该项目获联邦容量投资计划（CIS）支持，设备供应商为Wartsila，Atmos计划在建设和运营期均保留所有权。此次融资关闭与西澳470MW Parron Maam Marang风电场同期完成，使Atmos旗下通过融资关闭的CIS支持项目总规模达到970MW。 解读：澳大利亚联邦层面的容量投资计划持续为大型独立储能项目提供确定性现金流支撑，推动开发商在电网紧张节点优先锁定并网容量与融资。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/atmos-renewables-closes-financing-on-1-6gwh-capacity-investment-scheme-backed-battery-storage-system-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Atmos Renewables|Teebar储能|400MW-1600MWh|融资",
+    "id": "daily|2026-10-10|澳大利亚|Teebar储能融资关闭",
+    "collectedAt": "2026-10-10T00:52:40.000Z"
   }
 ]
