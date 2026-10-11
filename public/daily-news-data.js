@@ -23,6 +23,50 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-07",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": "集中式 融资 银团贷款 弃煤地改造",
+    "company": "Clearway Energy Group",
+    "title": "Clearway为密苏里650MW光伏项目完成15亿美元融资并开工",
+    "summary": "Clearway Energy Group宣布完成对密苏里州Swan Energy Center光伏项目的融资并正式开工，项目装机650MW，总投资约15亿美元，由加拿大帝国商业银行、挪威银行和澳大利亚国民银行牵头组建银团提供建设融资。项目建于巴茨县（Bates County）原露天煤矿改造用地，已签署20年期购电协议，计划2028年投运，Blattner Energy负责施工，高峰期用工可达500人。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/clearway-secures-financing-starts-construction-on-650mw-missouri-solar-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Clearway Energy Group|Swan Energy Center|650MW-15亿美元|融资",
+    "id": "daily|2026-10-07|美国|Clearway密苏里光伏融资",
+    "collectedAt": "2026-10-11T00:52:35Z"
+  },
+  {
+    "date": "2026-10-07",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": "集中式 融资 绿色信贷 Meta购电",
+    "company": "Zelestra",
+    "title": "Zelestra获3.5亿美元绿色信贷建设印第安纳203MW光伏项目",
+    "summary": "独立发电商Zelestra宣布完成3.5亿美元绿色信贷融资，用于建设印第安纳州Gibson县203MW的Reclamation Solar光伏项目，项目选址于原煤矿复垦用地，由Meta长期购电协议作为支撑。贷款方包括加拿大帝国商业银行（担任主牵头行）、西班牙对外银行（BBVA）和法国兴业银行，项目目前已进入施工阶段，预计2027年底投运。该笔融资使Zelestra今年在美国的项目融资总额达到约11.4亿美元。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/zelestra-closes-us350-million-financing-at-203mw-pv-plant-in-indiana-backed-by-meta/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Zelestra|Reclamation Solar|203MW-3.5亿美元|融资",
+    "id": "daily|2026-10-07|美国|Zelestra印第安纳光伏融资",
+    "collectedAt": "2026-10-11T00:52:35Z"
+  },
+  {
+    "date": "2026-10-07",
     "country": "肯尼亚",
     "geo": "非洲",
     "category": "市场信息",
@@ -133,6 +177,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-10T07:58:58.929Z",
     "notionPageId": "3f4abced5dee81eda7edc0ab96954926",
     "fingerprint": "notion|71e0581e8fddbebdce9e"
+  },
+  {
+    "date": "2026-10-06",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "收购",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": "集中式 交易 存量电站 弗吉尼亚 南卡罗来纳",
+    "company": "Enel Green Power North America",
+    "title": "Enel完成收购美国南部七座合计270MW光伏电站",
+    "summary": "意大利电力公司Enel通过旗下Enel Green Power North America完成对美国南部七座已投运光伏电站的收购，合计装机约270MW，交易对价约1.4亿美元，对集团净负债影响约1.8亿美元。七座电站分布于弗吉尼亚（两座，合计超120MW）、北卡罗来纳（一座，超90MW）和南卡罗来纳（四座，合计约50MW），标志着Enel首次进入这三个州的光伏市场。",
+    "sourceName": "SolarQuarter",
+    "sourceUrl": "https://solarquarter.com/2026/10/06/enel-acquires-seven-us-solar-plants-with-270-mw-combined-capacity/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Enel Green Power North America|七座光伏电站|270MW-1.4亿美元|收购",
+    "id": "daily|2026-10-06|美国|Enel收购南部光伏电站",
+    "collectedAt": "2026-10-11T00:52:35Z"
   },
   {
     "date": "2026-10-06",
