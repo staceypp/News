@@ -5034,5 +5034,80 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-10-09",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "研报",
+    "businessTags": [
+      "零碳园区",
+      "融资"
+    ],
+    "tags": [
+      "绿色金融",
+      "券商研报"
+    ],
+    "company": "中信建投证券",
+    "title": "中信建投：零碳园区有望成绿色金融与产业投资下一主线",
+    "summary": "中信建投2026年10月9日发布研报称，零碳园区有望成为绿色金融与产业投资共振的下一个主线，测算国家级零碳园区零碳改造投入达千亿元级别，建成后预计产值约3.54万亿元。研报提到，碳减排支持工具对应的绿色信贷利率已降至1.25%，中央预算内投资按核定总投资20%的比例支持零碳园区项目，认为绿色信贷、ESG债券、绿色租赁等可持续金融工具与园区大额长周期资本开支较为匹配。",
+    "sourceName": "东方财富网（转载中信建投研报）",
+    "sourceUrl": "https://finance.eastmoney.com/a/202610093890293655.html",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|中信建投|零碳园区研报|3.54万亿元-1.25%|研报",
+    "id": "daily|2026-10-09|中国|中信建投零碳园区研报",
+    "collectedAt": "2026-10-12T00:00:00Z"
+  },
+  {
+    "date": "2026-10-02",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "投资",
+    "businessTags": [
+      "储能",
+      "集中式"
+    ],
+    "tags": [
+      "CIS",
+      "电池储能",
+      "融资关闭"
+    ],
+    "company": "Atmos Renewables",
+    "title": "Atmos Renewables完成昆士兰Teebar 400MW/1600MWh储能项目融资关闭",
+    "summary": "Atmos Renewables于2026年10月2日宣布，其位于澳大利亚昆士兰Fraser Coast地区、紧邻Powerlink Teebar Creek变电站的400MW/1600MWh Teebar电池储能项目完成融资关闭，项目获联邦容量投资计划(Capacity Investment Scheme)支持。项目将采用Valo的GridSolve Quantum2储能系统及GEMS软件，由Enerven承建，预计2028年底投运，本次融资关闭与公司在西澳的Parron Maam Marang风电项目同步完成。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/atmos-renewables-closes-financing-on-1-6gwh-capacity-investment-scheme-backed-battery-storage-system-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Atmos Renewables|Teebar BESS|400MW-1600MWh|投资",
+    "id": "daily|2026-10-02|澳大利亚|Teebar储能融资关闭",
+    "collectedAt": "2026-10-12T00:00:00Z"
+  },
+  {
+    "date": "2026-10-05",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "电池储能",
+      "FID"
+    ],
+    "company": "Giga Storage",
+    "title": "Giga Storage计划2027年开建德国下萨克森1.4GWh储能项目Albatross",
+    "summary": "荷兰储能开发商Giga Storage披露其德国首个项目Albatross（下萨克森州，350MW/1400MWh电池储能）最新进展：预计2026年第四季度完成最终投资决定(FID)，2027年开工建设，2028年投运。公司同时计划在德国再开发两个同规格(350MW/1400MWh)项目Pelican和Kingfisher，三个项目合计投资约10亿欧元，均位于A-Nord与SuedLink两条高压直流线路之间，用于提供调频和局部电网拥堵管理服务。",
+    "sourceName": "pv magazine Deutschland",
+    "sourceUrl": "https://www.pv-magazine.de/2026/10/05/giga-storage-will-2027-mit-dem-bau-seines-14-gigawattstunden-speichers-in-niedersachsen-beginnen/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|Giga Storage|Albatross-下萨克森|350MW-1400MWh|开发",
+    "id": "daily|2026-10-05|德国|Giga Storage Albatross",
+    "collectedAt": "2026-10-12T00:00:00Z"
   }
 ]
