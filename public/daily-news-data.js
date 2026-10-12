@@ -857,7 +857,7 @@ window.DAILY_NEWS_DATA=[
   {
     "date": "2026-09-20",
     "country": "阿塞拜疆",
-    "geo": "中国",
+    "geo": "亚洲",
     "category": "同行动态",
     "eventType": "投运",
     "businessTags": [
