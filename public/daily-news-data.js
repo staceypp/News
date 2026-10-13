@@ -1,5 +1,47 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-10-09",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 光伏投资决策 云南",
+    "company": "云南能投 / 华坪云能新能源",
+    "title": "云南能投拟建丽江两光伏项目，各8万千瓦投资超7亿元",
+    "summary": "云南能投全资子公司华坪云能新能源拟投资建设温泉光伏（丽江）和马鹿光伏两个项目，单项额定容量均为8万千瓦，总投资分别约3.50亿元和3.53亿元，工程总工期8个月。两项目均已列入云南省2025年第二批新能源项目开发建设清单，由公司董事会于10月8日审议通过，尚需取得政府部门相关审批。",
+    "sourceName": "云南能投公告",
+    "sourceUrl": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599721.PDF",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|云南能投-华坪云能|温泉光伏马鹿光伏丽江|8万千瓦|开发",
+    "id": "daily|2026-10-09|中国|云南能投丽江两光伏项目",
+    "collectedAt": "2026-10-13T00:53:17Z"
+  },
+  {
+    "date": "2026-10-09",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "中标",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能EPC 宁夏",
+    "company": "武汉天源集团 / 宁夏鲁禹综合能源",
+    "title": "武汉天源联合体中标宁夏江汉储能电站二期扩容项目",
+    "summary": "武汉天源集团全资孙公司武汉天源数智工程与宁夏鲁禹综合能源组成联合体，中标宁夏翔腾五号电源科技江汉储能电站二期扩容改造项目，合同总价1.95亿元，新增储能规模75MW/300MWh，并对原150MW/300MWh储能区实施降负荷改造，建成后电站整体规模将达150MW/600MWh。中标通知书于9月28日收到，公告于10月9日披露，计划工期5个月。",
+    "sourceName": "武汉天源集团公告",
+    "sourceUrl": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225598887.PDF",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|武汉天源-宁夏鲁禹|江汉储能电站二期|1.95亿元|中标",
+    "id": "daily|2026-10-09|中国|武汉天源宁夏储能中标",
+    "collectedAt": "2026-10-13T00:53:17Z"
+  },
+  {
     "date": "2026-10-08",
     "country": "陕西",
     "geo": "中国",
@@ -42,6 +84,50 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-12T08:25:52.597Z",
     "notionPageId": "3f5abced5dee819c9329c16110141416",
     "fingerprint": "notion|5e0ba888087a5f54a444"
+  },
+  {
+    "date": "2026-10-07",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "融资"
+    ],
+    "tags": "集中式 储能 融资 HoldCo再融资 CIP",
+    "company": "Copenhagen Infrastructure Partners / MaxSolar",
+    "title": "CIP为德国MaxSolar 1.3GW光储组合提供1.55亿欧元再融资",
+    "summary": "丹麦基建投资机构Copenhagen Infrastructure Partners（CIP）通过其成长市场基金二期（GMF II）向德国开发商MaxSolar提供1.55亿欧元（约1.76亿美元）HoldCo债务融资，置换其2023年的控股公司债务，并为项目建设及收购提供新增资金。MaxSolar投资组合包含912MW光伏和379MW独立及配套储能，其中440MW光伏及25MW储能已投运。Akereos Capital担任MaxSolar独家债务顾问。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/cip-refinances-maxsolars-1-3gw-renewable-energy-portfolio-in-germany/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|CIP-MaxSolar|1.3GW光储组合|1.55亿欧元|融资",
+    "id": "daily|2026-10-07|德国|CIP MaxSolar再融资",
+    "collectedAt": "2026-10-13T00:53:17Z"
+  },
+  {
+    "date": "2026-10-07",
+    "country": "马来西亚",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "中标",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": "分布式 EPCC LSS5",
+    "company": "Northern Solar Holdings",
+    "title": "Northern Solar中标马来西亚9.5MW光伏EPCC合同",
+    "summary": "马来西亚主板上市公司Northern Solar Holdings全资子公司获得一份价值3400万林吉特的EPCC（工程、采购、建设及调试）合同，承建一座9.5MW光伏电站，项目计划于2027年5月1日前实现商业运营。公告未披露项目业主名称，公司称受合同保密条款限制。这是该公司近一年内第二个公用事业规模光伏项目中标，紧随其10月初由创业板转主板上市之后。",
+    "sourceName": "The Star (Malaysia)",
+    "sourceUrl": "https://www.thestar.com.my/business/business-news/2026/10/07/northern-solar-bags-rm34mil-epcc-contract-for-95mw-solar-plant",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "马来西亚|Northern Solar|9.5MW光伏EPCC|3400万林吉特|中标",
+    "id": "daily|2026-10-07|马来西亚|Northern Solar EPCC中标",
+    "collectedAt": "2026-10-13T00:53:17Z"
   },
   {
     "date": "2026-10-07",
@@ -158,6 +244,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-06",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 BESS 容量投资计划CIS",
+    "company": "Atmos Renewables / Valo",
+    "title": "Atmos Renewables澳洲Teebar 400MW储能项目完成融资关闭",
+    "summary": "澳大利亚可再生能源开发商Atmos Renewables宣布其位于昆士兰州Teebar的400MW/1600MWh电池储能项目完成融资关闭，获澳大利亚联邦容量投资计划（CIS）支持。项目紧邻Powerlink的Teebar Creek变电站，由Wärtsilä储能业务拆分出的新公司Valo供应GridSolve Quantum2储能系统，预计2028年底投运。该项目与西澳470MW Parron Maam Marang风电场一并纳入Atmos约970MW的CIS支持项目组合。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/atmos-renewables-closes-financing-on-1-6gwh-capacity-investment-scheme-backed-battery-storage-system-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Atmos Renewables|Teebar储能|400MW-1600MWh|融资",
+    "id": "daily|2026-10-06|澳大利亚|Atmos Teebar储能融资",
+    "collectedAt": "2026-10-13T00:53:17Z"
+  },
+  {
+    "date": "2026-10-06",
     "country": "日本",
     "geo": "亚洲",
     "category": "市场信息",
@@ -199,6 +307,27 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-10T07:58:58.929Z",
     "notionPageId": "3f4abced5dee8102b052c77a23aac7ce",
     "fingerprint": "notion|9e33a7793a8c5377085b"
+  },
+  {
+    "date": "2026-10-02",
+    "country": "马来西亚",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 LSS5+ EPC",
+    "company": "Samaiden / YTL Construction",
+    "title": "Samaiden与YTL签约马来西亚99.99MW光伏EPC项目",
+    "summary": "马来西亚上市公司Samaiden全资子公司与YTL Construction就一座99.99MWac大型光伏电站（LSS5+项目）签署工程及设备供应合同，合同总值2.38亿林吉特。YTL为项目主承包商，Samaiden负责设计、工程、建设、测试及调试。该项目于2025年9月获能源委员会批准纳入LSS5+计划，合同金额于10月6日通过交易所公告披露。",
+    "sourceName": "The Star (Malaysia)",
+    "sourceUrl": "https://www.thestar.com.my/business/business-news/2026/10/02/samaiden-secures-contracts-for-9999mwac-lss5-solar-project",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "马来西亚|Samaiden-YTL|LSS5+项目|2.38亿林吉特|签约",
+    "id": "daily|2026-10-02|马来西亚|Samaiden LSS5+签约",
+    "collectedAt": "2026-10-13T00:53:17Z"
   },
   {
     "date": "2026-09-30",
