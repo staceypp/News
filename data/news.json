@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-13",
+    "country": "埃及",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "产能",
+    "businessTags": [
+      "储能",
+      "系统销售",
+      "AIDC"
+    ],
+    "tags": [
+      "储能",
+      "系统销售",
+      "AIDC"
+    ],
+    "company": "埃及项目主体",
+    "title": "俄罗斯Rosatom与埃及Teletech合作规划年组装产能500MWh储能系统组装设施",
+    "summary": "俄罗斯Rosatom燃料事业部储能业务与埃及Telecom and Technology Co.（Teletech）在Egypt Energy 2026展会期间签署合作协议，拟建立电池储能系统组装设施，潜在年度组装产能预计500MWh，包含人员培训和后续扩产。目标市场包括电力、通信、数据中心、油气和工业。 解读：除推广储能技术外，双方的合作可提升供应链灵活性，并培养埃及本地技术人才。Rosatom 在俄罗斯加里宁格勒和新莫斯科工厂，合计产能约为 8 GWh。",
+    "sourceName": "renewablesnow.com",
+    "sourceUrl": "https://renewablesnow.com/news/rosatom-teletech-partner-to-assemble-battery-storage-systems-in-egypt-1302930",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3f9abced5dee8157b5ccfc157442de78",
+    "collectedAt": "2026-10-14T19:55:34.409Z",
+    "notionPageId": "3f9abced5dee8157b5ccfc157442de78",
+    "fingerprint": "notion|5656bd555576bff1d695"
+  },
+  {
     "date": "2026-10-12",
     "country": "福建",
     "geo": "中国",
