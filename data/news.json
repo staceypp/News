@@ -5215,5 +5215,55 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-10-09",
+    "country": "赞比亚",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "PPA签约",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": [
+      "PPA",
+      "南部非洲电力联营",
+      "融资"
+    ],
+    "company": "Axian Energy / Africa GreenCo",
+    "title": "赞比亚Kudu光伏项目签署200MW购电协议",
+    "summary": "能源聚合商Africa GreenCo与马达加斯加AXIAN集团旗下Axian Energy在卢萨卡举行的2026非洲能源论坛上，就赞比亚Kudu光伏项目签署购电协议（PPA），项目交流侧装机200MWac（约240MWdc），预计年发电量约530GWh。Africa GreenCo将收购全部电量，并通过南部非洲电力联营体（SAPP）转售给公用事业公司、矿业企业及工商业用户。标准银行集团及其赞比亚子公司Stanbic Bank Zambia将为项目融资与建设提供支持，双方未披露项目造价及开工时间。据报道，这是GreenCo迄今签署的最大一笔PPA。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/axian-africa-greenco-ink-240mw-pv-ppa-in-zambia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "赞比亚|Axian Energy-Africa GreenCo|Kudu光伏项目|200MWac-240MWdc|PPA签约",
+    "id": "daily|2026-10-09|赞比亚|Kudu光伏PPA",
+    "collectedAt": "2026-10-14T00:52:37Z"
+  },
+  {
+    "date": "2026-10-09",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "项目审批",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "电池储能",
+      "西澳大利亚"
+    ],
+    "company": "Mint Renewables",
+    "title": "澳大利亚西澳Kojonup获批800MWh电池储能项目",
+    "summary": "西澳大利亚地区发展评估委员会（DAP）批准Mint Renewables在西澳Great Southern地区Kojonup镇附近开发的电池储能项目，规模为100MW/800MWh（约8小时时长），项目选址毗邻现有Kojonup变电站，并计划接入该州主电网South West Interconnected System。该项目仍需取得包括联邦环境法（EPBC法案）相关审批、与输电公司Western Power的接入协议等其他许可，公司目标是2029年完成并网，具体投资决定尚未公布。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/mint-renewables-wins-planning-approval-for-800mwh-battery-storage-system-in-western-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Mint Renewables|Kojonup电池储能项目|100MW-800MWh|项目审批",
+    "id": "daily|2026-10-09|澳大利亚|Kojonup电池储能审批",
+    "collectedAt": "2026-10-14T00:52:37Z"
   }
 ]
