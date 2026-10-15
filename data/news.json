@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-10-14",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "分布式",
+      "系统销售"
+    ],
+    "tags": [
+      "分布式光伏",
+      "工商业光伏",
+      "系统销售"
+    ],
+    "company": "菲律宾项目主体",
+    "title": "First Gen为NKC菲律宾宿务（Cebu）制造工厂新投运屋顶光伏并配套长期运维",
+    "summary": "First Gen完成宿务NKC制造工厂屋顶光伏并网并承担五年运维。 解读：该项目主要应对电力供应面临的挑战。日本 NKC 集团在菲律宾的制造基地，主要为汽车和工业市场生产精密零部件。",
+    "sourceName": "powerphilippines.com",
+    "sourceUrl": "https://powerphilippines.com/first-gen-completes-rooftop-solar-project-for-nkcs-cebu-facility",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3faabced5dee81d58433f3e393f2abb1",
+    "collectedAt": "2026-10-15T13:50:50.251Z",
+    "notionPageId": "3faabced5dee81d58433f3e393f2abb1",
+    "fingerprint": "notion|50cdb126c61316b8231a"
+  },
+  {
     "date": "2026-10-13",
     "country": "埃及",
     "geo": "非洲",
@@ -159,6 +186,31 @@
     "fingerprint": "notion|954deb3f6e1918629898"
   },
   {
+    "date": "2026-10-11",
+    "country": "河北",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "中标",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式",
+      "河北"
+    ],
+    "company": "河北相关企业",
+    "title": "河北承德公示1.93GW风光项目指标，华电、河北交投等获得最大份额",
+    "summary": "河北省承德市发改委发布《承德市拟申报纳入省年度开发建设方案风电、光伏项目情况的公示》，拟申报项目共16个，总规模192.67万千瓦，其中光伏项目1个（10万千瓦）、风电项目15个（合计182.67万千瓦）。项目投资集团包括华电、河北交投、国家电投等。公示时间为2026年10月11日至15日。此前8月31日张家口、保定已公示同类项目共11个、规模106.555万千瓦。 解读：从中标结构看，华电(500MW)、河北交投(400MW)、国家电投(350MW)、英利(250MW)、河北水发(200MW)、中广核(200MW)等传统能源国企和地方平台公司继续占据主导地位，反映出河北风光资源开发仍以大型国企和地方平台为主的格局，中小型社会资本参与空间相对有限。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/y14dpI3F9hsj_cmUXSsXrw",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3f9abced5dee81c4af64ed166deccbff",
+    "collectedAt": "2026-10-15T13:50:50.251Z",
+    "notionPageId": "3f9abced5dee81c4af64ed166deccbff",
+    "fingerprint": "notion|a961afda7d3725978922"
+  },
+  {
     "date": "2026-10-10",
     "country": "江苏",
     "geo": "中国",
@@ -182,6 +234,36 @@
     "collectedAt": "2026-10-13T16:40:02.979Z",
     "notionPageId": "3f7abced5dee8181ab3bed41a198cfd2",
     "fingerprint": "notion|a8df48f705f28ad48dba"
+  },
+  {
+    "date": "2026-10-09",
+    "country": "奥地利",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "户用光伏",
+      "系统销售"
+    ],
+    "tags": [
+      "分布式光伏",
+      "储能",
+      "户用光伏",
+      "系统销售"
+    ],
+    "company": "奥地利政策机构",
+    "title": "奥地利光伏补贴10分钟发出4.33万申领登记号，2027年补贴申请将调整",
+    "summary": "奥地利经济与能源部表示10月8日启动第三轮光伏补贴，10分钟发出约43,300个申请登记号，上一轮同期24,900个。本轮持续至10月22日。政府拟在2027年以储能补贴取代传统光伏投资补贴，项目完工并取得最终发票后即可随时提交申请，并鼓励光伏配储和配套智能EMS。 解读：储能市场在补贴刺激下可能快速增长。需注意2027年补贴改革方向并非已经确定的细则，具体资格和实施条件仍在制定中，相关法律修订还需要议会三分之二多数支持，可持续关注。",
+    "sourceName": "bmwet.gv.at",
+    "sourceUrl": "https://www.bmwet.gv.at/Presse/AktuellePressemeldungen/pv-foerderung-43300-tickets.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3f7abced5dee812b944bf39adba6d9ae",
+    "collectedAt": "2026-10-15T13:50:50.251Z",
+    "notionPageId": "3f7abced5dee812b944bf39adba6d9ae",
+    "fingerprint": "notion|6a596a36a7a661af7840"
   },
   {
     "date": "2026-10-08",
