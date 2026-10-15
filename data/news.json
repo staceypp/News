@@ -5243,5 +5243,60 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-09-10",
+    "country": "智利",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "出售",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "光储一体化",
+      "资产轮动",
+      "Atacama"
+    ],
+    "company": "Metlen / Copec Flux",
+    "title": "希腊Metlen将智利165MW光储项目出售给Copec Flux",
+    "summary": "希腊能源集团Metlen将其位于智利阿塔卡马大区的Tamarico II光储混合项目出售给智利能源企业Copec旗下子公司Copec Flux，交易具体金额未披露。该项目装机165MW光伏配725MWh电池储能系统，并可扩容至925MWh。Copec Flux承诺在项目达到商业运营后收购项目公司100%股权，这是Copec自2024年以来第三个大型光伏项目，双方此前已就购电协议建立合作关系。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/chilean-utility-copec-acquires-tamarico-ii-solar-plus-storage-project-metle/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "智利|Metlen|Copec|TamaricoII|165MW725MWh|出售",
+    "id": "daily|2026-09-10|智利|Metlen出售Tamarico储能项目",
+    "collectedAt": "2026-10-15T00:54:35Z"
+  },
+  {
+    "date": "2026-10-05",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "投资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "光伏",
+      "风电",
+      "PPA",
+      "Karnataka"
+    ],
+    "company": "住友商事 / Hero Future Energies",
+    "title": "住友商事参股Hero印度500MW光风储混合项目",
+    "summary": "日本住友商事宣布收购印度可再生能源开发商Hero Future Energies旗下项目公司Clean Solar Power（Baniyana）49%股权，参与位于卡纳塔克邦比达尔地区的光伏、风电与储能混合项目。该项目总装机约500MWp光伏与风电，配套200MWh电池储能系统，将通过25年期购电协议向印度国有电力公司SJVN供应全天候清洁电力，剩余电量在电力交易市场出售。项目预计2027年3月投入商业运营。",
+    "sourceName": "Sumitomo Corporation",
+    "sourceUrl": "https://www.sumitomocorp.com/en/jp/news/release/2026/group/21710",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|Sumitomo|HeroFutureEnergies|Karnataka|500MW200MWh|投资",
+    "id": "daily|2026-10-05|印度|住友参股Hero储能混合项目",
+    "collectedAt": "2026-10-15T00:54:35Z"
   }
 ]
