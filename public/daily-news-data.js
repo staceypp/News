@@ -12,7 +12,7 @@ window.DAILY_NEWS_DATA=[
     "tags": "分布式 系统销售 分布式光伏 工商业光伏 系统销售",
     "company": "菲律宾项目主体",
     "title": "First Gen为NKC菲律宾宿务（Cebu）制造工厂新投运屋顶光伏并配套长期运维",
-    "summary": "First Gen完成宿务NKC制造工厂屋顶光伏并网并承担五年运维。 解读：该项目主要应对电力供应面临的挑战。日本 NKC 集团在菲律宾的制造基地，主要为汽车和工业市场生产精密零部件。",
+    "summary": "First Gen完成宿务NKC制造工厂屋顶光伏并网并承担五年运维。 解读：该项目主要应对电力供应面临的挑战。日本 NKC 集团在菲律宾的制造基地为汽车和工业市场生产精密零部件。",
     "sourceName": "powerphilippines.com",
     "sourceUrl": "https://powerphilippines.com/first-gen-completes-rooftop-solar-project-for-nkcs-cebu-facility",
     "sourceType": "notion-approved",
