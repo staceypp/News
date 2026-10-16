@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-10-15",
+    "country": "英国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "收购",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式光伏"
+    ],
+    "company": "英国项目主体",
+    "title": "英国Octopus Renewables以3460万英镑收购英国55MWp Barnsdale光伏电站",
+    "summary": "英国上市基金Octopus Renewables Infrastructure Trust(ORIT)与英国陆上新能源开发商OnPath Energy签订附条件协议，收购位于英格兰西约克郡、目前仍在建设中的55MWp的Barnsdale光伏电站。该项目建成后预计发电量可满足约1.9万户家庭年用电需求，包含剩余建设成本的总收购价为3460万英镑（人民币约3亿元）。ORIT表示该交易将支持其ORIT 2030战略下9%-11%的中长期总回报目标。 解读：该交易体现出机构投资者对英国在建期光伏项目的并购兴趣依然较强，尤其是具备明确并网时间表和收益可预测性的项目更受青睐。该项目交易定价约63万英镑/MWp（5.6元/Wp），可作为市场估值参照。",
+    "sourceName": "mining.com.au",
+    "sourceUrl": "https://mining.com.au/octopus-renewables-picks-up-uk-solar-project",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3fbabced5dee8107ba38d256f499ea45",
+    "collectedAt": "2026-10-16T13:41:19.930Z",
+    "notionPageId": "3fbabced5dee8107ba38d256f499ea45",
+    "fingerprint": "notion|28798346b7915162a8f0"
+  },
+  {
     "date": "2026-10-14",
     "country": "菲律宾",
     "geo": "亚洲",
