@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-10-16",
+    "country": "印尼",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "微电网"
+    ],
+    "tags": [
+      "离网光伏",
+      "智能微电网"
+    ],
+    "company": "PLN",
+    "title": "印尼计划在2030年实现所有村庄通电，2026年拟推动至4000多个村庄",
+    "summary": "印尼能源部长10月15日重申2029-2030年实现全部村庄通电，覆盖全国约11000个村庄仍有未通电家庭。2026年乡村电气化目标覆盖4000多个村庄，较2025年约1400个目标提高。村庄电气化计划（Lisdes）为尚未接入国家电网的农村地区建设电力基础设施。新增电力接入援助计划（BPBL）帮助低收入家庭接入电网。 解读：主要解决两个不同层面的问题，一是让尚无电力基础设施的社区获得供电，二是帮助低收入家庭完成入户接电。因要求地方政府与印尼国家电力公司（PLN）共同摸排需要援助的村庄、村落和家庭。开发端可建立与政府、PLN的关系。",
+    "sourceName": "en.antaranews.com",
+    "sourceUrl": "https://en.antaranews.com/news/435945/indonesia-targets-electricity-access-for-all-villages-by-2030",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3fcabced5dee81e8afb0fb57871b574c",
+    "collectedAt": "2026-10-17T06:27:38.349Z",
+    "notionPageId": "3fcabced5dee81e8afb0fb57871b574c",
+    "fingerprint": "notion|d54cc550d66328881a73"
+  },
+  {
     "date": "2026-10-15",
     "country": "英国",
     "geo": "欧洲",
