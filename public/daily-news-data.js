@@ -70,6 +70,27 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-12",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": "电力交易 新能源消纳 电力市场",
+    "company": "国家能源局",
+    "title": "国家能源局部署迎峰度冬保供与新能源消纳监管工作",
+    "summary": "国家能源局2026年10月12日在京召开年内第三次能源监管工作例会，副局长宋宏坤出席并强调要锚定全年目标、补齐短板。会议要求提早谋划迎峰度冬能源保供监管，完善市场机制以促进新能源消纳，并推进全国统一电力市场体系建设与电力监管执法。 解读：该表态延续近期能源监管层对冬季电力保供与新能源消纳的双重关注，预计后续将有配套细则落地。",
+    "sourceName": "东方财富网",
+    "sourceUrl": "https://finance.eastmoney.com/a/202610133893896064.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|能源监管工作例会|迎峰度冬|政策",
+    "id": "daily|2026-10-12|中国|能源监管工作例会",
+    "collectedAt": "2026-10-17T00:53:00.000Z"
+  },
+  {
+    "date": "2026-10-12",
     "country": "福建",
     "geo": "中国",
     "category": "市场信息",
@@ -225,6 +246,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-13T16:40:02.979Z",
     "notionPageId": "3f7abced5dee8181ab3bed41a198cfd2",
     "fingerprint": "notion|a8df48f705f28ad48dba"
+  },
+  {
+    "date": "2026-10-09",
+    "country": "赞比亚",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "电力交易"
+    ],
+    "tags": "集中式 电力交易 PPA 南部非洲电力池",
+    "company": "Africa GreenCo / AXIAN Group",
+    "title": "Africa GreenCo与AXIAN就赞比亚240MW Kudu光伏签署PPA",
+    "summary": "能源贸易商Africa GreenCo与AXIAN集团在卢萨卡非洲能源论坛上签署购电协议，收购赞比亚Kudu光伏项目电量，该项目直流侧装机约240MW（交流侧约200MW），预计年发电量约5.3亿千瓦时，电量将通过南部非洲电力池（SAPP）转售。标准银行及其赞比亚子公司Stanbic Bank Zambia为项目融资提供支持，项目正推进至融资关闭与建设阶段。 解读：此为Africa GreenCo迄今签署的最大规模PPA，反映出南部非洲区域电力贸易对光伏电量的需求持续增长。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/axian-africa-greenco-ink-240mw-pv-ppa-in-zambia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "赞比亚|AfricaGreenCo|AXIAN|Kudu光伏|PPA",
+    "id": "daily|2026-10-09|赞比亚|Kudu光伏PPA",
+    "collectedAt": "2026-10-17T00:53:00.000Z"
   },
   {
     "date": "2026-10-09",
@@ -451,6 +494,49 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-10T07:58:58.929Z",
     "notionPageId": "3f4abced5dee8102b052c77a23aac7ce",
     "fingerprint": "notion|9e33a7793a8c5377085b"
+  },
+  {
+    "date": "2026-10-05",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "破产",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 农光互补 垂直双面组件",
+    "company": "Next2Sun",
+    "title": "德国垂直双面光伏企业Next2Sun两家子公司申请破产自救",
+    "summary": "德国垂直双面农光互补光伏企业Next2Sun旗下两家子公司Next2Sun Technology GmbH与Next2Sun Mounting Systems GmbH于2026年10月5日向萨尔布吕肯地方法院申请自我管理式破产程序，母公司Next2Sun AG及Next2Sun Projekt GmbH不受影响。据报道此前的融资活动未能筹集到维持全部主体运营所需资金，两家公司目前仍维持运营，在建项目的经济可行性正在评估中。 解读：该事件反映出部分欧洲中小型光伏细分技术企业在融资环境收紧下面临的资金压力。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/vertical-bifacial-pv-specialist-next2sun-files-for-insolvency-for-two-subsidiaries/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|Next2Sun|破产|垂直双面组件|同行动态",
+    "id": "daily|2026-10-05|德国|Next2Sun子公司破产",
+    "collectedAt": "2026-10-17T00:53:00.000Z"
+  },
+  {
+    "date": "2026-10-02",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 电池储能 容量投资计划CIS",
+    "company": "Atmos Renewables",
+    "title": "Atmos Renewables完成澳大利亚400MW储能项目融资关闭",
+    "summary": "澳大利亚可再生能源开发商Atmos Renewables于2026年10月2日宣布，其位于昆士兰州Teebar的400MW/1600MWh电池储能项目完成融资关闭，项目选址邻近Powerlink的Teebar Creek变电站，可提供4小时时长储能，并获联邦容量投资计划（CIS）长期收益担保支持。项目与同期完成融资关闭的470MW风电项目合计，使Atmos旗下CIS支持项目累计达970MW，Atmos将在建设和运营期保留项目所有权，Wärtsilä旗下储能集成商Valo已获选为设备供应商，商运预计2028年底。 解读：该项目体现澳大利亚联邦层面容量投资计划对大型储能项目融资的持续支撑作用。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/atmos-renewables-closes-financing-on-1-6gwh-capacity-investment-scheme-backed-battery-storage-system-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|AtmosRenewables|Teebar储能|融资关闭|市场信息",
+    "id": "daily|2026-10-02|澳大利亚|Teebar储能融资关闭",
+    "collectedAt": "2026-10-17T00:53:00.000Z"
   },
   {
     "date": "2026-09-30",
