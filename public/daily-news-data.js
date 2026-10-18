@@ -68,6 +68,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-13",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 PPA 德国",
+    "company": "Sunovis / Statkraft",
+    "title": "Sunovis与Statkraft签署混合光储购电协议",
+    "summary": "德国太阳能开发商Sunovis与挪威能源公司Statkraft签署混合购电协议(PPA)，覆盖萨克森-安哈尔特州ABS项目和勃兰登堡州Harnekop项目，两项目合计光伏装机181.9兆瓦、储能61兆瓦/244兆瓦时，均在建设中，预计2026年底至2027年10月期间陆续投运。协议采用分阶段定价，初期按市场化收益分成，后续至2037年对大部分电量采用固定价格，两项目均未获得公共投资补贴，由Statkraft负责电量承购与市场优化。",
+    "sourceName": "solarserver.de",
+    "sourceUrl": "https://www.solarserver.de/2026/10/13/hybrider-ppa-sunovis-und-statkraft-vereinbaren-stromabnahme/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|Sunovis-Statkraft|ABS-Harnekop混合PPA|181.9MWp+61MW244MWh|PPA",
+    "id": "daily|2026-10-13|德国|Sunovis-Statkraft混合PPA",
+    "collectedAt": "2026-10-18T00:36:56Z"
+  },
+  {
+    "date": "2026-10-13",
     "country": "埃及",
     "geo": "非洲",
     "category": "市场信息",
