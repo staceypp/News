@@ -1,5 +1,50 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-10-17",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "出售",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能",
+    "company": "澳大利亚项目主体",
+    "title": "澳大利亚新南威尔士州热浪引发电价飙升,家庭储能单日套利超200万澳元",
+    "summary": "澳大利亚新南威尔士州遭遇春季热浪，加上叠加煤电机组意外停运和输电受限，导致电网批发电价大幅飙升。约3万名 Amber Electric 用户通过向电网出售家庭电池储存的电力，在两小时内合计获得约200万澳元（人民币约928万元）收入。批发电价一度达到每兆瓦时23,107澳元（人民币约107.28元/kWh），其中有11个五分钟交易时段的价格超过每兆瓦时5,000澳元（人民币约23.21元/kWh）。参与用户平均获得69澳元（人民币约320元）收入，收入最高的用户超过500澳元（人民币约2,321元）。 解读：该事件再次凸显极端天气叠加传统电源不稳定性对电力批发市场价格波动的放大效应，也验证了户储在参与需求侧响应和电价套利中的商业价值正快速显性化。",
+    "sourceName": "abc.net.au",
+    "sourceUrl": "https://www.abc.net.au/news/2026-10-17/home-batteries-make-money-in-nsw-power-price-spike/107260880",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3fcabced5dee81808fd5d6386f8d6023",
+    "collectedAt": "2026-10-18T18:24:59.666Z",
+    "notionPageId": "3fcabced5dee81808fd5d6386f8d6023",
+    "fingerprint": "notion|e1e98d4f2f7ffe465af9"
+  },
+  {
+    "date": "2026-10-17",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "技术",
+    "businessTags": [
+      "户用光伏",
+      "系统销售"
+    ],
+    "tags": "户用光伏 系统销售 户用光伏 系统销售",
+    "company": "晶科能源",
+    "title": "晶科推出510W、25.52%效率的Tiger Neo 5.0全黑户用组件",
+    "summary": "晶科能源10月17日推出Tiger Neo 5.0全黑户用光伏组件。48片最高功率510W、组件转换效率达25.52%、温度系数-0.24%/℃。采用TAC技术，结合TOPCon与HJT钝化。采用零间距电池排布与隐藏焊带技术，在提高效率的同时，形成更深、更均匀的黑色外观。 解读：该组件主要面向高端住宅市场，户用市场更关注屋顶面积利用率、外观与高温表现。需注意，宣传内容中的“相较BC组件功率高30W”，并未有第三方机构验证结果。",
+    "sourceName": "ir.jinkosolar.com",
+    "sourceUrl": "https://ir.jinkosolar.com/news-releases/news-release-details/jinkosolar-unveils-tiger-neo-50-all-black-residential-solar",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|3fdabced5dee8177bfdbc30c14ecdcc4",
+    "collectedAt": "2026-10-18T18:24:59.666Z",
+    "notionPageId": "3fdabced5dee8177bfdbc30c14ecdcc4",
+    "fingerprint": "notion|8527d60887075c7b74d7"
+  },
+  {
     "date": "2026-10-16",
     "country": "印尼",
     "geo": "亚洲",
