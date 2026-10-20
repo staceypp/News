@@ -46,6 +46,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-16",
+    "country": "陕西",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "中标",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 构网型储能 独立储能 EPC",
+    "company": "邵阳维克液压、华自科技联合体",
+    "title": "陕西志丹200MW/600MWh构网型储能项目联合体中标",
+    "summary": "邵阳维克液压与华自科技组成的联合体于2026年10月14日收到中国二冶集团发出的中标通知书，联合中标陕西省延安市志丹县200MW/600MWh构网型独立储能项目的储能系统设备及升压站设备，联合体总中标价为4.616亿元（含税）。邵阳维克液压为联合体牵头人、华自科技为成员单位。公告同时提示，截至披露日双方尚未与招标方正式签署合同，最终收入确认的金额、时点仍存在不确定性。",
+    "sourceName": "巨潮资讯网（邵阳维克液压公告）",
+    "sourceUrl": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607973.PDF",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|邵阳维克液压|华自科技|志丹200MW600MWh构网型储能|中标",
+    "id": "daily|2026-10-16|中国|志丹储能联合体中标",
+    "collectedAt": "2026-10-20T00:36:53.000Z"
+  },
+  {
+    "date": "2026-10-16",
     "country": "印尼",
     "geo": "亚洲",
     "category": "市场信息",
@@ -65,6 +87,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-17T06:27:38.349Z",
     "notionPageId": "3fcabced5dee81e8afb0fb57871b574c",
     "fingerprint": "notion|d54cc550d66328881a73"
+  },
+  {
+    "date": "2026-10-15",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "收购",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 电池储能 资产收购 意大利",
+    "company": "ZE Energy、Aura Power",
+    "title": "法国ZE Energy收购意大利200MW/1GWh+电池储能项目",
+    "summary": "法国储能开发商ZE Energy从Aura Power手中收购其位于意大利福贾省特罗亚（Troia）的独立电池储能项目“Elena”，该项目已获得全部许可、建设场地已启动，装机规模为200MW、储能容量超过1GWh，将接入意大利电网公司Terna的380kV超高压电网。交易完成后，ZE Energy在意大利的储能项目并网容量合计达到300MW。交易卖方财务顾问为JLL，法律顾问方面BonelliErede担任ZE Energy顾问、Legance担任Aura Power顾问。",
+    "sourceName": "Leaders League",
+    "sourceUrl": "https://www.leadersleague.com/en/news/ze-energy-acquires-a-stand-alone-battery-storage-plant-in-puglia-from-aura-power",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|ZE Energy|Aura Power|Elena储能项目200MW|收购",
+    "id": "daily|2026-10-15|意大利|ZEEnergy收购Elena储能",
+    "collectedAt": "2026-10-20T00:36:53.000Z"
   },
   {
     "date": "2026-10-15",
@@ -134,6 +178,50 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-14T19:55:34.409Z",
     "notionPageId": "3f9abced5dee8157b5ccfc157442de78",
     "fingerprint": "notion|5656bd555576bff1d695"
+  },
+  {
+    "date": "2026-10-12",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "出售",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": "集中式 交易 风电 股权转让 滚动开发",
+    "company": "运达股份",
+    "title": "运达股份拟转让四家风电项目公司股权回笼资金",
+    "summary": "运达股份10月12日晚间公告，拟通过产权交易机构公开挂牌转让邯郸宏强、魏县宏润、禹城运风、禹城启达四家风电项目公司的100%股权，目前处于挂牌前信息预披露阶段，交易对象及完成时间尚不确定。这是公司今年第五批电站项目公司转让安排，年内累计已涉及8家公司。市场解读认为，此举是公司在“滚动开发”模式下回笼资金的需要，背景是公司2026年上半年归母净利润亏损2.49亿元、经营现金净流出35.11亿元。",
+    "sourceName": "东方财富网",
+    "sourceUrl": "https://wap.eastmoney.com/a/202610123892776642.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|运达股份|风电项目公司股权转让|四家公司|出售",
+    "id": "daily|2026-10-12|中国|运达股份风电股权转让",
+    "collectedAt": "2026-10-20T00:36:53.000Z"
+  },
+  {
+    "date": "2026-10-12",
+    "country": "赞比亚",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": "集中式 交易 PPA 太阳能 南部非洲电力市场",
+    "company": "Africa GreenCo、AXIAN Group",
+    "title": "Africa GreenCo与AXIAN签署赞比亚Kudu光伏项目购电协议",
+    "summary": "据行业媒体10月12日报道，电力贸易商Africa GreenCo与AXIAN集团签署购电协议（PPA），收购赞比亚Kudu太阳能项目的电力，项目建成后预计年发电量约530吉瓦时，Africa GreenCo将通过南部非洲电力池（SAPP）向区域客户转售该电力。标准银行集团及赞比亚渣打银行将为项目融资和建设筹备提供支持。不同信源披露的装机规模略有差异，Renewable Watch报道为200MW，PV Tech报道为240MW。",
+    "sourceName": "Renewable Watch",
+    "sourceUrl": "https://renewablewatch.in/2026/10/12/africa-greenco-and-axian-sign-200-mw-solar-ppa-in-zambia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "赞比亚|Africa GreenCo|AXIAN|Kudu光伏项目|PPA",
+    "id": "daily|2026-10-12|赞比亚|GreenCoAXIAN光伏PPA",
+    "collectedAt": "2026-10-20T00:36:53.000Z"
   },
   {
     "date": "2026-10-12",
