@@ -5505,5 +5505,107 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-10-16",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "交易"
+    ],
+    "tags": [
+      "出口管制",
+      "光伏技术",
+      "产业政策"
+    ],
+    "company": "商务部/科技部",
+    "title": "商务部科技部拟对光伏核心技术实施出口限制并征求意见",
+    "summary": "商务部、科技部10月16日发布2026年第48号公告，拟修订《中国禁止出口限制出口技术目录》，新增人工智能、生物医药和光伏领域共40项关键技术，其中光伏领域涉及多晶硅、硅片、电池制造等12项技术。公告明确拟禁止出口技术14项、限制出口技术26项，并对相关技术出口实施即时生效的临时登记管理，覆盖技术所有权境外转让、境外授权使用等情形。公众意见征集期至11月15日，官方表示该措施系常态化技术贸易管理，不针对特定国家、地区或实体。",
+    "sourceName": "新华社",
+    "sourceUrl": "https://www.news.cn/20261016/c15d168f570a48838178ca74e12ca9e7/c.html",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|商务部科技部|光伏技术出口管制|40项技术|政策",
+    "id": "daily|2026-10-16|中国|光伏技术出口管制",
+    "collectedAt": "2026-10-21T00:37:40.000Z"
+  },
+  {
+    "date": "2026-10-14",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "光氢储一体化",
+      "江苏",
+      "国家电投"
+    ],
+    "company": "国家电投国华投资",
+    "title": "国华投资江苏如东光氢储一体化项目储能电站并网投运",
+    "summary": "国家电投国华投资江苏如东光氢储一体化项目配套储能电站10月14日正式并网投运，规模为60兆瓦/120兆瓦时，由27台5兆瓦时储能电池舱等设备组成，是国内规模最大的光氢储一体化项目配套储能设施。该储能站接受江苏电网统一调度，在光伏出力高峰、电网消纳不足时优先消纳富余电力，用电高峰时反向支撑电网。项目光伏部分已于2025年4月全容量并网，氢能部分仍在调试中。",
+    "sourceName": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/821/939.htm",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国华投资|如东光氢储一体化|60MW120MWh|投运",
+    "id": "daily|2026-10-14|中国|如东光氢储储能并网",
+    "collectedAt": "2026-10-21T00:37:40.000Z"
+  },
+  {
+    "date": "2026-10-15",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "电池储能",
+      "马萨诸塞州",
+      "东海岸最大储能"
+    ],
+    "company": "Flatiron Energy",
+    "title": "Flatiron Energy完成8.5亿美元融资建设1.2GWh储能项目",
+    "summary": "美国储能开发商Flatiron Energy于10月15日宣布，已完成约8.5亿美元融资，用于建设马萨诸塞州切尔西（Chelsea）的Energizar独立电池储能项目。该项目规模达1.2GWh，建成后将成为美国东海岸规模最大的电池储能设施，预计2027年第四季度投入商业运营。融资方包括Nord/LB、西班牙桑坦德银行、法国兴业银行等银团提供的建设及过桥贷款，另有大型信贷资产管理机构提供优先股权投资，部分投资税收抵免额度已由两家世界500强企业认购。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/flatiron-energy-closes-us850-million-financing-for-1-2gwh-massachusetts-bess-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|FlatironEnergy|Energizar储能融资|8.5亿美元1.2GWh|融资",
+    "id": "daily|2026-10-15|美国|Flatiron储能融资",
+    "collectedAt": "2026-10-21T00:37:40.000Z"
+  },
+  {
+    "date": "2026-10-13",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "开工",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "电池储能",
+      "勃兰登堡",
+      "4小时储能"
+    ],
+    "company": "Enertrag / Enlight Renewable Energy",
+    "title": "德国Enertrag与Enlight启动200MW电池储能项目建设",
+    "summary": "德国可再生能源企业Enertrag与以色列开发商Enlight于10月13日在勃兰登堡州贝尔蒂科夫（Bertikow）变电站举行奠基仪式，启动双方合资的200兆瓦/840兆瓦时电池储能项目建设，放电时长约4.2小时。项目由Elevion旗下BELECTRIC负责平衡电力系统建设，SMA提供变流及电网支撑设备，并已与法国电力交易公司EDF Trading签订为期七年的部分容量购电协议。多家信源显示项目预计2027年至2028年上半年间投入商业运营，具体时间表述略有差异。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/germany-roundup-enertrag-enlight-vattenfall-fluence-giga-storage-4-hour-batteries/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|Enertrag|Enlight|Bertikow储能|200MW840MWh|开工",
+    "id": "daily|2026-10-13|德国|Bertikow储能开工",
+    "collectedAt": "2026-10-21T00:37:40.000Z"
   }
 ]
