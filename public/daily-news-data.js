@@ -71,6 +71,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-17",
+    "country": "法国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 电网接入 光储一体",
+    "company": "法国能源监管委员会(CRE)/法国政府",
+    "title": "法国拟放宽25兆瓦以下光储项目电网接入限制",
+    "summary": "法国政府计划放宽装机不超过25兆瓦的光伏+储能混合项目的电网接入规则，条件是并网注入电网的功率不超过17兆瓦，作为加快电气化和提升需求侧灵活性举措的一部分。此前法国能源监管委员会(CRE)在2026年的文件中已提出，装机超过17兆瓦的光储混合项目可通过限制注入电网功率的方式以中压(HTA)接入，本次新规被视为对该框架的延续和细化。",
+    "sourceName": "pv magazine",
+    "sourceUrl": "https://www.pv-magazine.com/2026/10/17/france-to-ease-grid-connection-rules-for-solar-plus-storage-projects-up-to-25-mw/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "法国|CRE-法国政府|光储电网接入新规|25MW-17MW|政策",
+    "id": "daily|2026-10-17|法国|光储接入新规",
+    "collectedAt": "2026-10-22T00:37:41Z"
+  },
+  {
+    "date": "2026-10-17",
     "country": "澳大利亚",
     "geo": "大洋洲",
     "category": "市场信息",
@@ -157,6 +179,49 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-16T13:41:19.930Z",
     "notionPageId": "3fbabced5dee8107ba38d256f499ea45",
     "fingerprint": "notion|28798346b7915162a8f0"
+  },
+  {
+    "date": "2026-10-14",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 光氢储一体化 国家能源集团 江苏如东",
+    "company": "国家能源集团国华投资",
+    "title": "国华如东光氢储一体化项目储能电站并网投运",
+    "summary": "国家能源集团国华投资在江苏如东推进的400兆瓦光氢储一体化项目中，配套的60兆瓦/120兆瓦时储能电站于10月14日正式并网投运，系经35千伏母线接入后通过220千伏电缆接入光伏升压站并网。该储能电站是国内规模最大的光氢储一体化项目配套储能设施，此前光伏电站已于2025年4月全容量并网，目前项目仅剩绿电制氢环节尚在推进。",
+    "sourceName": "中国金融信息网",
+    "sourceUrl": "https://www.cnfin.com/hg-lb/detail/20261018/4482632_1.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国华投资|如东光氢储一体化|60MW120MWh|投运",
+    "id": "daily|2026-10-14|中国|如东光氢储电站并网",
+    "collectedAt": "2026-10-22T00:37:41Z"
+  },
+  {
+    "date": "2026-10-14",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "中标",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 构网型储能 联合体中标 陕西",
+    "company": "邵阳液压/华自科技",
+    "title": "邵阳液压联合华自科技中标志丹200MW/600MWh储能项目",
+    "summary": "邵阳维克液压股份有限公司于10月14日收到中标通知书，与华自科技组成的联合体中标陕西志丹200MW/600MWh构网型独立储能项目的储能系统设备及升压站设备，中标总价约4.616亿元（含税）。公告同时提示，截至披露日联合体尚未与招标人中国二冶集团签署正式合同，最终营业收入确认时点和金额仍存在不确定性。此次中标也标志着该公司从传统液压装备制造向储能系统集成业务拓展。",
+    "sourceName": "巨潮资讯网（公司公告）",
+    "sourceUrl": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607973.PDF",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|邵阳液压-华自科技|志丹储能项目|200MW600MWh-4.616亿元|中标",
+    "id": "daily|2026-10-14|中国|志丹储能项目中标",
+    "collectedAt": "2026-10-22T00:37:41Z"
   },
   {
     "date": "2026-10-14",
@@ -544,6 +609,29 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-10T07:58:58.929Z",
     "notionPageId": "3f4abced5dee81eda7edc0ab96954926",
     "fingerprint": "notion|71e0581e8fddbebdce9e"
+  },
+  {
+    "date": "2026-10-06",
+    "country": "西班牙",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": "集中式 储能 交易 PPA 光储混改",
+    "company": "Zelestra / EDP",
+    "title": "Zelestra与EDP签署PPA为西班牙两座光伏电站加装462MWh储能",
+    "summary": "Zelestra与葡萄牙电力公司EDP签署两份新购电协议(PPA)，为旗下已运营的Pedroso(塞维利亚)和Valkyria(卡斯蒂利亚-拉曼恰)光伏电站加装合计约462兆瓦时电池储能系统，对应181兆瓦(直流)光伏规模，其中Pedroso配置25兆瓦/约100兆瓦时储能、Valkyria配置90.45兆瓦/约362兆瓦时储能，均为四小时时长。此次合作使双方在西班牙的光储混改合作项目增至四个，合计储能规模超过1吉瓦时，EDP作为两座电站的现有购电方，持续巩固其在西班牙储能资产购电方面的领先地位。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/zelestra-and-edp-expand-solar-plus-storage-ppa-partnership-with-another-462mwh-of-batteries-in-spain/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "西班牙|Zelestra-EDP|Pedroso-Valkyria光储PPA|462MWh|签约",
+    "id": "daily|2026-10-06|西班牙|Zelestra EDP光储PPA",
+    "collectedAt": "2026-10-22T00:37:41Z"
   },
   {
     "date": "2026-10-06",
