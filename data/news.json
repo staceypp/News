@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-10-22",
+    "country": "新西兰",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "电力交易"
+    ],
+    "tags": [
+      "集中式光伏",
+      "电力交易"
+    ],
+    "company": "新西兰项目主体",
+    "title": "新西兰Lodestone光伏IPP上市募资7500万纽元，推进发售电一体化",
+    "summary": "Lodestone Energy于2026年10月22日发布的上市公告。核心内容是：公司通过 IPO 募集7,500万新西兰元（人民币2.5亿元），在新西兰证券交易所（NZX）主板上市发行价2.25新西兰元/股（人民币8.55元/股），上市后市值约4.4亿新西兰元（人民币16.73亿元）、企业价值5.136亿新西兰元（人民币19.53亿元）。已运营5座光伏电站，合计169MWp，目标到2032财年拥有16—18座运营电站，计划每年新增投运2-3座；向工商业及部分居民客户直接售电。 解读：这是新西兰约五年来较大规模的 IPO。公司采取电站开发、建设、持有与零售的售电一体化模式，通过IPO募集资金用于支持储备项目开发及扩大电力客户群。",
+    "sourceName": "lodestone.co.nz",
+    "sourceUrl": "https://lodestone.co.nz/lodestone-energy-welcomes-around-10000-new-shareholders-as-it-lists-on-nzx",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|402abced5dee81c38483ef367083eea6",
+    "collectedAt": "2026-10-23T19:43:07.273Z",
+    "notionPageId": "402abced5dee81c38483ef367083eea6",
+    "fingerprint": "notion|dde1759b915dddb1d0f0"
+  },
+  {
+    "date": "2026-10-20",
+    "country": "英国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式光伏"
+    ],
+    "company": "英国相关企业",
+    "title": "英国Low Carbon启动Dengie半岛能源园区，规划最高1GW光伏储能",
+    "summary": "英国可再生能源开发商Low Carbon宣布启动位于英国埃塞克斯郡Dengie半岛的能源园区项目，规划装机容量最高达1GW，结合光伏发电与电池储能，计划2027年初开展公众咨询。由于发电容量超过100MW，该项目被认定为国家重大基础设施项目（NSIP），Low Carbon计划向英国规划监察局申请发展许可令（DCO）。该项目的推进与英国政府今年7月宣布的旨在将重大基础设施审批周期缩短最多12个月的规划改革相关。 解读：1GW量级的光伏+储能一体化项目若按NSIP流程推进，意味着英国正在尝试用国家层面的审批通道加快大型可再生能源项目落地速度，这对计划在英国拓展集中式光伏及储能业务的企业是积极信号，但NSIP审批流程虽更统一，仍涉及较长的公众咨询和环境评估周期，实际建设期存在不确定性。",
+    "sourceName": "taiyangnews.info",
+    "sourceUrl": "https://taiyangnews.info/storage/global-battery-storage-news-snippets-october-20-2026",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|400abced5dee8167b743c4aca25ae4ad",
+    "collectedAt": "2026-10-23T19:43:07.273Z",
+    "notionPageId": "400abced5dee8167b743c4aca25ae4ad",
+    "fingerprint": "notion|32baafbdf500b3eb643e"
+  },
+  {
     "date": "2026-10-20",
     "country": "河北",
     "geo": "中国",
