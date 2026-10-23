@@ -116,6 +116,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-16",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "业绩预告",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 TOPCon3.0 减亏",
+    "company": "晶科能源",
+    "title": "晶科能源前三季度预亏29.76亿-35.76亿元，同比收窄",
+    "summary": "晶科能源发布2026年前三季度业绩预告，预计归母净利润为净亏损29.76亿元至35.76亿元，较上年同期净亏损39.2亿元同比收窄8.77%至24.08%。公司称减亏主要得益于TOPCon3.0产线改造及产能爬坡有序推进、生产成本持续优化、高功率产品出货占比提升，以及储能业务开始贡献经营利润。",
+    "sourceName": "财联社",
+    "sourceUrl": "https://www.cls.cn/detail/2506891",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|晶科能源|前三季度业绩预告|亏损29.76-35.76亿元|业绩预告",
+    "id": "daily|2026-10-16|中国|晶科能源三季度减亏",
+    "collectedAt": "2026-10-23T00:35:52Z"
+  },
+  {
+    "date": "2026-10-16",
     "country": "印尼",
     "geo": "亚洲",
     "category": "市场信息",
@@ -204,6 +226,29 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-14T19:55:34.409Z",
     "notionPageId": "3f9abced5dee8157b5ccfc157442de78",
     "fingerprint": "notion|5656bd555576bff1d695"
+  },
+  {
+    "date": "2026-10-12",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": "集中式 储能 交易 首个美国电站 优先股",
+    "company": "协合新能源（Concord New Energy）",
+    "title": "协合新能源完成4亿美元融资落地美国首个光储电站",
+    "summary": "港股上市的协合新能源（00182.HK）宣布完成总额4亿美元的融资，用于支持其在美国得克萨斯州的Project Chisme光储项目，这是公司在美国的首个公用事业规模项目。融资包含3.1亿美元由第一公民银行、高盛另类投资及Associated Bank牵头提供的债务及信用证融资，以及高盛另类投资提供的9000万美元优先股投资。项目规模为215MW光伏加147MW/358MWh电池储能。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/concord-new-energy-closes-us400-million-financing-for-texas-solar-plus-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|协合新能源|Project Chisme得州光储215MW+147MW-358MWh|4亿美元|融资",
+    "id": "daily|2026-10-12|美国|协合新能源得州光储融资",
+    "collectedAt": "2026-10-23T00:35:52Z"
   },
   {
     "date": "2026-10-12",
@@ -390,6 +435,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-08",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": "集中式 交易 Meta PPA 绿色信贷",
+    "company": "Zelestra",
+    "title": "Zelestra获3.5亿美元融资支持Meta供电的203MW印第安纳光伏项目",
+    "summary": "西班牙背景的独立发电商Zelestra完成对美国印第安纳州Gibson County境内203MW Reclamation Solar项目的3.5亿美元绿色信贷融资，由CIBC牵头，联合BBVA、法国兴业银行提供。该项目建于废弃煤矿用地上，已与Meta签署长期购电协议，预计2027年底商业投运。至此，Zelestra在2026年美国项目融资总额已达约11.4亿美元。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/zelestra-closes-us350-million-financing-at-203mw-pv-plant-in-indiana-backed-by-meta/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Zelestra|Reclamation Solar印第安纳203MW|3.5亿美元|融资",
+    "id": "daily|2026-10-08|美国|Zelestra印第安纳光伏融资",
+    "collectedAt": "2026-10-23T00:35:52Z"
+  },
+  {
+    "date": "2026-10-08",
     "country": "陕西",
     "geo": "中国",
     "category": "市场信息",
@@ -431,6 +498,51 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-12T08:25:52.597Z",
     "notionPageId": "3f5abced5dee819c9329c16110141416",
     "fingerprint": "notion|5e0ba888087a5f54a444"
+  },
+  {
+    "date": "2026-10-07",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": "集中式 储能 交易 再融资 HoldCo债务",
+    "company": "MaxSolar / Copenhagen Infrastructure Partners",
+    "title": "CIP为德国MaxSolar的1.3GW光储组合提供1.55亿欧元再融资",
+    "summary": "丹麦哥本哈根基础设施基金管理的资金向德国光储开发商MaxSolar提供1.55亿欧元（约1.76亿美元）HoldCo债务融资，取代其2023年的旧债务安排，用于支持约1.3GW德国光储项目组合，其中光伏约912MW、独立及配套储能约379MW，目前已投运约465MW。资金同时用于支持在建项目及部分资产收购。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/cip-refinances-maxsolars-1-3gw-renewable-energy-portfolio-in-germany/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|MaxSolar-CIP|1.3GW光储组合再融资|1.55亿欧元|融资",
+    "id": "daily|2026-10-07|德国|MaxSolar再融资",
+    "collectedAt": "2026-10-23T00:35:52Z"
+  },
+  {
+    "date": "2026-10-07",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": "集中式 交易 20年期PPA 银团贷款",
+    "company": "Clearway Energy",
+    "title": "Clearway完成15亿美元融资并开工建设密苏里650MW光伏项目",
+    "summary": "Clearway Energy Group完成对密苏里州Bates County境内650MW Swan Energy Center光伏项目约15亿美元的建设融资并正式开工，贷款由加拿大帝国商业银行、挪威DNB银行及澳大利亚国民银行牵头银团提供。项目产出已签署20年期购电协议，预计2028年投入商业运营，由Blattner Energy承建，高峰期将提供约500个建设岗位。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/clearway-secures-financing-starts-construction-on-650mw-missouri-solar-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Clearway Energy|Swan Energy Center密苏里650MW|15亿美元|融资",
+    "id": "daily|2026-10-07|美国|Clearway密苏里光伏融资",
+    "collectedAt": "2026-10-23T00:35:52Z"
   },
   {
     "date": "2026-10-07",
