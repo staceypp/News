@@ -23,6 +23,52 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|dde1759b915dddb1d0f0"
   },
   {
+    "date": "2026-10-21",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "开发",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "融资"
+    ],
+    "tags": "分布式 储能 融资 虚拟电厂 市政能源",
+    "company": "Budderfly",
+    "title": "美国Budderfly推出5亿美元市政光储升级计划组建150MW虚拟电厂",
+    "summary": "美国能效与分布式能源服务商Budderfly宣布面向中小型市政当局推出\"Modernizing American Cities\"计划，拟投入5亿美元项目资本，为城市免费升级光伏、电池储能及节能设施，由城市通过运营节省资金分期偿付。公司计划将这些站点整合为150MW虚拟电厂，首个落地项目位于密歇根州卡迪拉克市，投资约440万美元改造7处市政设施，施耐德电气提供电气硬件与智能控制系统支持。",
+    "sourceName": "PV Magazine USA",
+    "sourceUrl": "https://pv-magazine-usa.com/2026/10/21/budderfly-plans-150-mw-municipal-vpp-with-solar-storage-in-u-s-cities/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Budderfly|市政虚拟电厂|150MW|开发",
+    "id": "daily|2026-10-21|美国|Budderfly市政VPP计划",
+    "collectedAt": "2026-10-24T00:37:46Z"
+  },
+  {
+    "date": "2026-10-21",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "融资"
+    ],
+    "tags": "分布式 储能 融资 信贷额度 社区光伏",
+    "company": "Pivot Energy",
+    "title": "美国Pivot Energy获5亿美元信贷额度支持光储开发",
+    "summary": "美国社区光伏及储能开发商Pivot Energy宣布与Nuveen Energy Infrastructure Capital签署一笔3年期5亿美元企业信贷额度，为其迄今最大规模融资。资金将用于支持光伏及电池储能项目的后期开发与设备采购，重点投向电网受限地区。公司目前在15个州逾100个社区运营超200MW光伏项目，计划到2029年底运营光伏超1GW、储能700MWh。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/pivot-energy-closts-us500-million-credit-facility-solar-pv-bess-deployments/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|PivotEnergy|信贷额度|5亿美元|融资",
+    "id": "daily|2026-10-21|美国|Pivot Energy信贷融资",
+    "collectedAt": "2026-10-24T00:37:46Z"
+  },
+  {
     "date": "2026-10-20",
     "country": "英国",
     "geo": "欧洲",
@@ -224,6 +270,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-16T13:41:19.930Z",
     "notionPageId": "3fbabced5dee8107ba38d256f499ea45",
     "fingerprint": "notion|28798346b7915162a8f0"
+  },
+  {
+    "date": "2026-10-14",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": "集中式 融资 项目融资 分布式光伏组合",
+    "company": "Revalue Energies",
+    "title": "意大利Revalue Energies完成1.6亿欧元光伏项目融资",
+    "summary": "意大利可再生能源开发商Revalue Energies通过子公司Mitra S.r.l.完成其首笔项目融资，总额约1.6亿欧元，覆盖意大利中北部六个地区的26个光伏项目，合计装机约162MW，将于2026至2028年分阶段并网。贷款方包括BayernLB、ING（米兰分行）及UniCredit，融资结构包含优先贷款、偿债储备及GSE担保三条额度，并设有未来扩容选项。",
+    "sourceName": "Leaders League",
+    "sourceUrl": "https://www.leadersleague.com/en/news/revalue-energies-closes-eur160-million-project-financing-for-26-photovoltaic-projects",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|RevalueEnergies-Mitra|26个光伏项目|1.6亿欧元|融资",
+    "id": "daily|2026-10-14|意大利|Revalue项目融资",
+    "collectedAt": "2026-10-24T00:37:46Z"
   },
   {
     "date": "2026-10-14",
@@ -429,6 +497,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-13T16:40:02.979Z",
     "notionPageId": "3f7abced5dee8181ab3bed41a198cfd2",
     "fingerprint": "notion|a8df48f705f28ad48dba"
+  },
+  {
+    "date": "2026-10-09",
+    "country": "赞比亚",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "PPA签约",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": "集中式 交易 PPA 南部非洲电力池 光伏",
+    "company": "Axian Group / Africa GreenCo",
+    "title": "赞比亚Axian与Africa GreenCo签署240MW光伏购电协议",
+    "summary": "马达加斯加Axian集团与独立电力采购商Africa GreenCo在卢萨卡举行的非洲能源论坛上，就赞比亚Kudu光伏项目签署购电协议，项目直流侧装机约240MW（交流侧约200MW），预计年发电量约530GWh。Africa GreenCo将收购电量并转售给南部非洲电力池（SAPP）内的工商业用户，标准银行（Standard Bank）及赞比亚Stanbic银行为项目提供融资支持，目前正推进融资关闭。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/axian-africa-greenco-ink-240mw-pv-ppa-in-zambia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "赞比亚|Axian-AfricaGreenCo|Kudu光伏项目|240MW|PPA",
+    "id": "daily|2026-10-09|赞比亚|Kudu光伏购电协议",
+    "collectedAt": "2026-10-24T00:37:46Z"
   },
   {
     "date": "2026-10-09",
