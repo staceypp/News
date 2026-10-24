@@ -26,6 +26,62 @@
     "fingerprint": "notion|fa5ffe868785a05ccb0a"
   },
   {
+    "date": "2026-10-23",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "技术",
+    "businessTags": [
+      "储能",
+      "系统销售",
+      "分布式"
+    ],
+    "tags": [
+      "储能",
+      "系统销售",
+      "工商业光伏"
+    ],
+    "company": "印度项目主体",
+    "title": "中国Sigenergy与印度Failte拟组建合资企业，计划投资2.5亿美元生产逆变器及储能系统",
+    "summary": "Failte Energy与中国Sigenergy计划通过合资企业在印度投资，首期投资金额约2.5亿美元（人民币16.68亿元）；逆变器工厂预计2027年第二季度投产，储能系统工厂预计晚6至8个月，另拟设储能研发中心；厂址尚在筛选，投资许可正在申请。 解读：印度本地化制造及准入合规将影响中国逆变器和储能厂商市场竞争与交付。",
+    "sourceName": "reuters.com",
+    "sourceUrl": "https://www.reuters.com/business/energy/chinas-sigenergy-build-inverter-battery-storage-plants-india-2026-10-23",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|403abced5dee81208734c3b3a599b6c9",
+    "collectedAt": "2026-10-24T18:31:37.679Z",
+    "notionPageId": "403abced5dee81208734c3b3a599b6c9",
+    "fingerprint": "notion|3dac0cd0ebd1be6262bc"
+  },
+  {
+    "date": "2026-10-23",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "投资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "AIDC"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能",
+      "AIDC"
+    ],
+    "company": "晶科能源",
+    "title": "晶科能源美股上市母公司正式更名晶科控股，光储主业与AI战略投资并行",
+    "summary": "晶科美股上市母公司JinkoSolar Holding Co., Ltd.宣布经2026-10-21股东大会批准，2026-10-23正式更名Jinko Holdings Limited（晶科控股有限公司）；纽约证券交易所ADS继续使用原股票代码JKS及原CUSIP证券识别码；控股子公司晶科能源股份有限公司（上交所688223）仍为光储产业经营主体；母公司战略投资覆盖AI、可再生能源、先进材料、商业航天及前沿科技等。 解读：更名强调在光储制造之外，将加大对AI能源基础设施等方面的关注。",
+    "sourceName": "ir.jinkosolar.com",
+    "sourceUrl": "https://ir.jinkosolar.com/news-releases/news-release-details/jinkosolar-completes-name-change-jinko-holdings-limited",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|403abced5dee81b088ecf036149e40f3",
+    "collectedAt": "2026-10-24T18:31:37.679Z",
+    "notionPageId": "403abced5dee81b088ecf036149e40f3",
+    "fingerprint": "notion|0bb5608616f36441d1e8"
+  },
+  {
     "date": "2026-10-22",
     "country": "新西兰",
     "geo": "全球",
@@ -50,6 +106,36 @@
     "collectedAt": "2026-10-23T19:43:07.273Z",
     "notionPageId": "402abced5dee81c38483ef367083eea6",
     "fingerprint": "notion|dde1759b915dddb1d0f0"
+  },
+  {
+    "date": "2026-10-22",
+    "country": "智利",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "电力交易",
+      "系统销售"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能",
+      "电力交易",
+      "系统销售"
+    ],
+    "company": "阳光电源",
+    "title": "智利Verano Observatorio光储项目获1.87亿美元绿色贷款，阳光电源为储能供应商",
+    "summary": "Verano Energy为智利O'Higgins省Observatorio刚出项目落实1.87亿美元（人民币12.47亿元）绿色担保信贷，MUFG牵头，Scotiabank参与；光伏123MWp，储能近期报道约606MWh；已安排向Copec Emoac售电的PPA。阳光电源将为其提供PowerTitan 2.0储能设备及25年长期服务协议。 解读：长期PPA+国际银行绿色贷款+储能长期运维可为大型光储项目提供融资参考。",
+    "sourceName": "redimin.cl",
+    "sourceUrl": "https://www.redimin.cl/verano-energy-asegura-us-187-millones-para-construir-una-gigantesca-central-solar-con-baterias-en-o-higgins",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|403abced5dee819f9a77d00a17c78be9",
+    "collectedAt": "2026-10-24T18:31:37.679Z",
+    "notionPageId": "403abced5dee819f9a77d00a17c78be9",
+    "fingerprint": "notion|620c241b0da7e0085195"
   },
   {
     "date": "2026-10-20",
@@ -332,6 +418,58 @@
     "collectedAt": "2026-10-15T13:50:50.251Z",
     "notionPageId": "3faabced5dee81d58433f3e393f2abb1",
     "fingerprint": "notion|50cdb126c61316b8231a"
+  },
+  {
+    "date": "2026-10-14",
+    "country": "福建",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式",
+      "机制电价",
+      "福建"
+    ],
+    "company": "国家能源局",
+    "title": "福建省发改委启动2026年新能源增量项目竞价工作",
+    "summary": "福建省发改委会同国家能源局福建监管办公室发布通知（闽发改价格〔2026〕448号），启动2026年福建省新能源增量项目市场化竞价工作。明确参与主体需为在2025年6月1日至2027年12月31日期间全容量并网（已并网或拟并网）、且未纳入机制电价范围的新能源项目（不含2025年1月27日前已竞争性配置的海上风电项目）；分布式新能源项目可通过委托代理机构参与竞价。机制电量规模83.6亿千瓦时，竞价上限390元/兆瓦时、下限160元/兆瓦时，申报充足率125%，单个项目电量申报上限（K）90%，执行期限12年。近三年同类型项目平均利用小时数分别为海上风电3721小时、陆上风电2477小时、集中式光伏1229小时、分布式光伏1010小时；同类型项目上一年度厂用电率分别为2.1%、2.5%、1.6%、0%；保函金额基数（G）分别为海上风电120万元/兆瓦、陆上风电82万元/兆瓦、集中式光伏36万元/兆瓦、分布式光伏31万元/兆瓦。国网福建省电力有限公司将发布竞价公告，明确竞价流程、时间安排等具体事项。 解读：地方层面机制电价竞价工作进入常态化、滚动实施阶段。新能源项目开发商可提前预估竞价报价策略并关注国网福建即将发布的竞价公告细则。",
+    "sourceName": "pvmeng.com",
+    "sourceUrl": "https://www.pvmeng.com/2026/10/14/80733",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3fbabced5dee8181b3b2c2b159d762e8",
+    "collectedAt": "2026-10-24T18:31:37.679Z",
+    "notionPageId": "3fbabced5dee8181b3b2c2b159d762e8",
+    "fingerprint": "notion|fc2a02451648575753a7"
+  },
+  {
+    "date": "2026-10-14",
+    "country": "广东",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "绿电直连"
+    ],
+    "tags": [
+      "绿电直连",
+      "机制电价",
+      "广东"
+    ],
+    "company": "广东政策机构",
+    "title": "广东明确新能源就近消纳（绿电直连等）价格政策",
+    "summary": "广东省发改委、省能源局联合发布通知（粤发改价格函〔2026〕1848号），落实国家发改价格〔2025〕1192号文件，明确绿电直连、源网荷储一体化、零碳园区等新能源就近消纳模式的价格政策。要求项目年自发自用电量占比不低于60%，自用电比例不低于30%（2030年起新项目不低于35%）；未接入公共电网部分免缴稳定供应保障费用；接网部分按容量（需量）收取输配电费、免收系统备用费，其他费用参照工商业用户执行但免予功率因数考核；项目须作为整体直接参与电力市场交易，不通过电网企业代购电，其新能源电量不计入可持续发展机制电价结算。省电网公司须于每年底测算并在次年1月底前公布110千伏及以上两部制工商业用户平均负荷率。 解读：这是广东落实国家层面绿电直连/就近消纳价格机制的细化落地文件，首次明确了容量电价计算口径、各项费用减免范围和用电比例门槛，为绿电直连、零碳园区等新模式项目提供了可操作的价格依据。",
+    "sourceName": "pvmeng.com",
+    "sourceUrl": "https://www.pvmeng.com/2026/10/14/80766",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|3fbabced5dee8187a3c2c549b2ecf8d2",
+    "collectedAt": "2026-10-24T18:31:37.679Z",
+    "notionPageId": "3fbabced5dee8187a3c2c549b2ecf8d2",
+    "fingerprint": "notion|e326230a7a873aab6036"
   },
   {
     "date": "2026-10-13",
