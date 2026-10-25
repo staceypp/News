@@ -344,6 +344,27 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-14",
+    "country": "希腊",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 希腊 晶科 独立储能",
+    "company": "晶科储能/Metlen/Karatzis",
+    "title": "希腊最大独立储能电站投运，晶科储能供货330MW/790MWh系统",
+    "summary": "2026年10月14日，希腊色萨利大区Metlen与Karatzis合资的330MW/790MWh独立储能电站举行启用仪式，希腊总理米佐塔基斯出席，项目投资约1.7亿欧元并获欧盟NextGenerationEU复苏基金贷款支持，建设仅用六个月。据ESS News、Balkan Green Energy News、Renewable Watch等多家行业媒体确认，项目储能系统由晶科储能SunTera G2产品提供（晶科此前披露供应规模为395MW/790MWh，差异源于希腊电网运营商ADMIE将接入点功率上限设定为330MW），项目被称为希腊规模最大的独立储能电站。",
+    "sourceName": "ESS News",
+    "sourceUrl": "https://www.ess-news.com/2026/10/16/metlen-and-karatzis-inaugurate-790-mwh-bess-in-greece-supplied-by-jinko-ess/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "希腊|Metlen Karatzis 晶科储能|330MW790MWh独立储能电站|投运",
+    "id": "daily|2026-10-14|希腊|最大独立储能电站投运",
+    "collectedAt": "2026-10-25T00:37:30.000Z"
+  },
+  {
+    "date": "2026-10-14",
     "country": "菲律宾",
     "geo": "亚洲",
     "category": "市场信息",
@@ -523,6 +544,27 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-13T16:40:02.979Z",
     "notionPageId": "3f8abced5dee81e7bee3cf5b03b9d93a",
     "fingerprint": "notion|bb7f722f40acfe0535de"
+  },
+  {
+    "date": "2026-10-11",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "行业自律",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 反内卷 硅料价格 光伏协会 多晶硅",
+    "company": "通威股份、协鑫科技等8家多晶硅企业",
+    "title": "通威、协鑫等8家多晶硅企业杭州闭门会划定价格底线",
+    "summary": "2026年10月11日，通威股份、协鑫科技等8家主要多晶硅企业在杭州召开闭门会，在8月上海会议“不得低于成本价销售”倡议基础上进一步明确价格底线：硅料平均成本含税价不低于每吨4.3万元，BC组件不低于每瓦0.86元、TOPCon组件不低于每瓦0.79元，出口及招投标环节价格同样不得低于上述底线。据中国有色金属工业协会硅业分会10月14日周报，当周n型复投料成交均价维持在4.3万元/吨，价格基本企稳，但市场人士认为真正的供需回暖仍需通过产能实际退出来实现。",
+    "sourceName": "东方财富网",
+    "sourceUrl": "https://finance.eastmoney.com/a/202610133893991778.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|通威协鑫等8家多晶硅企业|杭州闭门会价格底线|4.3万元每吨|行业自律",
+    "id": "daily|2026-10-11|中国|多晶硅企业划定价格底线",
+    "collectedAt": "2026-10-25T00:37:30.000Z"
   },
   {
     "date": "2026-10-11",
