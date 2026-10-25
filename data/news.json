@@ -5775,5 +5775,56 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-10-15",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "行业数据",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "世界储能大会",
+      "产量",
+      "工信部"
+    ],
+    "company": "工业和信息化部",
+    "title": "工信部：上半年中国储能电池产量同比增长约110%",
+    "summary": "在2026世界储能大会（10月14日至16日，福建宁德）开幕式上，工业和信息化部副部长熊继军介绍，今年上半年中国储能电池产量超过420GWh，同比增长约110%，关键生产装备国产化率已超过90%。截至6月底，全国新型储能累计装机容量超过1.53亿千瓦，较“十四五”初期增长约50倍。工信部相关报告同时显示，上半年独立储能占新增装机比重达69.3%。国际可再生能源署（IRENA）官员在会上表示，中国储能规模化部署正在改变可再生能源的成本经济性，其经验对全球能源转型具有参考意义。",
+    "sourceName": "CGTN",
+    "sourceUrl": "https://news.cgtn.com/news/2026-10-15/China-s-energy-storage-output-up-110-as-sector-eyes-innovation-1RgoaUbJmWk/p.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|工信部-世界储能大会|储能电池产量|420GWh-110%|行业数据",
+    "id": "daily|2026-10-15|中国|储能电池产量110%增长",
+    "collectedAt": "2026-10-19T00:38:29Z"
+  },
+  {
+    "date": "2026-10-14",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "分布式",
+      "储能"
+    ],
+    "tags": [
+      "AI能源管理",
+      "工商业光伏",
+      "PEZA经济区"
+    ],
+    "company": "Ampotech / Buskowitz Energy",
+    "title": "Ampotech与Buskowitz Energy合作，整合菲律宾光储及AI能源管理方案",
+    "summary": "菲律宾能源数字化服务商Ampotech与光储开发商Buskowitz Energy于10月14日宣布合作，面向工商业客户提供整合节能改造、屋顶光伏、电池储能与AI能源管理的一体化方案。Buskowitz负责光伏、储能的开发、EPC、购电协议及运维，Ampotech则通过其AmpoCloud平台提供能效诊断与数字化管理。双方目前已在菲律宾经济特区管理局（PEZA）辖区内合作推进约3.3MWp的工商业光伏项目。",
+    "sourceName": "SolarQuarter",
+    "sourceUrl": "https://solarquarter.com/2026/10/14/ampotech-and-buskowitz-energy-partner-to-integrate-solar-battery-storage-and-ai-energy-management-in-the-philippines/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "菲律宾|Ampotech-Buskowitz Energy|PEZA光储AI合作|3.3MWp|合作",
+    "id": "daily|2026-10-14|菲律宾|Ampotech光储AI合作",
+    "collectedAt": "2026-10-19T00:38:29Z"
   }
 ]
