@@ -411,6 +411,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-13",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "运营数据",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 三峡能源 三季报 发电量",
+    "company": "中国三峡新能源（集团）股份有限公司",
+    "title": "三峡能源前三季度太阳能发电增8.98%，独立储能发电增12.4%",
+    "summary": "三峡能源10月13日披露的经营数据公告显示，2026年第三季度公司太阳能发电量86.05亿千瓦时，同比增长12.47%；独立储能发电量2.07亿千瓦时，同比增长24.70%。前三季度累计太阳能发电234.99亿千瓦时，同比增长8.98%，独立储能累计发电5.71亿千瓦时，同比增长12.40%，公司总发电量同比增长3.22%。数据显示独立储能资产在公司新能源组合中的贡献持续提升。",
+    "sourceName": "财闻网",
+    "sourceUrl": "https://www.caiwennews.com/article/1648788.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|三峡能源|三季度经营数据|太阳能86.05亿千瓦时|运营数据",
+    "id": "daily|2026-10-13|中国|三峡能源三季度发电数据",
+    "collectedAt": "2026-10-16T00:53:07Z"
+  },
+  {
+    "date": "2026-10-13",
     "country": "埃及",
     "geo": "非洲",
     "category": "市场信息",
@@ -618,6 +640,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-08",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "储能",
+      "绿电"
+    ],
+    "tags": "储能 绿电 PPA 光储一体化 德国",
+    "company": "MaxSolar / Energy2market（e2m）",
+    "title": "德国MaxSolar与e2m签订光储混合PPA，电池收益设保底机制",
+    "summary": "德国开发商MaxSolar与电力交易商Energy2market（e2m）10月8日宣布，就位于梅克伦堡Waren（Müritz）的45MW光伏电站与20MW/40MWh电池储能系统签订7年期混合购电协议（PPA）。协议为储能系统设置保底收益机制，运营商在参与电力市场优化交易的同时获得合同约定的最低收益保障。光伏电站已于2026年夏投运，配套电池预计2027年9月并网，两者共用一个变电站接入电网。",
+    "sourceName": "Solarserver",
+    "sourceUrl": "https://www.solarserver.de/2026/10/08/maxsolar-und-energy2market-vereinbaren-hybrid-ppa-mit-garantiertem-mindesterloes/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|MaxSolar-e2m|Waren光储混合PPA|45MW光伏20MW40MWh电池|PPA",
+    "id": "daily|2026-10-08|德国|MaxSolar-e2m光储PPA",
+    "collectedAt": "2026-10-16T00:53:07Z"
+  },
+  {
+    "date": "2026-10-08",
     "country": "陕西",
     "geo": "中国",
     "category": "市场信息",
@@ -816,6 +860,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-10T07:58:58.929Z",
     "notionPageId": "3f4abced5dee8102b052c77a23aac7ce",
     "fingerprint": "notion|9e33a7793a8c5377085b"
+  },
+  {
+    "date": "2026-10-02",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 电池储能 Capacity Investment Scheme 昆士兰",
+    "company": "Atmos Renewables",
+    "title": "Atmos Renewables完成澳大利亚400MW/1.6GWh储能项目融资交割",
+    "summary": "澳大利亚开发商Atmos Renewables10月2日宣布，其位于昆士兰Fraser Coast地区、紧邻Powerlink Teebar Creek变电站的Teebar电池储能项目（400MW/1,600MWh，4小时时长）完成融资交割。项目收入由联邦容量投资计划（Capacity Investment Scheme）提供长期支持，储能系统将采用Wärtsilä与合资方Valo的GridSolve Quantum2方案，预计2028年底投运。加上此前已交割的西澳Merredin电池项目，公司在容量投资计划支持下的储能及风电项目总规模已达约970MW。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/atmos-renewables-closes-financing-on-1-6gwh-capacity-investment-scheme-backed-battery-storage-system-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Atmos Renewables|Teebar储能项目|400MW1600MWh融资交割|融资",
+    "id": "daily|2026-10-02|澳大利亚|Teebar储能项目融资交割",
+    "collectedAt": "2026-10-16T00:53:07Z"
   },
   {
     "date": "2026-09-30",
