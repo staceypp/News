@@ -118,6 +118,28 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|620c241b0da7e0085195"
   },
   {
+    "date": "2026-10-21",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 热储能 工业用电 脱碳",
+    "company": "Rondo Energy / 力拓(Rio Tinto)",
+    "title": "力拓与Rondo Energy在澳建360MWh热电池示范项目",
+    "summary": "Rondo Energy与力拓(Rio Tinto)于2026年10月21日宣布，双方在昆士兰州格拉德斯通Yarwun氧化铝精炼厂启动360兆瓦时热电池项目的前端工程设计(FEED)研究，系统电力充电能力78兆瓦、热力放电能力30兆瓦，满负荷可连续供热12小时。澳大利亚可再生能源署(ARENA)分阶段资助该项目，FEED研究阶段之后若推进部署，最高可再获约3800万澳元资助。 解读：ARENA将其称为澳大利亚工业用热电气化规模最大的示范项目，若落地可为氧化铝精炼等高耗能、高温工艺行业的脱碳路径提供参考样本。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/rondo-energy-and-rio-tinto-begin-design-work-on-australias-largest-thermal-energy-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|RondoEnergy|力拓|Yarwun热电池|360MWh|合作",
+    "id": "daily|2026-10-21|澳大利亚|力拓Rondo热电池FEED",
+    "collectedAt": "2026-10-26T00:36:40.000Z"
+  },
+  {
     "date": "2026-10-20",
     "country": "英国",
     "geo": "欧洲",
@@ -182,6 +204,29 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-24T06:46:46.320Z",
     "notionPageId": "402abced5dee815bbe75e510cadd4c53",
     "fingerprint": "notion|e898f2d20e60e457155f"
+  },
+  {
+    "date": "2026-10-19",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": "集中式 储能 交易 FDRE 光储一体化 SECI",
+    "company": "ACME Solar Holdings",
+    "title": "ACME Solar与印度SECI签300MW光储联合购电协议",
+    "summary": "ACME Solar旗下ACME Greentech Twenty于2026年10月19日与印度国家太阳能公司(SECI)签署300兆瓦/1200兆瓦时光伏加储能的保障可调度新能源(FDRE)购电协议，电价为每千瓦时6卢比，合同期25年，计划2028年4月6日起供电，要求非光伏时段每日至少提供4小时放电、月度可用率不低于90%。该协议属于SECI第九批FDRE招标，签约后ACME Solar在建合同容量达4310兆瓦，占其在建总容量5380兆瓦的主要部分。 解读：印度FDRE机制通过强制配储和保供时段要求，推动光伏开发商向“光储一体化+可调度电源”转型，为电网提供更稳定的新能源出力。",
+    "sourceName": "renewablewatch.in",
+    "sourceUrl": "https://renewablewatch.in/2026/10/19/acme-solar-signs-300-mw-fdre-ppa-with-seci/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|ACMESolar|SECI|FDRE|300MW|PPA",
+    "id": "daily|2026-10-19|印度|ACME光储FDRE购电协议",
+    "collectedAt": "2026-10-26T00:36:40.000Z"
   },
   {
     "date": "2026-10-19",
