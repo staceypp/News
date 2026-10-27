@@ -185,6 +185,49 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-19",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "交易",
+      "储能"
+    ],
+    "tags": "交易 储能 FDRE SECI",
+    "company": "ACME Solar Holdings",
+    "title": "ACME Solar与印度SECI签署300MW FDRE购电协议",
+    "summary": "ACME Solar Holdings旗下子公司ACME Greentech Twenty与印度太阳能公司(SECI)签署300MW可调度可再生能源(FDRE)购电协议，对应1200MWh储能配置，电价为每单位6卢比，协议期25年。该项目要求每日非光照时段连续4小时按4MWh/MW供电，月度可用率不低于90%。此次签约后，ACME在建项目中已签PPA的合同容量达4310MW，占其在建合同总容量5380MW的大部分。",
+    "sourceName": "Renewable Watch",
+    "sourceUrl": "https://renewablewatch.in/2026/10/19/acme-solar-signs-300-mw-fdre-ppa-with-seci/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|ACME Solar|SECI FDRE 300MW|PPA",
+    "id": "daily|2026-10-19|印度|ACME Solar FDRE PPA",
+    "collectedAt": "2026-10-27T00:37:15Z"
+  },
+  {
+    "date": "2026-10-19",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "收购",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 光伏开发 伦巴第",
+    "company": "Zenith Energy",
+    "title": "Zenith Energy收购意大利伦巴第约10MWp光伏开发项目",
+    "summary": "国际能源开发公司Zenith Energy宣布收购意大利伦巴第大区帕维亚省一个装机容量约10MWp的地面光伏开发项目，这是继此前Stradella 1、2、3项目后公司在帕维亚省的第四个项目，使该集群总规模达约30MWp。此次收购将公司光伏开发管线总规模提升至约233MWp，向其2026年底240MWp目标再迈进一步。",
+    "sourceName": "Energy-Pedia",
+    "sourceUrl": "https://www.energy-pedia.com/news/italy/acquisition-of-10-mwp-pv-development-project-in-lombardy-and-italian-production-update-205718",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|Zenith Energy|Pavia 10MWp|光伏开发|收购",
+    "id": "daily|2026-10-19|意大利|Zenith帕维亚光伏收购",
+    "collectedAt": "2026-10-27T00:37:15Z"
+  },
+  {
+    "date": "2026-10-19",
     "country": "多国/区域",
     "geo": "全球",
     "category": "同行动态",
@@ -322,6 +365,27 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-15",
+    "country": "重庆",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "里程碑",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 出货量 长时储能",
+    "company": "海辰储能(HiTHIUM)",
+    "title": "海辰储能重庆基地达成200GWh出货达产里程碑",
+    "summary": "10月15日，海辰储能在重庆铜梁高新区举行“200GWh出货达产仪式”，从2025年8月出货突破100GWh到如今达成200GWh仅用一年时间。仪式上，海辰储能分别与万华化学(烟台)电池产业有限公司、湖南裕能新能源电池材料股份有限公司、福建科达新能源科技有限公司签署战略合作协议。公司联合创始人、总裁王鹏程表示，200GWh是企业迈向高质量、全球化发展的全新起点。 解读：海辰储能近三年全球储能电池出货排名由第五升至第二，此次里程碑反映其规模化制造与全球化交付能力的持续提升。",
+    "sourceName": "封面新闻",
+    "sourceUrl": "https://cbgc.scol.com.cn/news/8065172",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|海辰储能|200GWh出货达产|重庆|里程碑",
+    "id": "daily|2026-10-15|中国|海辰200GWh里程碑",
+    "collectedAt": "2026-10-27T00:37:15Z"
+  },
+  {
+    "date": "2026-10-15",
     "country": "英国",
     "geo": "欧洲",
     "category": "市场信息",
@@ -432,6 +496,29 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-14T19:55:34.409Z",
     "notionPageId": "3f9abced5dee8157b5ccfc157442de78",
     "fingerprint": "notion|5656bd555576bff1d695"
+  },
+  {
+    "date": "2026-10-12",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "融资"
+    ],
+    "tags": "集中式 储能 融资 Project Chisme 得克萨斯",
+    "company": "协鑫新能源(Concord New Energy)",
+    "title": "协鑫新能源为美国得州首个光储项目获4亿美元融资",
+    "summary": "协鑫新能源(港股182.HK)宣布为其美国首个公用事业级项目Project Chisme完成4亿美元融资，其中包括3.1亿美元债务及备用信用额度，以及9000万美元优先股权，由第一公民银行、高盛另类投资和联合银行领投，高盛另类投资同时提供优先股权。该项目位于得克萨斯州，包含215MW光伏和147MW/358MWh电池储能系统。 解读：这是协鑫新能源在美国落地的首个公用事业规模光储项目，标志其海外光储资产布局从开发阶段进入融资建设阶段。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/concord-new-energy-closes-us400-million-financing-for-texas-solar-plus-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Concord New Energy|Project Chisme 得州|4亿美元|融资",
+    "id": "daily|2026-10-12|美国|协鑫新能源得州光储融资",
+    "collectedAt": "2026-10-27T00:37:15Z"
   },
   {
     "date": "2026-10-12",
