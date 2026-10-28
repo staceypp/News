@@ -5775,5 +5775,30 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-10-21",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "开发",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "热储能",
+      "工业用电",
+      "FEED研究"
+    ],
+    "company": "Rondo Energy / Rio Tinto",
+    "title": "Rondo与力拓启动澳大利亚最大360MWh热储能FEED研究",
+    "summary": "Rondo Energy与矿业巨头力拓（Rio Tinto）在昆士兰州格拉德斯通Yarwun氧化铝精炼厂启动前端工程设计（FEED）研究，拟建设澳大利亚规模最大的工业热储能项目——一套360MWh、30MW热输出的Rondo Heat Battery，充电功率78MW，满负荷可连续供热12小时。项目计划利用午间低价光伏电力蓄热，为精炼厂蒸汽系统提供全天候清洁热源，以替代部分化石燃料供热。澳大利亚可再生能源署（ARENA）为FEED研究提供360万美元初始资助，若研究通过，后续部署阶段最高可再获3800万美元支持。项目目前仍处于研究阶段，尚未获得最终建设批准。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/rondo-energy-and-rio-tinto-begin-design-work-on-australias-largest-thermal-energy-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Rondo Energy-Rio Tinto|Yarwun热储能FEED|360MWh|开发",
+    "id": "daily|2026-10-21|澳大利亚|Rondo力拓热储能FEED",
+    "collectedAt": "2026-10-28T00:39:21Z"
   }
 ]
