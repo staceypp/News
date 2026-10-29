@@ -1,5 +1,89 @@
 [
   {
+    "date": "2026-10-28",
+    "country": "广东",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": [
+      "电力交易",
+      "广东",
+      "广西",
+      "云南",
+      "贵州",
+      "海南"
+    ],
+    "company": "国家能源局",
+    "title": "国家发改委同意南方区域电力市场转入正式运行",
+    "summary": "国家发展改革委办公厅、国家能源局综合司联合复函（发改办体改〔2026〕715号）国家能源局南方监管局和中国南方电网公司，同意南方区域电力市场转入正式运行。要求南方电网与南方监管局作为一个整体建设运营该市场，扩大交易范围和规模，落实省间输电国家规划及政府间协议，建立高比例中长期合同签订履约机制，完善适应新能源的市场机制，并推动除保障性用户外的电力用户全部直接参与市场交易，同时加强与跨电网经营区常态化交易机制的衔接。 解读：南方区域电力市场（覆盖广东、广西、云南、贵州、海南）正式转入商业化运行，是继省间电力市场改革后又一区域级现货市场落地的标志性事件；\"电力用户全部直接参与市场交易\"的要求将加速工商业用户从电网代购电模式转向直接参与市场，为云南、贵州等水电及新能源富集省份向广东等负荷中心的跨省交易、以及新能源消纳提供更成熟的市场化通道，相关省份新能源电站可更充分利用区域统一市场捕捉价差收益。",
+    "sourceName": "ndrc.gov.cn",
+    "sourceUrl": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202610/t20261028_1408423.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|407abced5dee81d397bdfe8d4dd318ab",
+    "collectedAt": "2026-10-29T15:46:39.913Z",
+    "notionPageId": "407abced5dee81d397bdfe8d4dd318ab",
+    "fingerprint": "notion|64db3b83ab644cae29b3"
+  },
+  {
+    "date": "2026-10-28",
+    "country": "葡萄牙",
+    "geo": "全球",
+    "category": "同行动态",
+    "eventType": "产品",
+    "businessTags": [
+      "集中式",
+      "系统销售"
+    ],
+    "tags": [
+      "集中式光伏",
+      "系统销售"
+    ],
+    "company": "天合光能",
+    "title": "天合跟踪支架首批Buildex光伏安装机器人发往葡萄牙，联合本地伙伴开展工程集成",
+    "summary": "天合光能旗下TrinaTracker于10月28日宣布，首批Buildex光伏组件安装机器人已发往葡萄牙一处集中式光伏项目，并与当地ESI Robotics合作开展现场集成、调试及工程服务。Buildex可适应最大17°的自动角度调节，兼容固定支架及1P、2P跟踪系统。企业披露的现场测试数据显示单台日安装约600-700块组件，组件安装成本降低22.2%、项目安装周期缩短17.5%。 解读：本次交付使天合跟踪支架业务从支架产品进一步延伸到施工自动化及本地工程集成服务，可能提升其在欧洲大型电站EPC环节的产品组合竞争力。实际降本效果仍需结合葡萄牙项目的施工条件和交付数据验证。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/press-releases/trinatracker-ships-first-buildex-installation-robots-to-europe-to-advance-solar-construction-automation",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|408abced5dee81348216d7b689d4bc26",
+    "collectedAt": "2026-10-29T15:46:39.913Z",
+    "notionPageId": "408abced5dee81348216d7b689d4bc26",
+    "fingerprint": "notion|22c9852b2b59a215fa44"
+  },
+  {
+    "date": "2026-10-27",
+    "country": "浙江",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "绿电直连"
+    ],
+    "tags": [
+      "集中式",
+      "储能",
+      "绿电直连",
+      "浙江"
+    ],
+    "company": "国家能源局",
+    "title": "浙江永杰铝业72MW绿电直连项目升压站封顶，配套30MW/75MWh储能拟12月投运",
+    "summary": "国家能源局浙江监管办公室披露，浙江首个绿电直连项目——永杰铝业72MW项目已完成升压站主体结构封顶，计划2026年12月28日投运。项目2026年8月获批，由杭州凌瀚新能源开发有限公司全额投资，总投资3.28亿元，规划72MW光伏及30MW/75MWh储能，专向永杰铝业厂区供应绿电，为企业应对欧盟碳边境调节机制（CBAM）提供重要支撑。预计投运后企业每年可节约碳关税支出约900万元、用电成本约300万元。 解读：项目由第三方民营开发商投资光储资产、向出口制造企业直供可溯源绿电，将绿电合规需求与降低购电成本结合，逐步推进落地。",
+    "sourceName": "zjb.nea.gov.cn",
+    "sourceUrl": "https://zjb.nea.gov.cn/dtyw/jgdt/202610/t20261027_311030.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|408abced5dee81899a9edcd49362a433",
+    "collectedAt": "2026-10-29T15:46:39.913Z",
+    "notionPageId": "408abced5dee81899a9edcd49362a433",
+    "fingerprint": "notion|380a5ff88ca49c3a3a75"
+  },
+  {
     "date": "2026-10-23",
     "country": "河北",
     "geo": "中国",
