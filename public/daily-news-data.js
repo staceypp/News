@@ -46,6 +46,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-27",
+    "country": "湖北",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "算电协同"
+    ],
+    "tags": "算电协同 算电协同 湖北",
+    "company": "湖北项目主体",
+    "title": "华中区域首例\"算电协同\"完成市场化交易，落地湖北",
+    "summary": "华中能源监管局推动湖北两家算力中心将合计1.5万千瓦（15MW）柔性算力负荷纳入虚拟电厂资源池，完成华中区域首例\"算电协同\"市场化交易。通过虚拟电厂依据现货价格曲线引导算力负荷\"削峰填谷\"，在保持算力连续性的前提下，预计可使相关企业用电成本下降约6%。 解读：这是算力负荷首次作为可调节资源在华中区域现货/辅助服务市场中实现商业化变现，标志着\"算电协同\"从概念和示范项目走向常态化市场交易；同时意味着未来可以通过聚合算力负荷参与虚拟电厂、辅助服务市场获取额外收益，而不仅依赖电量销售，华中区域的试点经验可能加速向其他\"东数西算\"枢纽节点复制。",
+    "sourceName": "nea.gov.cn",
+    "sourceUrl": "https://www.nea.gov.cn/20261027/8b7696d937f54e07a406c93966d98b2b/c.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|407abced5dee81d0929bcbd3781b0784",
+    "collectedAt": "2026-10-29T20:47:26.897Z",
+    "notionPageId": "407abced5dee81d0929bcbd3781b0784",
+    "fingerprint": "notion|c74c91d24d175642d02a"
+  },
+  {
+    "date": "2026-10-27",
     "country": "浙江",
     "geo": "中国",
     "category": "市场信息",
