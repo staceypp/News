@@ -1,6 +1,28 @@
 window.DAILY_NEWS_DATA=[
   {
     "date": "2026-10-23",
+    "country": "波兰",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "出售",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 Greenvolt A&R Investments Ełk Turośń Kościelna 容量市场",
+    "company": "Greenvolt Power",
+    "title": "葡萄牙Greenvolt将波兰两座合计1.6GWh储能项目出售给A&R Investments",
+    "summary": "据Energy Global与Forbes.ro10月23日报道，葡萄牙能源企业Greenvolt Power已同意将其在波兰的Ełk与Turośń Kościelna两座储能项目出售给马耳他投资机构A&R Investments，两座项目均为200MW/800MWh，合计400MW/1.6GWh、可满功率放电约4小时。两座项目均已于2026年第三季度建成并取得使用许可，且各自已获得波兰2028年起执行的17年期容量市场合同及10年期调频服务协议，交易预计在2026年底前完成交割。",
+    "sourceName": "Energy Global",
+    "sourceUrl": "https://www.energyglobal.com/energy-storage/23102026/greenvolt-agrees-to-sell-two-battery-storage-projects-in-poland-to-ar-investments/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "波兰|Greenvolt|储能出售|1.6GWh|出售",
+    "id": "daily|2026-10-23|波兰|Greenvolt出售储能",
+    "collectedAt": "2026-10-29T00:37:57.000Z"
+  },
+  {
+    "date": "2026-10-23",
     "country": "河北",
     "geo": "中国",
     "category": "市场信息",
@@ -116,6 +138,73 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-24T18:31:37.679Z",
     "notionPageId": "403abced5dee819f9a77d00a17c78be9",
     "fingerprint": "notion|620c241b0da7e0085195"
+  },
+  {
+    "date": "2026-10-21",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "电力交易",
+    "businessTags": [
+      "绿电",
+      "电力交易"
+    ],
+    "tags": "绿电 电力交易 绿电交易 黑龙江 福建 跨省跨区 红岸风电场",
+    "company": "国网黑龙江/福建电力交易中心",
+    "title": "黑龙江与福建签订多年期绿电交易，2026-2028年输送1.7亿千瓦时",
+    "summary": "新华社、科技日报10月21日报道，黑龙江向福建签订2026至2028年多年期绿电交易协议，累计输送绿电1.7亿千瓦时，是国家电网经营区内南北距离最远的跨省跨区多年期绿电交易。黑龙江齐齐哈尔富拉尔基区红岸风电场等多个电源项目参与供电，福建外向型制造企业因海外客户对产品碳足迹要求趋严而增加绿电采购需求。报道提示，交易能否按约物理交割仍取决于电网运行状况和输电通道承载能力。",
+    "sourceName": "新华社",
+    "sourceUrl": "https://www.news.cn/20261021/ad390371777348ab9253e49902ca61b5/c.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "黑龙江|福建|绿电交易|1.7亿千瓦时|电力交易",
+    "id": "daily|2026-10-21|中国|黑龙江福建绿电交易",
+    "collectedAt": "2026-10-29T00:37:57.000Z"
+  },
+  {
+    "date": "2026-10-20",
+    "country": "埃及",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "融资"
+    ],
+    "tags": "集中式 储能 融资 EBRD Nefer Menya Infinity Power HAU Energy PPA",
+    "company": "Infinity Power / HAU Energy（Nefer Menya项目公司）",
+    "title": "欧洲复兴开发银行牵头为埃及1.2GW光伏+600MWh储能项目融资2.65亿美元",
+    "summary": "欧洲复兴开发银行（EBRD）10月20日官网公告，将为埃及Minya省Nefer Menya项目安排最高2.65亿美元贷款，该项目由Infinity Power与HAU Energy合资的特殊目的公司开发，规模为1.2GW光伏配套600MWh储能，是埃及及非洲首批大规模光储一体化项目之一。资金由EBRD自有资金、约旦银行及气候技术基金优惠资金组成，叠加DEG、FMO、Proparco等机构共同融资后总债务规模最高达5.66亿美元。项目电量将通过25年期购电协议出售给埃及输电公司（EETC），EBRD预计项目每年可减少超150万吨碳排放。",
+    "sourceName": "EBRD",
+    "sourceUrl": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-backs-largest-solar-pv-project-in-egypt-and-africa.html",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "埃及|NeferMenya|EBRD融资|2.65亿美元|融资",
+    "id": "daily|2026-10-20|埃及|EBRD融资NeferMenya",
+    "collectedAt": "2026-10-29T00:37:57.000Z"
+  },
+  {
+    "date": "2026-10-20",
+    "country": "波兰",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "收购",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 Tauron BME Jawor 容量市场",
+    "company": "Tauron Polska Energia",
+    "title": "波兰电力集团Tauron收购下西里西亚BME Jawor储能项目公司",
+    "summary": "据GreentechLead与Gramwzielone10月20日报道，波兰电力集团Tauron Polska Energia已收购位于下西里西亚Jawor经济特区的BME Jawor储能项目公司，项目为即建型28.27MW/120MWh电池储能系统，满功率放电时长超过4小时，已通过波兰容量市场拍卖获得2029至2045年的长期容量市场合同保障收益。项目计划接入Tauron配电网，商业运营目标为2027年2月，收购预计在2026年底前完成交割。",
+    "sourceName": "GreentechLead",
+    "sourceUrl": "https://greentechlead.com/energy-news/renewables-news-peak-energy-tauron-xcf-global-56092",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "波兰|Tauron|BMEJawor|120MWh|收购",
+    "id": "daily|2026-10-20|波兰|Tauron收购BMEJawor",
+    "collectedAt": "2026-10-29T00:37:57.000Z"
   },
   {
     "date": "2026-10-20",
