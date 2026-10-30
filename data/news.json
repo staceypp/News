@@ -5884,5 +5884,58 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-10-26",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "供货协议",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "电芯",
+      "本土制造",
+      "数据中心"
+    ],
+    "company": "Samsung SDI / Alpha Omega Power",
+    "title": "三星SDI与Alpha Omega Power签署1GWh美国储能供货协议",
+    "summary": "三星SDI通过其美国子公司与独立电力商Alpha Omega Power签署新一轮储能供货协议，规模达1GWh，电芯与模组计划采用印第安纳州Kokomo的StarPlus Energy工厂产能，为美国本土制造NCA电池储能系统。这是双方继2025年底约0.5GWh首单后的第二份协议，累计供货规模升至1.5GWh，项目面向WECC、ERCOT等市场，计划2027年开工建设，背景是美国数据中心用电需求增长带动储能订单加速落地。",
+    "sourceName": "pv magazine",
+    "sourceUrl": "https://www.pv-magazine.com/2026/10/26/samsung-sdi-signs-1-gwh-supply-agreement-for-us-made-nca-battery-storage/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Samsung SDI-Alpha Omega Power|1GWh储能供货协议|1GWh|供货协议",
+    "id": "daily|2026-10-26|美国|三星SDI储能供货",
+    "collectedAt": "2026-10-30T07:00:00Z"
+  },
+  {
+    "date": "2026-10-22",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "算电协同",
+    "businessTags": [
+      "算电协同",
+      "AIDC",
+      "交易"
+    ],
+    "tags": [
+      "虚拟电厂",
+      "PJM",
+      "需求响应"
+    ],
+    "company": "Google / Voltus",
+    "title": "谷歌与Voltus将PJM区域虚拟电厂扩容至1GW支撑数据中心用电",
+    "summary": "谷歌与需求响应聚合商Voltus宣布扩大合作，将在美国PJM电网区域内的虚拟电厂（VPP）项目规模由此前约100MW扩大到约1GW。Voltus负责从企业和家庭侧聚合智能温控、电池等灵活负荷资源，谷歌为此项目提供资金支持，在电网紧张时通过信号调度相关资源削减用电，首批容量预计2027年上线。该协议被视为谷歌应对数据中心用电需求激增、探索算电协同新路径的又一举措。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/google-and-voltus-expand-pjm-virtual-power-plant-agreement-to-1gw/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Google-Voltus|PJM虚拟电厂扩容|1GW|算电协同",
+    "id": "daily|2026-10-22|美国|谷歌Voltus虚拟电厂",
+    "collectedAt": "2026-10-30T07:00:00Z"
   }
 ]
