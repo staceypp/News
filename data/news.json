@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-29",
+    "country": "湖南",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式",
+      "分布式"
+    ],
+    "tags": [
+      "机制电价",
+      "集中式",
+      "分布式",
+      "湖南"
+    ],
+    "company": "湖南政策机构",
+    "title": "湖南启动2026年度机制电价竞价：风光0.23–0.35元/度，单体比例降至60%，执行10年",
+    "summary": "湖南省发改委发布《关于2026年度新能源机制电价竞价工作有关事项的通知》。竞价主体为2025.6.1–2027.12.31全容量投产且未纳入机制的风光项目及分布式聚合商，大型工商业分布式、就近消纳项目除外。新增机制电量22.86亿千瓦时（风电11.9亿千瓦时、光伏10.96亿千瓦时）；申报充足率下限125%；单体机制电量比例上限风电和集中式光伏60%、分布式70%；竞价区间0.23–0.35元/度；执行期10年；利用小时数风电2063h、光伏963h。 解读：与首轮相比，价格区间由0.26–0.38下调至0.23–0.35元/度，单体比例由80%降至60%，湖南机制电价保障力度明显收紧，集中式项目收益测算需注意市场电价的敏感性分析。",
+    "sourceName": "fgw.hunan.gov.cn",
+    "sourceUrl": "https://fgw.hunan.gov.cn/fgw/xxgk_70899/tzgg/202610/t20261029_34090776.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|408abced5dee818d9f9dff8baeb4bc1e",
+    "collectedAt": "2026-10-30T07:57:45.035Z",
+    "notionPageId": "408abced5dee818d9f9dff8baeb4bc1e",
+    "fingerprint": "notion|623f8c6fe76974585230"
+  },
+  {
     "date": "2026-10-28",
     "country": "广东",
     "geo": "中国",
@@ -53,6 +81,35 @@
     "collectedAt": "2026-10-29T15:46:39.913Z",
     "notionPageId": "408abced5dee81348216d7b689d4bc26",
     "fingerprint": "notion|22c9852b2b59a215fa44"
+  },
+  {
+    "date": "2026-10-28",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "技术",
+    "businessTags": [
+      "储能",
+      "算电协同",
+      "电力交易"
+    ],
+    "tags": [
+      "储能",
+      "算电协同",
+      "电力交易",
+      "全国"
+    ],
+    "company": "中国相关企业",
+    "title": "海博思创2026年三季报：前三季度营收114.34亿元、归母净利11.56亿元，同比+85.65%",
+    "summary": "海博思创Q3营收51.38亿元（同比+51.55%），归母净利5.24亿元（同比+70.72%）；前三季度营收114.34亿元（同比+44.51%），归母净利11.56亿元（同比+85.65%）。前三季度研发投入合计3.04亿元（同比+35.39%）。公司推进包头储算一体化项目暨词元工厂，自研AI电力交易技术使甘肃酒泉250MW/1000MWh独立储能收益较常规模型提升20%以上；欧洲签约近10GWh（15项），业务覆盖30余国。国内已形成以北京房山、广东珠海、甘肃酒泉、山西大同、内蒙古包头五大智能制造基地为核心的生产制造网络。 解读：储能集成商正从设备销售转向“储能+算电协同+AI交易”的全生命周期服务，盈利能力显著改善；AI交易能力及储能调度算法已成为独立储能核心竞争要素。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/AoIBJBPaOp3fQIRVjTw8jQ",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|408abced5dee8138a702cfaa6fccdb8e",
+    "collectedAt": "2026-10-30T07:57:45.035Z",
+    "notionPageId": "408abced5dee8138a702cfaa6fccdb8e",
+    "fingerprint": "notion|6b31dc84294584a41fb5"
   },
   {
     "date": "2026-10-27",
@@ -109,6 +166,31 @@
     "fingerprint": "notion|380a5ff88ca49c3a3a75"
   },
   {
+    "date": "2026-10-26",
+    "country": "河北",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式",
+      "河北"
+    ],
+    "company": "河北政策机构",
+    "title": "河北公示7个风电项目投资主体招标，规模860MW",
+    "summary": "河北省招标投标公共服务平台发布7条风电项目投资主体招标公告，项目规模合计860MW，分别位于石家庄市新乐市、张家口市万全区、康保县、察北区、赤城县和沽源县。 解读：河北持续优选风电投资主体，张家口仍是主要承载区，可跟踪其配套储能及绿电直连机会。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/A6iDjywBMXvNW0BuOLz9Tw",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|408abced5dee819fb033df0d7d31fd60",
+    "collectedAt": "2026-10-30T07:57:45.035Z",
+    "notionPageId": "408abced5dee819fb033df0d7d31fd60",
+    "fingerprint": "notion|1f23881cdb190a74da16"
+  },
+  {
     "date": "2026-10-23",
     "country": "河北",
     "geo": "中国",
@@ -125,8 +207,8 @@
     "company": "河北政策机构",
     "title": "河北启动2027年新能源机制电价竞价，600亿度电量、价格上下限0.2~0.36元/度",
     "summary": "河北省发改委10月23日发布《关于2027年度新能源机制电价竞价工作有关事项的通知》，机制电量规模合计600亿千瓦时（河北南网303.36亿度、冀北电网296.74亿度），竞价对象为2025年6月1日至2027年12月31日全容量并网的风电、光伏项目，申报充足率下限125%，单项目机制电量申报比例上限80%，竞价上下限为0.2~0.36元/千瓦时，风电执行期10年、光伏12年，电量规模与2025~2026年基本相当。 解读：河北连续两年维持约600亿度的机制电量规模和0.2~0.36元/度的价格区间，说明当地新能源上网电价市场化改革已进入相对稳定的运行阶段，价格信号的连续性有助于开发商对2027年新增项目收益率进行更稳定的测算；同时申报充足率下限125%、单项目机制电量比例上限80%的设计延续了“只保障一部分电量、其余电量进入市场”的改革方向，意味着河北风光项目仍需做好市场化电价部分的波动风险管理。",
-    "sourceName": "mp.weixin.qq.com",
-    "sourceUrl": "https://mp.weixin.qq.com/s/gV1R0jGHfOT0VvS20QulmA",
+    "sourceName": "zjk.gov.cn",
+    "sourceUrl": "https://www.zjk.gov.cn/content/clientDf.do?id=7402153",
     "sourceType": "notion-approved",
     "sourceSheet": "Notion·国内",
     "id": "notion|402abced5dee81259466c99e8e5b6931",
@@ -245,6 +327,36 @@
     "collectedAt": "2026-10-24T18:31:37.679Z",
     "notionPageId": "403abced5dee819f9a77d00a17c78be9",
     "fingerprint": "notion|620c241b0da7e0085195"
+  },
+  {
+    "date": "2026-10-21",
+    "country": "河北",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式",
+      "分布式",
+      "绿电直连"
+    ],
+    "tags": [
+      "机制电价",
+      "集中式",
+      "分布式",
+      "绿电直连",
+      "河北"
+    ],
+    "company": "河北政策机构",
+    "title": "河北印发增量新能源项目竞价工作方案（新版136号文），冀北、河北南网规则统一",
+    "summary": "河北省发改委印发《进一步深化新能源上网电价市场化改革增量新能源项目竞价工作方案》（冀发改能价〔2026〕993号），合并冀北、河北南网竞价规则：一段式申报；单项目机制电量比例上限80%；边际项目入选比例低于50%则取消；执行期风电10年、光伏12年、海上风光14年；源网荷储、绿电直连及2025.6.1后投产的大型工商业分布式不纳入机制；延期投产超6个月取消入选并禁止3年竞价；分布式代理商代理容量≤10万千瓦。原则上每年10月组织下一年度竞价。 解读：此次整合优化，消除此前\"一省两制\"下的操作差异，提升全省竞价流程的透明度和规范化水平，使得竞价规则趋于标准化、常态化，且明确绿电直连/源网荷储项目不享机制电价，这类项目须完全依赖市场化或直供收益模型；投产延期考核较严，需审慎申报投产时间。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/rk2mt25N-sAsfQxc_jeJmA",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|408abced5dee81448360d5e8b55d1077",
+    "collectedAt": "2026-10-30T07:57:45.035Z",
+    "notionPageId": "408abced5dee81448360d5e8b55d1077",
+    "fingerprint": "notion|8d997a2ec3d957abe4ec"
   },
   {
     "date": "2026-10-20",
