@@ -5996,5 +5996,54 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-10-28",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "储能项目合作",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "构网型储能",
+      "Hazelwood",
+      "ENGIE"
+    ],
+    "company": "阳光电源（Sungrow）/ ENGIE",
+    "title": "阳光电源与ENGIE扩建澳大利亚Hazelwood储能项目至300MWh",
+    "summary": "阳光电源与法国ENGIE宣布在澳大利亚维多利亚州Hazelwood（原燃煤电厂旧址）扩建电池储能项目，新增150MW/300MWh容量，采用阳光电源PowerTitan 2.0构网型储能技术，承建方Elecnor负责土建与安装。扩建完成后，Hazelwood电站储能总规模将达到300MW/450MWh，目标于2028年投入商业运营，用于支撑当地电网电压与频率稳定。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/hazelwood-bess-expansion-in-australia-set-to-double-storage-capacity-at-former-coal-site/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|阳光电源-ENGIE|Hazelwood|300MWh|储能项目合作",
+    "id": "daily|2026-10-28|澳大利亚|Hazelwood储能扩建",
+    "collectedAt": "2026-10-31T00:37:17Z"
+  },
+  {
+    "date": "2026-10-24",
+    "country": "越南",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": [
+      "屋顶光伏",
+      "MOIT"
+    ],
+    "company": "越南工贸部（MOIT）",
+    "title": "越南工贸部要求各省12月底前出台屋顶光伏激励政策",
+    "summary": "越南工贸部要求全国34个省市在2026年12月底前出台屋顶光伏支持激励政策，目前仅北宁省和莱州省两地完成相关政策制定，进度远落后于此前总理10号指示设定的时间表。工贸部同时要求政府机关、学校、医院等公共建筑加快屋顶光伏安装，并要求越南电力集团（EVN）简化并网和验收流程。",
+    "sourceName": "pv magazine",
+    "sourceUrl": "https://www.pv-magazine.com/2026/10/24/vietnam-orders-provinces-to-introduce-rooftop-solar-incentives-by-december-2026/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "越南|工贸部MOIT|屋顶光伏激励政策|12月|政策",
+    "id": "daily|2026-10-24|越南|屋顶光伏激励政策",
+    "collectedAt": "2026-10-31T00:37:17Z"
   }
 ]
