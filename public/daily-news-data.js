@@ -1,5 +1,75 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-10-30",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "算电协同"
+    ],
+    "tags": "算电协同 算电协同 全国",
+    "company": "国家能源局",
+    "title": "国家能源局：24省已出台绿电直连配套文件，算力类项目占已批复项目超10%",
+    "summary": "国家能源局10月30日新闻发布会介绍，截至9月底，全国已有24个省份出台多用户绿电直连配套政策文件，其中算力设施类绿电直连项目已批复12个，占已批复绿电直连项目总数的10%以上。国家能源局表示将通过绿电直连等模式进一步研究算电协同政策措施，并提出\"以电强算、以算促电\"的推进方向。 解读：绿电直连模式正从内蒙古乌兰察布等个别示范项目向全国多地规模化复制。算力负荷的高耗电、相对平稳的用电曲线使其成为优质的配套负荷，未来围绕数据中心选址的\"电力+算力\"联合开发将成为获取优质消纳空间的新路径。",
+    "sourceName": "nea.gov.cn",
+    "sourceUrl": "https://www.nea.gov.cn/20261030/dd2b15f04b92441aa59f839a1a3413ba/c.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|409abced5dee8116b4d3f36e63eda174",
+    "collectedAt": "2026-11-01T15:40:50.882Z",
+    "notionPageId": "409abced5dee8116b4d3f36e63eda174",
+    "fingerprint": "notion|801d83cc8bad83e1e305"
+  },
+  {
+    "date": "2026-10-30",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "市场数据",
+    "businessTags": [
+      "集中式",
+      "分布式",
+      "储能"
+    ],
+    "tags": "集中式 分布式 储能 集中式 分布式 储能 全国",
+    "company": "晶科",
+    "title": "晶科控股三季度组件出货15GW、储能确认收入对应1.75GWh，毛利率回升至12.3%",
+    "summary": "晶科控股（Jinko Holdings，NYSE:JKS）10月30日公布2026年第三季度未经审计业绩：光伏组件出货15GW，环比下降6.0%、同比下降25.0%；营业收入136.20亿元人民币，环比增长10.2%、同比下降15.7%；毛利率12.3%，高于上季度4.2%和上年同期7.3%；归母净亏损1.70亿元。公司称Tiger Neo 3.0组件当季出货超过5GW，相较常规组件具有约0.01美元/W溢价；储能系统确认收入对应出货约1.75GWh，储能业务盈利能力环比和同比改善。 解读：晶科本季组件出货同比下降，但毛利率明显回升，反映其经营策略更侧重高溢价组件组合与储能收入贡献，而非单纯追求出货规模。",
+    "sourceName": "ir.jinkosolar.com",
+    "sourceUrl": "https://ir.jinkosolar.com/news-releases/news-release-details/jinko-holdings-announces-third-quarter-2026-financial-results",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|40aabced5dee81c3bbaaf189343948b8",
+    "collectedAt": "2026-11-01T15:40:50.882Z",
+    "notionPageId": "40aabced5dee81c3bbaaf189343948b8",
+    "fingerprint": "notion|2f296b6c92feee89abaf"
+  },
+  {
+    "date": "2026-10-30",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "技术",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "系统销售"
+    ],
+    "tags": "集中式 储能 系统销售 集中式光伏 储能 系统销售",
+    "company": "澳大利亚相关企业",
+    "title": "SMA在澳大利亚推广直流耦合构网型光储方案，首批目标市场含澳大利亚、德国和英国",
+    "summary": "德国逆变器厂商SMA在墨尔本All-Energy Australia 2026展会上面向澳大利亚市场推出直流耦合构网型光储一体化方案，首批市场包括澳大利亚、英国和德国。技术上光伏和电池在直流侧耦合，共用逆变器接入交流电网。SMA 将功率转换设备、电站控制和工程支持整合，以减少多供应商之间的协调工作，其DC/DC转换效率最高99.5%。 解读：SMA把直流耦合与构网型控制组合为整站方案，电池可吸收原本因逆变器功率上限而被削减的光伏电量，即“削峰损失”（clipping），再在需求或电价较高时放电，提高经济效益。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/sma-launches-dc-coupled-grid-forming-solar-plus-storage-solution-for-germany-australia-and-the-uk",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|40babced5dee815781face5ce0a1595e",
+    "collectedAt": "2026-11-01T15:40:50.882Z",
+    "notionPageId": "40babced5dee815781face5ce0a1595e",
+    "fingerprint": "notion|fe2c8e8981ae8504fc17"
+  },
+  {
     "date": "2026-10-29",
     "country": "湖南",
     "geo": "中国",
@@ -21,6 +91,30 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-30T07:57:45.035Z",
     "notionPageId": "408abced5dee818d9f9dff8baeb4bc1e",
     "fingerprint": "notion|623f8c6fe76974585230"
+  },
+  {
+    "date": "2026-10-29",
+    "country": "德国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "电力交易"
+    ],
+    "tags": "集中式 储能 电力交易 集中式 储能 电力交易 德国",
+    "company": "晶科",
+    "title": "晶科储能披露德国135MWh光储项目，拟以混合PPA协调发电与储能交付",
+    "summary": "晶科储能（Jinko ESS）正在推进德国一个容量为 135MWh 的电池储能项目。该项目与光伏电站配套，并采用混合型购电协议（Hybrid PPA）。方案采用Jinko Tera液冷储能系统（单套标称容量5.01MWh），系统测试转换效率94.1%。 解读：该项目尝试把光伏出力与储能调度结合，为混合PPA提供更可控的交付曲线，储存富余光伏电量，在用电需求较高时释放，从而提升可再生能源供电的稳定性和商业价值。同时该布局有助于缩短现场安装及并网周期，推动储能系统与光伏电站同步投入运行。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/industry-updates/jinko-ess-powers-135mwh-green-battery-energy-storage-project-in-germany",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|40babced5dee813e87b9f3c9a4ab200d",
+    "collectedAt": "2026-11-01T15:40:50.882Z",
+    "notionPageId": "40babced5dee813e87b9f3c9a4ab200d",
+    "fingerprint": "notion|9a7c516a9146e9f5cc5d"
   },
   {
     "date": "2026-10-28",
