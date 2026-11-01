@@ -24,6 +24,50 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-28",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "合作协议",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 钠电池 Intilion DACH",
+    "company": "宁德时代(CATL)",
+    "title": "宁德时代与德国Intilion签约拟五年内在DACH部署3GWh钠电储能",
+    "summary": "2026年10月28日，宁德时代与德国储能系统商Intilion签署谅解备忘录，计划未来五年内在德国、瑞士、奥地利(DACH)地区合计部署最高3GWh储能系统，产品以Tener Sodium钠电池为主，覆盖电网级及工商业场景。双方自2022年起已在德国合作部署超过30个储能项目。据德国pv magazine报道，该3GWh目标为发展方向而非已确认的供货合同，双方尚未披露具体项目与交付时间。",
+    "sourceName": "TaiyangNews / pv magazine Deutschland",
+    "sourceUrl": "https://taiyangnews.info/storage/global-battery-storage-news-snippets-october-28-2026",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|宁德时代-Intilion|3GWh钠电|DACH|合作协议",
+    "id": "daily|2026-10-28|德国|CATL Intilion钠电合作",
+    "collectedAt": "2026-11-01T00:36:50Z"
+  },
+  {
+    "date": "2026-10-28",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "产品发布",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 钠电池 PCS集成 All-Energy Australia",
+    "company": "宁德时代(CATL)",
+    "title": "宁德时代在澳首发9MWh TENER+储能系统并签三份合作协议",
+    "summary": "2026年10月28日，宁德时代在墨尔本All-Energy Australia展会上全球首发9MWh TENER+储能系统，并同步展示Tener Sodium钠电池储能系统在澳洲的首秀。公司同时与Hitachi Energy、EPEC Group及新南威尔士大学(UNSW)签署三份合作备忘录，分别涉及PCS集成方案、项目交付与电网接入、人才培训等领域。宁德时代披露其在澳洲储能项目累计装机已超17GWh。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/catl-holds-global-launch-for-9mwh-tener-bess-at-all-energy-australia-signs-pcs-agreement-with-hitachi-energy/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|宁德时代|TENER+9MWh|17GWh|产品发布",
+    "id": "daily|2026-10-28|澳大利亚|CATL TENER+澳洲首发",
+    "collectedAt": "2026-11-01T00:36:50Z"
+  },
+  {
+    "date": "2026-10-28",
     "country": "广东",
     "geo": "中国",
     "category": "市场信息",
@@ -158,6 +202,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-30T07:57:45.035Z",
     "notionPageId": "408abced5dee819fb033df0d7d31fd60",
     "fingerprint": "notion|1f23881cdb190a74da16"
+  },
+  {
+    "date": "2026-10-23",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 Albatross项目 Amprion 下萨克森州",
+    "company": "GIGA Storage",
+    "title": "荷兰GIGA Storage为德国1.4GWh储能项目完成2.6亿欧元债权融资",
+    "summary": "荷兰储能开发商GIGA Storage于2026年10月23日为其位于德国下萨克森州诺伊恩基兴(Neuenkirchen)的Albatross储能项目完成融资关闭，获得ABN AMRO、Hamburg Commercial Bank、ING、Rabobank、Siemens Financial Services、SMBC及法国兴业银行组成的银团提供的2.6亿欧元(约2.9亿美元)债权融资。该项目规模为350MW/1400MWh，是GIGA Storage在德国的首个项目，此前已于10月14日与输电运营商Amprion签署380kV电网接入协议。项目计划2027年初开工，2029年初投运。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/giga-storage-closes-e260-million-debt-financing-for-1400mwh-germany-bess/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|GIGA Storage|Albatross1400MWh|2.6亿欧元|融资",
+    "id": "daily|2026-10-23|德国|GIGA Storage Albatross融资",
+    "collectedAt": "2026-11-01T00:36:50Z"
   },
   {
     "date": "2026-10-23",
