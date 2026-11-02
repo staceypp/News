@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-10-31",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "开发",
+    "businessTags": [
+      "储能",
+      "集中式"
+    ],
+    "tags": [
+      "储能",
+      "集中式",
+      "全国"
+    ],
+    "company": "阳光电源",
+    "title": "阳光电源前三季度营收488.63亿元降26.41%，归母净利65.99亿元降44.46%",
+    "summary": "阳光电源10月31日披露未经审计的2026年第三季度报告：前三季度营业收入488.63亿元，同比下降26.41%；归母净利润65.99亿元，同比下降44.46%；经营活动现金流量净额36.48亿元，同比下降63.21%。第三季度单季营收179.50亿元，同比下降21.51%，归母净利润13.41亿元，同比下降67.67%。9月末存货409.72亿元，较上年末增长50.33%，预付款项54.31亿元，较上年末增长305.11%，公司分别解释为销售库存及项目投入增加、预付材料款增加。 解读：上半年公司曾披露，存货增加同时包含储能电芯及海外销售备货和新能源电站项目开发投入，海外项目包括哈萨克斯坦、罗马尼亚、德国等。其经营表现既受到国内光伏市场调整、储能竞争及原材料价格等行业因素影响，也与大项目交付节奏和汇兑变化有关。后续需结合订单交付、项目转化、回款、库存周转及现金流共同观察。",
+    "sourceName": "static.cninfo.com.cn",
+    "sourceUrl": "https://static.cninfo.com.cn/finalpage/2026-10-31/1225646130.PDF",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|40cabced5dee815cb3e6e6975f51f6d9",
+    "collectedAt": "2026-11-02T08:44:05.470Z",
+    "notionPageId": "40cabced5dee815cb3e6e6975f51f6d9",
+    "fingerprint": "notion|704ef6139cb4f9319534"
+  },
+  {
     "date": "2026-10-30",
     "country": "中国",
     "geo": "中国",
@@ -80,6 +107,56 @@
     "collectedAt": "2026-11-01T15:40:50.882Z",
     "notionPageId": "40babced5dee815781face5ce0a1595e",
     "fingerprint": "notion|fe2c8e8981ae8504fc17"
+  },
+  {
+    "date": "2026-10-30",
+    "country": "江苏",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "招标",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式",
+      "江苏"
+    ],
+    "company": "江苏项目主体",
+    "title": "江苏连云港中核田湾200万千瓦滩涂光伏示范项目并网发电超百万千瓦",
+    "summary": "中国核电田湾2GW滩涂光伏示范项目是目前全国最大海上光伏项目，并网发电容量突破1GW，该项目位于江苏省连云港市田湾核电站温排水海域，采用“核电+新能源”多能互补模式，与田湾核电站共同构建总装机超1000万千瓦（10GW）的清洁能源示范基地。项目自2025年1月首批发电单元并网以来分批推进，截至2026年9月累计安装容量达150万千瓦（1.5GW）；配套220kV线路（19.45公里、64座铁塔）已于2026年1月全线贯通。项目全部投产后预计年发电量约22亿千瓦时，可节约标煤约68万吨、减排二氧化碳约177万吨。 解读：该项目验证了“核能+新能源”互补基地模式在滨海滩涂资源的大规模复制可行性，为同类核电基地周边的光伏开发提供了并网与送出方案参考。配套送出通道和消纳能力可大幅降低新能源项目的弃光风险，是获取优质并网资源的重要合作方向。项目整体体量大，可关注后续招标通知。",
+    "sourceName": "nea.gov.cn",
+    "sourceUrl": "https://www.nea.gov.cn/20261030/cf8de60b63de4d1b9d2051cc3a76c9ec/c.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|40babced5dee81b1960fdeb8d6ff03a0",
+    "collectedAt": "2026-11-02T08:44:05.470Z",
+    "notionPageId": "40babced5dee81b1960fdeb8d6ff03a0",
+    "fingerprint": "notion|ae08b91c0b0bd784ffe6"
+  },
+  {
+    "date": "2026-10-30",
+    "country": "青海",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "储能",
+      "青海"
+    ],
+    "company": "国家能源局",
+    "title": "青海格尔木60MW/600MWh液态空气储能国家示范项目并网发电",
+    "summary": "10月30日，中国绿发投资建设的青海格尔木液态空气储能国家示范项目成功并网发电。项目规划规模60MW/600MWh、额定储能时长10小时，采用约-194℃深冷液化空气储能技术，为国家能源局新型储能试点示范及能源领域首台（套）重大技术装备项目。项目方披露设备国产化率100%，系统通过空气压缩、液化、储存及膨胀发电实现电量时移，并与青海电网开展并网调试。 解读：对于放电时长较长的项目，液态空气可通过增加储罐等方式扩展储量，其长期设备寿命和能量容量成本及其商业化竞争力仍需要由连续运行后的往返效率、全生命周期成本和电力市场收益验证。",
+    "sourceName": "thepaper.cn",
+    "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_34377280",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|40cabced5dee81c7b67fcb2e162d7956",
+    "collectedAt": "2026-11-02T08:44:05.470Z",
+    "notionPageId": "40cabced5dee81c7b67fcb2e162d7956",
+    "fingerprint": "notion|3dd513a40b440695de76"
   },
   {
     "date": "2026-10-29",
@@ -275,6 +352,35 @@
     "collectedAt": "2026-10-29T15:46:39.913Z",
     "notionPageId": "408abced5dee81899a9edcd49362a433",
     "fingerprint": "notion|380a5ff88ca49c3a3a75"
+  },
+  {
+    "date": "2026-10-26",
+    "country": "江苏",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "储能",
+      "分布式",
+      "零碳园区"
+    ],
+    "tags": [
+      "储能",
+      "分布式",
+      "零碳园区",
+      "江苏"
+    ],
+    "company": "天合光能",
+    "title": "盐城市委书记会见天合光能高纪凡，拓展新型储能、分布式光伏、零碳园区合作",
+    "summary": "10月26日，盐城市委书记严汉平会见天合光能董事长高纪凡，双方围绕“十五五”深化合作，聚焦科技创新、新型储能、分布式光伏、零碳园区建设。天合已深度参与盐城大丰港零碳产业园建设，以光储融合与智慧能碳管理赋能园区转型，并将参与盐城光伏国家先进制造业集群发展。 解读：头部组件企业以制造基地为抓手，向地方政府打包输出“光储+零碳园区”综合方案，地方关系与场景绑定成为零碳园区项目获取的重要路径，值得借鉴。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/-Xo3LllDGVw-wMjbml-sBw",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|408abced5dee810cb9cef552968ed42f",
+    "collectedAt": "2026-11-02T08:44:05.470Z",
+    "notionPageId": "408abced5dee810cb9cef552968ed42f",
+    "fingerprint": "notion|8bcf975fc6711ecd64dc"
   },
   {
     "date": "2026-10-26",
