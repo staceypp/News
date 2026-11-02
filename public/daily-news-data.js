@@ -1,5 +1,27 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-10-31",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 招标 输电费减免",
+    "company": "泰米尔纳德邦电力配电公司(TNPDCL) / TNERC",
+    "title": "印度泰米尔纳德邦发布储能政策，目标2.5GW/10GWh",
+    "summary": "印度泰米尔纳德邦正式发布2026年储能(BESS)政策，设定至少2.5GW/10GWh的储能发展目标，由邦属配电公司TNPDCL通过竞争性招标分阶段采购首批2500MW/10000MWh储能容量，电价需经邦电力监管委员会(TNERC)核准。符合条件的项目自并网起可享受最长10年的输电及过网费减免，具体减免范围仍待TNERC最终核准。",
+    "sourceName": "PowerPeakDigest",
+    "sourceUrl": "https://powerpeakdigest.com/tamil-nadu-bess-policy-2026-storage-target/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|泰米尔纳德邦-TNPDCL|储能政策2.5GW/10GWh|10年免费|政策",
+    "id": "daily|2026-10-31|印度|泰米尔纳德邦储能政策",
+    "collectedAt": "2026-11-02T00:39:25Z"
+  },
+  {
     "date": "2026-10-30",
     "country": "中国",
     "geo": "中国",
@@ -233,6 +255,29 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-26",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "展会",
+    "businessTags": [
+      "算电协同",
+      "AIDC",
+      "绿电"
+    ],
+    "tags": "算电协同 AIDC 绿电 数据中心 展会",
+    "company": "晶澳科技 / CPE 2026",
+    "title": "CPE2026国际算电展在上海开幕，晶澳科技等200余家企业参展",
+    "summary": "2026国际算电协同产业链展览会(CPE 2026)于10月26日至28日在上海世博展览馆举办，由中国国际贸易促进委员会电力行业委员会与中国信息协会联合主办，是国内首个聚焦算电协同产业链的大型展会。晶澳科技等200余家参展企业与机构亮相，涵盖新能源、储能、通信运营商等领域；展会展示面积超过1万平方米，参观参会约9000人次。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://news.10jqka.com.cn/20261026/c681106190.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|CPE2026-晶澳科技|算电协同展会开幕|200余家企业|展会",
+    "id": "daily|2026-10-26|中国|CPE2026算电展开幕",
+    "collectedAt": "2026-11-02T00:39:25Z"
+  },
+  {
+    "date": "2026-10-26",
     "country": "河北",
     "geo": "中国",
     "category": "市场信息",
@@ -252,6 +297,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-30T07:57:45.035Z",
     "notionPageId": "408abced5dee819fb033df0d7d31fd60",
     "fingerprint": "notion|1f23881cdb190a74da16"
+  },
+  {
+    "date": "2026-10-23",
+    "country": "葡萄牙",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能",
+      "集中式"
+    ],
+    "tags": "储能 集中式 构网型 电网规则",
+    "company": "葡萄牙国家电网(REN) / 葡萄牙政府",
+    "title": "葡萄牙强制大型储能项目具备构网型能力，推出1.05GW储能招标",
+    "summary": "葡萄牙自2026年10月23日起实施新规，要求45MW及以上或直连主干输电网的电池储能项目具备构网型(grid-forming)能力和合成惯量，10MW至45MW项目适用专门条款；500kW以上电池系统须在电网频率下降时自动从充电切换为放电。同期葡萄牙推出约1.05GW储能并网容量招标，其中独立储能最高750MVA、配套新能源的储能项目最高300MVA。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/portugal-makes-grid-forming-mandatory-for-large-scale-bess-and-launches-1gw-tender/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "葡萄牙|REN-葡萄牙政府|构网型储能强制令|1.05GW招标|政策",
+    "id": "daily|2026-10-23|葡萄牙|构网型储能强制令",
+    "collectedAt": "2026-11-02T00:39:25Z"
   },
   {
     "date": "2026-10-23",
@@ -325,6 +392,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-22",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "市场数据",
+    "businessTags": [
+      "集中式",
+      "分布式"
+    ],
+    "tags": "集中式 分布式 三季报 BC组件",
+    "company": "爱旭股份",
+    "title": "爱旭股份三季度扭亏为盈，BC组件在手订单约15GW",
+    "summary": "爱旭股份披露2026年三季报，第三季度营业收入52.89亿元，同比增长67.89%，归母净利润4456.66万元，同比、环比均实现扭亏为盈，单季毛利率13.31%，创近三年新高。公司计划投资11.5亿元将天津基地现有PERC产能升级为6GW ABC产能；截至9月18日，ABC组件在手订单约15GW，已排期至2027年上半年。不过前三季度公司整体仍净亏损7.09亿元。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://news.10jqka.com.cn/20261022/c680969629.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|爱旭股份|三季度扭亏为盈|4456.66万元|市场数据",
+    "id": "daily|2026-10-22|中国|爱旭三季度扭亏",
+    "collectedAt": "2026-11-02T00:39:25Z"
+  },
+  {
+    "date": "2026-10-22",
     "country": "新西兰",
     "geo": "全球",
     "category": "市场信息",
@@ -394,6 +483,29 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-30T07:57:45.035Z",
     "notionPageId": "408abced5dee81448360d5e8b55d1077",
     "fingerprint": "notion|8d997a2ec3d957abe4ec"
+  },
+  {
+    "date": "2026-10-20",
+    "country": "埃及",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "融资"
+    ],
+    "tags": "集中式 储能 融资 PPA EBRD",
+    "company": "EBRD / HAU Energy / Infinity Power",
+    "title": "EBRD领投2.65亿美元，支持埃及1.2GW光伏加600MWh储能项目",
+    "summary": "欧洲复兴开发银行(EBRD)宣布为埃及Minya的Nefer Minya光伏储能项目提供至多2.65亿美元贷款，项目由HAU Energy与Infinity Power开发，建成后将成为埃及及非洲规模最大的光伏电站，装机容量1.2GW并配套600MWh电池储能系统。项目总债务融资规模约5.66亿美元，约占总投资7.64亿美元的四分之三，电力将通过25年期购电协议售予埃及输电公司(EETC)。",
+    "sourceName": "EBRD",
+    "sourceUrl": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-backs-largest-solar-pv-project-in-egypt-and-africa.html",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "埃及|EBRD-HAU Energy-Infinity Power|Nefer Minya光伏储能项目|1.2GW+600MWh|融资",
+    "id": "daily|2026-10-20|埃及|Nefer Minya光储融资",
+    "collectedAt": "2026-11-02T00:39:25Z"
   },
   {
     "date": "2026-10-20",
