@@ -3,7 +3,7 @@ window.DAILY_NEWS_DATA=[
     "date": "2026-11-02",
     "country": "澳大利亚",
     "geo": "大洋洲",
-    "category": "同行动态",
+    "category": "市场信息",
     "eventType": "融资",
     "businessTags": [
       "集中式",
