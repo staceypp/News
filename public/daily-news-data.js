@@ -1,5 +1,28 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-11-02",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 集中式光伏 储能",
+    "company": "澳大利亚相关企业",
+    "title": "Frontier Energy正式签署西澳Waroona光伏储能项目银团债务融资协议",
+    "summary": "澳大利亚上市公司Frontier Energy Limited（ASX代码：FHE）宣布已签署总额最高达2.8亿澳元的银团贷款协议，用于为西澳大利亚州 Waroona 可再生能源项目一期提供融资。该项目为120MW光伏，配套81.5MWh电池储能。项目已开工，计划于2028年首批发电。贷款机构为由法国外贸银行 Natixis CIB 和三井住友银行牵头的国际银团。2.8 亿澳元的贷款结构为建设及定期贷款（约2.5亿澳元）、银行保函额度（约2.5亿澳元）、偿债准备金贷款额度（约1,700万澳元）。 解读：商业银行体系光储一体化项目的信贷支持依然稳固。贷款结构的设定对开发商来说，可以把有限资金用于建设的同时又满足履约和偿债要求的安排；对银行来说，则是在发放建设贷款的同时，设置对外信用支持和偿债缓冲。需注意融资交割仍需满足惯常先决条件，包括签署澳大利亚联邦政府“容量投资计划”（Capacity Investment Scheme，CIS）相关协议，以及落实利率对冲安排。",
+    "sourceName": "asx.com.au",
+    "sourceUrl": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03160800",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|40cabced5dee81d696cdc523269fed95",
+    "collectedAt": "2026-11-02T13:32:53.123Z",
+    "notionPageId": "40cabced5dee81d696cdc523269fed95",
+    "fingerprint": "notion|c84021e35de9686d5722"
+  },
+  {
     "date": "2026-10-31",
     "country": "中国",
     "geo": "中国",
