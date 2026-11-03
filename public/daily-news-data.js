@@ -23,6 +23,29 @@ window.DAILY_NEWS_DATA=[
     "fingerprint": "notion|ef2f72d04ffcfe94c144"
   },
   {
+    "date": "2026-11-02",
+    "country": "贝宁",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "电力交易"
+    ],
+    "tags": "集中式 电力交易 集中式光伏 电力交易",
+    "company": "贝宁项目主体",
+    "title": "贝宁首批IPP光伏组合获Proparco与IFC融资支持，四座电站合计62MWp",
+    "summary": "法国开发性金融机构Proparco与世界银行集团国际金融公司（IFC）共同支持AXIAN Energy Green及Sika Capital在西北贝宁共和国开发四座光伏电站，合计62MWp。Proparco与IFC各提供约1,400万欧元（人民币约1亿元）融资，合计约2,800万欧元（人民币约2.09亿元）。该项目由AXIAN与本地投资平台Sika Capital共同开发，法国Sagemcom承担EPC并负责投运后前两年维护，是该国首批独立发电商（IPP）光伏项目。 解读：该项目由国际开发性金融机构提供长期资金、本地投资平台参与开发，并由EPC企业承担建设和初期维护，为贝宁引入IPP模式提供了具体落地路径。Sika资本的股东为贝宁存托与信托机构 CDC Bénin 和 Egnon咨询公司。",
+    "sourceName": "proparco.fr",
+    "sourceUrl": "https://www.proparco.fr/fr/actualites/benin-proparco-et-ifc-soutiennent-axian-et-sika-pour-financer-62-mwc-de-nouvelles",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|40dabced5dee812ebbeae68e8fd8150c",
+    "collectedAt": "2026-11-03T16:46:37.599Z",
+    "notionPageId": "40dabced5dee812ebbeae68e8fd8150c",
+    "fingerprint": "notion|b74cf385d3095cac038f"
+  },
+  {
     "date": "2026-10-31",
     "country": "中国",
     "geo": "中国",
