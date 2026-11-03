@@ -6237,5 +6237,131 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-10-28",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "产品发布",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "All-Energy Australia",
+      "MoU",
+      "海外布局"
+    ],
+    "company": "宁德时代(CATL)",
+    "title": "宁德时代在澳大利亚全球首发9MWh TENER+储能系统并签三份合作协议",
+    "summary": "宁德时代在All-Energy Australia 2026展会上全球首发9MWh超大容量储能系统TENER+，并在澳大利亚首秀钠离子储能产品TENER Sodium。公司同期与Hitachi Energy、EPEC Group/厦门容量储能研究院、新南威尔士大学(UNSW Sydney)签署三份合作备忘录，分别涉及储能变流器集成、澳洲项目联合开发及人才培养。报道指出，受当地并网审批周期影响，TENER+预计还需1~1.5年才能进入澳洲市场。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/catl-holds-global-launch-for-9mwh-tener-bess-at-all-energy-australia-signs-pcs-agreement-with-hitachi-energy/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|宁德时代CATL|TENER+-All-Energy Australia|9MWh-3份MoU|产品发布",
+    "id": "daily|2026-10-28|澳大利亚|CATL TENER+全球首发",
+    "collectedAt": "2026-11-03T00:38:03Z"
+  },
+  {
+    "date": "2026-10-29",
+    "country": "埃及",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": [
+      "光储一体化",
+      "开发性金融",
+      "购电协议"
+    ],
+    "company": "Scatec",
+    "title": "挪威Scatec获多边机构融资，埃及Dandara光储一期项目开工",
+    "summary": "挪威新能源开发商Scatec宣布，其埃及Dandara光储项目一期(569MW光伏配套100MWh电池储能)完成约2.17亿美元无追索权融资协议，资金来自欧洲复兴开发银行(EBRD)、欧洲投资银行(EIB)及非洲开发银行(AfDB)，项目随即开工建设。项目电力将通过长期购电协议供应埃及最大工业用电企业Egypt Aluminium。",
+    "sourceName": "Solar Quarter",
+    "sourceUrl": "https://solarquarter.com/2026/10/29/scatec-secures-217-million-financing-for-569-mw-solar-and-100-mwh-bess-project-in-egypt/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "埃及|Scatec-Egypt Aluminium|Dandara光储项目|569MW+100MWh-2.17亿美元|融资",
+    "id": "daily|2026-10-29|埃及|Scatec Dandara光储融资",
+    "collectedAt": "2026-11-03T00:38:03Z"
+  },
+  {
+    "date": "2026-10-29",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "试点项目",
+    "businessTags": [
+      "分布式",
+      "储能"
+    ],
+    "tags": [
+      "虚拟电厂VPP",
+      "户用储能"
+    ],
+    "company": "DTE Energy / sonnen",
+    "title": "DTE Energy联合sonnen在密歇根州启动首个户用虚拟电厂试点",
+    "summary": "美国公用事业公司DTE Energy与德国储能企业sonnen在密歇根州Veridian at County Farm碳中和社区启动该州首个居民虚拟电厂(VPP)试点，已获密歇根公共服务委员会批准，为期两年。项目将通过sonnen电池系统虚拟连接近100户配备屋顶光伏、热泵及电动车充电设施的住宅，DTE将在用电高峰时段调度电池放电，以探索户用VPP对密歇根电网可靠性和清洁能源转型的支持作用。",
+    "sourceName": "Solar Builder Magazine",
+    "sourceUrl": "https://solarbuildermag.com/energy-storage/dte-energy-launches-michigans-first-residential-vpp-with-sonnen/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|DTE Energy-sonnen|密歇根户用VPP试点|近100户-两年期|试点项目",
+    "id": "daily|2026-10-29|美国|密歇根户用VPP试点",
+    "collectedAt": "2026-11-03T00:38:03Z"
+  },
+  {
+    "date": "2026-10-30",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "进展通报",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "沙戈荒大基地",
+      "疆电入渝",
+      "宁电入湘"
+    ],
+    "company": "国家能源局",
+    "title": "国家能源局：三批沙戈荒大基地已建成超1.57亿千瓦",
+    "summary": "国家能源局10月30日例行发布会披露，截至2026年9月底，三批沙戈荒大型风光基地合计建成规模超1.57亿千瓦，其中第一批基本建成投产(9453万千瓦)，第二批建成超3400万千瓦，第三批建成超2900万千瓦。下一步将加快推动以本地消纳为主的第二、三批基地建设，目标2027年底基本建成投产；目前已批复14个外送型基地实施方案，新疆天山北麓(疆电入渝)、宁夏腾格里沙漠(宁电入湘)基地已投运。",
+    "sourceName": "新华网",
+    "sourceUrl": "https://www.news.cn/energy/20261030/f02cced1e9b844eda7ca47de7bdcce72/c.html",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|沙戈荒大基地建设进展|1.57亿千瓦|进展通报",
+    "id": "daily|2026-10-30|中国|沙戈荒大基地进展",
+    "collectedAt": "2026-11-03T00:38:03Z"
+  },
+  {
+    "date": "2026-10-30",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "财报",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "三季报",
+      "BC组件",
+      "光储融合"
+    ],
+    "company": "隆基绿能/晶科能源/爱旭股份/天合光能/通威股份/大全能源等",
+    "title": "八家光伏上市公司三季报收官，储能与BC组件成减亏主力",
+    "summary": "截至10月30日晚，八家光伏龙头上市公司2026年三季报全部披露，合计营收约2566亿元，合计归母净利润亏损约277亿元，无一家整体盈利，其中通威股份(亏67.59亿元)、大全能源(亏20.06亿元，同比扩大86.89%)亏损扩大明显。储能和BC组件成为企业减亏的主要抓手：爱旭股份三季度营收环比增长11.46%实现单季扭亏，隆基绿能BC组件前三季度销量同比增长118.58%至31.64GW，晶科能源储能系统前三季度交付4.5GWh，天合光能亏损同比收窄53.77%。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://stock.10jqka.com.cn/20261030/c681315776.shtml",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|光伏龙头八家|三季报收官|亏损277亿-储能BC组件|财报",
+    "id": "daily|2026-10-30|中国|光伏三季报收官",
+    "collectedAt": "2026-11-03T00:38:03Z"
   }
 ]
