@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-11-04",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式光伏"
+    ],
+    "company": "印度相关企业",
+    "title": "印度ACME Solar的风光互补项目新增66.68MW并网，运营容量达3,190MW",
+    "summary": "ACME Solar子公司ACME Renewtech的风光互补项目新增66.68MW并网，商运日为11月4日，项目位于印度拉贾斯坦邦（Rajasthan）比卡内尔（Bikaner）的Kelan村。已与NTPC签订每千瓦时3.36卢比（0.24元/kWh）购电协议（PPA），使该混合项目运营容量达200.04MW。公司整体运营容量升至约3.19GW，已签约项目量8.37GW，电池储能5.64GWh。 解读：项目已签署PPA未项目提供了收入基础，风光互补有望改善供电曲线，但实际收益仍取决于发电量、弃电、运维成本和合同履约条件。",
+    "sourceName": "solarquarter.com",
+    "sourceUrl": "https://solarquarter.com/2026/11/03/acme-solar-commissions-66-68-mw-at-rajasthan-hybrid-project-operational-capacity-reaches-3190-mw",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|40eabced5dee8158b8cbc246308de1dc",
+    "collectedAt": "2026-11-04T08:27:15.542Z",
+    "notionPageId": "40eabced5dee8158b8cbc246308de1dc",
+    "fingerprint": "notion|abea2c9a782876a7789b"
+  },
+  {
     "date": "2026-11-02",
     "country": "澳大利亚",
     "geo": "大洋洲",
