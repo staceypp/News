@@ -300,6 +300,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-27",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "绿电"
+    ],
+    "tags": "分布式 绿电 户用光伏 分布式光伏 补贴 泰国内阁",
+    "company": "泰国内阁/泰国财政部",
+    "title": "泰国内阁批准500亿泰铢\"人民太阳能\"屋顶光伏补贴计划",
+    "summary": "泰国内阁10月27日批准总额500亿泰铢（约合14.8亿美元）的\"People's Solar\"屋顶光伏补贴计划，资金来自政府4000亿泰铢能源转型紧急借款额度。计划面向全国76府及曼谷，目标年内覆盖约100万户家庭，每户最高补贴5万泰铢，并涵盖屋顶、地面及水面光伏等多种形式。泰国本地媒体（Nation Thailand、The Standard、Kaohoon）与国际光伏行业媒体（PV Tech）均报道了同一批准日期与金额。 解读：此前泰国户用光伏政策历经100MW、500MW、5GW、10GW等多轮扩容提案，此次内阁决议首次形成具体预算与补贴标准，有望直接拉动户用组件、逆变器及安装渠道需求。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/thai-government-greenlights-us1-48-billion-rooftop-solar-programme-deploy-5gw-capacity/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "泰国|人民太阳能计划|500亿泰铢|户用光伏|内阁批准",
+    "id": "daily|2026-10-27|泰国|人民太阳能补贴计划",
+    "collectedAt": "2026-11-04T00:36:29Z"
+  },
+  {
+    "date": "2026-10-27",
     "country": "湖北",
     "geo": "中国",
     "category": "市场信息",
@@ -343,6 +365,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-29T15:46:39.913Z",
     "notionPageId": "408abced5dee81899a9edcd49362a433",
     "fingerprint": "notion|380a5ff88ca49c3a3a75"
+  },
+  {
+    "date": "2026-10-26",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "展会",
+    "businessTags": [
+      "算电协同",
+      "AIDC"
+    ],
+    "tags": "算电协同 AIDC 算电协同 AIDC 绿电直连 储能",
+    "company": "CPE 2026国际算电展组委会",
+    "title": "CPE 2026国际算电展上海开幕，储能企业竞逐算电协同赛道",
+    "summary": "CPE 2026国际算电协同产业大会暨展览于10月26日至28日在上海世博展览馆举行，由中国国际贸易促进委员会电力行业委员会、中国信息协会联合主办，展览面积超1万平方米，吸引200余家参展机构。多家储能、光伏企业展出绿电直连、海底数据中心、液冷配套等方案，将算电协同视为新增长赛道。两家独立财经科技媒体（同花顺、凤凰科技）均报道了同一展会规模与主题。 解读：算电协同正从概念展示走向产业化集中亮相，储能企业把既有绿电供给与调度能力向AIDC场景延伸，是光储企业拓展数据中心用电服务的新信号。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://news.10jqka.com.cn/20261026/c681106190.shtml",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|CPE2026算电展|算电协同|AIDC|展会",
+    "id": "daily|2026-10-26|中国|CPE算电展开幕",
+    "collectedAt": "2026-11-04T00:36:29Z"
   },
   {
     "date": "2026-10-26",
