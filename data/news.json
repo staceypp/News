@@ -24,6 +24,139 @@
     "fingerprint": "notion|abea2c9a782876a7789b"
   },
   {
+    "date": "2026-11-04",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能"
+    ],
+    "company": "美国项目主体",
+    "title": "美国rPlus取得最高4.5亿美元循环信贷额度，以在运光储资产现金流支持新项目开发",
+    "summary": "美国新能源开发商rPlus Energies 获得了一笔为期三年、额度最高达 4.5亿美元（人民币 30 亿元）的循环信贷融资，用于支持美国西部、尤其是农村地区的光伏和储能项目开发与建设。这是一项提供借款额度和信用证支持的债务融资，而非股权投资，融资依托近1GW在运资产的现金流支持。 解读：rPlus将已投运电站的现金流与循环授信结合，为新项目开发和建设期履约提供资金及信用证支持，体现持有运营资产反哺开发管线的资本循环方式。该融资结构可减少逐项目单独筹措短期资金的压力，但实际可用额度仍受贷款条款和在运资产表现约束。",
+    "sourceName": "pv-tech.org",
+    "sourceUrl": "https://www.pv-tech.org/rplus-energies-raises-us450-million-to-support-us-solar-and-energy-storage-projects-in-rural-communities",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|40fabced5dee810680e4d0a6cffcc919",
+    "collectedAt": "2026-11-05T16:22:09.707Z",
+    "notionPageId": "40fabced5dee810680e4d0a6cffcc919",
+    "fingerprint": "notion|fefb46f585e723cc6192"
+  },
+  {
+    "date": "2026-11-04",
+    "country": "越南",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能"
+    ],
+    "company": "越南政策机构",
+    "title": "越南批准多乐省3.55亿美元452MW浮动光伏项目",
+    "summary": "越南多乐省(Dak Lak)批准一座规划容量452MW的水面漂浮光伏项目，投资额约91490亿越南盾(人民币约23.75亿元)。项目位于中部高原Ea Sup Thuong水库，占地约526公顷（526万㎡），其中约523公顷（523万㎡）为水面。项目涵盖漂浮光伏组件、逆变器、35kV漂浮中压电缆系统、RMU升压站、35/220kV升压变电站、运维中心、电池储能系统及一条6公里220kV输电线路接入国家电网。项目运营期50年，土地审批完成后18个月内需完成建设并投运，最终商运不晚于2028年第四季度。项目将由省级政府选定的四家本地企业组成的联合体实施，分别为IPC工程建设公司、Tay Nguyen基建建设发展公司、SD越南建设投资公司及Ea Sup投资公司。 解读：该项目反映越南在土地资源趋紧背景下，利用水库水面资源加速发展大型光伏，并配储以提升电网接纳能力。对光伏电站开发商而言，由地方政府主导组建本地企业联合体实施的模式降低了外资直接作为项目业主准入的空间，外资企业可通过设备供应、EPC分包或技术合作方式参与。",
+    "sourceName": "solarquarter.com",
+    "sourceUrl": "https://solarquarter.com/2026/11/04/vietnam-approves-355-million-452-mw-floating-solar-project-in-dak-lak-province",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|40fabced5dee810d9d4cd3fb1addad3a",
+    "collectedAt": "2026-11-05T16:22:09.707Z",
+    "notionPageId": "40fabced5dee810d9d4cd3fb1addad3a",
+    "fingerprint": "notion|c9358488ac2bb088a36f"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "电力交易"
+    ],
+    "tags": [
+      "分布式光伏",
+      "工商业光伏",
+      "电力交易"
+    ],
+    "company": "德国政策机构",
+    "title": "德国10月屋顶光伏招标授予288MW，容量加权中标价9.67欧分/kWh",
+    "summary": "德国联邦网络局公布10月1日屋顶及隔音墙光伏招标结果：招标规模296MW，收到177份，投标容量为347MW；其中34份（约58MW）被排除，最终143份（288MW）中标。采用按报价支付（pay-as-bid）机制，中标价在8.50-10.00欧分/kWh（人民币0.64-0.75元/kWh），容量加权均价9.67欧分/kWh（人民币0.72元/kWh），较上一轮次9.72欧分/kWh基本持平（人民币0.73元/kWh）。大多数中标项目位于北莱茵-威斯特法伦州（Nordrhein-Westfalen），共66MW（38个）。 解读：本轮德国大型屋顶光伏投标量回升，容量加权中标价接近10欧分/kWh上限。对工商业屋顶项目的投资测算提供了近期政策支持价格参照，但不能直接作为企业自发自用电价或PPA报价。",
+    "sourceName": "bundesnetzagentur.de",
+    "sourceUrl": "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_Solar2_Biomasse.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|40eabced5dee810a9a45edfb7e63525b",
+    "collectedAt": "2026-11-05T16:22:09.707Z",
+    "notionPageId": "40eabced5dee810a9a45edfb7e63525b",
+    "fingerprint": "notion|f80b2e59d2b769c841ed"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "阿曼",
+    "geo": "全球",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "储能"
+    ],
+    "company": "阿曼相关企业",
+    "title": "阿曼Nama Holding与中国国家电网国际发展公司签署1GW电池储能框架协议",
+    "summary": "阿曼Nama Holding与中国国家电网国际发展公司签署框架协议，拟开发1GW电池储能项目，预计投资3.845亿阿曼里亚尔，(人民币约66.59亿元)。计划在杜库姆工业变电站及靠近Ibri Solar 3的Al-Subaikhi变电站分别建设500 MW储能设施，并接入400 kV电网。 解读：这是中国电力央企在中东地区储能市场的又一重要布局，显示国家电网国正借助海外基建合作加速电网与储能资产输出。",
+    "sourceName": "greentechlead.com",
+    "sourceUrl": "https://greentechlead.com/energy-news/renewables-news-lightyears-ebrd-raiffeisen-omans-nama-chinas-state-grid-international-56312",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|40fabced5dee811987dad8a6b11048d8",
+    "collectedAt": "2026-11-05T16:22:09.707Z",
+    "notionPageId": "40fabced5dee811987dad8a6b11048d8",
+    "fingerprint": "notion|347ecba74c546a959ecf"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "马来西亚",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "AIDC"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能",
+      "AIDC",
+      "PPA",
+      "DPPA"
+    ],
+    "company": "TNB",
+    "title": "马来西亚IOI与TNB成立项目公司开发500MWac光伏及250MW/1GWh储能，服务DayOne数据中心",
+    "summary": "IOI 集团宣布与 TNB Renewables 及一家中小企业联合体合作，在马来西亚森美兰州马口（Bahau）开发一座 500 MW 太阳能电站，并配套建设 250 MW / 1,000 MWh 电池储能系统。该合作是 IOI 在企业可再生能源供应计划（CRESS）下的首个大型可再生能源项目。项目公司Bahau Energy Ventures股权分别由TNB Renewables持有70%、Luminous持有25%、中小企业联合体持有5%，并与IOI签订约1,300英亩（5.26平方公里）土地长期租约。项目拟依托马来西亚CRESS机制及TNB与DayOne数据中心此前达成的21年、最高500MW绿电采购计划。 解读：本次合作将土地持有方IOI、公用事业开发商TNB与数据中心长期用电需求整合到同一项目结构，IOI既通过25%股权参与项目收益，也通过土地出租获取收入。21年购电安排为项目融资提供需求基础，但CRESS的系统接入费（System Access Charge，SAC）及实际交付曲线仍会影响项目的经济性。 概念：CRESS（Corporate Renewable Energy Supply Scheme）是马来西亚“企业可再生能源供应计划”，该计划允许企业与可再生能源开发商直接签订购电合同，通过公共电网输送绿电。",
+    "sourceName": "ioigroup.com",
+    "sourceUrl": "https://www.ioigroup.com/media-releases/ioi-inks-renewable-energy-partnership-with-tnb-for-500-mwac-large-scale-cress-project",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|40fabced5dee813a9addf2888130bf5e",
+    "collectedAt": "2026-11-05T16:22:09.707Z",
+    "notionPageId": "40fabced5dee813a9addf2888130bf5e",
+    "fingerprint": "notion|c76d871f13d9ee5fd413"
+  },
+  {
     "date": "2026-11-02",
     "country": "澳大利亚",
     "geo": "大洋洲",
