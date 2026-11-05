@@ -76,6 +76,34 @@
     "fingerprint": "notion|b74cf385d3095cac038f"
   },
   {
+    "date": "2026-11-02",
+    "country": "广东",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": [
+      "分布式",
+      "全国",
+      "广东",
+      "云南",
+      "山东"
+    ],
+    "company": "国家能源局",
+    "title": "国家能源局公布9月全国新增建档立卡新能源发电项目3552个",
+    "summary": "国家能源局公布2026年9月全国新增建档立卡新能源发电项目（不含户用光伏）共3552个，其中风电15个（1,278.97MW）、集中式光伏53个（5,060.35MW）、工商业分布式光伏3483个、生物质发电1个（45MW）。新增项目数量中，广东（1038个）、江苏（469个）、云南（466个）、山东（383个）。 解读：工商业分布式光伏占新增项目数量的98%以上。目前广东、江苏、云南、山东四个市场活跃度明显高于其他省市。分布式项目的经济性与用户侧分时电价、负荷匹配、自用比例、余电市场价格及机制电价资格有关。",
+    "sourceName": "nea.gov.cn",
+    "sourceUrl": "https://www.nea.gov.cn/20261102/567b561e1eb846c3910b6efeafa55f5e/c.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|40eabced5dee819793fdeae2ccd2e509",
+    "collectedAt": "2026-11-05T08:51:45.601Z",
+    "notionPageId": "40eabced5dee819793fdeae2ccd2e509",
+    "fingerprint": "notion|70f5ccf2adf33ba9f8f4"
+  },
+  {
     "date": "2026-10-31",
     "country": "中国",
     "geo": "中国",
