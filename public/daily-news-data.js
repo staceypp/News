@@ -1,6 +1,27 @@
 window.DAILY_NEWS_DATA=[
   {
     "date": "2026-11-04",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 设备+安装一体化 宁夏",
+    "company": "武汉天源",
+    "title": "武汉天源签约灵武1000MW/4000MWh储能项目合同36.4亿元",
+    "summary": "武汉天源(301127.SZ)11月4日公告，公司作为联合体牵头方，与内蒙古银河电力安装工程、宁夏交通建设组成的联合体，与宁夏灵武市华新综合能源服务签订《灵武市1000MW/4000MWh集中共享储能项目设备+安装一体化合同》，合同总金额36.4亿元。项目位于灵武市白土岗乡，计划工期2026年11月1日至2027年4月30日，建成后将通过330kV线路接入灵州750kV变电站。公司此前已于10月26日收到中标通知书，中标金额与合同金额一致。解读：该合同为设备供货加安装一体化总包，金额对公司2026年业绩无重大影响，实际收益仍取决于后续履约和结算节奏。",
+    "sourceName": "财联社",
+    "sourceUrl": "https://www.cls.cn/detail/2525175",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|武汉天源-灵武华新综合能源|1000MW/4000MWh储能|36.4亿元|签约",
+    "id": "daily|2026-11-04|中国|武汉天源灵武储能签约",
+    "collectedAt": "2026-11-07T00:37:52Z"
+  },
+  {
+    "date": "2026-11-04",
     "country": "印度",
     "geo": "亚洲",
     "category": "同行动态",
@@ -66,6 +87,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-05T16:22:09.707Z",
     "notionPageId": "40fabced5dee810d9d4cd3fb1addad3a",
     "fingerprint": "notion|c9358488ac2bb088a36f"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "新西兰",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": "集中式 融资 集中式光伏 融资",
+    "company": "Lightyears / Obayashi / Infradebt",
+    "title": "新西兰光伏开发商Lightyears获1.74亿纽元股权及债务融资",
+    "summary": "新西兰太阳能开发商Lightyears于11月3日宣布获得合计1.74亿新西兰元（约合人民币7.6亿元）的股权及债务融资。日本大林组(Obayashi)拟投入7400万纽元，分阶段注资取得其新设项目公司LYOC1的90%股权；澳大利亚基础设施贷款机构Infradebt则为Lightyears整体平台提供1亿纽元信贷额度，这是Infradebt在新西兰的首笔交易。该融资建立在双方2025年起的战略合作基础上，具体纳入LYOC1的项目清单及储能占比尚未披露。解读：日资开发性资本与澳洲基建信贷机构联合支持新西兰社区级光伏平台扩张，反映中小型市场光伏项目融资渠道正从单一政策性银行转向多元化商业资本组合。",
+    "sourceName": "pv-tech.org",
+    "sourceUrl": "https://www.pv-tech.org/lightyears-secures-nz174-million-from-obayashi-and-infradebt-for-new-zealand-solar/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "新西兰|Lightyears-Obayashi-Infradebt|1.74亿纽元股权债务融资|LYOC1|融资",
+    "id": "daily|2026-11-03|新西兰|Lightyears融资",
+    "collectedAt": "2026-11-07T00:37:52Z"
   },
   {
     "date": "2026-11-03",
@@ -229,6 +272,29 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-30",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "融资"
+    ],
+    "tags": "集中式 储能 融资 集中式光伏 储能 融资",
+    "company": "Neoen",
+    "title": "法国Neoen获澳洲13家银行18亿澳元债务融资支持1.2GW项目",
+    "summary": "法国可再生能源开发商Neoen于10月30日宣布，已从13家国内外银行获得总额18亿澳元（约合人民币85亿元）的债务融资，用于支持其在澳大利亚1.2GW太阳能、风能及储能资产组合，包括新南威尔士州440MWp Culcairn光伏电站等项目。公司未披露各资产的具体融资拆分及贷款期限、利率。零售商SmartestEnergy Australia已就其中部分资产签订四年期购电协议。Neoen表示，自2024年以来其在澳融资总额已超50亿澳元，覆盖约4.7GW产能。解读：大额银团债务持续支持成熟开发商的澳洲资产组合滚动融资，但多资产打包且条款不披露，也降低了外部对单个项目收益和杠杆水平的可验证性。",
+    "sourceName": "pv-tech.org",
+    "sourceUrl": "https://www.pv-tech.org/neoen-secures-au1-8-billion-to-finance-1-2gw-australian-solar-wind-and-storage-portfolio/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Neoen|18亿澳元债务融资|1.2GW光伏风电储能组合|融资",
+    "id": "daily|2026-10-30|澳大利亚|Neoen18亿澳元融资",
+    "collectedAt": "2026-11-07T00:37:52Z"
+  },
+  {
+    "date": "2026-10-30",
     "country": "中国",
     "geo": "中国",
     "category": "市场信息",
@@ -340,6 +406,27 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-02T08:44:05.470Z",
     "notionPageId": "40cabced5dee81c7b67fcb2e162d7956",
     "fingerprint": "notion|3dd513a40b440695de76"
+  },
+  {
+    "date": "2026-10-29",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "开工",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 电网支撑型 维多利亚州",
+    "company": "阳光电源 / ENGIE / Elecnor",
+    "title": "阳光电源与ENGIE澳洲Hazelwood二期300MWh储能项目开工",
+    "summary": "法国ENGIE、阳光电源(Sungrow)澳大利亚分公司与Elecnor澳洲10月下旬宣布，维多利亚州Hazelwood电池储能二期（HBESS2，150MW/300MWh）项目正式开工，建设于原Hazelwood燃煤电厂厂址。阳光电源担任技术供应方，将提供66套PowerTitan 2.0系列电池储能系统及33台SC6900UD-MV型PCS逆变器并配EMS3000能量管理系统，采用电网支撑型（grid-forming）技术；Elecnor负责站内辅助工程建设。项目预计2028年投入商业运营，建成后Hazelwood一、二期储能总容量将达300MW。ENGIE已于2026年1月收购Eku持有的30%少数股权，实现对项目全资控股。解读：退役煤电厂址被改造为电网支撑型储能基地，延续了澳大利亚“退煤转储”的资产再利用路径，中国储能设备企业继续以技术供应方身份深度参与澳洲电网侧长时储能建设。",
+    "sourceName": "PV Magazine Australia",
+    "sourceUrl": "https://www.pv-magazine-australia.com/2026/10/29/construction-of-300-mwh-hazelwood-2-grid-forming-bess-begins-in-victoria/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|阳光电源-ENGIE-Elecnor|Hazelwood二期300MWh储能|开工|同行动态",
+    "id": "daily|2026-10-29|澳大利亚|Hazelwood二期储能开工",
+    "collectedAt": "2026-11-07T00:37:52Z"
   },
   {
     "date": "2026-10-29",
