@@ -234,6 +234,28 @@ window.DAILY_NEWS_DATA=[
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
+      "集中式",
+      "算电协同"
+    ],
+    "tags": "集中式 算电协同 沙戈荒大基地 装机规模 算力用电",
+    "company": "国家能源局",
+    "title": "国家能源局：三批沙戈荒大基地建成超1.57亿千瓦",
+    "summary": "国家能源局10月30日例行新闻发布会上，新能源和可再生能源司副司长桂小阳介绍，截至9月底，三批“沙戈荒”风光大基地合计建成规模超1.57亿千瓦，其中第一批基本建成投产9453万千瓦，第二批超3400万千瓦，第三批超2900万千瓦；国家能源局将加快推动第二、三批大基地建设，力争2027年底前基本建成投产。发布会同期表示算电协同将持续深化，预计“十五五”期间全国算力用电量年均新增超1000亿千瓦时，2030年将达约8000亿千瓦时，约占全社会用电量6%。",
+    "sourceName": "新华网",
+    "sourceUrl": "https://www.news.cn/energy/20261030/f02cced1e9b844eda7ca47de7bdcce72/c.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|沙戈荒大基地|1.57亿千瓦|政策",
+    "id": "daily|2026-10-30|中国|沙戈荒大基地建成1.57亿千瓦",
+    "collectedAt": "2026-11-05T00:38:14Z"
+  },
+  {
+    "date": "2026-10-30",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
       "算电协同"
     ],
     "tags": "算电协同 算电协同 全国",
@@ -459,6 +481,27 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-27",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": "分布式 屋顶光伏 财政补贴 PeoplesSolar",
+    "company": "泰国政府",
+    "title": "泰国内阁批准500亿泰铢居民屋顶光伏补贴计划",
+    "summary": "泰国内阁10月27日批准总额500亿泰铢（约14.8亿美元）的“People's Solar”屋顶光伏补贴计划，由总理兼内政部长阿努廷正式启动，资金来自2000亿泰铢能源转型专项基金。计划目标为一年内覆盖全国76府及曼谷共100万户家庭，每户最高补贴5万泰铢（约1481美元），用于屋顶或地面光伏系统安装；官方测算全国每年可节省电费超245亿泰铢。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/thai-government-greenlights-us1-48-billion-rooftop-solar-programme-deploy-5gw-capacity/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "泰国|泰国政府|People's Solar屋顶光伏|500亿泰铢-100万户|政策",
+    "id": "daily|2026-10-27|泰国|People's Solar屋顶光伏计划",
+    "collectedAt": "2026-11-05T00:38:14Z"
+  },
+  {
+    "date": "2026-10-27",
     "country": "湖北",
     "geo": "中国",
     "category": "市场信息",
@@ -505,6 +548,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-10-26",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "行业数据",
+    "businessTags": [
+      "集中式",
+      "分布式"
+    ],
+    "tags": "集中式 分布式 风光装机 国家能源局",
+    "company": "国家能源局",
+    "title": "全国风光累计装机首次突破20亿千瓦",
+    "summary": "国家能源局10月26日发布数据，截至9月底，全国风电和太阳能发电累计装机容量达20.1亿千瓦，首次突破20亿千瓦，约占全球新能源总装机一半。其中太阳能发电装机约13.1亿千瓦，同比增长16.5%；风电装机约7亿千瓦，同比增长20.4%。今年1-9月风光新增装机约1.7亿千瓦，发电量19333亿千瓦时，风光发电增量占全社会新增用电量的64%。",
+    "sourceName": "新华网",
+    "sourceUrl": "https://www.news.cn/tech/20261027/a1eba617729044d990130494d7984946/c.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|风光累计装机|20.1亿千瓦|行业数据",
+    "id": "daily|2026-10-26|中国|风光装机突破20亿千瓦",
+    "collectedAt": "2026-11-05T00:38:14Z"
+  },
+  {
+    "date": "2026-10-26",
     "country": "江苏",
     "geo": "中国",
     "category": "同行动态",
@@ -548,6 +613,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-30T07:57:45.035Z",
     "notionPageId": "408abced5dee819fb033df0d7d31fd60",
     "fingerprint": "notion|1f23881cdb190a74da16"
+  },
+  {
+    "date": "2026-10-23",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 电池储能 再融资 BlackRock",
+    "company": "Akaysha Energy",
+    "title": "黑石旗下Akaysha完成17.5亿澳元储能组合再融资",
+    "summary": "BlackRock旗下澳大利亚储能开发商Akaysha Energy完成约17.5亿澳元（约12亿美元）的资产组合层面再融资，涵盖Brendale、Ulinda Park两座已投运项目及Orana、在建的Elaine共4个电池储能项目，由11家银行参与；德意志银行在10年期贷款中担任最大贷款行及牵头安排行，律所Allens担任贷款方法律顾问。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/akaysha-energy-secures-au1-75-billion-portfolio-financing-for-australian-bess-expansion/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Akaysha Energy|储能资产组合再融资|17.5亿澳元-4个项目|融资",
+    "id": "daily|2026-10-23|澳大利亚|Akaysha储能组合再融资",
+    "collectedAt": "2026-11-05T00:38:14Z"
   },
   {
     "date": "2026-10-23",
@@ -690,6 +777,27 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-10-30T07:57:45.035Z",
     "notionPageId": "408abced5dee81448360d5e8b55d1077",
     "fingerprint": "notion|8d997a2ec3d957abe4ec"
+  },
+  {
+    "date": "2026-10-20",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "项目进展",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 Hazelwood 阳光电源 退役煤电转型",
+    "company": "ENGIE / 阳光电源",
+    "title": "ENGIE推进澳大利亚Hazelwood储能扩建",
+    "summary": "维多利亚州政府10月16日宣布将ENGIE旗下Hazelwood BESS Line Co认定为“受监管输电系统运营商”，使其可利用退役煤电厂原有输电基础设施，为ENGIE在Hazelwood煤电旧址新增150MW/300MWh电池储能扩建项目铺路；阳光电源同期宣布将为该扩建项目供应储能系统，目标2028年投运，建成后该电池站容量将较现有规模翻倍。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/hazelwood-bess-expansion-in-australia-set-to-double-storage-capacity-at-former-coal-site/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|ENGIE-阳光电源|Hazelwood储能扩建|150MW-300MWh|项目进展",
+    "id": "daily|2026-10-20|澳大利亚|Hazelwood储能扩建",
+    "collectedAt": "2026-11-05T00:38:14Z"
   },
   {
     "date": "2026-10-20",
