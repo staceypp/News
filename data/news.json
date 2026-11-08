@@ -6448,5 +6448,164 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-04",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "集中共享储能",
+      "宁夏",
+      "EPC"
+    ],
+    "company": "武汉天源环保股份有限公司",
+    "title": "武汉天源联合体签约灵武1000MW/4000MWh储能项目 合同36.4亿元",
+    "summary": "武汉天源(301127.SZ)公告，公司作为联合体牵头方（联合内蒙古银河电力安装工程、宁夏交通建设）与灵武市华新综合能源服务有限公司签订《灵武市1000MW/4000MWh集中共享储能项目设备+安装一体化项目合同》，总金额36.4亿元。项目位于宁夏灵武市白土岗乡，配套新建330kV升压站并接入灵州750kV变电站，计划工期2026年11月1日至2027年4月30日。公司此前10月26日已收到中标通知书，签约为正式落地确认。",
+    "sourceName": "财联社",
+    "sourceUrl": "https://www.cls.cn/detail/2525175",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|武汉天源|灵武储能项目合同|36.4亿元|签约",
+    "id": "daily|2026-11-04|中国|武汉天源灵武储能合同",
+    "collectedAt": "2026-11-08T00:38:19.000Z"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "技术部署",
+    "businessTags": [
+      "算电协同",
+      "AIDC"
+    ],
+    "tags": [
+      "远景能源",
+      "乌兰察布",
+      "800V直流",
+      "固态变压器"
+    ],
+    "company": "远景能源",
+    "title": "远景能源在乌兰察布AI数据中心部署全球首个800V直流供电系统",
+    "summary": "远景能源宣布在其位于内蒙古乌兰察布的Galaxy AI数据中心完成全球首个商用部署的集成式800V直流供电系统，已投入实际算力负荷运行。系统采用10kV中压交流经固态变压器(SST)转换至800V直流母线，并配备电池储能提供短时功率支撑。乌兰察布为风光资源富集地区，该项目被视为算电协同、绿电供AI数据中心的标志性案例，但公司未公布具体效率数据及后续复制部署计划。",
+    "sourceName": "pv-magazine.com",
+    "sourceUrl": "https://www.pv-magazine.com/2026/11/02/envision-claims-world-first-with-800-v-dc-architecture-for-ai-data-center/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|远景能源|800V直流供电系统AI数据中心|乌兰察布|技术部署",
+    "id": "daily|2026-11-02|中国|远景800V直流AIDC",
+    "collectedAt": "2026-11-08T00:38:19.000Z"
+  },
+  {
+    "date": "2026-10-19",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能",
+      "绿电",
+      "交易"
+    ],
+    "tags": [
+      "电力现货市场",
+      "新型经营主体",
+      "政策征求意见"
+    ],
+    "company": "国家发展改革委",
+    "title": "发改委公开征求电力现货市场基本规则意见 储能纳入新型经营主体",
+    "summary": "国家发展改革委于10月19日就《电力现货市场基本规则（公开征求意见稿）》公开征求意见，截止11月18日，拟自2027年1月1日起实施，有效期5年，2023年试行版同步废止。征求意见稿将新型储能、虚拟电厂、负荷聚合商、绿电直连项目等纳入“新型经营主体”范围，支持新能源与场站内配套储能联合报价参与现货市场申报、出清、调用、结算和考核，体现无歧视原则，各省份需据此修订本地实施细则。解读：储能、绿电直连等新型主体的市场地位有望在国家层面获得统一规则支撑，但具体落地效果仍取决于各省配套细则及现货市场建设进度。",
+    "sourceName": "中国金融信息网(cnfin.com)",
+    "sourceUrl": "https://www.cnfin.com/hg-lb/detail/20261022/4484603_1.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家发改委|电力现货市场基本规则征求意见稿|储能新型经营主体|政策",
+    "id": "daily|2026-10-19|中国|现货市场规则储能新型主体",
+    "collectedAt": "2026-11-08T00:38:19.000Z"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "Glenrowan",
+      "Victoria",
+      "SEC"
+    ],
+    "company": "Pacific Partnerships / 维多利亚州国营电力公司(SEC)",
+    "title": "澳大利亚SEC与开发商签10年期光储联合购电协议",
+    "summary": "维多利亚州国营电力公司SEC与开发商Pacific Partnerships就Glenrowan太阳能电站及其配套新建约102MW/408MWh电池储能项目签署10年期购电协议(PPA)，取代原有单一光伏购电安排。SEC将获得电池约65%的出力份额，电池项目预计在融资完成后数周内开工，2028年中投运。该交易是Pacific Partnerships首个大型电池储能与光伏混合项目。",
+    "sourceName": "ess-news.com",
+    "sourceUrl": "https://www.ess-news.com/2026/11/02/australias-sec-signs-10-year-deal-for-102-mw-solar-plus-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Pacific Partnerships|Glenrowan光储PPA|102MW|PPA",
+    "id": "daily|2026-11-02|澳大利亚|SEC光储PPA",
+    "collectedAt": "2026-11-08T00:38:19.000Z"
+  },
+  {
+    "date": "2026-10-30",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "供应协议",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": [
+      "T1 Energy",
+      "Avantus",
+      "TOPCon",
+      "组件"
+    ],
+    "company": "T1 Energy",
+    "title": "美国T1 Energy签署超1.58GW TOPCon组件供应协议",
+    "summary": "美国太阳能制造商T1 Energy宣布新签超过1.58GW先进TOPCon组件承购协议，买方包括独立发电商Avantus旗下子公司。组件将由其位于得州的5GW G1_Dallas组件厂生产，供2027至2028年交付，预计2027年国产化率超过60%。公司表示其2027年产能合同量已累计超过4GW，但未披露具体价格及各买方占比。",
+    "sourceName": "pv-tech.org",
+    "sourceUrl": "https://www.pv-tech.org/t1-energy-signs-1-6gw-topcon-solar-module-supply-agreements/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|T1 Energy|TOPCon组件供应协议|1.58GW|供应协议",
+    "id": "daily|2026-10-30|美国|T1Energy组件协议",
+    "collectedAt": "2026-11-08T00:38:19.000Z"
+  },
+  {
+    "date": "2026-10-28",
+    "country": "越南",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "DPPA",
+    "businessTags": [
+      "分布式",
+      "储能"
+    ],
+    "tags": [
+      "VinEnergo",
+      "DPPA",
+      "河静省"
+    ],
+    "company": "VinEnergo",
+    "title": "越南VinEnergo投运首个DPPA机制屋顶光伏储能项目",
+    "summary": "越南VinEnergo在河静省武岗经济区投运其首个直接购电协议(DPPA)机制下的可再生能源项目，为当地电动车及电池工厂供应绿电，系统规模约22MWp屋顶光伏配套45MWh储能。这是越南DPPA机制落地后的标志性商业化案例之一，也是VinEnergo首个投运的可再生能源资产。",
+    "sourceName": "solarquarter.com",
+    "sourceUrl": "https://solarquarter.com/2026/11/02/vinenergo-commissions-rooftop-solar-and-bess-project-to-supply-green-power-to-ev-and-battery-factories-in-vietnam/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "越南|VinEnergo|武岗DPPA屋顶光伏储能|22MWp|DPPA",
+    "id": "daily|2026-10-28|越南|VinEnergoDPPA储能",
+    "collectedAt": "2026-11-08T00:38:19.000Z"
   }
 ]
