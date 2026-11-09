@@ -1,6 +1,27 @@
 window.DAILY_NEWS_DATA=[
   {
     "date": "2026-11-04",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "项目审批",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 AGL 澳大利亚 环评",
+    "company": "AGL",
+    "title": "AGL申报澳大利亚2GWh储能项目联邦环评",
+    "summary": "澳大利亚能源企业AGL将其位于昆士兰州中部内博（Nebo）附近的Mount Britton电池储能项目提交联邦《环境保护与生物多样性保护法》（EPBC）环评审查，项目规模为500MW/2000MWh、4小时系统，可分阶段建设或一次性建成500MW。AGL在申报材料中提示项目可能对考拉等受保护物种及其栖息地造成重大影响，电网接入由Powerlink Queensland另行负责。报道显示该项目目前仍处于联邦环评阶段，尚无最终审批结果。",
+    "sourceName": "PV Magazine Australia",
+    "sourceUrl": "https://www.pv-magazine-australia.com/2026/11/04/agl-seeks-nod-for-2-gwh-big-battery-in-central-queensland/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|AGL|Mount Britton储能|500MW-2000MWh|联邦环评",
+    "id": "daily|2026-11-04|澳大利亚|AGL储能联邦环评",
+    "collectedAt": "2026-11-09T00:37:22Z"
+  },
+  {
+    "date": "2026-11-04",
     "country": "印度",
     "geo": "亚洲",
     "category": "同行动态",
@@ -66,6 +87,48 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-05T16:22:09.707Z",
     "notionPageId": "40fabced5dee810d9d4cd3fb1addad3a",
     "fingerprint": "notion|c9358488ac2bb088a36f"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "技术交付",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 长时储能 宁德时代 澳大利亚",
+    "company": "宁德时代",
+    "title": "宁德时代8小时长时储能系统EnerQB下线交付",
+    "summary": "宁德时代长时储能系统EnerQB于10月28日在福建厦门下线并完成首批交付，产品将运往澳大利亚昆士兰州中部的Stanwell电站，服务于Quinbrook旗下规划的3GW/24GWh系列长时储能项目。该系统单台设备容量5.64MWh，设计寿命25年，往返效率超过96%，年可用率超过98%。此次交付被视为8小时以上长时储能首次迈向吉瓦时级项目应用的标志性案例。",
+    "sourceName": "东方财富网",
+    "sourceUrl": "https://wap.eastmoney.com/a/202611033920262738.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|宁德时代|EnerQB长时储能交付|5.64MWh|技术交付",
+    "id": "daily|2026-11-03|中国|宁德时代EnerQB交付",
+    "collectedAt": "2026-11-09T00:37:22Z"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "肯尼亚",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "政策合作",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": "分布式 离网光伏 肯尼亚 中非合作",
+    "company": "肯尼亚能源部/中国政府",
+    "title": "肯尼亚与中国签署非洲光伏带农村电气化协议",
+    "summary": "肯尼亚政府与中国11月3日签署\"非洲光伏带\"（Africa Solar Belt）项目合作协议，计划在塔纳河、基利菲等偏远县为学校、医疗机构和社区供水系统建设约80套离网光伏系统。联合国儿童基金会肯尼亚代表以第三方身份见证签约。该项目是2023年内罗毕非洲气候峰会上中方首次宣布倡议的落地延伸，被纳入中国\"十百千\"倡议及\"一带一路\"南南气候合作框架。",
+    "sourceName": "allafrica.com",
+    "sourceUrl": "https://allafrica.com/stories/202611030571.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "肯尼亚|非洲光伏带项目|80套离网光伏|中国合作协议|政策合作",
+    "id": "daily|2026-11-03|肯尼亚|非洲光伏带离网协议",
+    "collectedAt": "2026-11-09T00:37:22Z"
   },
   {
     "date": "2026-11-03",
@@ -157,6 +220,95 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-08T20:05:12.646Z",
     "notionPageId": "40fabced5dee81b6960edcd28214c536",
     "fingerprint": "notion|3b2b0bd4ae0cb1ead9c8"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "出售",
+    "businessTags": [
+      "算电协同",
+      "AIDC"
+    ],
+    "tags": "算电协同 AIDC 天合光能 支架 资产出售",
+    "company": "天合光能",
+    "title": "天合光能拟出让光伏支架业务控股权",
+    "summary": "深南电A于10月30日公告，拟以现金收购天合光能旗下天合开拓者光伏支架（江苏常州）有限公司不低于51%、不超过70%的股权，交易尚处筹划阶段。天合光能11月2日回应称，此次交易拟为支架业务引入战略合作方，公司将继续聚焦光储主业，发力AIDC算电协同创新。天合支架业务按2025年伍德麦肯兹排名位居全球跟踪支架第二，2025年该业务销售收入约31.76亿元。",
+    "sourceName": "新浪财经",
+    "sourceUrl": "https://finance.sina.cn/stock/ssgs/2026-11-06/detail-inixuyww5390646.d.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|天合光能|支架业务股权出让|51%-70%|出售",
+    "id": "daily|2026-11-02|中国|天合光能支架业务出售",
+    "collectedAt": "2026-11-09T00:37:22Z"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "市场数据",
+    "businessTags": [
+      "集中式",
+      "分布式"
+    ],
+    "tags": "集中式 分布式 组件 财务 三季报",
+    "company": "隆基绿能",
+    "title": "隆基绿能三季度净亏10.29亿元，现金流转正",
+    "summary": "隆基绿能发布2026年三季报，第三季度归母净亏损10.29亿元，环比减亏超四成，经营性现金流由负转正。公司前三季度营收同比下降13.85%，仍处于光伏行业价格底部调整周期中。市场分析认为，隆基减亏幅度好于多数同业，显示头部企业在成本和现金流管理上率先改善。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://news.10jqka.com.cn/20261102/c681333480.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|隆基绿能|2026年三季报|净亏损10.29亿元-现金流转正|市场数据",
+    "id": "daily|2026-11-02|中国|隆基绿能三季报减亏",
+    "collectedAt": "2026-11-09T00:37:22Z"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 SEC 澳大利亚 购电协议",
+    "company": "SEC Victoria",
+    "title": "澳大利亚SEC与Pacific达成储能十年购电协议",
+    "summary": "澳大利亚维多利亚州国有能源公司SEC与开发商Pacific Partnerships于11月2日宣布，双方就Glenrowan光伏电站配套新建的102MW/408MWh电池储能项目签署10年期购电协议，SEC将获得该储能电站约65%的发电量使用权。该协议取代此前SEC与光伏电站的原有购电安排，储能项目预计在完成融资后进入建设阶段，这是Pacific Partnerships首个大型光储混合改造项目。",
+    "sourceName": "ESS News",
+    "sourceUrl": "https://www.ess-news.com/2026/11/02/australias-sec-signs-10-year-deal-for-102-mw-solar-plus-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|SEC|Glenrowan储能|102MW-408MWh|PPA",
+    "id": "daily|2026-11-02|澳大利亚|SEC储能购电协议",
+    "collectedAt": "2026-11-09T00:37:22Z"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "越南",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "交易"
+    ],
+    "tags": "分布式 储能 交易 越南 VinEnergo DPPA",
+    "company": "VinEnergo",
+    "title": "越南VinEnergo投运屋顶光伏储能项目供电电池厂",
+    "summary": "越南VinEnergo公司10月28日在河静省永安经济区投运一套屋顶光伏配套电池储能（BESS）系统，为VinFast整车厂及VinES、VG两家电池工厂供电，储能规模45MWh。该项目采用越南首创的光储直接购电协议（DPPA）模式，由VinFast工厂率先受益，后续将扩展至VinES及VG联合厂区。多家越南媒体报道中，光伏装机容量存在22MWp与此前规划43MWp两种说法，尚未获官方统一确认。",
+    "sourceName": "SolarQuarter",
+    "sourceUrl": "https://solarquarter.com/2026/11/02/vinenergo-commissions-rooftop-solar-and-bess-project-to-supply-green-power-to-ev-and-battery-factories-in-vietnam/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "越南|VinEnergo|河静光储项目|45MWh-DPPA|投运",
+    "id": "daily|2026-11-02|越南|VinEnergo光储投运",
+    "collectedAt": "2026-11-09T00:37:22Z"
   },
   {
     "date": "2026-11-02",
