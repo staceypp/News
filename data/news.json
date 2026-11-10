@@ -6498,5 +6498,107 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-05",
+    "country": "内蒙古",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "招标",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "独立储能",
+      "电网侧储能",
+      "EPC"
+    ],
+    "company": "绿能创研(清水河县)储能科技",
+    "title": "内蒙古清水河600MW/2.4GWh独立储能EPC候选人公示",
+    "summary": "内蒙古呼和浩特市清水河县600MW/2.4GWh电网侧独立储能项目EPC总承包中标候选人于11月5日公示，第一候选人为中国能源建设集团山西电力建设有限公司与中国能源建设集团山西省电力勘测设计院有限公司联合体，投标报价23.91亿元，折合单价0.996元/Wh；第二候选人为中国电建集团山东电力建设第一工程有限公司，报价23.98亿元，折合0.999元/Wh，两者单价仅差0.003元/Wh。项目采用磷酸铁锂电池方案，配套建设220kV升压站及送出线路。 解读：该项目为近期国内大容量独立储能EPC单价压至1元/Wh以下的典型案例，反映储能EPC竞争仍处于白热化阶段。",
+    "sourceName": "中国储能网",
+    "sourceUrl": "https://www.163.com/dy/article/LB034LF105533BYM.html",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "内蒙古|绿能创研|清水河独立储能EPC候选人公示|600MW-2.4GWh-0.996元/Wh|招标",
+    "id": "daily|2026-11-05|内蒙古|清水河储能EPC候选人公示",
+    "collectedAt": "2026-11-10T00:38:32.000Z"
+  },
+  {
+    "date": "2026-10-30",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "债务融资",
+      "风光储组合"
+    ],
+    "company": "Neoen",
+    "title": "Neoen获13家银行18亿澳元债务融资支持1.2GW风光储组合",
+    "summary": "法国可再生能源开发商Neoen于10月30日宣布，获得13家澳大利亚及国际银行约18亿澳元（约12.65亿美元）债务融资，用于支持其在南澳、新南威尔士和西澳三州共1.2GW的风电、光伏及储能资产组合，其中包括440MWp Culcairn光伏电站及配套215MW/963MWh电池储能项目。公司称这是其迄今在澳洲规模最大的一笔融资，累计在澳融资规模已超50亿澳元。 解读：海外开发商持续以组合打包方式为澳洲风光储资产再融资，显示当地机构资金对成熟风光储项目的信心仍强。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/neoen-secures-au1-8-billion-to-finance-1-2gw-australian-solar-wind-and-storage-portfolio/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Neoen|1.2GW风光储组合债务融资|18亿澳元-12.65亿美元|融资",
+    "id": "daily|2026-10-30|澳大利亚|Neoen18亿澳元融资",
+    "collectedAt": "2026-11-10T00:38:32.000Z"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "光储混合",
+      "银团贷款"
+    ],
+    "company": "Frontier Energy",
+    "title": "Frontier Energy签约2.8亿澳元银团贷款为Waroona光储项目融资",
+    "summary": "澳大利亚西澳Waroona可再生能源项目开发商Frontier Energy于11月2日通过子公司WRP Finance，与Natixis、三井住友银行等组成的银团签署约2.8亿澳元（约1.87亿美元）银团贷款协议，为项目一期132MW光伏电站及81.5MW/562MWh电池储能系统提供建设期及长期贷款，同时配套1.1亿澳元股权融资。项目EPC总包商为Monford Group，预计11月内完成财务关闭并进入建设阶段。 解读：该项目是西澳规模较大的光储混合项目之一，债务与股权同步落地意味着项目已基本具备全额资金保障，进入实质建设阶段。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/frontier-energy-signs-au280-million-debt-facility-for-waroona-solar-plus-storage-project-in-western-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|FrontierEnergy|Waroona光储项目银团贷款|2.8亿澳元-132MW光伏-562MWh储能|融资",
+    "id": "daily|2026-11-02|澳大利亚|FrontierEnergyWaroona融资",
+    "collectedAt": "2026-11-10T00:38:32.000Z"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "肯尼亚",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "合作",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": [
+      "离网光伏",
+      "非洲光伏带",
+      "乡村电气化"
+    ],
+    "company": "中国生态环境部-肯尼亚能源与石油部",
+    "title": "中肯签署非洲光伏带谅解备忘录将建80套离网光伏系统",
+    "summary": "肯尼亚能源与石油部与中国生态环境部11月3日签署谅解备忘录，依托中国“非洲光伏带”倡议，在坦纳河、基利菲县等地为乡村学校、卫生所和社区供水系统部署约80套离网光伏发电系统，联合国儿童基金会肯尼亚代表作为第三方代表见证签约。该倡议由中方于2023年内罗毕非洲气候峰会上提出，是“十百千”合作行动和“一带一路”南南气候合作框架的延伸。 解读：此类政府间谅解备忘录多聚焦乡村公共设施离网供电，规模较小但覆盖面广，是中国光伏企业和设备在非洲基层市场持续渗透的政策背书之一。",
+    "sourceName": "AllAfrica",
+    "sourceUrl": "https://allafrica.com/stories/202611030571.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "肯尼亚|中国生态环境部|非洲光伏带谅解备忘录|80套离网光伏系统|合作",
+    "id": "daily|2026-11-03|肯尼亚|中肯光伏带MOU",
+    "collectedAt": "2026-11-10T00:38:32.000Z"
   }
 ]
