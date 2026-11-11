@@ -1,5 +1,27 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-11-08",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "合作",
+    "businessTags": [
+      "零碳园区",
+      "储能"
+    ],
+    "tags": "零碳园区 储能 零碳园区 进博会 上海",
+    "company": "临港绿创-罗克韦尔自动化-上海电科",
+    "title": "上海临港零碳湾与罗克韦尔、上电科达成零碳园区战略合作",
+    "summary": "11月8日，在第九届中国国际进口博览会期间举行的上海临港新片区零碳湾·零碳园区创新服务国际合作交流会上，临港绿创分别与罗克韦尔自动化、上电科签署战略合作备忘录，零碳园区创新服务联盟第二批成员同步亮相。合作聚焦能碳一体化管控、园区微电网与储能控制、用能系统能效优化等方向，并将为入园企业提供节能降碳改造、碳排放核算、产品碳足迹核算等专业服务。零碳湾于2025年12月入选首批国家级零碳园区名单，是上海唯一入选园区。",
+    "sourceName": "第一财经",
+    "sourceUrl": "https://www.yicai.com/news/103431436.html",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|临港绿创-罗克韦尔自动化-上电科|零碳湾零碳园区战略合作|联盟第二批成员|合作",
+    "id": "daily|2026-11-08|中国|临港零碳湾零碳合作",
+    "collectedAt": "2026-11-11T00:37:04.000Z"
+  },
+  {
     "date": "2026-11-06",
     "country": "中国",
     "geo": "中国",
@@ -20,6 +42,27 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-09T08:57:12.110Z",
     "notionPageId": "411abced5dee81169471c8481c0917b6",
     "fingerprint": "notion|d91facb7ee36f528fd1d"
+  },
+  {
+    "date": "2026-11-04",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 宁夏 共享储能",
+    "company": "武汉天源",
+    "title": "武汉天源签约宁夏灵武1000MW/4000MWh共享储能项目",
+    "summary": "武汉天源(301127.SZ)联合内蒙古银河电力安装工程、宁夏交通建设组成联合体，与灵武市华新综合能源服务签订设备加安装一体化合同，合同金额36.4亿元。项目位于宁夏灵武市白土岗乡，规划建设1000MW/4000MWh储能电站并配套新建330kV升压站，计划工期为2026年11月1日至2027年4月30日，此前公司已于10月26日收到同等金额的中标通知书。",
+    "sourceName": "财联社",
+    "sourceUrl": "https://www.cls.cn/detail/2525175",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|武汉天源|宁夏灵武共享储能项目|36.4亿元-1000MW4000MWh|签约",
+    "id": "daily|2026-11-04|中国|武汉天源灵武储能",
+    "collectedAt": "2026-11-11T00:37:04.000Z"
   },
   {
     "date": "2026-11-04",
@@ -88,6 +131,27 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-05T16:22:09.707Z",
     "notionPageId": "40fabced5dee810d9d4cd3fb1addad3a",
     "fingerprint": "notion|c9358488ac2bb088a36f"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "肯尼亚",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "合作",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": "分布式 离网光伏 非洲太阳能带 中非合作",
+    "company": "中国驻肯尼亚大使馆-肯尼亚能源部",
+    "title": "中国与肯尼亚签署非洲太阳能带离网光伏合作备忘录",
+    "summary": "11月3日，中国驻肯尼亚大使郭海燕与肯尼亚能源部常务秘书Alex Wachira签署谅解备忘录，联合国儿童基金会肯尼亚代表作为第三方见证。备忘录依托中国\"非洲太阳能带\"倡议，计划在塔纳河县、基利菲县及马赛马拉大学周边等地部署约80套离网光伏系统，为学校、医疗机构和供水系统供电。",
+    "sourceName": "AllAfrica",
+    "sourceUrl": "https://allafrica.com/stories/202611030571.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "肯尼亚|中国驻肯尼亚大使馆-肯尼亚能源部|非洲太阳能带离网光伏MOU|80套系统|合作",
+    "id": "daily|2026-11-03|肯尼亚|中肯太阳能带MOU",
+    "collectedAt": "2026-11-11T00:37:04.000Z"
   },
   {
     "date": "2026-11-03",
@@ -179,6 +243,50 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-08T20:05:12.646Z",
     "notionPageId": "40fabced5dee81b6960edcd28214c536",
     "fingerprint": "notion|3b2b0bd4ae0cb1ead9c8"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "市场数据",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 光伏组件 央企集采 开标",
+    "company": "华电集团-TCL中环",
+    "title": "华电集团5GW组件集采开标，TCL中环0.665元/W创地板价",
+    "summary": "华电集团5GW光伏组件集中采购项目完成开标，TCL中环以0.665元/瓦的报价位列中标候选人第一位，成为本轮开标报价下限，26家企业参与投标，报价区间为0.665元至0.750元/瓦。同期已公示的多个央企组件集采项目投标均价约为0.748元/瓦，较上期小幅回落约1.18%。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://news.10jqka.com.cn/20261102/c681368011.shtml",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|华电集团-TCL中环|5GW组件集采开标|0.665元W|市场数据",
+    "id": "daily|2026-11-02|中国|华电组件集采TCL中环",
+    "collectedAt": "2026-11-11T00:37:04.000Z"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": "集中式 储能 交易 光储一体化 维多利亚州",
+    "company": "SEC(维多利亚州电力公司)-Pacific Partnerships",
+    "title": "澳大利亚SEC与Pacific Partnerships签署Glenrowan光储10年购电协议",
+    "summary": "澳大利亚维多利亚州国营电力公司SEC与Pacific Partnerships签署为期10年的购电协议，涵盖已运营的102MW Glenrowan太阳能电站及其配套新建的四小时电池储能项目(Chivers Road，约102MW/408MWh)。该协议取代SEC此前针对Glenrowan光伏电站的购电安排，使SEC获得电池约65%的输出份额，电池项目计划在融资交割后数周内开工，目标于2028年年中投运。",
+    "sourceName": "ESS News",
+    "sourceUrl": "https://www.ess-news.com/2026/11/02/australias-sec-signs-10-year-deal-for-102-mw-solar-plus-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|SEC-Pacific Partnerships|Glenrowan光储购电协议|102MW408MWh|PPA",
+    "id": "daily|2026-11-02|澳大利亚|SEC格伦罗万光储PPA",
+    "collectedAt": "2026-11-11T00:37:04.000Z"
   },
   {
     "date": "2026-11-02",
