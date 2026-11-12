@@ -1,5 +1,106 @@
 [
   {
+    "date": "2026-11-11",
+    "country": "印尼",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "合作",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式光伏",
+      "基金"
+    ],
+    "company": "印尼项目主体",
+    "title": "印尼主权基金INA投资Vena在印尼及菲律宾2.8GW风光资产组合",
+    "summary": "Vena Group与印尼主权财富基金Indonesia Investment Authority（INA）宣布战略投资合作，INA投资Vena在印尼和菲律宾合计2.8GW的光伏及风电资产组合，包含已运营、在建、已签约及开发阶段项目。 解读：Vena通过引入印尼主权资本参与跨国、跨开发阶段的风光资产组合，将成熟项目与后续开发储备纳入同一投资平台，有助于分担资本投入并支持项目滚动建设。此前，Vena已于2019年在日本启动绿色基金平台。",
+    "sourceName": "venagroup.com",
+    "sourceUrl": "https://venagroup.com/vena-group-and-indonesia-investment-authority-announce-strategic-partnership-to-accelerate-renewable-energy-growth-in-southeast-asia",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|416abced5dee81ce9b7fc579b09069ca",
+    "collectedAt": "2026-11-12T09:05:48.716Z",
+    "notionPageId": "416abced5dee81ce9b7fc579b09069ca",
+    "fingerprint": "notion|9e917d081bf716552ab6"
+  },
+  {
+    "date": "2026-11-11",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "收购",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能"
+    ],
+    "company": "意大利项目主体",
+    "title": "Elgin收购意大利57MW农光互补及15MW储能混合项目，扩大当地开发组合",
+    "summary": "英国光储开发商Elgin收购其在意大利的第六个项目，位于弗留利-威尼斯朱利亚大区（Friuli Venezia Giulia region），项目包含57MW农光互补光伏及15MW电池储能系统。预计投资4,600万欧元（人民币3.4亿元）。 解读：Elgin获哥本哈根基础设施合伙人（Copenhagen Infrastructure Partners，CIP）支持，通过收购农光互补与储能组合项目扩充意大利项目开发储备，目前开发储备项目规模超过10 GW。",
+    "sourceName": "renewablesnow.com",
+    "sourceUrl": "https://renewablesnow.com/news/elgin-adds-sixth-project-to-italian-portfolio-with-72-mw-hybrid-buy-1304769",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|416abced5dee81dfaae3d2d90778e280",
+    "collectedAt": "2026-11-12T09:05:48.716Z",
+    "notionPageId": "416abced5dee81dfaae3d2d90778e280",
+    "fingerprint": "notion|8e4cc6bd40f3be8e2747"
+  },
+  {
+    "date": "2026-11-10",
+    "country": "广东",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "开发",
+    "businessTags": [
+      "微电网"
+    ],
+    "tags": [
+      "智能微电网",
+      "广东"
+    ],
+    "company": "广东项目主体",
+    "title": "南方电网广东电网公司：2030年广东电网预计接入3500万千瓦海上风电，近20个智能微电网已落地",
+    "summary": "2026国际湾区经济论坛上，南方电网广东电网公司披露\"柔性主网-韧性配网-弹性微网\"三级新型电网架构规划：预计到2030年，广东电网将接入海上风电3500万千瓦(35GW)、光伏1亿千瓦(100GW)、跨区域清洁电力6300万千瓦(63GW)；目前广东电网已建成近20个智能微电网示范项目，包括惠州三门岛风光储海岛自给自足微电网、珠海高新区2万千瓦/1万千伏工业园区智能微电网（实现100%本地绿电消纳并参与虚拟电厂调峰）等；广州还落地了首个居民小区V2G充电桩项目。 解读：意味着广东电网正加快从传统集中式调度向分布式、智能化、具备局部自治能力的电网形态转型，这对分布式光伏、工商业储能及虚拟电厂运营商是明确的政策利好，微电网和虚拟电厂将成为广东新能源消纳的重要补充渠道。",
+    "sourceName": "m.21jingji.com",
+    "sourceUrl": "https://m.21jingji.com/article/20261110/herald/ebcaa90bca1d2858e642916e9c7fd79a.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|414abced5dee81b0a5d4e43e57c060a8",
+    "collectedAt": "2026-11-12T09:05:48.716Z",
+    "notionPageId": "414abced5dee81b0a5d4e43e57c060a8",
+    "fingerprint": "notion|d34406723eff4e6c1911"
+  },
+  {
+    "date": "2026-11-08",
+    "country": "上海",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "技术",
+    "businessTags": [
+      "零碳园区"
+    ],
+    "tags": [
+      "零碳园区",
+      "上海"
+    ],
+    "company": "上海项目主体",
+    "title": "上海零碳湾进博会签约罗克韦尔、上电科，拓展园区能碳一体化管理",
+    "summary": "2026年第九届中国国际进口博览会（进博会）期间，上海临港\"零碳湾\"园区运营方临港绿创与罗克韦尔自动化、上海电气集团中央研究院（上电科）分别签署战略合作协议，合作内容涵盖园区能碳一体化管理平台、微电网与储能控制系统、能效优化等方向；此前两天，瓦锡兰齐耀也与零碳湾签署合作协议，拟共建\"柴储光充\"一体化工业绿色微电网示范项目。零碳湾是国家首批52个零碳园区（2025年12月公布）中唯一的上海园区。 解读：借助跨国工业自动化企业和本地电力装备研发力量构建能碳管理与微电网储能的软硬件一体化能力。反映出地方政府对零碳园区建设的招商力度正在加大。",
+    "sourceName": "yicai.com",
+    "sourceUrl": "https://www.yicai.com/news/103431436.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|414abced5dee8110a62fc0bea6882a22",
+    "collectedAt": "2026-11-12T09:05:48.716Z",
+    "notionPageId": "414abced5dee8110a62fc0bea6882a22",
+    "fingerprint": "notion|e2a7f85cf60c76d76700"
+  },
+  {
     "date": "2026-11-06",
     "country": "中国",
     "geo": "中国",
