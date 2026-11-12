@@ -6498,5 +6498,58 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "肯尼亚",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "合作协议",
+    "businessTags": [
+      "分布式",
+      "绿电"
+    ],
+    "tags": [
+      "离网光伏",
+      "中非合作",
+      "校园及医疗设施供电"
+    ],
+    "company": "中国生态环境部 / 肯尼亚能源部",
+    "title": "中国与肯尼亚签署非洲太阳能带项目合作备忘录",
+    "summary": "11月3日，中国驻肯尼亚大使郭海燕代表中国生态环境部与肯尼亚能源部国务秘书Alex Wachira在内罗毕签署合作备忘录，推进“非洲太阳能带”项目。项目计划在塔纳河、基利菲等偏远地区的学校、医疗机构部署离网光伏系统，兼顾供水设施用电，联合国儿童基金会肯尼亚代表到场见证。 解读：该项目延续中国在2023年内罗毕非洲气候峰会上提出的倡议，以政府间合作形式落地分布式离网光伏，为中国光伏设备和EPC企业在东非农村电气化市场提供潜在订单来源，但具体投资规模和实施时间表尚未披露，需关注后续细化方案。",
+    "sourceName": "allafrica.com",
+    "sourceUrl": "https://allafrica.com/stories/202611030571.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "肯尼亚|中国生态环境部|非洲太阳能带|离网光伏校园医疗|合作协议",
+    "id": "daily|2026-11-03|肯尼亚|中非太阳能带合作",
+    "collectedAt": "2026-11-12T00:38:27Z"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "购电协议",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "光储一体化",
+      "维多利亚州",
+      "州属电力公司"
+    ],
+    "company": "维多利亚州电力委员会(SEC) / Pacific Partnerships",
+    "title": "澳大利亚维州SEC与Pacific Partnerships签署光储十年购电协议",
+    "summary": "11月2日，澳大利亚维多利亚州国有电力公司SEC宣布与开发商Pacific Partnerships签署10年期购电协议，标的为已运营的102MW Glenrowan太阳能电站及拟新建的102MW/408MWh、四小时时长电池储能系统，SEC将获得电池约65%的出力权益。该协议取代此前双方仅就光伏出力签订的购电安排，电池项目计划完成融资后于2026年四季度开工，2028年中投运。 解读：此举是Pacific Partnerships首个大型光储混合改造项目，反映澳大利亚州属电力公司持续通过长期购电协议为存量光伏电站加装储能，以提升可调度电力供应，但具体规模数据在不同信源间存在102MW与130MW的差异，交易细节仍待双方正式公告进一步确认。",
+    "sourceName": "ess-news.com",
+    "sourceUrl": "https://www.ess-news.com/2026/11/02/australias-sec-signs-10-year-deal-for-102-mw-solar-plus-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|PacificPartnerships|Glenrowan光储|102MW408MWh|购电协议",
+    "id": "daily|2026-11-02|澳大利亚|SEC光储购电协议",
+    "collectedAt": "2026-11-12T00:38:27Z"
   }
 ]
