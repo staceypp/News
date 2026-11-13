@@ -1,5 +1,30 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-11-12",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "产能",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "算电协同",
+      "AIDC"
+    ],
+    "tags": "集中式 储能 算电协同 AIDC 集中式光伏 储能 算电协同 AIDC",
+    "company": "印度项目主体",
+    "title": "印度CleanMax拟投资5000亿卢比开发3GW风光与1GW抽蓄，配套2GW算力工厂",
+    "summary": "CleanMax与印度安得拉邦经济发展委员会（APEDB）签署谅解备忘录(MoU)，拟在未来五年投资约5000亿卢比（人民币约355亿元），开发合计3GW风光发电设施及1GW抽水蓄能设施，并为拟在Kurnool地区建设的2GW算力工厂提供绿色电力及供配电基础设施。算力项目拟与获Blackstone支持的AI云服务商Neysa合作，拟使用其中1GW的IT 负载。 解读：CleanMax使电源投资从单纯售电延伸至算力基础设施的综合能源配套。与Neysa的合作为项目形成明确的用电场景。",
+    "sourceName": "cleanmax.com",
+    "sourceUrl": "https://www.cleanmax.com/external-communication-press-releases/cleanmax-signs-mou-with-andhra-pradesh-to-invest-50-000-crore-in-an-integrated-clean-energy-complex-to-power-a-2-gw-compute-factory",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|417abced5dee8161a094d0b4140fe84f",
+    "collectedAt": "2026-11-13T08:59:02.433Z",
+    "notionPageId": "417abced5dee8161a094d0b4140fe84f",
+    "fingerprint": "notion|92c76a132fe0731d8d5a"
+  },
+  {
     "date": "2026-11-11",
     "country": "印尼",
     "geo": "亚洲",
@@ -65,6 +90,72 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-12T09:05:48.716Z",
     "notionPageId": "414abced5dee81b0a5d4e43e57c060a8",
     "fingerprint": "notion|d34406723eff4e6c1911"
+  },
+  {
+    "date": "2026-11-09",
+    "country": "江西",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "投资",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": "电力交易 电力交易 机制电价 江西",
+    "company": "江西项目主体",
+    "title": "江西2027年机制电价竞价结果公示：光伏0.352元/度，风电0.377元/度",
+    "summary": "国网新能源云公示江西省2027年机制电价竞价结果。光伏竞价项目出清：机制电量规模29.25亿千瓦时，机制电价0.352元/千瓦时，入围项目26965个；风电竞价项目出清：机制电量规模9.58亿千瓦时，机制电价0.377元/千瓦时，入围项目6个。机制电价执行期限10年，单个项目机制电量比例上限为75%。 解读：本次机制电量保障价格较高，尤其是风电项目接近限价。利好入围电量的收入确定性，但不构成消纳优势或高投资回报的证明。",
+    "sourceName": "k.sina.cn",
+    "sourceUrl": "https://k.sina.cn/article_5952915720_162d24908067054wgg.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|414abced5dee81258d4ce13931c51832",
+    "collectedAt": "2026-11-13T08:59:02.433Z",
+    "notionPageId": "414abced5dee81258d4ce13931c51832",
+    "fingerprint": "notion|fd8aa284e790545c13a1"
+  },
+  {
+    "date": "2026-11-09",
+    "country": "山西",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": "电力交易 电力交易 机制电价 山西",
+    "company": "山西政策机构",
+    "title": "山西启动2027年机制电价竞价，风光电价区间0.20-0.32元/度",
+    "summary": "山西省发展和改革委员会发布关于2027年增量新能源项目机制电价竞价工作有关事项的通知。竞价主体为2027年1月1日至12月31日期间投产的集中式风电、集中式光伏、分布式光伏、分散式风电项目，不含跨省跨区通道配套新能源项目、大型工商业分布式光伏项目及绿电直连、零碳园区、源网荷储一体化、绿电园区等就近消纳项目。机制电量总规模69.43亿千瓦时，其中风电42.55亿千瓦时、光伏26.88亿千瓦时。申报充足率均为120%。竞价上限风电0.30元/千瓦时、光伏0.32元/千瓦时，竞价下限均为0.20元/千瓦时，单个项目申报机制电量上限比例为70%。执行期限风电、光伏均为12年。 解读：山西此轮竞价延续了国家层面推动绿电直连与机制电价适度分离的政策方向，意味着越来越多新增项目会转向就近消纳模式而非参与机制竞价。整体条件偏宽松，有利于稳定开发商投资预期；但120%的申报充足率下限意味着申报电量将明显超过可供电量，竞争依然存在。",
+    "sourceName": "fgw.shanxi.gov.cn",
+    "sourceUrl": "https://fgw.shanxi.gov.cn/fggz/wngz/spjg/202611/t20261109_10256741.shtml",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|414abced5dee81368ca1c923564ff8f5",
+    "collectedAt": "2026-11-13T08:59:02.433Z",
+    "notionPageId": "414abced5dee81368ca1c923564ff8f5",
+    "fingerprint": "notion|5320c2d282271db90c8e"
+  },
+  {
+    "date": "2026-11-09",
+    "country": "湖北",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": "电力交易 电力交易 机制电价 湖北",
+    "company": "湖北政策机构",
+    "title": "湖北启动2026年度机制电价竞价，风光电价区间0.25-0.4元/度",
+    "summary": "湖北省发改委、省能源局发布关于开展2026年度新能源项目可持续发展价格结算机制竞价工作的通知，国网新能源云同步下发竞价组织公告。竞价对象为已全容量投产及计划2027年12月31日前全容量投产的风电（含分散式）、集中式光伏，以及2026年10月31日前全容量投产的分布式光伏（可独立或通过聚合商参与）。竞价上下限：风电0.25-0.4元/千瓦时，光伏0.28-0.38元/千瓦时；风电、光伏竞价电量规模比例系数均为40%；执行期限12年。 解读：湖北延续了今年以来多地上调机制电价下限、遏制低价竞争的政策趋势。风光竞价电量规模比例系数较低，意味着可纳入机制的电量相对有限。",
+    "sourceName": "piinfo.com.cn",
+    "sourceUrl": "https://www.piinfo.com.cn/news/show-15115.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|414abced5dee814c9868d26492f156c0",
+    "collectedAt": "2026-11-13T08:59:02.433Z",
+    "notionPageId": "414abced5dee814c9868d26492f156c0",
+    "fingerprint": "notion|af5379febaa7eaca3038"
   },
   {
     "date": "2026-11-08",
