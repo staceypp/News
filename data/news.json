@@ -6599,5 +6599,162 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "绿电交易",
+    "businessTags": [
+      "绿电",
+      "交易"
+    ],
+    "tags": [
+      "绿电直连",
+      "省间交易",
+      "冀北",
+      "四川"
+    ],
+    "company": "首都电力交易中心",
+    "title": "冀北绿电常态化入京，四川绿电首次送达北京",
+    "summary": "首都电力交易中心通报，9月以来已完成四次冀北送北京月内省间绿色电力集中竞价交易，累计成交电量5170.3万千瓦时，涉及39家冀北新能源发电企业和37家北京购电用户，冀北市场化绿电进京进入常态化阶段。10月，来自阿坝、凉山、甘孜等川西高原地区约480万千瓦时绿电首次送达北京，近八成电量安排在四川光伏出力高峰时段。北京市场化绿电来源目前已覆盖全国18个省（自治区）及地区。",
+    "sourceName": "人民日报-中国能源报",
+    "sourceUrl": "https://paper.people.com.cn/zgnyb/pc/attachement/202611/02/d61b9fe3-98b8-44d5-b9d0-c45ab591a378.pdf",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|首都电力交易中心|冀北绿电进京|5170.3万千瓦时|绿电交易",
+    "id": "daily|2026-11-02|中国|冀北绿电常态化入京",
+    "collectedAt": "2026-11-13T00:37:16Z"
+  },
+  {
+    "date": "2026-11-04",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "资产处置",
+    "businessTags": [
+      "绿电",
+      "交易"
+    ],
+    "tags": [
+      "南网能源",
+      "绿电资产转让",
+      "国企混改"
+    ],
+    "company": "南网能源",
+    "title": "南网能源拟再挂牌转让14家项目公司绿电资产，合计约518.54MW",
+    "summary": "据财经媒体报道，南网能源正筹划通过北京产权交易所转让另外14个智慧绿电项目公司股权，涉及装机容量约518.54MW，对应净资产账面价值约10.64亿元，目前仍处于筹划阶段，尚未正式挂牌，受让方和成交价格均未确定。此前公司已于2026年上半年分批挂牌转让24个智慧绿电项目资产及3家项目公司股权（约444.77MW），并表示不再新增持有智慧绿电项目、将逐步实现退出。",
+    "sourceName": "格隆汇",
+    "sourceUrl": "https://m.gelonghui.com/p/7293125",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|南网能源|绿电资产转让|518.54MW|资产处置",
+    "id": "daily|2026-11-04|中国|南网能源绿电资产转让",
+    "collectedAt": "2026-11-13T00:37:16Z"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "组件集采",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "光伏组件",
+      "招标",
+      "三峡集团",
+      "龙源电力"
+    ],
+    "company": "三峡集团、龙源电力",
+    "title": "光伏组件集采规模回升至8.87GW，三峡、龙源项目驱动增长",
+    "summary": "据行业统计，近两周光伏组件集采招标总量约8.87GW，环比上期增长约34.4%，主要由三峡集团约5.2GW组件采购项目和龙源电力2026年第一批3GW组件集采驱动；龙源该批次规模较前一版本缩减一半，但效率档位要求提高，其中高效组件（效率24.0%及以上）占2.5GW。同期已公示中标价格区间为0.661-0.830元/W，整体均价0.748元/W，较上期小幅下降约1.18%。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://news.10jqka.com.cn/20261102/c681368011.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|三峡集团-龙源电力|光伏组件集采|8.87GW|组件集采",
+    "id": "daily|2026-11-02|中国|光伏组件集采回升",
+    "collectedAt": "2026-11-13T00:37:16Z"
+  },
+  {
+    "date": "2026-11-04",
+    "country": "肯尼亚",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "合作签约",
+    "businessTags": [
+      "分布式",
+      "绿电"
+    ],
+    "tags": [
+      "非洲光伏带",
+      "离网光伏",
+      "中非合作"
+    ],
+    "company": "中国生态环境部、肯尼亚能源与石油部",
+    "title": "中肯签署非洲光伏带谅解备忘录，拟建80套离网光伏系统",
+    "summary": "肯尼亚能源与石油部与中国生态环境部签署谅解备忘录，落实非洲光伏带项目，计划在塔纳河、基利菲县及马赛马拉大学等地区部署80套离网光伏发电系统，重点保障乡村学校、医疗设施和社区供水等公共基础设施用电。联合国儿童基金会肯尼亚代表见证签约，该项目源自中方2023年内罗毕非洲气候峰会上提出的非洲光伏带倡议。",
+    "sourceName": "AllAfrica",
+    "sourceUrl": "https://allafrica.com/stories/202611030571.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "肯尼亚|非洲光伏带|离网光伏系统|80套|合作签约",
+    "id": "daily|2026-11-04|肯尼亚|中肯非洲光伏带MOU",
+    "collectedAt": "2026-11-13T00:37:16Z"
+  },
+  {
+    "date": "2026-11-05",
+    "country": "肯尼亚",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "项目融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "世界银行",
+      "绿色气候基金",
+      "电网侧储能"
+    ],
+    "company": "肯尼亚电力公司（KenGen）",
+    "title": "KenGen储能项目获世界银行与绿色气候基金约7850万美元融资",
+    "summary": "据报道，肯尼亚国家电力公司KenGen的储能项目获得约7850万美元资金支持，其中世界银行国际开发协会出资约3350万美元、绿色气候基金出资约4500万美元，计划建设最高100MW、可持续放电约2小时的电池储能设施。具体选址、规模及供应商尚未公布，最终容量仍取决于后续可行性研究结果。",
+    "sourceName": "Rio Times Online",
+    "sourceUrl": "https://www.riotimesonline.com/kengen-battery-storage-world-bank-green-climate-fund-kenya-2026/",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "肯尼亚|KenGen|电池储能融资|7850万美元|项目融资",
+    "id": "daily|2026-11-05|肯尼亚|KenGen储能融资",
+    "collectedAt": "2026-11-13T00:37:16Z"
+  },
+  {
+    "date": "2026-11-05",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "融资"
+    ],
+    "tags": [
+      "屋顶光伏",
+      "补贴",
+      "能源安全"
+    ],
+    "company": "泰国能源部",
+    "title": "泰国屋顶光伏计划规模翻倍至10GW，推出千亿泰铢补贴",
+    "summary": "泰国政府将公共屋顶光伏计划规模从5GW提高至10GW，以降低对进口燃气和化石能源的依赖、强化能源安全。该计划面向约100万户家庭，每户最高补贴5万泰铢，总理阿努廷已签署申请750亿泰铢贷款资金用于支持该计划（“人民太阳能”项目），户用富余电量将以每千瓦时2.20泰铢的价格回购，单户系统容量上限约5千瓦。",
+    "sourceName": "Thailand Business News",
+    "sourceUrl": "https://www.thailand-business-news.com/environment/329806-thailand-doubles-public-solar-programme-to-10gw-as-energy-security-becomes-an-investment-priority",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "泰国|泰国能源部|屋顶光伏计划|10GW|政策",
+    "id": "daily|2026-11-05|泰国|屋顶光伏10GW计划",
+    "collectedAt": "2026-11-13T00:37:16Z"
   }
 ]
