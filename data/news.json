@@ -1,5 +1,160 @@
 [
   {
+    "date": "2026-11-04",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "中标签约",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "集中共享储能",
+      "EPC总包",
+      "宁夏"
+    ],
+    "company": "武汉天源(301127.SZ)",
+    "title": "武汉天源签约宁夏灵武千兆瓦时级储能电站EPC项目",
+    "summary": "武汉天源(301127.SZ)牵头联合体与灵武市华新综合能源服务有限公司签订宁夏灵武1000MW/4000MWh集中共享储能电站设备+安装一体化合同，合同总金额36.4亿元，计划工期为2026年11月1日至2027年4月30日。该项目此前于10月26日已收到中标通知书。 解读：大型集中共享储能电站EPC总包金额超36亿元，反映储能建设仍处于高强度投资阶段。",
+    "sourceName": "财联社",
+    "sourceUrl": "https://www.cls.cn/detail/2525175",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|武汉天源|灵武储能EPC签约|36.4亿元|中标签约",
+    "id": "daily|2026-11-04|中国|武汉天源灵武储能EPC",
+    "collectedAt": "2026-11-14T00:35:49.000Z"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "新西兰",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": [
+      "光伏储能",
+      "日本大林组",
+      "Infradebt"
+    ],
+    "company": "Lightyears Group",
+    "title": "新西兰Lightyears获日澳合计1.74亿纽元投融资支持",
+    "summary": "新西兰太阳能开发商Lightyears Group宣布获得合计NZ$1.74亿元（约1亿美元）投资与债务支持：日本大林组(Obayashi)拟分阶段出资NZ$7400万获得新项目公司LYOC1 90%股权，澳大利亚Infradebt则为其平台提供NZ$1亿贷款额度。资金将用于其光伏及储能项目组合的建设扩张。 解读：日系建筑企业与澳洲债务基金联合加码新西兰社区级光伏储能市场，显示亚太资本持续关注中小型光伏资产。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/lightyears-secures-nz174-million-from-obayashi-and-infradebt-for-new-zealand-solar/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "新西兰|Lightyears Group|日澳融资|1.74亿纽元|融资",
+    "id": "daily|2026-11-03|新西兰|Lightyears融资",
+    "collectedAt": "2026-11-14T00:35:49.000Z"
+  },
+  {
+    "date": "2026-11-05",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "屋顶光伏",
+      "开放式接入",
+      "中小企业"
+    ],
+    "company": "Pentagreen Capital / Candi Solar",
+    "title": "Pentagreen与Candi Solar签约5000万美元支持印度400MW光储项目",
+    "summary": "新加坡可持续基础设施债务平台Pentagreen Capital与印度分布式光伏企业Candi Solar达成5000万美元融资合作，资金将用于支持其在印度约400MWp屋顶、地面及开放式接入光伏项目及配套储能系统建设，重点服务中小企业用户。Candi Solar计划未来24个月内将运营光伏容量提升至1GW以上。 解读：国际债务资本持续加码印度工商业光储市场，延续Candi Solar此前获IFC领投融资的趋势。",
+    "sourceName": "Mercom India",
+    "sourceUrl": "https://mercomindia.com/candi-solar-and-pentagreen-to-fund-400-mw-solar-plus-storage-projects",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|Pentagreen Candi Solar|400MW光储融资|5000万美元|融资",
+    "id": "daily|2026-11-05|印度|Pentagreen Candi Solar融资",
+    "collectedAt": "2026-11-14T00:35:49.000Z"
+  },
+  {
+    "date": "2026-10-31",
+    "country": "越南",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "项目获批",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "水面光伏",
+      "多乐省",
+      "储能配套"
+    ],
+    "company": "多乐省项目主体",
+    "title": "越南批准多乐省452MW水面光伏项目，投资约3.55亿美元",
+    "summary": "越南多乐省人民委员会10月31日批准在Ea Sup Thuong水库建设452MW水面光伏项目，总投资约9.149万亿越南盾（约3.55亿美元），项目同步规划配套储能及专用输电设施，计划2028年底建成，建成后将成为全球较大的内陆水面光伏电站之一。 解读：越南持续推进水面光伏开发以缓解陆地用地紧张，项目同步规划储能配套体现其对电网稳定性的重视。",
+    "sourceName": "PV Magazine",
+    "sourceUrl": "https://www.pv-magazine.com/2026/11/04/vietnam-approves-452-mw-floating-solar-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "越南|多乐省水面光伏|452MW获批|3.55亿美元|项目获批",
+    "id": "daily|2026-10-31|越南|多乐省水面光伏获批",
+    "collectedAt": "2026-11-14T00:35:49.000Z"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "购电协议",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "Glenrowan光伏电站",
+      "州属电力公司",
+      "PPA"
+    ],
+    "company": "Pacific Partnerships / SEC",
+    "title": "维州国企SEC与Pacific Partnerships签署102MW光储购电协议",
+    "summary": "澳大利亚维多利亚州国有电力公司SEC与CIMIC旗下Pacific Partnerships就Glenrowan光伏电站及配套102MW/4小时电池储能项目签署为期10年的购电协议，新协议将取代原有光伏购电合同，为该储能项目后续开工建设奠定基础。 解读：州属电力公司直接锁定光储一体化资产长期购电协议，是澳大利亚地方政府加快储能部署的典型案例。",
+    "sourceName": "ESS News",
+    "sourceUrl": "https://www.ess-news.com/2026/11/02/australias-sec-signs-10-year-deal-for-102-mw-solar-plus-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|SEC Pacific Partnerships|Glenrowan光储PPA|102MW|购电协议",
+    "id": "daily|2026-11-02|澳大利亚|SEC光储PPA",
+    "collectedAt": "2026-11-14T00:35:49.000Z"
+  },
+  {
+    "date": "2026-11-05",
+    "country": "越南",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "电价政策",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "电价上限",
+      "MOIT"
+    ],
+    "company": "越南工贸部(MOIT)",
+    "title": "越南发布2026年光伏电价新规，配储能项目享更高电价上限",
+    "summary": "越南新光伏电价框架于11月5日起生效，地面光伏电价上限因地区而异，南部约每千瓦时1104越南盾，北部最高约1591越南盾；配置电池储能的项目可获更高电价上限，北部地面光伏及水面光伏储能项目电价上限分别可达约1813.48越南盾/千瓦时及2120.31越南盾/千瓦时。 解读：新规延续此前对储能配置给予电价激励的思路，但不同信源对具体溢价幅度的描述存在差异，以越南官方决定文件为准。",
+    "sourceName": "pv magazine Global",
+    "sourceUrl": "https://now.solar/2026/11/12/vietnam-increases-solar-tariffs-for-2026-maintains-storage-premiums-pv-magazine-global/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "越南|光伏电价新规|储能电价溢价|2026年11月5日生效|电价政策",
+    "id": "daily|2026-11-05|越南|光伏电价新规",
+    "collectedAt": "2026-11-14T00:35:49.000Z"
+  },
+  {
     "date": "2026-11-12",
     "country": "印度",
     "geo": "亚洲",
