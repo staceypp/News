@@ -6707,5 +6707,129 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-06",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "十五五规划",
+      "虚拟电厂"
+    ],
+    "company": "国家能源局",
+    "title": "国家能源局：2030年新型储能规模将达3亿千瓦",
+    "summary": "在国家发展改革委\"十五五\"规划新闻发布会上，国家能源局发展规划司副司长葛炬表示，将大力发展新型储能，鼓励多种技术路线并行发展，到2030年新型储能装机规模达到3亿千瓦，抽水蓄能装机规模约1.6亿千瓦，虚拟电厂调节能力达到5000万千瓦以上。该表态与此前印发的《新型电力系统建设\"十五五\"规划》中的量化目标一致，多家财经媒体在8月披露规划文件时已报道过相同数字。",
+    "sourceName": "财联社",
+    "sourceUrl": "https://www.cls.cn/detail/2527032",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|十五五新型储能规划3亿千瓦|政策",
+    "id": "daily|2026-11-06|中国|十五五储能规划目标",
+    "collectedAt": "2026-11-15T00:36:16Z"
+  },
+  {
+    "date": "2026-11-04",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "FDRE",
+      "火电替代型可再生能源"
+    ],
+    "company": "Essar Renewables / NHPC",
+    "title": "Essar与NHPC签署300MW火电替代型可再生能源PPA",
+    "summary": "印度Essar Power旗下Essar Renewables与国有电力企业NHPC签署购电协议（PPA），为安得拉邦一个300MW\"firm and dispatchable renewable energy\"（FDRE，可调度可再生能源）项目供电，电价约每千瓦时4.37卢比，投资额约450亿卢比（约4.75亿美元）。该协议源自NHPC此前1.2GW FDRE招标，Essar在其中获得最大单笔300MW份额，中标结果公布于2024年，签约落地于2026年11月初。",
+    "sourceName": "PV Magazine India",
+    "sourceUrl": "https://www.pv-magazine-india.com/2026/11/04/essar-signs-ppa-with-nhpc-for-300-mw-renewable-energy-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|Essar Renewables-NHPC|300MW FDRE PPA|4.37卢比|PPA",
+    "id": "daily|2026-11-04|印度|Essar-NHPC300MW PPA",
+    "collectedAt": "2026-11-15T00:36:16Z"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "BESS",
+      "英国"
+    ],
+    "company": "Revera Energy",
+    "title": "Revera Energy融资额翻倍至3亿美元加速英澳储能项目",
+    "summary": "凯雷投资（Carlyle）旗下储能开发商Revera Energy将控股公司层面的信贷额度从1.5亿美元翻倍扩大至3亿美元，用于加速推进其在澳大利亚国家电力市场（NEM）和英国的电池储能项目管线，支持后期项目进入建设阶段。此前该公司已为英国Hunterston（400MW/800MWh）等项目完成融资交割，澳大利亚Robertstown一期项目预计今年四季度完成融资交割。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/capital-to-move-our-next-wave-revera-energy-doubles-holdco-facility-to-us300-million-for-bess-in-uk-and-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Revera Energy|控股层面信贷融资翻倍|3亿美元|融资",
+    "id": "daily|2026-11-03|澳大利亚|Revera储能融资翻倍",
+    "collectedAt": "2026-11-15T00:36:16Z"
+  },
+  {
+    "date": "2026-11-10",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "开工",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "电网接入",
+      "RWE"
+    ],
+    "company": "RWE",
+    "title": "RWE在意大利西西里岛启动首个电池储能项目建设",
+    "summary": "RWE宣布在意大利西西里岛拉古萨（Ragusa）启动公司在意大利的首个电池储能系统建设，规模为62.5MW/262.5MWh，计划于2027年底实现商业运营。项目同步建设接入150kV电网的升压站。截至目前，RWE全球已运营储能约1.7GW，另有约3GW在建。",
+    "sourceName": "RWE",
+    "sourceUrl": "https://www.rwe.com/en/press/rwe-renewables-europe-australia/2026-11-10-rwe-starts-construction-of-its-first-battery-in-italy/",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|RWE|Ragusa电池储能开工|62.5MW-262.5MWh|开工",
+    "id": "daily|2026-11-10|意大利|RWE西西里电池储能开工",
+    "collectedAt": "2026-11-15T00:36:16Z"
+  },
+  {
+    "date": "2026-11-10",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "开工",
+    "businessTags": [
+      "储能",
+      "分布式"
+    ],
+    "tags": [
+      "阳光电源供货",
+      "光储一体化"
+    ],
+    "company": "BNZ",
+    "title": "BNZ在意大利拉齐奥光伏电站加装储能新增216MWh",
+    "summary": "可再生能源开发商BNZ在意大利拉齐奥（Lazio）的Rinaldone和Camposcala两座已投运光伏电站启动储能系统建设，新增储能容量超过216MWh，设备来自阳光电源（Sungrow）此前签订的供货协议。BNZ计划在拉齐奥、西西里和普利亚等地的8个项目中部署合计约350MW储能容量。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/italy-rwe-and-bnz-launch-construction-on-large-scale-battery-projects/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|BNZ|Lazio光伏电站加装储能|216MWh|开工",
+    "id": "daily|2026-11-10|意大利|BNZ拉齐奥储能加装",
+    "collectedAt": "2026-11-15T00:36:16Z"
   }
 ]
