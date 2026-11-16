@@ -6707,5 +6707,155 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-06",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "供应协议",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "铜箔",
+      "负极集流体",
+      "锂电池材料"
+    ],
+    "company": "嘉元科技 / 宁德时代",
+    "title": "嘉元科技与宁德时代签约660亿元铜箔采购框架协议",
+    "summary": "嘉元科技公告称与宁德时代建立长期合作伙伴关系，宁德时代计划在2026至2028年间累计向嘉元科技采购62.6万吨新型电池用负极集流体材料（含固态电池用铜箔），按现有锂电铜箔价格测算采购金额约660亿元。协议为框架性约定，宁德时代将按实际经营需求下单，嘉元科技目前产能约13万吨，距履约规模仍有较大缺口。",
+    "sourceName": "界面新闻",
+    "sourceUrl": "https://www.jiemian.com/article/13700558.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|嘉元科技-宁德时代|铜箔框架协议|660亿元-62.6万吨|供应协议",
+    "id": "daily|2026-11-06|中国|嘉元科技宁德时代铜箔大单",
+    "collectedAt": "2026-11-16T00:36:36Z"
+  },
+  {
+    "date": "2026-11-06",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "飞轮储能",
+      "火电调频"
+    ],
+    "company": "华能甘肃公司 / 西安热工院",
+    "title": "华能兰州热电国内单体最大功率飞轮储能项目并网",
+    "summary": "华能甘肃公司牵头、西安热工院提供技术研发的飞轮储能项目在华能兰州热电并网运行，创新采用“5兆瓦大功率飞轮+0.5兆瓦惯量飞轮”协同模式，单体功率5兆瓦为国内目前最大，调节速率可达5兆瓦/秒，充放电效率超85%。项目投运后，火电机组调频响应时间缩短至100毫秒以内，调节精度超过99.5%，用于提升火电基地快速调频能力。",
+    "sourceName": "科技日报",
+    "sourceUrl": "https://www.stdaily.com/web/gdxw/2026-11/06/content_609630.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|华能兰州热电-西安热工院|飞轮储能|5兆瓦-单体最大|投运",
+    "id": "daily|2026-11-06|中国|兰州热电飞轮储能并网",
+    "collectedAt": "2026-11-16T00:36:36Z"
+  },
+  {
+    "date": "2026-11-10",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "开工",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "BESS",
+      "西西里岛"
+    ],
+    "company": "RWE",
+    "title": "RWE在意大利首个电池储能项目Ragusa开工建设",
+    "summary": "德国能源公司RWE宣布在意大利西西里岛拉古萨（Ragusa）启动其在意大利首个电池储能项目建设，规模为62.5兆瓦/262.5兆瓦时，由42个锂电池集装箱组成，可满功率放电4小时，预计2027年底建成投运。这是RWE在意大利电池储能领域的首个落地项目。",
+    "sourceName": "RWE",
+    "sourceUrl": "https://www.rwe.com/en/press/rwe-renewables-europe-australia/2026-11-10-rwe-starts-construction-of-its-first-battery-in-italy/",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|RWE|Ragusa BESS|62.5MW-262.5MWh|开工",
+    "id": "daily|2026-11-10|意大利|RWE Ragusa储能开工",
+    "collectedAt": "2026-11-16T00:36:36Z"
+  },
+  {
+    "date": "2026-11-10",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "政策进展",
+    "businessTags": [
+      "分布式",
+      "储能"
+    ],
+    "tags": [
+      "家庭储能",
+      "补贴"
+    ],
+    "company": "澳大利亚能源部",
+    "title": "澳大利亚家庭储能补贴计划安装量突破60万套",
+    "summary": "澳大利亚能源部长Chris Bowen宣布，联邦“更便宜家庭电池”（Cheaper Home Batteries）补贴计划安装量已突破60万套，较此前50万套（约50.7万户）里程碑进一步增长，行业媒体按平均系统容量估算总装机约16.8吉瓦时。该计划为符合条件的家庭、小企业和社区机构安装的小型电池系统提供约30%的购置补贴，联邦资金规模约72亿澳元。",
+    "sourceName": "澳大利亚联邦政府",
+    "sourceUrl": "https://www.pm.gov.au/media/half-million-cheaper-home-batteries-bringing-down-bills-australian-homes-and-businesses",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Cheaper Home Batteries|家庭储能补贴|60万套-16.8GWh|政策进展",
+    "id": "daily|2026-11-10|澳大利亚|家庭储能60万套",
+    "collectedAt": "2026-11-16T00:36:36Z"
+  },
+  {
+    "date": "2026-11-05",
+    "country": "罗马尼亚",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "PPA签约",
+    "businessTags": [
+      "绿电",
+      "交易"
+    ],
+    "tags": [
+      "VPPA",
+      "风光一体"
+    ],
+    "company": "Ahold Delhaize / Rezolv Energy",
+    "title": "Ahold Delhaize与Rezolv Energy签署罗马尼亚风光虚拟购电协议",
+    "summary": "荷兰零售巨头Ahold Delhaize与罗马尼亚可再生能源开发商Rezolv Energy签署10年期虚拟购电协议（VPPA），每年购买约3.7亿千瓦时绿电，来自1.3吉瓦的Dama Solar光伏项目（阿拉德省）和300兆瓦的Dunarea East风电场（康斯坦察省）。该协议是Rezolv在罗马尼亚、保加利亚签署的第8份购电协议，也是Ahold Delhaize欧洲可再生能源项目下的第5份、也是最后一份PPA，助其提前至2030年实现欧洲电力需求100%绿电覆盖的目标。",
+    "sourceName": "Romania Insider",
+    "sourceUrl": "https://www.romania-insider.com/ahold-delhaize-rezolv-energy-sign-major-renewable-power",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "罗马尼亚|Ahold Delhaize-Rezolv Energy|Dama Solar-Dunarea East|370GWh/年-10年期|PPA签约",
+    "id": "daily|2026-11-05|罗马尼亚|AholdDelhaize罗马尼亚VPPA",
+    "collectedAt": "2026-11-16T00:36:36Z"
+  },
+  {
+    "date": "2026-11-05",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "融资"
+    ],
+    "tags": [
+      "工商业光伏",
+      "绿色金融"
+    ],
+    "company": "Pentagreen Capital / Candi Solar",
+    "title": "Pentagreen与Candi Solar签署5000万美元印度光储融资合作",
+    "summary": "新加坡基础设施融资平台Pentagreen Capital与印度分布式能源开发商Candi Solar宣布达成5000万美元融资合作，用于支持印度约400兆瓦屋顶、地面及开放接入光伏与电池储能项目开发，重点覆盖中小企业用户和重点商业园区。Pentagreen资金来自汇丰与淡马锡发起的新加坡“亚洲转型融资伙伴计划（FAST-P）”下的绿色投资伙伴基金，Candi Solar计划未来24个月内将运营光伏容量提升至1吉瓦以上。",
+    "sourceName": "Mercom India",
+    "sourceUrl": "https://mercomindia.com/candi-solar-and-pentagreen-to-fund-400-mw-solar-plus-storage-projects",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度|Pentagreen Capital-Candi Solar|光储融资|5000万美元-400MW|融资",
+    "id": "daily|2026-11-05|印度|Pentagreen印度光储融资",
+    "collectedAt": "2026-11-16T00:36:36Z"
   }
 ]
