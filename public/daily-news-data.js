@@ -1,5 +1,49 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-11-15",
+    "country": "印尼",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式光伏",
+    "company": "印尼政策机构",
+    "title": "印尼智库预警百吉瓦光伏计划资金缺口或超千亿美元",
+    "summary": "印尼能源与矿产资源部长巴希利此前估算，由总统普拉博沃2025年8月提出、2026年8月正式启动的“百吉瓦(100GWp)光伏计划”需要约730亿美元（人民币约4870亿元）投资。印尼独立智库IESR测算，仅大型光伏地面电站规模部分就需约800亿美元（人民币约5336亿元），若计入储能和输电设施投资需求将超过1000亿美元（人民币约6670亿元）。IESR同时指出，印尼2024年可再生能源投资仅18亿美元（人民币约120亿元）、2025年约24亿美元（人民币约160亿元）。 解读：该报道显示印尼光伏目标与实际融资能力之间存在巨大落差，折射出新兴市场推进大规模光伏项目时普遍面临的融资瓶颈。三年内完成光伏目标，年度可再生能源投资需要提高至约现有水平的15倍。百吉瓦计划若落地将释放巨大设备和EPC需求，但若光伏供应链的监管改革和融资机制不能快速跟进，项目实际开工和并网进度可能大幅滞后。",
+    "sourceName": "thejakartapost.com",
+    "sourceUrl": "https://www.thejakartapost.com/business/2026/11/15/indonesias-100-gwp-solar-ambition-needs-bigger-funding-policy-overhaul-iesr",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|41aabced5dee8180b020dc04ec758be7",
+    "collectedAt": "2026-11-16T08:53:57.498Z",
+    "notionPageId": "41aabced5dee8180b020dc04ec758be7",
+    "fingerprint": "notion|1f139496551e920e36fb"
+  },
+  {
+    "date": "2026-11-13",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 全国",
+    "company": "国家能源局",
+    "title": "发改委、能源局印发《“十五五”新型储能实施方案》，2030年目标300GW",
+    "summary": "国家发展改革委、国家能源局联合印发《“十五五”新型储能实施方案》（发改能源〔2026〕1565号，方案提出到2030年全国新型储能装机规模达到3亿千瓦（300GW）、平均储能时长3小时左右；“沙戈荒”、水风光一体化、海上风电等新能源基地配置新型储能规模约5000万-6000万千瓦（50-60GW）。可承担顶峰保供作用的电网侧独立新型储能规模约1.4亿千瓦（140GW）；鼓励在京津冀、长三角、粤港澳大湾区、成渝及贵州、内蒙古、甘肃、宁夏等8大国家算力枢纽和青海、新疆、黑龙江等算电协同区因地制宜建设新型储能电站。同时提出健全电网侧独立新型储能容量电价机制、现货市场连续运行后建立可靠容量补偿机制等市场化措施。 解读：这是“十五五”期间国家层面首份新型储能专项实施方案，明确了总量目标及分场景、分区域的配置规模指引，意味着新能源基地配储比例、电网侧独立储能布局和容量电价机制将在“十五五”期间进一步细化落地，需提前研判所在区域的储能配置要求与投资机会。",
+    "sourceName": "ndrc.gov.cn",
+    "sourceUrl": "https://www.ndrc.gov.cn/xwdt/tzgg/202611/t20261113_1408811.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|419abced5dee81faaecdcc1bf6214c65",
+    "collectedAt": "2026-11-16T08:53:57.498Z",
+    "notionPageId": "419abced5dee81faaecdcc1bf6214c65",
+    "fingerprint": "notion|5fe9038360adf371895a"
+  },
+  {
     "date": "2026-11-12",
     "country": "印度",
     "geo": "亚洲",
@@ -200,6 +244,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-09T08:57:12.110Z",
     "notionPageId": "411abced5dee81169471c8481c0917b6",
     "fingerprint": "notion|d91facb7ee36f528fd1d"
+  },
+  {
+    "date": "2026-11-05",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式光伏 PPA",
+    "company": "美国相关企业",
+    "title": "EDPR阿肯色州250MW光伏项目开工，为Meta供电",
+    "summary": "EDP Renewables北美公司（EDPR）宣布在阿肯色州启动250MW Cypress Knee光伏项目建设，建成后将通过长期购电协议（PPA）向Meta供电，预计2028年完工。这是EDPR与Meta今年5月签订的第三份此类协议，双方在美国累计签约光伏容量已达545MW。 解读：科技巨头通过长期PPA锁定清洁电力以满足AI和数据中心用电需求。对光伏电站开发商而言，科技公司PPA仍是美国集中式光伏项目最稳定的收入来源之一，项目选址、并网进度与企业用电增长的匹配度将成为关键竞争力。",
+    "sourceName": "pv-tech.org",
+    "sourceUrl": "https://www.pv-tech.org/edpr-groundreaking-cypress-knee-250mw-meta-arkansas",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|410abced5dee8143adb8e46c891d1b6f",
+    "collectedAt": "2026-11-16T08:53:57.498Z",
+    "notionPageId": "410abced5dee8143adb8e46c891d1b6f",
+    "fingerprint": "notion|b3f6d9e74b282091569e"
   },
   {
     "date": "2026-11-04",
