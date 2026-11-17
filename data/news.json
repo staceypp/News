@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-11-16",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "投资",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能"
+    ],
+    "company": "菲律宾项目主体",
+    "title": "菲律宾前9个月获BOI批准的可再生能源投资达7451亿比索",
+    "summary": "菲律宾能源部披露，2026年前9个月投资委员会（BOI）批准投资总额9429亿比索（人民币986亿元），其中可再生能源7451亿比索（人民779亿元），占79%。 解读：可再生能源在菲律宾投资审批中占比较高，为项目开发和设备供应提供潜在市场空间，但实际仍需结合获批项目的建设进度判断。",
+    "sourceName": "doe.gov.ph",
+    "sourceUrl": "https://doe.gov.ph/doe-welcomes-745-b-re-investment-approvals-pushes-project-development",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|41babced5dee810c93d6e5eeca21f9f6",
+    "collectedAt": "2026-11-17T23:17:09.223Z",
+    "notionPageId": "41babced5dee810c93d6e5eeca21f9f6",
+    "fingerprint": "notion|87a3b6eefa073f5d36a0"
+  },
+  {
+    "date": "2026-11-16",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "系统销售"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能",
+      "系统销售"
+    ],
+    "company": "隆基",
+    "title": "隆基签约澳大利亚Muswellbrook项目，供货 176MWp BC组件",
+    "summary": "隆基宣布为OX2开发的Muswellbrook光储项目供应176MWp Hi-MO 9组件，项目交流侧135MW，配套100MWh储能，利用约482公顷修复后的煤矿土地。项目于2026年5月开工，预计2028年完成调试并网，预计年发电量347GWh。光伏EPC由Bouygues Construction Australia与Equans Solar & Storage联合体承担。 解读：隆基通过OX2及国际EPC合作伙伴推动BC组件在澳大利亚大型地面电站应用，煤矿修复用地为当地新能源开发提供了场址。",
+    "sourceName": "longi.com",
+    "sourceUrl": "https://www.longi.com/en/news/bc-hi-mo-9-muswellbrook",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|41babced5dee8135ba79e7be3f0ea592",
+    "collectedAt": "2026-11-17T23:17:09.223Z",
+    "notionPageId": "41babced5dee8135ba79e7be3f0ea592",
+    "fingerprint": "notion|922d927128ac606c24c9"
+  },
+  {
     "date": "2026-11-15",
     "country": "印尼",
     "geo": "亚洲",
@@ -306,6 +360,31 @@
     "collectedAt": "2026-11-16T08:53:57.498Z",
     "notionPageId": "410abced5dee8143adb8e46c891d1b6f",
     "fingerprint": "notion|b3f6d9e74b282091569e"
+  },
+  {
+    "date": "2026-11-05",
+    "country": "河北",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": [
+      "电力交易",
+      "河北"
+    ],
+    "company": "河北省发展改革委",
+    "title": "河北明确工商业用户分阶段全面入市时间表",
+    "summary": "河北省发展改革委发布《关于推动工商业用户分阶段直接参与电力市场交易的通知》，明确河北南网、冀北电网代理购电工商业用户分阶段直接参与电力市场的具体安排：河北南网35千伏及以上用户须于2026年12月31日前完成市场注册，自2027年1月1日起直接参与交易；10千伏且年用电量300万千瓦时以上用户须于2027年底前入市，自2028年1月1日起参与交易。冀北电网110千伏及以上、月用电量2000万千瓦时以上用户须于2026年11月30日前注册，2027年起入市；其余110千伏及以上用户2027年底前入市。增量配电网企业须于2027年11月30日前完成注册、2028年起直接参与交易。同时规范代理购电1.5倍电价执行要求，适用于无正当理由退市用户、拥有燃煤自备电厂的代理购电用户，以及未直接入市的高耗能代理购电用户。 解读：河北给出工商业用户全面入市的明确时间表，意味着代理购电规模将持续收窄，电力零售、售电公司及新能源项目通过市场化方式直接签订购电协议的空间进一步打开。1.5倍代理购电价格对高耗能自备电厂及无正当理由退市用户形成硬约束，将倒逼相关用户尽快入市或转向采购绿色电力，客观上有利于提升新能源电量的市场化消纳水平。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/tk473DKK2rEa57hqXmqGzw",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|41aabced5dee81d3b211daefaace0659",
+    "collectedAt": "2026-11-17T23:17:09.223Z",
+    "notionPageId": "41aabced5dee81d3b211daefaace0659",
+    "fingerprint": "notion|7979b8e0eb7b720194c7"
   },
   {
     "date": "2026-11-04",
