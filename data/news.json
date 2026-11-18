@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-11-17",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "储能",
+      "金融"
+    ],
+    "company": "ERC",
+    "title": "esVolta完成1.81亿美元融资，支持得州290MW/580MWh储能项目",
+    "summary": "esVolta宣布为得州City Breeze项目完成与三菱日联银行（MUFG）的1.261亿美元（人民币8.4亿元）融资安排，涵盖建设期贷款（Construction Loan）、税务股权贷款（Tax Equity Bridge Loan）、信用证（Letter of Credit Facility）及定期贷款（Term Loan）；另获East West Bank提供5510万美元（人民币3.67亿元）税务股权融资，支持City Breeze（140MW/280MWh）及Boxcar项目（150MW/300MWh），项目规模合计290MW/580MWh，服务ERCOT市场，两笔融资合计1.812亿美元（人民币12亿元）。 解读：esVolta通过建设贷款、长期债务及税务股权融资组合，为得州两座独立储能项目配置建设期与运营期资金。体现了储能开发商可通过多层次融资降低一次性资本金压力。",
+    "sourceName": "prnewswire.com",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/esvolta-closes-over-180-million-in-financing-for-290-mw-of-ercot-energy-storage-projects-302941884.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|41cabced5dee81aba3a7ccf7bd15743d",
+    "collectedAt": "2026-11-18T09:37:51.492Z",
+    "notionPageId": "41cabced5dee81aba3a7ccf7bd15743d",
+    "fingerprint": "notion|63351b8172124c08babb"
+  },
+  {
+    "date": "2026-11-17",
+    "country": "印度",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "电力交易"
+    ],
+    "tags": [
+      "集中式光伏",
+      "电力交易"
+    ],
+    "company": "印度项目主体",
+    "title": "亚马逊计划2030年前在印度追加70亿美元新能源投资，并公布934MW风光PPA项目",
+    "summary": "亚马逊宣布计划到2030年在印度新增70亿美元（人民币466亿元）可再生能源投资。此前已签约的40亿美元（人民币266亿元）项目为4个通过长期PPA锁定的风光项目，规模合计934MW，包括卡纳塔克邦（Karnataka）234MW风电及200MW风光互补项目、中央邦（Madhya Pradesh）300MW光伏、拉贾斯坦邦（Rajasthan）200MW光伏。公司称印度有14个公用事业级风光项目及43个场内光伏项目，投运后规模超过2GW。 解读：亚马逊以长期PPA锁定风光项目电量，为印度新能源开发商提供可融资的企业购电需求。对开发商而言，获得大型企业长期购电合同有助于推进融资，但投资承诺转化为实际建设仍取决于后续项目落实。",
+    "sourceName": "aboutamazon.com",
+    "sourceUrl": "https://www.aboutamazon.com/news/sustainability/amazon-investment-india-renewable-energy",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|41cabced5dee81fa976deac5297a508b",
+    "collectedAt": "2026-11-18T09:37:51.492Z",
+    "notionPageId": "41cabced5dee81fa976deac5297a508b",
+    "fingerprint": "notion|462cda4c9abd077cdb79"
+  },
+  {
     "date": "2026-11-16",
     "country": "菲律宾",
     "geo": "亚洲",
@@ -52,6 +103,33 @@
     "collectedAt": "2026-11-17T23:17:09.223Z",
     "notionPageId": "41babced5dee8135ba79e7be3f0ea592",
     "fingerprint": "notion|922d927128ac606c24c9"
+  },
+  {
+    "date": "2026-11-16",
+    "country": "菲律宾,多国/区域",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "基金",
+      "光伏",
+      "金融",
+      "储能"
+    ],
+    "company": "菲律宾,多国/区域项目主体",
+    "title": "章鱼能源设立6亿美元亚洲基金，首批投资菲律宾450MW光伏和350MWh储能项目",
+    "summary": "章鱼能源（Octopus Energy）推出规模6亿美元（人民币约40亿元）的亚洲投资基金（Octopus Asia Electrification Fund，OAEF）。目标市场包括菲律宾、日本、韩国、新加坡、印尼、泰国、马来西亚和越南。投资领域涵盖光伏、陆上风电、电池储能，以及微电网、电动汽车充电等能源转型技术。首笔投资落在菲律宾，支持开发450MW光伏和350MWh储能项目，目标于2030年前投运。 解读：该基金的设立显示国际资本正加速布局东南亚新能源资产，看好该地区在用电需求增长和能源转型双重驱动下的项目投资回报。这类专项基金有望缓解当地电站开发普遍面临的融资瓶颈，同时也会加剧区域内优质资产的竞争压力。章鱼能源新加坡团队与日本光伏开发商Yotsuya Energy、韩国光伏开发商Skygreen Energy及海上风电开发商Deep Wind Offshore建立合作，已储备2GW新能源项目开发。",
+    "sourceName": "pv-tech.org",
+    "sourceUrl": "https://www.pv-tech.org/octopus-energy-launches-us600-million-asia-fund-with-450mw-philippines-solar-investment",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|41cabced5dee8179aac6ea0939e50078",
+    "collectedAt": "2026-11-18T09:37:51.492Z",
+    "notionPageId": "41cabced5dee8179aac6ea0939e50078",
+    "fingerprint": "notion|ae9d2f15590d4324d172"
   },
   {
     "date": "2026-11-15",
