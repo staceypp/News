@@ -6938,5 +6938,107 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-10",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "规划",
+    "businessTags": [
+      "零碳园区",
+      "绿电"
+    ],
+    "tags": [
+      "北京经开区",
+      "新能源智能网联汽车"
+    ],
+    "company": "北京经济技术开发区(亦庄)",
+    "title": "北京亦庄拟2028年建成全国首个新能源智能网联汽车零碳标杆园区",
+    "summary": "北京经济技术开发区（亦庄）2025年12月入选首批国家级零碳园区建设名单，是北京市唯一入选园区，并以新能源与智能网联汽车产业园作为\"园中园\"推进零碳标杆建设。园区目标到2028年清洁能源消费占比超过90%，可再生能源覆盖园区100%用电需求；因本地土地稀缺、绿电资源不足，园区拟通过异地建设风光项目、专线输电，并结合储能与市场化交易方式破解绿电供应瓶颈。",
+    "sourceName": "北京日报",
+    "sourceUrl": "https://news.bjd.com.cn/2026/11/10/12025268.shtml",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|北京经济技术开发区|新能源智能网联汽车零碳标杆园区|2028年90%清洁能源|规划",
+    "id": "daily|2026-11-10|中国|亦庄零碳标杆园区",
+    "collectedAt": "2026-11-17T00:37:36.000Z"
+  },
+  {
+    "date": "2026-11-12",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "市场信息",
+    "eventType": "合作",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "算电协同",
+      "AIDC"
+    ],
+    "tags": [
+      "数据中心",
+      "绿电采购"
+    ],
+    "company": "AirTrunk / European Energy Australia",
+    "title": "AirTrunk与European Energy Australia签独家协议，拟为数据中心开发超1GW风光储",
+    "summary": "数据中心运营商AirTrunk与可再生能源开发商European Energy Australia签署独家协议，拟在新南威尔士州猎人谷（Hunter）地区联合推进风电、光伏及电池储能项目，为AirTrunk拟建的38亿澳元Kurri Kurri数据中心供电，相关项目规模合计可能超过1GW，电力拟通过Ausgrid升级后的132千伏电网接入猎人-中央海岸可再生能源区。双方目前尚未签署购电协议（PPA），正就长期购电安排磋商；此前两家公司已合作开发Mulwala光伏电站并向AirTrunk供电。",
+    "sourceName": "Newcastle Herald",
+    "sourceUrl": "https://www.newcastleherald.com.au/story/9389861/airtrunk-agrees-hunter-clean-energy-deal-for-kurri-kurri/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|AirTrunk-European Energy Australia|Kurri Kurri数据中心|超1GW风光储|合作",
+    "id": "daily|2026-11-12|澳大利亚|AirTrunk猎人谷风光储",
+    "collectedAt": "2026-11-17T00:37:36.000Z"
+  },
+  {
+    "date": "2026-11-05",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "虚拟电厂",
+      "电池储能"
+    ],
+    "company": "Return",
+    "title": "Return获德意志银行、Rabobank牵头8.35亿欧元融资，扩大德国电池储能业务",
+    "summary": "独立储能运营商Return宣布获得德意志银行（Deutsche Bank）和荷兰合作银行（Rabobank）牵头承销的8.35亿欧元（约合9.36亿美元）组合融资，用于扩大其在德国的电池储能业务。首期融资覆盖在建的三个项目、合计117MW储能容量，后续将在2026至2027年间纳入更多项目；该融资被称为德国市场首个将实体电池储能资产与其虚拟灵活性组合（Virtual Flexibility Portfolio）结合的融资安排。Return计划自2027年起每年在德国新增部署至少1GW储能。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/return-secures-835-million-germany-bess-rollout-targets-1gw-annually/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|Return-Deutsche Bank-Rabobank|8.35亿欧元组合融资|117MW储能|融资",
+    "id": "daily|2026-11-05|德国|Return储能融资",
+    "collectedAt": "2026-11-17T00:37:36.000Z"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "肯尼亚",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "合作",
+    "businessTags": [
+      "分布式",
+      "绿电"
+    ],
+    "tags": [
+      "离网光伏",
+      "中非合作"
+    ],
+    "company": "肯尼亚能源部 / 中国生态环境部",
+    "title": "中国与肯尼亚签署\"非洲光伏带\"合作框架，拟部署80套离网光伏系统",
+    "summary": "肯尼亚能源部与中国生态环境部签署\"非洲光伏带项目\"（Africa Solar Belt Project）合作框架协议，拟在塔纳河、基利菲等县及马赛马拉大学周边地区部署80套离网光伏系统，重点覆盖农村地区缺乏国家电网覆盖的学校、医疗机构和社区供水设施。该项目是中国2023年内罗毕非洲气候峰会上提出倡议的延续，被纳入中国对非\"十百千\"倡议及\"一带一路\"南南合作框架。",
+    "sourceName": "AllAfrica",
+    "sourceUrl": "https://allafrica.com/stories/202611030571.html",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "肯尼亚|肯尼亚能源部-中国生态环境部|非洲光伏带项目|80套离网光伏系统|合作",
+    "id": "daily|2026-11-03|肯尼亚|非洲光伏带合作",
+    "collectedAt": "2026-11-17T00:37:36.000Z"
   }
 ]
