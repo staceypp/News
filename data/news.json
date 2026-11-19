@@ -6938,5 +6938,129 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-13",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "新型储能",
+      "十五五规划",
+      "容量目标"
+    ],
+    "company": "国家发展改革委/国家能源局",
+    "title": "发改委能源局印发\"十五五\"新型储能实施方案",
+    "summary": "国家发展改革委、国家能源局11月13日联合印发《\"十五五\"新型储能实施方案》，明确到2030年前后全国新型储能装机规模达到3亿千瓦左右，平均储能时长约3小时；方案围绕多元应用场景、科技创新、行业管理、市场机制、产业发展和国际合作六方面部署16项任务，推动新型储能由规模化发展阶段转向市场化发展阶段。截至2025年底，全国已建成投运新型储能装机约1.36亿千瓦。",
+    "sourceName": "科技日报",
+    "sourceUrl": "https://www.stdaily.com/web/gdxw/2026-11/13/content_612935.html",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家发改委国家能源局|十五五新型储能实施方案|3亿千瓦|政策",
+    "id": "daily|2026-11-13|中国|十五五储能实施方案",
+    "collectedAt": "2026-11-19T00:35:59.000Z"
+  },
+  {
+    "date": "2026-11-02",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": [
+      "设施农业",
+      "光伏用地"
+    ],
+    "company": "自然资源部/农业农村部/国家林草局",
+    "title": "三部门发文允许设施农业顶部自用光伏不并网",
+    "summary": "自然资源部、农业农村部、国家林业和草原局11月2日联合发布《关于完善设施农用地管理的通知》（自然资发〔2026〕146号），以正面清单方式区分设施农业用地方式：对耕作层无破坏的设施按原用途管理，无需办理用地手续；鼓励选址利用戈壁、荒漠、盐碱地等未利用地。通知明确在不并网发电前提下，允许在设施农业顶部布设自用光伏发电设备，为\"农光互补\"类项目的用地合规性提供依据。",
+    "sourceName": "新华网",
+    "sourceUrl": "https://www.news.cn/politics/20261102/5bc06a43edea4abea00beebb2232b7ed/c.html",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|自然资源部|设施农用地管理通知|顶部自用光伏|政策",
+    "id": "daily|2026-11-02|中国|设施农用地顶部光伏新规",
+    "collectedAt": "2026-11-19T00:35:59.000Z"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "肯尼亚",
+    "geo": "非洲",
+    "category": "市场信息",
+    "eventType": "合作",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": [
+      "离网光伏",
+      "中非合作",
+      "农村电气化"
+    ],
+    "company": "中国政府/肯尼亚政府",
+    "title": "中肯签署非洲光带离网光伏合作备忘录",
+    "summary": "肯尼亚政府与中国政府11月3日签署\"非洲光带项目\"（Africa Solar Belt Project）合作备忘录，计划在坦纳河县（Tana River）、基利菲县（Kilifi）及马赛马拉大学周边等地部署离网光伏系统，为农村学校、医疗机构及供水设施供电。该项目源自2023年内罗毕非洲气候峰会期间中方提出的倡议，并与2024年中非合作论坛框架挂钩，联合国儿童基金会肯尼亚代表出席见证签约。",
+    "sourceName": "allAfrica",
+    "sourceUrl": "https://allafrica.com/stories/202611030571.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "肯尼亚|中国政府|非洲光带项目|离网光伏|合作",
+    "id": "daily|2026-11-03|肯尼亚|中肯非洲光带MOU",
+    "collectedAt": "2026-11-19T00:35:59.000Z"
+  },
+  {
+    "date": "2026-11-13",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "储能项目",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "锌溴电池",
+      "市政公用事业",
+      "长时储能"
+    ],
+    "company": "Stadtwerke Gaggenau / Eos Energy / Capac",
+    "title": "德国加根市政公司拟建7.5MW/30MWh锌溴电池储能站",
+    "summary": "德国巴登-符腾堡州加根（Gaggenau）市议会11月13日批准由市政公用事业公司Stadtwerke Gaggenau联合投资机构Capac（JP Holding子公司）在原燃气厂址新建一座7.5MW/30MWh锌溴电池储能项目，电池技术来自美国Eos Energy的Eos Indensity产品线。项目总投资约1520万欧元，计划2027年开工、2028年投运；Capac同时与Eos签署覆盖德语区（德国、奥地利、瑞士）至2031年底的独家供货协议。",
+    "sourceName": "energy-storage.news",
+    "sourceUrl": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|StadtwerkeGaggenau|锌溴电池储能|7.5MW30MWh|储能项目",
+    "id": "daily|2026-11-13|德国|加根锌溴电池储能站",
+    "collectedAt": "2026-11-19T00:35:59.000Z"
+  },
+  {
+    "date": "2026-11-11",
+    "country": "泰国",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式"
+    ],
+    "tags": [
+      "屋顶光伏",
+      "财政补贴",
+      "民生"
+    ],
+    "company": "泰国能源部/PEA/MEA",
+    "title": "泰国百万户屋顶光伏补贴10月底已开放注册",
+    "summary": "泰国内阁此前批准总预算500亿泰铢（约14.8亿美元）的\"全民光伏\"（People's Solar）屋顶光伏补贴计划，面向100万户家庭，单户最高补贴5万泰铢，可用于屋顶、地面或水面光伏系统。注册已于10月27日启动，截止至2027年1月31日；三家国有银行同步提供7年期2.5%低息贷款，补贴须待电力部门完成并网核实后放款。据11月11日报道，泰国总理称该计划旨在把电费账单变成储蓄。",
+    "sourceName": "China Daily HK",
+    "sourceUrl": "https://www.chinadailyhk.com/article/642543",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "泰国|泰国能源部|屋顶光伏补贴注册|5万泰铢|政策",
+    "id": "daily|2026-11-11|泰国|屋顶光伏补贴注册开放",
+    "collectedAt": "2026-11-19T00:35:59.000Z"
   }
 ]
