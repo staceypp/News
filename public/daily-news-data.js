@@ -3,6 +3,29 @@ window.DAILY_NEWS_DATA=[
     "date": "2026-11-17",
     "country": "美国",
     "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "PPA",
+    "businessTags": [
+      "AIDC",
+      "绿电",
+      "交易"
+    ],
+    "tags": "AIDC 绿电 交易 虚拟购电协议 数据中心",
+    "company": "Sabey Data Centers / Copenhagen Infrastructure Partners",
+    "title": "Sabey数据中心签署得州Greasewood光伏10年期虚拟购电协议",
+    "summary": "Sabey Data Centers宣布与Copenhagen Infrastructure Partners旗下、位于得州Pecos County的Greasewood光伏电站签署10年期虚拟购电协议（vPPA），年供电量约130吉瓦时，电力接入ERCOT电网。Sabey借此获得与其合同份额对应的可再生能源环境权益，服务其2029年前实现范围1、2净零排放的目标。 解读：数据中心运营商通过长期vPPA锁定既有光伏电站的环境权益，是美国AIDC企业应对用电需求增长、兑现碳中和承诺的常见路径。",
+    "sourceName": "DatacenterDynamics",
+    "sourceUrl": "https://www.datacenterdynamics.com/en/news/sabey-signs-435mw-ppa-in-texas/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Sabey Data Centers-Copenhagen Infrastructure Partners|Greasewood光伏电站|10年期vPPA-130GWh|PPA",
+    "id": "daily|2026-11-17|美国|Sabey得州vPPA",
+    "collectedAt": "2026-11-20T00:37:37Z"
+  },
+  {
+    "date": "2026-11-17",
+    "country": "美国",
+    "geo": "美洲",
     "category": "市场信息",
     "eventType": "融资",
     "businessTags": [
@@ -43,6 +66,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-18T09:37:51.492Z",
     "notionPageId": "41cabced5dee81fa976deac5297a508b",
     "fingerprint": "notion|462cda4c9abd077cdb79"
+  },
+  {
+    "date": "2026-11-16",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "出售",
+    "businessTags": [
+      "分布式",
+      "交易"
+    ],
+    "tags": "分布式 交易 屋顶光伏 闲置资产处置",
+    "company": "协鑫集成",
+    "title": "协鑫集成3.15亿元出售张家港厂房及屋顶光伏电站",
+    "summary": "协鑫集成公告，全资子公司张家港协鑫集成科技有限公司与张家港市悦鑫产业发展有限公司签署《资产转让协议》，出售位于张家港杨舍镇的国有土地使用权、房屋建筑物及配套屋顶分布式光伏电站，交易价格3.15亿元，与评估值一致，不构成关联交易或重大资产重组。公司称交易目的是盘活闲置资产、回笼资金、改善经营性现金流。 解读：光伏制造企业在行业调整期加快处置闲置厂房及配套分布式电站资产，以缓解现金流压力。",
+    "sourceName": "蓝鲸新闻",
+    "sourceUrl": "https://www.lanjinger.com/d/1794907638890011887",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|协鑫集成|张家港厂房光伏电站|3.15亿元|出售",
+    "id": "daily|2026-11-16|中国|协鑫集成张家港资产出售",
+    "collectedAt": "2026-11-20T00:37:37Z"
   },
   {
     "date": "2026-11-16",
@@ -139,6 +184,28 @@ window.DAILY_NEWS_DATA=[
     "date": "2026-11-13",
     "country": "中国",
     "geo": "中国",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 构网型储能 独立储能",
+    "company": "邵阳液压 / 华自科技",
+    "title": "邵阳液压联合体签署志丹200MW/600MWh储能项目合同",
+    "summary": "邵阳液压公告，公司与华自科技组成的联合体与中国二冶建筑工程技术分公司签署志丹200MW/600MWh构网型独立储能项目物资采购合同，合同总价4.62亿元（含税），与此前10月中标金额一致，公司预计承担供货及服务金额约1.8亿元。此次中标通知书来自中国二冶集团。 解读：储能EPC企业跨界布局构网型独立储能项目，反映出陕西等地独立储能市场招标持续落地。",
+    "sourceName": "财闻网",
+    "sourceUrl": "https://www.caiwennews.com/article/1700136.shtml",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|邵阳液压-华自科技|志丹储能项目|200MW600MWh-4.62亿元|签约",
+    "id": "daily|2026-11-13|中国|志丹储能合同签约",
+    "collectedAt": "2026-11-20T00:37:37Z"
+  },
+  {
+    "date": "2026-11-13",
+    "country": "中国",
+    "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
@@ -156,6 +223,30 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-16T08:53:57.498Z",
     "notionPageId": "419abced5dee81faaecdcc1bf6214c65",
     "fingerprint": "notion|5fe9038360adf371895a"
+  },
+  {
+    "date": "2026-11-12",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "算电协同",
+      "AIDC",
+      "储能",
+      "融资"
+    ],
+    "tags": "算电协同 AIDC 储能 融资 机构间REITs 源网荷储一体化 乌兰察布",
+    "company": "中金数据集团",
+    "title": "全国首单算力源网荷储一体化机构间REITs在上交所发行",
+    "summary": "“华泰-中金数据持有型不动产资产支持专项计划”于11月12日在上交所发行，规模36.52亿元，为全国首单源网荷储一体化算力基础设施机构间REITs。底层资产为中金数据乌兰察布零碳算力基地，IT总容量230.31MW，配套30万千瓦新能源发电及4.5万千瓦储能系统，全容量投产后预计每年可产出8.48亿千瓦时自发自用绿电。中金数据集团为原始权益人，华泰联合证券任财务顾问。 解读：该项目把绿电生产、储能调节与算力负载打包发行机构间REITs，为算电协同类资产提供了新的资本循环路径。",
+    "sourceName": "新浪财经",
+    "sourceUrl": "https://cj.sina.com.cn/articles/view/7840890301/1d35a7dbd00101ikbo",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|中金数据集团|乌兰察布算力基地REITs|36.52亿元-230.31MW|融资",
+    "id": "daily|2026-11-12|中国|算力源网荷储REITs",
+    "collectedAt": "2026-11-20T00:37:37Z"
   },
   {
     "date": "2026-11-12",
@@ -226,6 +317,29 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-12T09:05:48.716Z",
     "notionPageId": "416abced5dee81dfaae3d2d90778e280",
     "fingerprint": "notion|8e4cc6bd40f3be8e2747"
+  },
+  {
+    "date": "2026-11-10",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "AIDC",
+      "融资"
+    ],
+    "tags": "储能 AIDC 融资 债务融资 数据中心储能",
+    "company": "Calibrant Energy",
+    "title": "Calibrant Energy获1.45亿美元融资支持多州光储项目",
+    "summary": "Calibrant Energy宣布完成由Investec Bank牵头的1.45亿美元债务融资，用于支持其在美国多个电力市场的光伏及电池储能项目组合，其中包括服务PJM区域一座超大规模数据中心客户的120MWh电池储能系统。 解读：随着数据中心用电需求上升，美国储能开发商持续通过专项债务融资匹配面向超大规模算力客户的储能项目建设节奏。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/calibrant-energy-secures-us145-million-for-solar-and-bess-across-us-power-markets-including-pjm-hyperscaler-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Calibrant Energy-Investec Bank|多州光储项目组合|1.45亿美元-120MWh|融资",
+    "id": "daily|2026-11-10|美国|Calibrant光储融资",
+    "collectedAt": "2026-11-20T00:37:37Z"
   },
   {
     "date": "2026-11-10",
