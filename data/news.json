@@ -7019,5 +7019,107 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-13",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "政策",
+      "十五五",
+      "容量价值机制"
+    ],
+    "company": "国家发展改革委/国家能源局",
+    "title": "发改委能源局印发《十五五新型储能实施方案》",
+    "summary": "国家发展改革委、国家能源局11月13日联合印发《“十五五”新型储能实施方案》，明确新型储能将从规模化发展阶段进入市场化发展阶段。方案提出到2030年全国新型储能装机规模达到3亿千瓦、平均储能时长约3小时，其中省内自用储能约2.4亿千瓦以上、新能源基地配置储能约5000万至6000万千瓦。方案还明确健全市场机制、完善容量价值机制等重点任务，推动独立储能、长时储能和构网型储能发展。",
+    "sourceName": "科技日报",
+    "sourceUrl": "https://www.stdaily.com/web/gdxw/2026-11/13/content_612935.html",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家发展改革委-国家能源局|十五五新型储能实施方案|3亿千瓦2030年|政策",
+    "id": "daily|2026-11-13|中国|十五五储能实施方案",
+    "collectedAt": "2026-11-21T00:40:00Z"
+  },
+  {
+    "date": "2026-11-13",
+    "country": "全球",
+    "geo": "全球",
+    "category": "同行动态",
+    "eventType": "联盟启动",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "COP31",
+      "国际合作",
+      "CNESA"
+    ],
+    "company": "中国储能联盟(CNESA)/南方电网储能",
+    "title": "COP31启动全球储能联盟GESA,中方机构牵头发起",
+    "summary": "COP31期间（土耳其安塔利亚），中国储能联盟(CNESA)、中国可再生能源工程研究院、南方电网储能等机构联合多方国际伙伴，于11月13日在中国展馆发起全球储能联盟(GESA)倡议，旨在推动储能成为新型电力系统的核心基础设施。阳光电源、亿纬锂能(EVE Energy)、国际水电协会、长时储能理事会等机构代表出席启动仪式。报道指出，该联盟的治理架构、成员规则及资金安排目前尚未公布。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/global-energy-storage-alliance-launches-at-cop31-aims-to-address-persistent-energy-transition-challenges/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "全球|CNESA-南方电网储能|GESA全球储能联盟|COP31|联盟启动",
+    "id": "daily|2026-11-13|全球|GESA全球储能联盟启动",
+    "collectedAt": "2026-11-21T00:40:00Z"
+  },
+  {
+    "date": "2026-11-16",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "开工",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "CIS竞标",
+      "BESS",
+      "西澳"
+    ],
+    "company": "Frontier Energy",
+    "title": "Frontier Energy西澳Waroona光储项目一期开工",
+    "summary": "澳大利亚上市公司Frontier Energy于11月16日在西澳Waroona启动其可再生能源项目一期的主体施工，项目位于珀斯以南约120公里处，包括132MW光伏电站与81.5MW、约7小时时长的电池储能系统。项目总投资约3.1亿澳元并已获得全额资金支持，由西澳本地企业Monford Group担任固定价格EPC总包，是西澳首轮容量投资计划(CIS)中标项目之一，预计2028年投产发电。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/frontier-energy-construction-waroona-solar-plus-storage-bess-western-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|Frontier Energy|Waroona光储项目一期|132MW-81.5MW|开工",
+    "id": "daily|2026-11-16|澳大利亚|Waroona光储项目开工",
+    "collectedAt": "2026-11-21T00:40:00Z"
+  },
+  {
+    "date": "2026-11-12",
+    "country": "南非",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "组件供货协议",
+    "businessTags": [
+      "集中式",
+      "AIDC"
+    ],
+    "tags": [
+      "数据中心用电",
+      "过网协议",
+      "n型组件"
+    ],
+    "company": "晶澳科技(JA Solar)/Teraco",
+    "title": "晶澳独供南非Teraco 120MW Sediba光伏项目组件",
+    "summary": "晶澳科技(JA Solar)11月12日宣布，经技术评估后被数据中心运营商Teraco选定为其南非自由省Parys的120MW Sediba光伏项目独家组件供应商，将供应高效N型组件。项目所发绿电将通过与地方市政及南非国家电力公司Eskom的过网(power-wheeling)安排，用于满足Teraco数据中心的用电需求，预计年发电量超过35.4万兆瓦时。",
+    "sourceName": "PV-Tech",
+    "sourceUrl": "https://www.pv-tech.org/ja-supply-n-type-modules-teracos-120mw-sediba-solar-project-south-africa/",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "南非|晶澳科技-Teraco|Sediba光伏项目|120MW|组件供货协议",
+    "id": "daily|2026-11-12|南非|晶澳南非Sediba组件独供",
+    "collectedAt": "2026-11-21T00:40:00Z"
   }
 ]
