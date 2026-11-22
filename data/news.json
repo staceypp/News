@@ -7019,5 +7019,134 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-19",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "报告发布",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "虚拟电厂",
+      "新型电力系统"
+    ],
+    "company": "国家能源局",
+    "title": "国家能源局发布《中国虚拟电厂发展报告(2026)》",
+    "summary": "2026年11月19日，国家能源局发布首部国家级虚拟电厂发展报告——《中国虚拟电厂发展报告(2026)》。报告显示，截至2026年6月底，全国已建成投运虚拟电厂项目592个，同比增长78.9%，最大调节能力达2042.8万千瓦，同比增长62.7%，已提前完成2027年调节能力2000万千瓦的目标。报告还提到，全国已有23个省份出台专项发展政策，广东等地虚拟电厂已参与电力现货市场报量报价交易。",
+    "sourceName": "新华财经",
+    "sourceUrl": "https://www.cnfin.com/hg-lb/detail/20261119/4497534_1.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|中国虚拟电厂发展报告2026|592个项目|报告发布",
+    "id": "daily|2026-11-19|中国|虚拟电厂发展报告",
+    "collectedAt": "2026-11-22T00:36:30Z"
+  },
+  {
+    "date": "2026-11-13",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "战略合作",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "绿电"
+    ],
+    "tags": [
+      "数据中心",
+      "PPA",
+      "新南威尔士"
+    ],
+    "company": "AirTrunk / European Energy Australia",
+    "title": "AirTrunk与European Energy签署澳大利亚1GW+光储风独家开发协议",
+    "summary": "数据中心运营商AirTrunk与欧洲能源旗下European Energy Australia签署独家协议，拟在新南威尔士猎人谷（Hunter）可再生能源区开发260MW光伏、最多350MW风电及超800MWh储能项目，用于支持AirTrunk在该地区（包括拟建Kurri Kurri园区）的用电需求。双方同时就长期购电协议展开谈判，光伏与储能预计2030年投运、风电预计2032年投运，该独家协议尚不构成最终供电承诺。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/data-centre-operator-airtrunk-secures-exclusivity-on-1gw-hunter-solar-wind-and-storage-projects-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|AirTrunk-European Energy|猎人谷光储风项目|260MW光伏800MWh储能|战略合作",
+    "id": "daily|2026-11-13|澳大利亚|AirTrunk猎人谷光储协议",
+    "collectedAt": "2026-11-22T00:36:30Z"
+  },
+  {
+    "date": "2026-11-16",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "供应协议",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "LFP",
+      "三星SDI",
+      "得州"
+    ],
+    "company": "Samsung SDI / Jupiter Power",
+    "title": "三星SDI与美国Jupiter Power签署16GWh磷酸铁锂储能电池供应协议",
+    "summary": "三星SDI美国子公司与得州储能开发商Jupiter Power签署三年期协议，将自2029年起向其供应16GWh磷酸铁锂（LFP）储能电池，产能来自三星SDI在印第安纳州的工厂。加上此前订单，两家公司累计储能电池合作规模已达约27GWh，这是三星SDI印第安纳工厂量产LFP电芯后首个公开的LFP储能订单。",
+    "sourceName": "Korea JoongAng Daily",
+    "sourceUrl": "https://www.koreajoongangdaily.com/business/samsung-sdi-lands-lfp-battery-deal-withnbspjupiter-power/12974407",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|三星SDI-Jupiter Power|16GWh LFP储能供应协议|印第安纳州|供应协议",
+    "id": "daily|2026-11-16|美国|三星SDI供应Jupiter Power",
+    "collectedAt": "2026-11-22T00:36:30Z"
+  },
+  {
+    "date": "2026-11-10",
+    "country": "菲律宾,越南,印尼",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "区域合作",
+    "businessTags": [
+      "绿电",
+      "储能"
+    ],
+    "tags": [
+      "离岛供电",
+      "COP31",
+      "柴油替代"
+    ],
+    "company": "菲律宾/越南/印尼能源主管部门",
+    "title": "菲律宾加入越南、印尼区域合作，加速离岛社区光储替代柴油发电",
+    "summary": "菲律宾、越南、印尼三国于2026年11月10日在COP31菲律宾馆（土耳其安塔利亚）启动区域合作伙伴关系，旨在加快离岛及偏远社区以光伏加储能方案替代柴油发电，重点推动区域协同规划、私营部门投资、支持性监管及技术能力建设。菲律宾罗姆布隆省科夫拉多岛此前的光储混合示范项目已将发电成本从每千瓦时0.47美元降至0.24美元，为合作提供了实证依据。",
+    "sourceName": "Solar Quarter",
+    "sourceUrl": "https://solarquarter.com/2026/11/13/philippines-joins-vietnam-and-indonesia-to-accelerate-solar-and-battery-storage-deployment-in-island-communities/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "菲律宾-越南-印尼|离岛光储区域合作|COP31启动|柴油替代|区域合作",
+    "id": "daily|2026-11-10|菲律宾|离岛光储区域合作",
+    "collectedAt": "2026-11-22T00:36:30Z"
+  },
+  {
+    "date": "2026-11-10",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "开工建设",
+    "businessTags": [
+      "储能",
+      "集中式"
+    ],
+    "tags": [
+      "西西里",
+      "隆基"
+    ],
+    "company": "RWE / 隆基绿能",
+    "title": "RWE在意大利开工首个储能项目，配套隆基300MWh电池供应",
+    "summary": "德国能源企业RWE在意大利西西里岛拉古萨（Ragusa）启动其在意大利首个独立储能项目建设，规模为62.5MW/262.5MWh，可满功率放电4小时，预计2027年底投运。电池设备由中国企业隆基绿能供应，合计容量300MWh（含超配），是隆基在意大利迄今最大的光储合同。RWE表示目前在意大利管理约670MW装机，并计划继续扩大储能布局。",
+    "sourceName": "RWE",
+    "sourceUrl": "https://www.rwe.com/en/press/rwe-renewables-europe-australia/2026-11-10-rwe-starts-construction-of-its-first-battery-in-italy/",
+    "sourceType": "official",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|RWE-隆基|西西里拉古萨储能项目|62.5MW262.5MWh|开工建设",
+    "id": "daily|2026-11-10|意大利|RWE西西里储能开工",
+    "collectedAt": "2026-11-22T00:36:30Z"
   }
 ]
