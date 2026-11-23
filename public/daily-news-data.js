@@ -1,5 +1,116 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-11-21",
+    "country": "印尼",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "PPA",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 PPA 集中式光伏 储能",
+    "company": "PLN",
+    "title": "印尼国家电力公司PLN在COP31签署6项购电协议及2项意向书，涉及水电光伏风电储能",
+    "summary": "印尼国有电力公司PLN在土耳其安塔利亚举行的COP31气候大会期间签署6项购电协议（PPA）并签订2项意向书（LOI），涵盖水电、光伏与风电项目，部分配套电池储能系统（BESS），相关项目是落实《2025-2034年电力供应业务计划》（RUPTL）的一部分。已披露项目包括：Redelong水电站18兆瓦、Pakkat-2水电站45兆瓦、Besai-2水电站20兆瓦、Salu Uro水电站95兆瓦；Timor-1光伏5兆瓦、Betun光伏0.6兆瓦（配储能）、Sumbawa-Bima光伏10兆瓦（配储能）；南苏拉威西两座风电项目，装机分别为70兆瓦和60兆瓦，均配套储能。 解读：印尼正加快可再生能源项目从采购转向投资落地，风光配储模式也在印尼多岛电网中逐步铺开。PLN密集签约有助于验证当地中小型风光配储及离网混合电站的商业模式，相关组件与储能系统集成需求值得持续跟踪。",
+    "sourceName": "en.antaranews.com",
+    "sourceUrl": "https://en.antaranews.com/news/444259/indonesias-pln-signs-six-power-purchase-agreements-at-cop31",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|421abced5dee81ca91e3d0e59e6a8399",
+    "collectedAt": "2026-11-23T10:08:26.340Z",
+    "notionPageId": "421abced5dee81ca91e3d0e59e6a8399",
+    "fingerprint": "notion|70d8098dee65b18b06df"
+  },
+  {
+    "date": "2026-11-20",
+    "country": "河北",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "中标",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 风电 河北",
+    "company": "河北项目主体",
+    "title": "河北张家口710MW风电项目投资主体中标候选结果公示",
+    "summary": "河北省张家口市公布5个风电项目投资主体中标候选人公示，合计规模710MW。其中华润预中选260MW排名第一，张家口中合新能源集团预中选250MW，中煤预中选200MW。 解读：候选结果反映风电开发资源仍主要集中在央企和地方国资。",
+    "sourceName": "mp.weixin.qq.com",
+    "sourceUrl": "https://mp.weixin.qq.com/s/rq2XtUp4fS7kNWKeKMPERw",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|41eabced5dee814a9218cdff29df014b",
+    "collectedAt": "2026-11-23T10:08:26.340Z",
+    "notionPageId": "41eabced5dee814a9218cdff29df014b",
+    "fingerprint": "notion|a4c01e40376fc0daa438"
+  },
+  {
+    "date": "2026-11-20",
+    "country": "内蒙古",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": "集中式 集中式 内蒙古",
+    "company": "内蒙古项目主体",
+    "title": "国内首例沙漠腹地风电项目并网发电，内蒙古阿拉善\"阿电入乌\"工程首批机组投运",
+    "summary": "中国电建总承包的国内首例沙漠腹地风电项目——内蒙古阿拉善盟乌兰布和沙漠腹地的\"蒙能阿电入乌\"30万千瓦风电项目首批16台机组（装机160MW）并网发电。该项目是200万千瓦（2GW）\"阿电入乌\"区域互济新能源项目的风电部分，整体还包括170万千瓦（1.7GW）光伏及30万千瓦/60万千瓦时（300MW/600MWh）储能配套，全部建成后预计年均向乌海地区输送清洁电力41.8亿千瓦时（4180GWh）。 解读：该项目标志着\"沙戈荒\"大基地建设向极端沙漠环境的进一步延伸，攻克了流沙环境下风机基础施工、大件设备运输与吊装等一系列技术难题，为类似地形条件下的新能源开发提供了可复制的工程范式，对沙戈荒项目具有技术借鉴价值。",
+    "sourceName": "nea.gov.cn",
+    "sourceUrl": "https://www.nea.gov.cn/20261120/fd3bad9ca44d4852969975163f4e77a4/c.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|420abced5dee81d2addad93544fd246a",
+    "collectedAt": "2026-11-23T10:08:26.340Z",
+    "notionPageId": "420abced5dee81d2addad93544fd246a",
+    "fingerprint": "notion|e7f5db59486c29eb6589"
+  },
+  {
+    "date": "2026-11-19",
+    "country": "北京",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "电力交易"
+    ],
+    "tags": "电力交易 电力交易 北京 天津 河北 山西 内蒙古",
+    "company": "国家能源局",
+    "title": "华北能源监管局印发区域“两个细则”2026修订版",
+    "summary": "华北能源监管局印发《华北区域电力并网运行管理实施细则》《华北区域电力辅助服务管理实施细则》（2026修订版）及配套的风光、新型储能电站并网运行管理实施细则（华北监能市场〔2026〕306号），自2027年1月1日起执行。修订旨在落实国家能源局电力并网运行管理规定和电力辅助服务管理办法要求，引导新型并网主体适配新型电力系统，适用范围覆盖国网华北分部及京津冀蒙区域电网企业、发电集团和新能源企业。 解读：“两个细则”是区域电力市场运行的基础性技术规则，明确新能源、储能参与调频调峰等辅助服务的技术门槛和考核要求，释放出电网对新型主体技术和调节能力要求趋严的信号。在河北、内蒙古等华北区域的集中式项目需及时对照新版细则评估并网技术改造和辅助服务参与成本。",
+    "sourceName": "hbj.nea.gov.cn",
+    "sourceUrl": "https://hbj.nea.gov.cn/xxgk/fdzdgknr/scxxgk/202611/t20261119_312766.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|41eabced5dee8173ad76f8db31ebda1a",
+    "collectedAt": "2026-11-23T10:08:26.340Z",
+    "notionPageId": "41eabced5dee8173ad76f8db31ebda1a",
+    "fingerprint": "notion|0ae1deec51b115c9e21b"
+  },
+  {
+    "date": "2026-11-19",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "微电网"
+    ],
+    "tags": "微电网 智能微电网 虚拟电厂 全国",
+    "company": "国家能源局",
+    "title": "国家能源局首发《中国虚拟电厂发展报告（2026）》，全国最大调节能力突破2000万千瓦",
+    "summary": "国家能源局联合电力规划设计总院发布虚拟电厂领域首部国家级发展报告。截至2026年6月底，全国已建成并投运虚拟电厂592个，同比增长78.9%；最大调节能力2042.8万千瓦（20.428GW），同比增长62.7%，提前完成2027年调节能力超2000万千瓦（20GW）的既定目标。华东、南方、华北地区项目数量占比分别为48.3%、17.7%、15%，调节能力占比分别为32.7%、24.3%、25.1%。民企投资建设的虚拟电厂达268个，占比45.3%。 解读：该文件是虚拟电厂首次拥有国家级年度发展报告，意味着这一新型经营主体正式从示范探索转向规模化、制度化发展阶段，政策体系（专项文件、纳入电力规划、国家试点）已基本成型。《新型电力系统建设“十五五”规划》已将虚拟电厂纳入规划，提出2030年全国最大调节能力超50GW的目标。对新能源资产持有者而言，虚拟电厂是聚合分布式电源、储能、充换电设施参与电力市场和辅助服务、获取额外收益的重要渠道，尤其在华东、华北等调节能力集中区域机会更明显，值得关注后续省级配套细则和聚合商准入规则的出台。",
+    "sourceName": "nea.gohttps",
+    "sourceUrl": "https://www.nea.gohttps//www.nea.gov.cn/20261119/69c5995084014969b750007706cbd39d/2026111969c5995084014969b750007706cbd39d_454767ba4ebc2b4011880e77875dca50fc.pdf",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|41fabced5dee81159f03ed154a9fc6bc",
+    "collectedAt": "2026-11-23T10:08:26.340Z",
+    "notionPageId": "41fabced5dee81159f03ed154a9fc6bc",
+    "fingerprint": "notion|66495afb0a0817df8737"
+  },
+  {
     "date": "2026-11-18",
     "country": "中国",
     "geo": "中国",
