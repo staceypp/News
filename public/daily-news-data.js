@@ -3,6 +3,50 @@ window.DAILY_NEWS_DATA=[
     "date": "2026-11-18",
     "country": "中国",
     "geo": "中国",
+    "category": "同行动态",
+    "eventType": "行业会议",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 光伏大会 成都 钙钛矿 AI光储",
+    "company": "中国光伏行业协会",
+    "title": "2026第九届国际光伏与储能产业大会在成都举行",
+    "summary": "以\"光储相融 生态共建 链启未来\"为主题的2026第九届国际光伏与储能产业大会于11月17日至20日在成都世纪城新国际会展中心举行，11月18日正式开幕，吸引全球80余个国家和地区代表参会。与会人士普遍认为我国光储产业正从规模竞赛转向价值创造，钙钛矿叠层、长时储能、AI光储成为关注焦点；阿特斯等企业披露储能收入已超过光伏业务，成为公司第一大收入来源。",
+    "sourceName": "科技日报",
+    "sourceUrl": "https://www.stdaily.com/web/gdxw/2026-11/19/content_616003.html",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|成都|第九届国际光伏与储能产业大会|11月18日|行业会议",
+    "id": "daily|2026-11-18|中国|光伏储能大会成都",
+    "collectedAt": "2026-11-23T00:37:04.000Z"
+  },
+  {
+    "date": "2026-11-18",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "供货协议",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 X-ELIO 得州 澳大利亚 SolBank",
+    "company": "Canadian Solar e-STORAGE / X-ELIO",
+    "title": "阿特斯e-STORAGE与X-ELIO签订590MW/1.43GWh储能供货协议",
+    "summary": "阿特斯阳光电力（Canadian Solar）旗下储能子公司e-STORAGE与西班牙开发商X-ELIO签署供货协议，将为美国得州四个及澳大利亚新南威尔士州一个电池储能项目提供合计590MW/1.43GWh的SolBank 3.0储能系统，每份合同均附带22年期长期服务协议。其中最大的得州项目规模达200MW/482MWh，预计2027至2028年陆续投运，澳大利亚项目将助力当地燃煤电厂退役。截至2026年6月底，e-STORAGE在手合同储备已达35亿美元。",
+    "sourceName": "Canadian Solar/e-STORAGE (PR Newswire)",
+    "sourceUrl": "https://www.blackridgeresearch.com/news-releases/x-elio-and-e-storage-sign-supply-deals-for-590-mw-1-43-gwh-of-battery-projects-in-the-us-and-australia",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|X-ELIO|e-STORAGE|590MW|1.43GWh|供货协议",
+    "id": "daily|2026-11-18|美国|eSTORAGE储能供货",
+    "collectedAt": "2026-11-23T00:37:04.000Z"
+  },
+  {
+    "date": "2026-11-18",
+    "country": "中国",
+    "geo": "中国",
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
@@ -211,6 +255,28 @@ window.DAILY_NEWS_DATA=[
     "category": "市场信息",
     "eventType": "政策",
     "businessTags": [
+      "储能",
+      "绿电"
+    ],
+    "tags": "储能 绿电 十五五 新型储能 零碳园区 虚拟电厂",
+    "company": "国家发展改革委/国家能源局",
+    "title": "发改委能源局印发《\"十五五\"新型储能实施方案》",
+    "summary": "国家发展改革委、国家能源局联合印发《\"十五五\"新型储能实施方案》，提出到2030年全国新型储能装机规模达到3亿千瓦左右、平均储能时长约3小时，推动新型储能由规模化发展阶段进入市场化发展阶段。方案明确新能源基地配置储能约5000万至6000万千瓦，省内自用储能预计超2.4亿千瓦，重点支持顶峰保供、新能源消纳、绿电直连、零碳园区和虚拟电厂等应用场景。截至2026年9月底，全国新型储能装机已达1.67亿千瓦，距目标仍有较大增长空间。",
+    "sourceName": "新华网",
+    "sourceUrl": "https://www.xinhuanet.com/20261113/6403fb863c2b4995840e834fce100c7f/c.html",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|国家能源局|十五五新型储能实施方案|3亿千瓦|政策",
+    "id": "daily|2026-11-13|中国|十五五新型储能方案",
+    "collectedAt": "2026-11-23T00:37:04.000Z"
+  },
+  {
+    "date": "2026-11-13",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
       "储能"
     ],
     "tags": "储能 储能 全国",
@@ -225,6 +291,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-16T08:53:57.498Z",
     "notionPageId": "419abced5dee81faaecdcc1bf6214c65",
     "fingerprint": "notion|5fe9038360adf371895a"
+  },
+  {
+    "date": "2026-11-12",
+    "country": "希腊",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "项目开工",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": "集中式 储能 METLEN Tsakos Domokos",
+    "company": "METLEN Energy / Tsakos Group",
+    "title": "METLEN与Tsakos集团251.9MW光伏储能项目在希腊开工",
+    "summary": "希腊能源企业METLEN Energy与航运巨头Tsakos Group合资开发的251.9MW光伏配套约375MWh电池储能项目在希腊中部多莫克斯（Domokos）举行开工仪式。该项目由双方成立的合资公司持有（Tsakos持股60%、METLEN持股40%），METLEN负责项目建设及能源商业管理，预计2028年初投入商业运营，是希腊最大的光伏储能混合项目之一。",
+    "sourceName": "pv-tech.org",
+    "sourceUrl": "https://www.pv-tech.org/metlen-tsakos-advance-251mw-greek-solar-plus-storage-project/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "希腊|METLEN|Tsakos|251.9MW|项目开工",
+    "id": "daily|2026-11-12|希腊|METLEN希腊光伏开工",
+    "collectedAt": "2026-11-23T00:37:04.000Z"
   },
   {
     "date": "2026-11-12",
@@ -250,6 +338,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-13T08:59:02.433Z",
     "notionPageId": "417abced5dee8161a094d0b4140fe84f",
     "fingerprint": "notion|92c76a132fe0731d8d5a"
+  },
+  {
+    "date": "2026-11-11",
+    "country": "印度尼西亚",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "融资"
+    ],
+    "tags": "集中式 融资 主权基金 菲律宾 风光组合",
+    "company": "Vena Group / Indonesia Investment Authority",
+    "title": "印尼主权基金INA入股Vena Group 2.8GW光伏风电组合",
+    "summary": "新加坡可再生能源开发商Vena Group与印尼主权财富基金Indonesia Investment Authority（INA）宣布战略合作，INA将入股Vena在印尼及菲律宾开发的2.8GW光伏与风电组合，项目覆盖已投运、在建、已签约及开发中四个阶段。此次合作是Vena\"绿色基金伙伴\"策略的一部分，旨在引入机构投资者支持东南亚可再生能源基础设施建设，具体交易金额及持股比例未披露。",
+    "sourceName": "The Jakarta Post",
+    "sourceUrl": "https://www.thejakartapost.com/business/2026/11/12/ina-invests-in-vena-groups-2-8-gw-renewable-energy-portfolio",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "印度尼西亚|VenaGroup|INA|2.8GW|融资",
+    "id": "daily|2026-11-11|印度尼西亚|INA入股Vena组合",
+    "collectedAt": "2026-11-23T00:37:04.000Z"
   },
   {
     "date": "2026-11-11",
@@ -471,6 +581,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-17T23:17:09.223Z",
     "notionPageId": "41aabced5dee81d3b211daefaace0659",
     "fingerprint": "notion|7979b8e0eb7b720194c7"
+  },
+  {
+    "date": "2026-11-04",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "储能",
+      "融资"
+    ],
+    "tags": "储能 融资 Return Deutsche Bank Rabobank",
+    "company": "Return",
+    "title": "荷兰储能商Return获8.35亿欧元融资扩大德国业务",
+    "summary": "总部位于阿姆斯特丹的储能开发商Return宣布获得德意志银行和荷兰合作银行（Rabobank）承销的8.35亿欧元组合融资，用于扩大其在德国的电池储能项目规模。该融资采用框架式结构，首批纳入德国在建的三个储能项目（合计117MW），后续符合条件的新项目可直接并入而无需逐一重启融资流程。Return计划凭借这笔资金从2027年起每年新增至少1GW电池储能容量，并将其与旗下虚拟灵活性组合业务结合。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/return-secures-835-million-germany-bess-rollout-targets-1gw-annually/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|Return|8.35亿欧元|储能融资",
+    "id": "daily|2026-11-04|德国|Return德国储能融资",
+    "collectedAt": "2026-11-23T00:37:04.000Z"
   },
   {
     "date": "2026-11-04",
