@@ -68,6 +68,27 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-11-19",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "企业动态",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 光储一体化 阿特斯 收入结构",
+    "company": "阿特斯阳光电力（Canadian Solar）",
+    "title": "阿特斯储能收入超越光伏，成第一大收入来源",
+    "summary": "2026年11月17日至20日举行的第九届国际光伏与储能产业大会期间，阿特斯研发副总裁许涛接受新京报贝壳财经等媒体采访时表示，公司储能业务增长迅速，储能收入已超过光伏组件业务，成为第一大收入来源，公司现在实际上更像一家光储公司。钛媒体报道引用的财务数据显示，2026年上半年阿特斯储能系统收入56.59亿元，超过光伏组件的37.93亿元，储能出货量同比增长103.3%达6.1GWh；不过公司前三季度扣非后仍处于亏损状态，储能业务增长尚未完全抵消光伏板块收入下滑的影响。",
+    "sourceName": "新京报贝壳财经",
+    "sourceUrl": "https://www.bjnews.com.cn/detail/1795051017129837.html",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|阿特斯|储能收入超光伏成第一大收入来源|56.59亿元|企业动态",
+    "id": "daily|2026-11-19|中国|阿特斯储能收入超光伏",
+    "collectedAt": "2026-11-24T00:38:58Z"
+  },
+  {
+    "date": "2026-11-19",
     "country": "北京",
     "geo": "中国",
     "category": "市场信息",
@@ -112,6 +133,29 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-11-18",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "PPA签约",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "交易"
+    ],
+    "tags": "集中式 储能 交易 PPA 加州 电池储能",
+    "company": "Avantus / Pacific Gas and Electric (PG&E)",
+    "title": "Avantus与PG&E签署800MW光伏配3200MWh储能购电协议",
+    "summary": "美国独立电力生产商Avantus（原8minute Solar Energy，获KKR与EIG支持）宣布与加州公用事业公司太平洋燃气电力公司（PG&E）签署20年期购电协议，涵盖位于加州Kern County的Buttonbush太阳能中心一期项目（1A、1B），对应光伏装机800MW、电池储能容量3200MWh，被称为加州规模最大的光储购电协议之一。项目计划2027年开工、2029年投运，交易仍需加州公用事业委员会（CPUC）批准。",
+    "sourceName": "PV Tech",
+    "sourceUrl": "https://www.pv-tech.org/avantus-800mw-3-2gwh-offtake-agreement-california/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Avantus-PG&E Buttonbush|800MW光伏配3200MWh储能购电协议|3200MWh|PPA签约",
+    "id": "daily|2026-11-18|美国|Avantus与PG&E光储PPA",
+    "collectedAt": "2026-11-24T00:38:58Z"
+  },
+  {
+    "date": "2026-11-18",
     "country": "中国",
     "geo": "中国",
     "category": "市场信息",
@@ -132,6 +176,29 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-20T22:27:57.612Z",
     "notionPageId": "41dabced5dee815d8406e52468e5d266",
     "fingerprint": "notion|e0833aa1635a2cac9195"
+  },
+  {
+    "date": "2026-11-17",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "PPA签约",
+    "businessTags": [
+      "绿电",
+      "AIDC",
+      "交易"
+    ],
+    "tags": "绿电 AIDC 交易 VPPA 数据中心 德克萨斯",
+    "company": "Sabey Data Centers / Copenhagen Infrastructure Partners",
+    "title": "Sabey数据中心与CIP签订德州43.5MW光伏虚拟购电协议",
+    "summary": "美国数据中心运营商Sabey Data Centers宣布，与丹麦基础设施投资机构Copenhagen Infrastructure Partners（CIP）旗下已投运的Greasewood光伏电站（位于德州Pecos County）签署为期10年的虚拟购电协议（VPPA），对应容量43.5MW，预计每年提供约130吉瓦时可再生电力。该协议为财务性质，电力并入电网而非直供Sabey数据中心，Sabey借此获得相应环境权益，用于支持其2029年范围1、2温室气体净零目标。",
+    "sourceName": "Data Center Dynamics",
+    "sourceUrl": "https://www.datacenterdynamics.com/en/news/sabey-signs-435mw-ppa-in-texas/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|Sabey-Greasewood VPPA|德州数据中心虚拟购电协议|43.5MW|PPA签约",
+    "id": "daily|2026-11-17|美国|Sabey签订德州光伏VPPA",
+    "collectedAt": "2026-11-24T00:38:58Z"
   },
   {
     "date": "2026-11-17",
