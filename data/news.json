@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-11-23",
+    "country": "罗马尼亚",
+    "geo": "全球",
+    "category": "市场信息",
+    "eventType": "投资",
+    "businessTags": [
+      "集中式",
+      "储能"
+    ],
+    "tags": [
+      "集中式光伏",
+      "储能",
+      "光伏"
+    ],
+    "company": "罗马尼亚项目主体",
+    "title": "罗马尼亚国有水电集团Hidroelectrica拟投资2.64亿欧元建设100MWp浮动光伏+200MW/800MWh储能项目",
+    "summary": "罗马尼亚国有水电企业Hidroelectrica计划在其下奥尔特河（Olt River）梯级水电站水库水面建设装机100MWp的水面漂浮光伏电站，预计年发电量约124.7GWh，并同步配套建设200MW/800MWh电池储能系统。项目总投资约14.10亿罗马尼亚列伊（不含增值税），约合2.64亿欧元（约合人民币20.6亿元）， 解读：作为罗马尼亚最大的传统发电国企，Hidroelectrica充分利用水面空间增加发电收益，可关注该区域的组件及储能设备销售及项目机会。",
+    "sourceName": "romania-insider.com",
+    "sourceUrl": "https://www.romania-insider.com/business/romanias-hidroelectrica-plans-eur-265-mln-floating-pv",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|422abced5dee813d9d2bc448d7d72dec",
+    "collectedAt": "2026-11-24T19:51:14.350Z",
+    "notionPageId": "422abced5dee813d9d2bc448d7d72dec",
+    "fingerprint": "notion|44e9e3b6fdc366bce527"
+  },
+  {
+    "date": "2026-11-23",
+    "country": "智利",
+    "geo": "美洲",
+    "category": "市场信息",
+    "eventType": "招标",
+    "businessTags": [
+      "集中式"
+    ],
+    "tags": [
+      "集中式光伏",
+      "风电",
+      "价格行情"
+    ],
+    "company": "智利项目主体",
+    "title": "智利国家电力协调机构：144个输电工程65%进度滞后，扩建招标流标率升至31.9%",
+    "summary": "据智利国家电力协调机构截至2026年9月的监测数据，其跟踪的144个输电扩建工程中有65%进度落后，新建区域输电项目的延期比例更达到74%；已组织的扩建招标中，因投标价格超过最高限价而流标的比例从上期20.4%升至31.9%。重复招标进一步拉长建设周期。466个项目中，有148个经历过不止一次招标。Río Blanco变电站扩建及El Maitén–El Paico–El Monte线路增容项目均已累计招标六次。智利可再生能源与储能协会（ACERA）数据显示，智利2026年1-9月弃光弃风电量达3546GWh，同比下降4.6%。 解读：输电瓶颈与持续弃电表明智利集中式光伏、风电大规模并网仍面临实质性消纳约束，将继续推高配置储能的必要性。项目延期原因主要包括环境问题、线路通行权、设备材料供应、施工困难，以及依赖其他配套设施完工等。利好在智利市场的储能系统销售及光储EPC方案；输电招标大面积流标也反映工程造价明显上涨，",
+    "sourceName": "energiaestrategica.com",
+    "sourceUrl": "https://www.energiaestrategica.com/en/notes/65-de-obras-atrasadas-y-31-9-de-licitaciones-desiertas-ponen-en-jaque-inversiones-en-transmision-de-chile",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|422abced5dee8164a35dec1407be96ad",
+    "collectedAt": "2026-11-24T19:51:14.350Z",
+    "notionPageId": "422abced5dee8164a35dec1407be96ad",
+    "fingerprint": "notion|21c0c84bee2d7ab619e7"
+  },
+  {
     "date": "2026-11-21",
     "country": "印尼",
     "geo": "亚洲",
