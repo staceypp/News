@@ -53,6 +53,56 @@
     "fingerprint": "notion|21c0c84bee2d7ab619e7"
   },
   {
+    "date": "2026-11-23",
+    "country": "辽宁",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "合作",
+    "businessTags": [
+      "绿电直连"
+    ],
+    "tags": [
+      "绿电直连",
+      "辽宁"
+    ],
+    "company": "辽宁项目主体",
+    "title": "辽宁省发改委公示拟安排绿电直连项目名单",
+    "summary": "辽宁省发展和改革委员会根据《辽宁省推动绿电直连建设实施方案（2025-2027年）》，委托第三方咨询单位对辽宁华电调兵山风电制氢耦合绿色甲醇一体化绿电直连项目建设方案评审后进行公示。公示期为2026年11月23日至12月1日。 解读：该项目归属华电。绿电直连作为新能源就近消纳、企业获取低成本绿色电力的重要模式，反映辽宁在推动新能源发电企业与高耗能、外向型用能企业直连合作方面力度不减。",
+    "sourceName": "pvmeng.com",
+    "sourceUrl": "https://www.pvmeng.com/2026/11/23/84021",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|422abced5dee81d4a67cd453c8a36c8e",
+    "collectedAt": "2026-11-25T10:46:29.933Z",
+    "notionPageId": "422abced5dee81d4a67cd453c8a36c8e",
+    "fingerprint": "notion|df4bb5a276141f555b18"
+  },
+  {
+    "date": "2026-11-22",
+    "country": "河北",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "投资",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": [
+      "储能",
+      "河北"
+    ],
+    "company": "河北项目主体",
+    "title": "河北兴隆县独立储能项目投资主体优选结果公示，河北林洋储能中选",
+    "summary": "河北省承德市兴隆县发展和改革局根据河北省独立储能项目规范管理及2026年度申报相关通知，委托第三方服务机构开展兴隆独立储能项目投资主体优选工作，初步确定河北林洋储能技术有限公司为该项目投资主体。公示期为2026年11月22日至26日。 解读：县级层面公示，林洋顺利进入市级上报环节，投资主体以最终省级公示清单为准。",
+    "sourceName": "pvmeng.com",
+    "sourceUrl": "https://www.pvmeng.com/2026/11/24/84017",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|422abced5dee81d6aa6cd53dd17395a7",
+    "collectedAt": "2026-11-25T10:46:29.933Z",
+    "notionPageId": "422abced5dee81d6aa6cd53dd17395a7",
+    "fingerprint": "notion|3c5d0dd5102da4b40ff0"
+  },
+  {
     "date": "2026-11-21",
     "country": "印尼",
     "geo": "亚洲",
