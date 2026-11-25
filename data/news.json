@@ -7205,5 +7205,133 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "指标",
+    "businessTags": [
+      "集中式",
+      "绿电"
+    ],
+    "tags": [
+      "吉电入京",
+      "跨省送电",
+      "新能源配额"
+    ],
+    "company": "京能集团",
+    "title": "京能集团获吉林400万千瓦新能源建设指标支持吉电入京",
+    "summary": "吉林省能源局11月3日下达通知，授予京能集团400万千瓦新能源建设指标，用于其子公司京能松辽能源（吉林）推进的“吉电入京”工程新能源配套部分。该工程已纳入国家“十四五”电力发展规划储备项目，计划2026年获批、2027年实质性开工、2029年建成，投运后预计每年向华北地区输送清洁电力264亿千瓦时，吉林省内投资总额达590亿元。",
+    "sourceName": "北京日报",
+    "sourceUrl": "https://news.bjd.com.cn/2026/11/09/12024048.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国-吉林|京能集团|吉电入京新能源指标|400万千瓦|指标",
+    "id": "daily|2026-11-03|中国|京能吉电入京新能源指标",
+    "collectedAt": "2026-11-25T00:38:15Z"
+  },
+  {
+    "date": "2026-11-04",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "中标签约",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "共享储能",
+      "宁夏",
+      "EPC"
+    ],
+    "company": "武汉天源环保",
+    "title": "武汉天源联合体签约宁夏灵武1GW/4GWh共享储能项目",
+    "summary": "武汉天源环保公告，其牵头的联合体（联合内蒙古银河电力安装、宁夏交通建设）与灵武市华新综合能源服务签订《灵武市1000MW/4000MWh集中共享储能项目设备+安装一体化项目合同》，合同总金额36.4亿元。项目位于宁夏灵武市白土岗乡，配套330kV升压站，计划工期2026年11月1日至2027年4月30日。公司表示该合同有助于把握西北地区新能源配储及共享储能市场机遇。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://news.10jqka.com.cn/20261109/c681586132.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国-宁夏|武汉天源环保|灵武共享储能项目|1GW-4GWh-36.4亿元|中标签约",
+    "id": "daily|2026-11-04|中国|武汉天源灵武储能签约",
+    "collectedAt": "2026-11-25T00:38:15Z"
+  },
+  {
+    "date": "2026-11-09",
+    "country": "德国",
+    "geo": "欧洲",
+    "category": "同行动态",
+    "eventType": "签约",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "网架支撑型储能",
+      "巴伐利亚"
+    ],
+    "company": "远景能源 / ju:niz Energy",
+    "title": "远景能源与德国ju:niz再签442MWh电网支撑型储能项目",
+    "summary": "远景能源（Envision Energy）与德国储能开发商ju:niz Energy宣布启动第三个合作项目——巴伐利亚州Smareg 13（Vöhringen II）442MWh电池储能系统，采用远景Gen 8储能平台，具备4小时时长及电网支撑（grid-forming）能力。这是双方继此前两个项目后的进一步扩大合作，三个项目合计规模已接近600MWh；ju:niz负责开发、融资、建设及长期运营，远景提供技术与项目交付。",
+    "sourceName": "Energy-Storage.News",
+    "sourceUrl": "https://www.energy-storage.news/juniz-energy-enlists-envision-for-442mwh-grid-forming-bess-in-germany/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "德国|远景能源-ju:niz Energy|Smareg13 Vöhringen II|442MWh|签约",
+    "id": "daily|2026-11-09|德国|远景juniz 442MWh储能",
+    "collectedAt": "2026-11-25T00:38:15Z"
+  },
+  {
+    "date": "2026-11-12",
+    "country": "南非",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "供货协议",
+    "businessTags": [
+      "集中式",
+      "AIDC"
+    ],
+    "tags": [
+      "数据中心供电",
+      "n型组件",
+      "电力过网"
+    ],
+    "company": "晶澳科技 / Teraco",
+    "title": "晶澳科技成为南非Teraco 120MW光伏项目独家组件供应商",
+    "summary": "晶澳科技宣布被数据中心运营商Teraco选定为其南非自由省Sediba 120MW光伏项目的独家组件供应商，提供高效n型组件。项目预计年发电量超35.4万兆瓦时，计划2026年底前投运，发电将并入国家电网后通过与地方及Eskom的电力过网（power-wheeling）安排供给Teraco数据中心，是晶澳在南非数据中心配套新能源领域的最新案例。",
+    "sourceName": "PV-Tech",
+    "sourceUrl": "https://www.pv-tech.org/ja-supply-n-type-modules-teracos-120mw-sediba-solar-project-south-africa/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "南非|晶澳科技-Teraco|Sediba光伏项目|120MW|供货协议",
+    "id": "daily|2026-11-12|南非|晶澳南非Sediba独家供货",
+    "collectedAt": "2026-11-25T00:38:15Z"
+  },
+  {
+    "date": "2026-11-19",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "收购",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "New England REZ",
+      "电网支撑型"
+    ],
+    "company": "EDF Power Solutions / SynCo Global",
+    "title": "法国电力EDF收购澳洲250MW电网支撑型Holloway储能项目",
+    "summary": "法国电力集团子公司EDF Power Solutions Australia从开发商SynCo Global手中收购Holloway电池储能项目，该250MW项目位于新南威尔士州New England可再生能源区（REZ），距阿米代尔变电站约650米。此次收购进一步扩大了EDF在澳大利亚可再生能源与储能领域的项目组合，此前该公司已在同一区域开发Wala Wala抽水蓄能项目。",
+    "sourceName": "pv magazine Australia",
+    "sourceUrl": "https://www.pv-magazine-australia.com/2026/11/19/edf-australia-acquires-grid-forming-holloway-bess-in-new-england-rez/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|EDF Power Solutions-SynCo Global|Holloway储能项目|250MW|收购",
+    "id": "daily|2026-11-19|澳大利亚|EDF收购Holloway储能",
+    "collectedAt": "2026-11-25T00:38:15Z"
   }
 ]
