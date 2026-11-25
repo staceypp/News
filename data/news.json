@@ -7255,5 +7255,31 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-12",
+    "country": "南非",
+    "geo": "非洲",
+    "category": "同行动态",
+    "eventType": "组件订单",
+    "businessTags": [
+      "集中式",
+      "AIDC"
+    ],
+    "tags": [
+      "光伏组件",
+      "数据中心",
+      "过网输电"
+    ],
+    "company": "晶澳科技（JA Solar）",
+    "title": "晶澳获南非Teraco Sediba 120MW光伏项目独家组件订单",
+    "summary": "晶澳科技宣布，经技术评估与实地测试后，公司被数据中心运营商Teraco选定为其位于南非自由省Parys的Sediba 120MW光伏项目独家组件供应商，提供N型高效组件。项目拟通过过网输电（wheeling）方式，借助Eskom电网及地方配电网为Teraco在南非其他地区的数据中心供电，预计年发电量超过35.4万兆瓦时，计划于2026年底前投入商业运营。 解读：晶澳凭借组件耐高温、防雹、关键材料可追溯等性能优势，进一步打开南非数据中心用电市场，为光伏直供数据中心提供新案例。",
+    "sourceName": "PV-Tech",
+    "sourceUrl": "https://www.pv-tech.org/ja-supply-n-type-modules-teracos-120mw-sediba-solar-project-south-africa/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "南非|晶澳科技|Teraco Sediba120MW光伏项目|354GWh|组件供应",
+    "id": "daily|2026-11-18|南非|晶澳Sediba组件",
+    "collectedAt": "2026-11-18T00:37:39.000Z"
   }
 ]
