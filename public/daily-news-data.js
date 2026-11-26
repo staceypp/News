@@ -157,6 +157,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-11-19",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "收购",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 电池储能 新英格兰可再生能源区",
+    "company": "EDF power solutions Australia",
+    "title": "法国电力集团EDF收购澳大利亚新南威尔士州Holloway电池储能项目",
+    "summary": "法国电力集团(EDF)澳大利亚子公司EDF power solutions Australia宣布从开发商SynCo Global收购Holloway电池储能项目，该项目位于新南威尔士州新英格兰可再生能源区阿米代尔变电站附近，规划容量250MW(约1GWh，4小时时长)。公司计划2027年底前完成最终投资决定，目标2029年投运，项目环评报告预计未来数月公示。解读：法国能源巨头持续加码澳大利亚大型电池储能资产布局，反映当地电网侧储能需求和投资热度不减，可关注新英格兰可再生能源区后续储能设备及EPC招标机会。",
+    "sourceName": "PV Magazine Australia",
+    "sourceUrl": "https://www.pv-magazine-australia.com/2026/11/19/edf-australia-acquires-grid-forming-holloway-bess-in-new-england-rez/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|EDF power solutions|Holloway储能-新南威尔士|250MW|收购",
+    "id": "daily|2026-11-19|澳大利亚|EDF收购Holloway储能",
+    "collectedAt": "2026-11-26T00:36:38.000Z"
+  },
+  {
+    "date": "2026-11-19",
     "country": "北京",
     "geo": "中国",
     "category": "市场信息",
@@ -315,6 +337,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-11-16",
+    "country": "江苏",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "资产转让",
+    "businessTags": [
+      "分布式",
+      "交易"
+    ],
+    "tags": "分布式 交易 资产盘活 闲置厂房",
+    "company": "协鑫集成科技股份有限公司",
+    "title": "协鑫集成3.15亿元转让张家港闲置厂房及屋顶分布式光伏电站",
+    "summary": "协鑫集成(002506.SZ)全资子公司张家港协鑫集成科技有限公司与张家港市悦鑫产业发展有限公司签订资产转让协议，标的为杨舍镇一处国有土地使用权、房屋建筑物及屋顶分布式光伏电站，交易价款3.15亿元(31502.38万元)，参照2026年4月28日为基准日的评估价值协商确定，不构成关联交易或重大资产重组。解读：在组件企业普遍面临现金流和资产负债率压力的背景下，出售自持分布式电站及厂房资产成为部分组件厂商缓解资金压力的途径之一。",
+    "sourceName": "蓝鲸新闻",
+    "sourceUrl": "https://www.lanjinger.com/d/1794907638890011887",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|协鑫集成|张家港-厂房光伏电站转让|3.15亿元|资产转让",
+    "id": "daily|2026-11-16|江苏|协鑫集成转让张家港光伏",
+    "collectedAt": "2026-11-26T00:36:38.000Z"
+  },
+  {
+    "date": "2026-11-16",
     "country": "菲律宾",
     "geo": "亚洲",
     "category": "市场信息",
@@ -453,6 +497,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-11-11",
+    "country": "美国",
+    "geo": "美洲",
+    "category": "同行动态",
+    "eventType": "出售",
+    "businessTags": [
+      "集中式",
+      "交易"
+    ],
+    "tags": "集中式 交易 光伏电站出售 德州",
+    "company": "OCI Energy / 现代工程(Hyundai Engineering)",
+    "title": "OCI Energy将美国德州327MW光伏项目出售给韩国现代工程",
+    "summary": "韩国OCI Holdings旗下美国子公司OCI Energy将位于得克萨斯州肯特县的Clairemont光伏项目(327MWdc)出售给现代工程(Hyundai Engineering)，双方于11月11日在圣安东尼奥举行交易完成仪式。这是两家公司第二次合作，此前2024年OCI曾向现代工程出售260MWdc的Hillsboro项目，两笔交易合计587MWdc。Clairemont项目预计2027年三季度开工，2029年三季度建成，交易金额未披露。解读：韩国工程企业持续通过并购方式切入美国光伏开发市场，为后续EPC及设备采购创造潜在合作空间。",
+    "sourceName": "Energy Global",
+    "sourceUrl": "https://www.energyglobal.com/solar/13112026/oci-energy-sells-clairemont-solar-project-to-hyundai-engineering/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "美国|OCI Energy-现代工程|Clairemont光伏项目|327MW|出售",
+    "id": "daily|2026-11-11|美国|OCI出售Clairemont光伏",
+    "collectedAt": "2026-11-26T00:36:38.000Z"
+  },
+  {
+    "date": "2026-11-11",
     "country": "印尼",
     "geo": "亚洲",
     "category": "市场信息",
@@ -495,6 +561,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-12T09:05:48.716Z",
     "notionPageId": "416abced5dee81dfaae3d2d90778e280",
     "fingerprint": "notion|8e4cc6bd40f3be8e2747"
+  },
+  {
+    "date": "2026-11-10",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "合作倡议",
+    "businessTags": [
+      "分布式",
+      "储能"
+    ],
+    "tags": "分布式 储能 离岛供电 COP31 柴油替代",
+    "company": "菲律宾能源部 / 越南 / 印度尼西亚",
+    "title": "菲律宾、越南、印尼在COP31启动离岛光储替代柴油发电合作倡议",
+    "summary": "菲律宾、越南、印度尼西亚三国11月10日在土耳其安塔利亚COP31菲律宾馆启动区域合作倡议，计划以光伏加电池储能系统替代离岛及偏远社区的柴油发电机，并推动三国在规划协调、私人投资、监管支持及技术能力建设方面协同。菲律宾能源部数据显示，截至2025年底该国近94%的离网设施仍依赖燃油发电；此前在Romblon省Cobrador岛的30kW光储混合示范项目已将发电成本从每千瓦时0.47美元降至0.24美元。解读：东南亚三国联合推动离岛光储替代柴油，为光伏、储能设备企业在当地微电网市场提供新的合作切入点。",
+    "sourceName": "SolarQuarter",
+    "sourceUrl": "https://solarquarter.com/2026/11/13/philippines-joins-vietnam-and-indonesia-to-accelerate-solar-and-battery-storage-deployment-in-island-communities/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "菲律宾-越南-印尼|COP31合作倡议|离岛光储替代柴油|三国协议|合作倡议",
+    "id": "daily|2026-11-10|菲律宾|COP31三国光储倡议",
+    "collectedAt": "2026-11-26T00:36:38.000Z"
   },
   {
     "date": "2026-11-10",
@@ -674,6 +762,28 @@ window.DAILY_NEWS_DATA=[
   },
   {
     "date": "2026-11-04",
+    "country": "宁夏",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "中标签约",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": "储能 交易 集中共享储能 宁夏 EPC",
+    "company": "武汉天源环保股份有限公司",
+    "title": "武汉天源联合体中标宁夏灵武千兆瓦级储能项目，合同36.4亿元",
+    "summary": "武汉天源(301127.SZ)牵头联合体近日与灵武市华新综合能源服务有限公司签订《灵武市1000MW/4000MWh集中共享储能项目设备+安装一体化项目合同》，合同总金额36.4亿元，计划工期为2026年11月1日至2027年4月30日。联合体另两家成员为内蒙古银河电力安装工程有限公司和宁夏交通建设股份有限公司。解读：该项目为宁夏近期规模较大的集中共享储能EPC订单，反映中西部电网侧独立储能配置持续加码，相关储能设备和EPC企业可关注区域内后续招标机会。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://news.10jqka.com.cn/20261109/c681586132.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|武汉天源|宁夏灵武-1000MW4000MWh储能|36.4亿元|中标签约",
+    "id": "daily|2026-11-04|宁夏|武汉天源灵武储能",
+    "collectedAt": "2026-11-26T00:36:38.000Z"
+  },
+  {
+    "date": "2026-11-04",
     "country": "印度",
     "geo": "亚洲",
     "category": "同行动态",
@@ -739,6 +849,29 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-05T16:22:09.707Z",
     "notionPageId": "40fabced5dee810d9d4cd3fb1addad3a",
     "fingerprint": "notion|c9358488ac2bb088a36f"
+  },
+  {
+    "date": "2026-11-03",
+    "country": "广东",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "资产转让",
+    "businessTags": [
+      "绿电",
+      "分布式",
+      "交易"
+    ],
+    "tags": "绿电 分布式 交易 智慧绿电 北京产权交易所 资产整合",
+    "company": "南方电网能源股份有限公司",
+    "title": "南网能源拟挂牌转让约539MW智慧绿电项目资产及股权",
+    "summary": "南网能源(003035.SZ)公告拟通过北京产权交易所公开征集受让方，转让1个分布式光伏资产(广东台山20.9MW)及14个智慧绿电项目公司股权，合计容量约539.44MW，资产及股权账面价值合计约11.28亿元。公司称该事项仍处于筹划阶段，尚未正式挂牌，也未确定受让方和价格，属于其2026年压缩智慧绿电资产持仓计划的延续。解读：作为能源国企资产整合的又一案例，反映部分央国企正加速剥离非核心新能源资产，相关存量电站可能迎来新的接盘方。",
+    "sourceName": "同花顺财经",
+    "sourceUrl": "https://news.10jqka.com.cn/20261111/c681691713.shtml",
+    "sourceType": "wire",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|南网能源|539MW智慧绿电资产转让|11.28亿元|资产转让",
+    "id": "daily|2026-11-03|广东|南网能源539MW资产转让",
+    "collectedAt": "2026-11-26T00:36:38.000Z"
   },
   {
     "date": "2026-11-03",
