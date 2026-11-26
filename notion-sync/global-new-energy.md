@@ -2,7 +2,22 @@
 
 Source: https://app.notion.com/p/1559a45f20e84a85a74b81cdc16fd4b5?v=410d4f8f8fa64fe39474bf14fae78ed2&source=copy_link
 
-Records: 24
+Records: 25
+
+## 金风科技拟在埃及建设风电设备制造基地，推进技术转让与本地化
+
+- 日期: 2026-11-24
+- 国别: 埃及
+- 大类: 同行
+- 细分: 风电、宏观与国际局势
+- 审核状态: 批准发布
+- 来源网站: https://egyptoil-gas.com/news/goldwind-explores-wind-turbine-component-factory-in-egypt/
+
+**主要内容**：埃及电力与新能源部长Mahmoud Esmat、投资和对外贸易部长Mohamed Farid与中国金风科技副董事长兼总裁曹志刚率团磋商，探讨金风在埃及设立风电机组电气设备及零部件制造基地，涉及技术转让、提升本地化率，金风同时展示电网友好型（grid-forming）技术方案。
+
+**解读**：中国风电龙头加速在埃及布局本地化制造，显示埃及正成为中企新能源装备出海北非/中东的重要制造前哨。此前明阳智能已与AMEA Power签署6.5亿美元、500MW埃及风电EPC合同。
+
+---
 
 ## 晶科Sunny365推出交通场景光储一体化方案，覆盖机场、高铁站、加油站与高速公路
 
