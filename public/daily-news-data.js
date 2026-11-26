@@ -1,5 +1,72 @@
 window.DAILY_NEWS_DATA=[
   {
+    "date": "2026-11-25",
+    "country": "西班牙",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "储能"
+    ],
+    "tags": "分布式 储能 分布式光伏 储能",
+    "company": "西班牙政策机构",
+    "title": "西班牙修订自发自用规则，新增“共享余电”模式并首次纳入分布式储能",
+    "summary": "西班牙生态转型部(MITECO)推动政府以皇家法令形式修订自2019年起实施的244/2019号自发自用规则框架，简化小区、社区、市政及产业园区的集体自发自用项目申报流程：仅凭配电商首次出具的接入意见即可完成登记、后续变更仅需相关用户签字确认，各模式最低参与期限缩短至1个月，并新增了非自愿退出的规则。新设“自发自用管理人”角色统筹多主体项目、允许单一用户同时参与多种自发自用模式、简化产权要求并允许第三方出资以减轻用户前期投入。新规首次设立“共享余电”模式，允许用户仅转让发电设施产生的富余电量；并首次将用户侧分布式储能作为与244/2019号法令并列的独立并网类型予以承认。水电和储能设施的发电与用电之间的距离上限，拟扩大到 5000 米。具体适用条款还需日后通过法规制定。 解读：此次法令修订首次承认用户侧分布式储能为并网类型、并允许“一户参与多模式”、引入第三方投资。有望降低西班牙工商业与集体项目加装储能、参与共享余电交易的门槛，为新能源企业在当地“光伏+储能”系统销售业务带来新机会。",
+    "sourceName": "energiaestrategica.com",
+    "sourceUrl": "https://www.energiaestrategica.com/en/notes/espana-aprueba-cambios-al-autoconsumo-y-abre-nuevos-modelos-con-excedentes-compartidos-y-baterias",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·海外",
+    "id": "notion|424abced5dee8179b628f3d86bb5e855",
+    "collectedAt": "2026-11-26T10:19:30.887Z",
+    "notionPageId": "424abced5dee8179b628f3d86bb5e855",
+    "fingerprint": "notion|4642927ab94716e26919"
+  },
+  {
+    "date": "2026-11-24",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "产品",
+    "businessTags": [
+      "AIDC"
+    ],
+    "tags": "AIDC AIDC 全国",
+    "company": "中国相关企业",
+    "title": "亿纬锂能发布AIDC全场景储能解决方案，覆盖源网侧到机架级供电",
+    "summary": "亿纬锂能发布覆盖源网侧、配电侧至机架级的AIDC全场景储能解决方案：源网侧推出20尺5MWh 1P高倍率储能系统S5-1P（系统能效93.6%）及Mr.Giant 3.0长时储能系统；配电侧推出磐盾6C/10C备电柜（支持10C持续放电，660kW持续5分钟短时高功率，设计寿命15年）；机架级推出BBU+CBU全时域储能系统（满足1毫秒至10秒负载平抑需求）。亿纬锂能2026上半年储能电池出货量全球第二，全球累计交付230GWh。 解读：亿纬锂能通过电网到机架的一站式方案试图解决数据中心业主多供应商对接、权责不清的痛点，可能将重塑AIDC储能领域的竞争格局。AIDC算力负荷对毫秒级响应、高倍率循环寿命的技术要求明显高于传统电力储能场景，技术门槛的抬升可能加速行业向头部电池企业集中。",
+    "sourceName": "cpnn.com.cn",
+    "sourceUrl": "https://www.cpnn.com.cn/news/dianli2023/202611/t20261124_1928845.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|423abced5dee812b8682c7818bda32fb",
+    "collectedAt": "2026-11-26T10:19:30.887Z",
+    "notionPageId": "423abced5dee812b8682c7818bda32fb",
+    "fingerprint": "notion|4971486416138bc04fa8"
+  },
+  {
+    "date": "2026-11-24",
+    "country": "河北",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "投运",
+    "businessTags": [
+      "储能"
+    ],
+    "tags": "储能 储能 河北",
+    "company": "河北项目主体",
+    "title": "邢台市公布2026年独立储能项目优选结果，15个项目合计215MW",
+    "summary": "河北省邢台市发改委公示2026年独立储能项目优选结果，经第三方评审机构评审，共15个项目入选，总规模约215万千瓦/859.996万千瓦时（2.15GW/8.60GWh），单个项目储能时长均为4小时。公示期为11月24日至28日。 解读：入选企业包括远景、晶澳、广州发展、河北建投、浙江联盛等。独立储能指标的持续释放将为后续新能源项目并网消纳提供更充足的调峰资源支撑。",
+    "sourceName": "readwise.io",
+    "sourceUrl": "https://readwise.io/reader/document_raw_content/524045771",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|423abced5dee819d892ceafbaddff671",
+    "collectedAt": "2026-11-26T10:19:30.887Z",
+    "notionPageId": "423abced5dee819d892ceafbaddff671",
+    "fingerprint": "notion|1c3015c4d278241bf6d9"
+  },
+  {
     "date": "2026-11-23",
     "country": "罗马尼亚",
     "geo": "全球",
@@ -43,6 +110,28 @@ window.DAILY_NEWS_DATA=[
     "collectedAt": "2026-11-24T19:51:14.350Z",
     "notionPageId": "422abced5dee8164a35dec1407be96ad",
     "fingerprint": "notion|21c0c84bee2d7ab619e7"
+  },
+  {
+    "date": "2026-11-23",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "产品",
+    "businessTags": [
+      "算电协同"
+    ],
+    "tags": "算电协同 算电协同 全国",
+    "company": "国家能源局",
+    "title": "国家能源局：1-10月全社会用电量同比增长3.7%，数据服务用电增速领跑",
+    "summary": "国家能源局发布数据显示，2026年10月份全社会用电量8709亿千瓦时，同比增长1.6%，环比9月回升0.4个百分点；1-10月全社会用电量累计89442亿千瓦时，同比增长3.7%。分产业看，第一产业用电同比增3.4%，第二产业（含工业）用电增3.9%，其中高技术及装备制造业用电增8.5%；第三产业用电增6.8%，其中充换电服务业、互联网数据服务用电量分别增长55.9%和40.8%；受去年同期高温基数影响，城乡居民生活用电量同比下降0.8%。 解读：数据印证AIDC/数据中心和新能源汽车充电网络仍是当前用电增量的核心驱动力，意味着数据中心和算力枢纽周边的绿电直供、源网荷储一体化项目开发需求短期内仍将保持较强增长。",
+    "sourceName": "nea.gov.cn",
+    "sourceUrl": "https://www.nea.gov.cn/20261123/c7b24ed8e9f84139bfdb5dc4a37325e2/c.html",
+    "sourceType": "notion-approved",
+    "sourceSheet": "Notion·国内",
+    "id": "notion|422abced5dee817e814fe09d66d5f7e6",
+    "collectedAt": "2026-11-26T10:19:30.887Z",
+    "notionPageId": "422abced5dee817e814fe09d66d5f7e6",
+    "fingerprint": "notion|25b42b70930fdfbf82dc"
   },
   {
     "date": "2026-11-23",
