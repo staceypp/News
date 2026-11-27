@@ -7356,5 +7356,111 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-17",
+    "country": "中国",
+    "geo": "中国",
+    "category": "同行动态",
+    "eventType": "出售",
+    "businessTags": [
+      "分布式",
+      "交易"
+    ],
+    "tags": [
+      "闲置资产",
+      "张家港"
+    ],
+    "company": "协鑫集成",
+    "title": "协鑫集成3.15亿元出售张家港屋顶光伏电站及厂房资产",
+    "summary": "协鑫集成全资子公司张家港协鑫集成科技有限公司与张家港市悦鑫产业发展有限公司签署资产转让协议，以3.15亿元转让其位于张家港杨舍镇的国有土地使用权、房屋建筑物及屋顶分布式光伏电站，交易价格参考第三方评估机构评估值确定。公司表示此举有助于回笼资金、改善经营性现金流，交易不构成关联交易或重大资产重组。",
+    "sourceName": "协鑫集成公告",
+    "sourceUrl": "https://static.cninfo.com.cn/finalpage/2026-11-17/1225673130.PDF",
+    "sourceType": "company",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|协鑫集成|张家港资产转让|3.15亿元|出售",
+    "id": "daily|2026-11-17|中国|协鑫集成资产出售",
+    "collectedAt": "2026-11-27T00:37:18Z"
+  },
+  {
+    "date": "2026-11-17",
+    "country": "中国",
+    "geo": "中国",
+    "category": "市场信息",
+    "eventType": "融资",
+    "businessTags": [
+      "集中式",
+      "融资",
+      "交易"
+    ],
+    "tags": [
+      "光热发电",
+      "REITs",
+      "青海德令哈"
+    ],
+    "company": "中光新能源",
+    "title": "国内首单光热电站资产机构间REITs在上交所挂牌，规模7.5亿元",
+    "summary": "兴证基实-中光新能源持有型不动产资产支持专项计划在上海证券交易所举行挂牌仪式，发行规模7.5亿元，底层资产为青海德令哈两座塔式熔盐储能光热电站，合计装机60兆瓦。该项目是市场首单以光热电站为底层资产的机构间REITs，不考虑后续扩募情况下全周期IRR预计约7.02%。原始权益人中光新能源为港股上市公司亨鑫科技间接控股子公司。",
+    "sourceName": "东方财富网",
+    "sourceUrl": "https://wap.eastmoney.com/a/202611183933695534.html",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "中国|中光新能源|光热电站REITs挂牌|7.5亿元|融资",
+    "id": "daily|2026-11-17|中国|光热REITs挂牌",
+    "collectedAt": "2026-11-27T00:37:18Z"
+  },
+  {
+    "date": "2026-11-12",
+    "country": "澳大利亚",
+    "geo": "大洋洲",
+    "category": "同行动态",
+    "eventType": "开发",
+    "businessTags": [
+      "集中式",
+      "储能",
+      "AIDC"
+    ],
+    "tags": [
+      "数据中心",
+      "Hunter",
+      "PPA洽谈"
+    ],
+    "company": "AirTrunk / European Energy",
+    "title": "AirTrunk与European Energy推进澳洲Hunter地区千兆瓦级光伏风电储能项目",
+    "summary": "数据中心运营商AirTrunk与丹麦开发商European Energy Australia达成独家开发协议，推进新南威尔士州Hunter可再生能源区约260MW光伏、最高350MW风电及800MWh以上电池储能项目，用于为AirTrunk位于Kurri Kurri的数据中心供电。双方同时在洽谈相关长期购电协议（PPA），项目地处Hunter-Central Coast可再生能源区。",
+    "sourceName": "Energy-Storage.news",
+    "sourceUrl": "https://www.energy-storage.news/airtrunk-secures-exclusivity-on-800mwh-battery-storage-as-part-of-1gw-hunter-renewables-deal-in-australia/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "澳大利亚|AirTrunk-European Energy|Hunter光储开发协议|260MW光伏800MWh储能|开发",
+    "id": "daily|2026-11-12|澳大利亚|AirTrunk Hunter光储",
+    "collectedAt": "2026-11-27T00:37:18Z"
+  },
+  {
+    "date": "2026-11-12",
+    "country": "菲律宾",
+    "geo": "亚洲",
+    "category": "市场信息",
+    "eventType": "政策",
+    "businessTags": [
+      "分布式",
+      "储能",
+      "绿电"
+    ],
+    "tags": [
+      "离岛电气化",
+      "COP31",
+      "区域合作"
+    ],
+    "company": "菲律宾能源部 / 越南 / 印尼政府",
+    "title": "菲律宾携越南、印尼在COP31启动离岛光伏储能替代柴油区域合作",
+    "summary": "菲律宾、越南与印尼在COP31气候大会期间启动区域合作伙伴关系，推动以光伏加电池储能方案替代离岛及偏远社区的柴油发电，合作内容包括协调规划、引导私人投资、完善监管及技术能力建设。菲律宾能源部副部长表示拟将离岛电气化纳入绿色能源拍卖计划；区域研究显示光储组合发电成本约为传统柴油发电的三分之一，目前菲律宾近94%的离网设施仍依赖燃油发电。",
+    "sourceName": "SolarQuarter",
+    "sourceUrl": "https://solarquarter.com/2026/11/13/philippines-joins-vietnam-and-indonesia-to-accelerate-solar-and-battery-storage-deployment-in-island-communities/",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "菲律宾-越南-印尼|政府间合作|COP31离岛光储区域合作|离岛电气化|政策",
+    "id": "daily|2026-11-12|菲律宾|离岛光储区域合作",
+    "collectedAt": "2026-11-27T00:37:18Z"
   }
 ]
