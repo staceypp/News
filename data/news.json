@@ -7356,5 +7356,32 @@
     "sourceSheet": "Notion·国内",
     "collectedAt": "2026-08-26T22:13:23+08:00",
     "notionPageId": "e2b151471fc445419c56ff598c2a91c9"
+  },
+  {
+    "date": "2026-11-24",
+    "country": "意大利",
+    "geo": "欧洲",
+    "category": "市场信息",
+    "eventType": "招标",
+    "businessTags": [
+      "储能",
+      "交易"
+    ],
+    "tags": [
+      "MACSE",
+      "储能拍卖",
+      "Terna",
+      "容量机制"
+    ],
+    "company": "Terna（意大利国家电网运营商）",
+    "title": "意大利Terna举行第二轮MACSE储能拍卖，目标采购16GWh",
+    "summary": "意大利电网运营商Terna于11月24日上午10点举行第二轮MACSE（储能容量采购机制）拍卖，目标采购规模达16GWh、交付年份为2029年，较首轮10GWh大幅提升。监管机构ARERA将本轮拍卖最高年度溢价上限定为27,000欧元/MWh，高于此前征询意见时提出的22,000欧元标准；意大利北部地区不在本轮可参与区域范围内。2025年9月30日举行的首轮拍卖最终以加权平均价12,959欧元/MWh·年采购10GWh，Enel一家拿下约一半容量，其余中标方包括ACL、ZE Energy、Eni Plenitude、Greenvolt、Whysol和Natpower。",
+    "sourceName": "review-energy.com",
+    "sourceUrl": "https://www.review-energy.com/almacenamiento/italy-s-macse-mechanism-takes-next-step-as-terna-confirms-24-november-2026-auction-date",
+    "sourceType": "industry",
+    "sourceSheet": "每日更新",
+    "fingerprint": "意大利|Terna|MACSE第二轮拍卖|16GWh|招标",
+    "id": "daily|2026-11-24|意大利|MACSE储能拍卖",
+    "collectedAt": "2026-11-28T00:36:04.000Z"
   }
 ]
